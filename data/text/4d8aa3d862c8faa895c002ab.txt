@@ -1,0 +1,744 @@
+Vorige pagina
+Brieven College
+Raadsbrief Ontwikkelingen lnformatievoorziening
+ID
+3005
+Omschrijving
+Raadsbrief Ontwikkelingen lnformatievoorziening
+Datum
+02-04-2026
+Afzender
+College
+Bijlage(s)
+Raadsbrief Ontwikkelingen lnformatievoorziening
+Hoornse kaders voor gebruik generatieve AI - augustus 2025
+[Bijlage: Raadsbrief Ontwikkelingen lnformatievoorziening]
+GEMEENTE
+HOORN
+Aan de leden van de raad
+Gemeente Hoorn
+Nieuwe Steen
+Postbus 603
+1620 AR Hoorn
+T 0229 25 22 00
+www hoorn nl
+Contactpersoon
+Patrick Castenmiller/Frarik Vianeri
+Zaaknummer 3032694
+Hoorn, - 1 APR.
+2O2
+Onderwerp: Ontwikkelingen lnformatievoorziening
+Beste leden van de raad,
+ln deze brief rapporteren wij over de stand van zaken en de ontwikkelingen rondom onze
+¡nformatievoorziening zodat u een samenhangend beeld krijgt en beschikt over de actuele stand van
+zaken.
+We ¡nformeren u over de belangrijkste ontwikkelingen op het gebied van ¡nformatiebeveiliging en
+relevante wetgeving, het toepassen van Al binnen de gemeente Hoorn, de ontwikkelingen rondom
+digitalisering en overheid en de manier waarop we deze binnen onze ¡nformatievoorziening gaan
+realiseren.
+Hiermee geven we invulling aan de toezegging van de wethouder om de raad te informeren
+over de ontwikkeling van de Al-strategie (Toezegging 1412) en de door uw raad aangenomen motie:
+lnzet Al effectief en veilig (Motie 740).
+Ook beantwoorden we hiermee de door de raad gestelde
+technische vragen over ICT in het kader van de begroting 2026.
+lnformatiebeveiliging en cyberweerbaarheid
+Gestelde Vraag.
+- actualiteiten op het gebied van vei/igheid, data, privacy dienstverlening en technologische
+ontwikkelingen?
+- welke storingen en problemen hebben zich in hoofdlijnen voorgedaan en welke risicos liepen we
+daarmee en welke maatregelen zijn getroffen
+Ontwikkelingen Inforrnatieveiligheid
+Ook in 2025 heeft ¡nformatieveiligheid regelmatig op de agenda van de directie en het college gestaan.
+ln een digitale wereld die voortdurend verandert, moeten wij als organisatie blijven meebewegen om te
+voldoen aan nieuwe beveiligingseisen.
+Het aandachtsgebied van informatieveiligheid en de bescherming
+van persoonsgegevens is breed.
+Het gaat niet alleen om technische maatregelen, maar ook om fysieke
+aanpassingen.
+Bijvoorbeeld beveiligde zones en toegankelijkheid in het stadhuis.
+Daarnaast blijft het
+noodzakelijk dat medewerkers continu worden getraind en gewezen op het belang van zorgvuldig
+omgaan met (vertrouwelijke) informatie.
+Als gemeente hebben wij hierin een voorbeeldfunctie.
+Het belang van informatiebeveillging wordt onderstreept door de vaststelling van de geactualiseerde
+Baseline lnformatiebeveiliging Overheid (B1O2) door de Rijksoverheid in september 2025.
+Deze
+aanpassing is de uitwerking van de Europese N1S2-richtlijnen voor belangrijke organisaties.
+Met deze
+besluitvorming wordt voorgesorteerd op de nieuwe Cyberbeveiligingswet (Cbw), die naar verwachting
+medio 2026 in werking treedt.
+ln helder Nederlands: Nederlandse gemeenten worden straks wettelijk aangemerkt als een belangrijke
+schakel voor de maatschappij en daarom gaan zwaardere beveiligingsmaatregelen gelden.
+Voorbereidingen toekomstige Cyberbeveiiigingswet (Cbw)
+Eén van de strengere beveiligingseisen is het beschikken over een Business Continuïteitsplan (BCP) bij
+cybercalamiteiten.
+Dit plan beschrijft wat wij als organisatie doen bij langdurige stroomuitval of
+cyberincidenten in relatie tot onze minimale basisdienstverlening wanneer ICT-systemen uitvallen. ln
+1/4
+2025 hebben wij ter voorbereiding deelgenomen aan de nationaie overheidsbrede cyberoefening en zijn
+wii gestart met het in kaart brengen van de minimale basisdienstverlening die noodzakelijk is voor de
+meest kritische processen.
+Cyberdreigingen
+2025 stond ook in het teken van verhoogde waakzaamheid op het gebied van cyberweerbaarheid.
+Cyberdreigingen werden steeds realistischer door zichtbare veranderingen op geopoiitiek niveau.
+Vooral
+rond de NAVO-top in Den Haag waren overheidsinsteilingen in toenemende mate slachtoffer van
+DDoS-aanvallen op onder andere gemeentelijke websites.
+Dankzij proactieve informatiedeling en nauwe
+samenwerking met de lnformatiebeveiligingsdienst (IBD) van de VNG, konden voor de gemeente Hoorn
+mogelijke vervelende scenarios in ieder geval worden voorkomen.
+Naast deze algemene toename van cyberdreigingen, zijn voor Hoorn geen specifieke
+beveiligingsincidenten te melden.
+Toepassen van kunstmatige intelligentie (Al)
+Het college ziet nieuwe technologie als een belangrijke kans om het werk slimmer, beter en efficiënter te
+organiseren.
+Digitalisering en kunstmatige intelligentie (Al) bieden daarbij veel mogelijkheden. ln de
+media ontstaat soms de indruk dat deze technologie eenvoudig toe te passen is en vrijwei onbeperkte
+kansen biedt. ln de praktijk is dit weerbarstiger.
+Het waardevol en verantwoord inzetten van Al vraagt dat
+we als organisatie voldoende inzicht en ervaring opdoen.
+Daarom stimuleren we dat medewerkers, management en bestuur zich ontwikkelen in het gebruik van
+deze technologie en actief experimenteren. ln dit kader voeren we ook enkele kleinschalige pilots uit,
+zodat we zelf kunnen ervaren welke kansen er zijn en onder welke voorwaarden deze verantwoord
+kunnen worden benut.
+We leren daarnaast van Al-pilots bij andere overheden en gebruiken deze inzichten om de juiste keuzes
+te maken.
+In lijn met onze visie op de informatievoorziening 2030 volgen we anderen waar dat verstandig
+is en starten we pas projecten wanneer toepassingen aantoonbaar waarde toevoegen.
+Op dit moment investeren we niet actief in eigen Al-projecten, maar we zien wel dat leveranciers steeds
+vaker Al-functionaliteiten toevoegen aan bestaande systemen.
+Dat vraagt dat wij voorbereid zijn.
+Onze
+digitale, data- en Al-vaardigheden moeten op orde zijn en onze kaders moeten actueel zijn en
+aantoonbaar worden toegepast.
+Voor het gebruik van generatieve Al-tools gelden duidelijke voorwaarden.
+Deze voorwaarden zijn
+beschreven in de Hoornse Kaders voor het gebruik van generatieve Al (zie bijlage 1: Hoornse Kaders
+voor het gebruik van generatieve Al).
+ln het najaar van 2026 herijken we onze doelen en aanpak rondom de toepassing van Al.
+Ontwikkelingen in wet- en regelgeving
+Vraag: imp/ementatie van nietiwe wet- en regelgeving voor zover relevant voor voor de ICT-omgeving
+Digital decade
+De Digital Decade is het Europese programma dat ervoor moet zorgen dat Europa in 2030 digitaal
+sterker, veiliger en moderner is en klantvriendelijker dienstverlening mogelijk maakt.
+De EU doet dit met
+nieuwe wetten, afspraken en digitale standaarden die ook gemeenten raken.
+Voor gemeenten betekent
+dit dat zij hun digitale dienstverlening, informatiebeheer, gegevensuitwisseling en cyberveiligheid verder
+moeten verbeteren.
+Denk aan veiligere systemen (N1S2), beter en herbruikbaar omgaan met gegevens
+(dataregelgeving), verantwoord gebruik van Al (Al-verordening) en het ondersteunen van een nieuwe
+Europese digitale identiteit.
+Overkoepelend betekenen deze veranderingen dat gemeenten hun informatievoorziening moeten
+aanpassen en hun werkwijze moeten veranderen.
+De VNG benadrukt dat gemeenten tijdig stappen
+moeten zetten: processen aanpassen, nieuwe verantwoordelijkheden beleggen bij bestuur, management
+en proceseigenaren, en structureel investeren in kennis, risicobeheer, gegevensverwerking en
+technische koppelingen.
+We zien het realiseren van deze nieuwe eisen ais een onderdeel van het op orde brengen van onze
+informatievoorziening.
+Bij het aanpassen van de organisatie zorgen we ervoor dat we de nieuwe
+2/4
+GEMEENTE
+HOORN
+verplichtingen goed uitvoeren en dat we de beoogde verbetering van onze dienstverlenïng daadwerkelijk
+in de praktijk brengen.
+Wet Dïgitale Overheid
+De Wet digitale overheid (Wdo) zorgt ervoor dat inwoners en bedrijven veilig en betrouwbaar kunnen
+inloggen bij digitaie overheidsdiensten.
+De wet verplicht overheden om open standaarden te gebruiken,
+hun diensten goed te beveïligen en in te delen op hetjuiste betrouwbaarheidsniveau.
+Een deel van de
+wet geldt al sinds 2023, maar omdat een aantal landelijke voorzieningen nog niet gereed was, is de
+volledige invoering uitgesteld totjuli 2028.
+Tegelijkertijd komt er vanuit Europa een digitale identiteitswallet (EUDI- of NL-wallet), die eind 2026
+beschikbaar moet zijn.
+Met deze wallet kunnen inwoners zich online identificeren, gegevens delen en
+documenten ondertekenen.
+Overheden moeten deze wallets accepteren zodra ze beschikbaar zijn.
+Dit
+sluit aan op de Wdo, omdat de wallet een nieuw erkend inlogmiddel wordt binnen het landelijke stelsel
+voor veilige toegang tot digitale diensten.
+Dit vraagt om het aanpassen van onze digitale dienstverlening.
+Wet Modernisering Elektronisch Bestuur/ijk Verkeer (WMEBV)
+De Wet modernisering elektronisch bestuurlijk verkeer geeft inwoners en ondernemers het wettelijke
+recht om officiële berichten digitaal met de gemeente uit te wisselen.
+Gemeenten moeten hiervoor
+duidelijk aangewezen digitale kanalen beschikbaar stellen en werken met ontvangstbevestigingen en
+notificaties.
+Hierbij heeft de gemeente een zorgplicht: de gemeente moet zorgen voor passende ondersteuning voor
+inwoners die moeite hebben met digitale communicatie.
+Dit past bij de manier waarop wij onze
+dienstverlening hebben ingericht.
+Wij geven de voorkeur aan digitaal, maar wanneer dat niet kan, is het
+altijd mogelijk om op een andere manier geholpen te worden.
+Actueie ontwikkelingen rondom digitalisering en overheid
+Vraag: actualiteiten op het gebied van veiligheid, data, privacy dienstverlening en technologische
+ontwikkelingen?
+Toename interbestuurlijke regie en collectivisering van digita/isering
+Landelijk zetten Rijk en gemeenten grote stappen in de digitalisering.
+Binnen de Nederlandse
+Digitaliseringsstrategie (NDS) wordt gewerkt aan een soevereine overheidscloud.
+Hiermee zorgt de
+overheid dat zij minder afhankelijk worden van grote technologiebedrijven en de regeringen van andere
+landen.
+Daarnaast wordt gewerkt aan een betere gegevensuitwisseling via het Federatief Datastelsel,
+meer inzet van Al en een versterking van digitale weerbaarheid en digitale vaardigheden.
+Deze
+ontwikkelingen gaan de komende jaren steeds meer de kaders bepalen waarbinnen gemeenten hun
+informatievoorziening organiseren en realiseren.
+Daarnaast heeft de VNG in 2025 afgesproken dat gemeenten een groot deel van de
+digitaliseringsopgaven gezamenlijk oppakken.
+Met ais gevolg meer standaardisatie en waar mogelijk het
+inrichten van collectieve voorzieningen.
+Dat betekent dat gemeenten hun informatielandschap in
+toenemende mate modulair opbouwen en moeten aansiuiten op landelijke architecturen en standaarden.
+Datagedreven werken
+De komende jaren neemt het belang van betrouwbare data verder toe.
+We gaan gegevens steeds meer
+gebruiken om beter te sturen op maatschappelijke opgaven en om inwoners en ondernemers sneller en
+effectiever te helpen.
+Hierbij onderzoeken we hoe we data ook slimmer inwinnen door gebruik te maken
+van moderne middelen, zoals bijvoorbeeld drones.
+Tegelijk groeit de verantwoordelijkheid om zorgvuldig
+met data om te gaan en om transparant te zijn over wat we verzamelen en waarom.
+Onze uitdaging is dat de technologie zich sneller ontwikkelt dan we kunnen oppakken.
+We moeten
+investeren in betere kwaliteit van gegevens, in duidelijke werkwijzen en in het vermogen om inzichten
+ook echt te benutten in het dagelijkse werk.
+Dat vraagt aandacht, tijd en een zorgvuldige aanpak om te
+voorkomen dat we keuzes maken op basis van onvolledige of onjuiste informatie.
+Daarom bouwen we stap voor stap aan een solide basis waarin datakwaliteit, gegevensbescherming en
+samenwerking centraal staan.
+Zodat we data veilig kunnen benutten voor betere dienstverlening en
+effectiever beleid, zonder dat dit ten koste gaat van privacy of vertrouwen.
+3/4
+Betekenis van deze ontwikkelingen voor onze informatievoorziening
+Voor Hoorn betekenen deze ontwikkelingen dat we onze informatievoorziening stapsgewijs
+moderniseren, aansluiten op landelijke oplossingen en onze digitale weerbaarheid en datavaardigheid
+blijven versterken.
+Dat is noodzakelijk om onze informatievoorziening toekomstbestendig en veilig te
+houden.
+Dit kunnen we als Hoorn niet alleen.
+Daarom zijn we onder andere in 2024 aangesloten bij de
+coöperatieve vereniging Dimpact.
+Deze samenwerking van gemeenten is één van de belangrijke spelers
+bij de ontwikkeling van collectieve voorzieningen voor gemeenten en zorgt dat we met minder inspanning
+de nieuwe standaarden kunnen gebruiken.
+Daarnaast is een verbetertraject gestart met RAM IT, onze
+IT-leverancier, om tot een verbeterde kwaliteit van de dienstverlening te komen.
+Binnen onze organisatie
+zijn twee functies verstevigd om het service- contract- en incidentmanagement richting RAM IT beter in
+te kunnen vullen.
+Vraag: welke investeringen kunnen we het komendjaar vetwachten
+De impact en urgentie van de in deze brief opgenomen ontwikkelingen en verandering is groot.
+Het
+realiseren van deze opgave stelt hoge eisen aan onze gemeentelijke organisatie.
+Dat komt ook tot
+uitdrukking in de recent door de directie vastgestelde Visie op de informatievoorziening 2030.
+Een
+meerjarige programmatische aanpak om de visie gericht en in samenhang te realiseren, is in
+voorbereiding.
+Bij de besluitvorming over dit programma en de inzet van middelen zal de raad nader
+worden betrokken.
+Met vriendelijke groet,
+Burgemeester en wethouders van Hoorn
+de burgem
+4,,4
+[Bijlage: Hoornse kaders voor gebruik generatieve AI - augustus 2025]
+Hoornse kaders voor het gebruik van generatieve AI
+Groeien naar waardevolle en verantwoorde digitalisering
+augustus 2025
+Versie 1.4
+Inhoudsopgave
+Hoornse kaders voor het gebruik van generatieve AI | augustus 2025 2
+1 Inleiding .......................................................................................................................................................3
+2 Samenvatting ...............................................................................................................................................4
+3 Afspraken over het gebruik van generatieve AI .......................................................................................5
+4 Risicobewust gebruik .................................................................................................................................8
+4.1 Formuleer de goede vraag ............................................................................................................
+9
+4.2 Werk aan betrouwbare resultaten ................................................................................................
+11
+4.3 Deel geen gevoelige informatie? .................................................................................................
+12
+5 Meer informatie .........................................................................................................................................
+13
+5.1 Bij wie kan ik terecht met vragen? ...............................................................................................
+13
+5.2 Waar vind ik meer kennis? ..........................................................................................................
+13
+Voor dit document is gebruik gemaakt van Perplexity en ChatGPT voor zowel het leveren van input als voor het verbeteren van de tekst..
+Hoornse kaders voor het gebruik van generatieve AI 3
+De gemeente Hoorn ziet nieuwe technologie als een kans om ons werk
+slimmer, beter en efficiënter te organiseren.
+Digitalisering en kunstmatige
+intelligentie (AI) kunnen helpen om onze publieke taken met minder
+inspanning en meer kwaliteit uit te voeren en bij te dragen aan de oplossing
+van vraagstukken waar we de komende jaren mee te maken krijgen.
+Generatieve AI is technologie is kunstmatige intelligentie die in staat is om
+zelfstandig nieuwe content zoals tekst, afbeeldingen, audio of video kan
+maken op basis van de vraag die de gebruiker stelt.
+Om de kansen te benutten, is het belangrijk dat medewerkers,
+management en bestuur van onze organisatie beschikken over voldoende
+kennis en ervaring met digitalisering en AI.
+We stimuleren iedereen om zich
+hierin te ontwikkelen en actief te experimenteren met nieuwe toepassingen.
+Binnen de overheid lopen diverse pilots en experimenten met AI.
+De
+uitkomsten hiervan bieden waardevolle inzichten over waar en hoe AI
+daadwerkelijk bijdraagt aan ons werk en welke randvoorwaarden nodig zijn
+voor verantwoord gebruik.
+Hieruit zullen in de komende tijd ook concrete en
+herbruikbare producten en standaarden opgeleverd worden.
+In lijn met
+onze ICT-visie kiezen we voor een strategie van ‘slim volgen’: we leren van
+anderen en stappen in wanneer we concrete kansen zien.
+De
+implementatie van deze kansen organiseren we als een project en we
+denken niet lichtvaardig over onze verantwoordelijkheden.
+Tot nu toe investeren we als gemeente niet actief in eigen AI-projecten.
+Wel
+merken we dat leveranciers steeds vaker AI-functionaliteiten toevoegen aan
+bestaande softwarepakketten.
+Dit betekent dat we voorbereid moeten zijn:
+onze digitale, data- en AI-geletterdheid moeten op orde zijn en onze kaders
+moeten actueel zijn en bewezen toegepast worden.
+Daarom moedigen we medewerkers en management aan om trainingen te
+volgen en staan we het gebruik van publieke generatieve AI-tools als
+assistent toe onder duidelijke voorwaarden.
+In dit document vind je deze
+voorwaarden en praktische tips voor verantwoord en succesvol gebruik.
+We werken met een integraal adviesteam dat ook deze kaders verder
+uitwerkt, participeert in ontwikkelingen en adviseert over risico’s en
+benodigde maatregelen.
+Zo zorgen we ervoor dat AI-toepassingen
+waardevol én verantwoord worden ingezet binnen onze organisatie.
+1 Inleiding
+Hoornse kaders voor het gebruik van generatieve AI 4
+2 Samenvatting
+Hoornse kaders voor het gebruik van generatieve AI 5
+Deze afspraken vormen samen een positieve, veilige en verantwoorde
+basis voor het gebruik van generatieve AI binnen onze organisatie.
+1.
+Ontdek en leer
+We moedigen alle medewerkers aan om kennis te maken met generatieve
+AI.
+Ontdek hoe deze technologie jou en de organisatie kan ondersteunen
+en inspireren bij je werk.
+Houd hierbij rekening met de kaders in dit
+document.
+Je blijft hierbij natuurlijk zelf verantwoordelijk voor het resultaat.
+2.
+Gebruik AI als hulpmiddel, niet als vervanging van je eigen oordeel
+Generatieve AI kan je helpen bij het samenvatten van teksten, het
+herschrijven in heldere taal of het opdoen van nieuwe ideeën.
+Jij blijft altijd
+zelf verantwoordelijk voor de kwaliteit en juistheid van het eindresultaat.
+3.
+Zorg voor voldoende AI-geletterdheid
+Gebruik AI alleen als je begrijpt hoe het werkt, wat de risico’s zijn en hoe je
+de uitkomsten kritisch kunt beoordelen.
+Vraag hulp of training als je twijfelt.
+Ontdek zelf en deel dit met je collega's.
+Samen weet je meer
+4.
+Werk uitsluitend met publieke informatie
+Gebruik generatieve AI alleen met informatie die openbaar is.
+Deel nooit
+vertrouwelijke, persoonlijke, financiële, beleidsgevoelige, bedrijfsgevoelige
+of politiek gevoelige informatie.
+Behandel AI als een openbaar platform en ga er altijd vanuit dat alles wat je
+invoert in een AI-tool zichtbaar kan zijn voor anderen buiten de organisatie.
+5.
+Wees transparant over AI-gebruik
+Vermeld altijd wanneer en waarvoor je generatieve AI hebt gebruikt.
+Dit
+zorgt voor openheid en vertrouwen binnen en buiten de organisatie.
+6.
+Gebruik geen onveilige tools
+Gebruik van AI-tools of apps is niet toegestaan als deze komen uit landen
+met een offensief cyberprogramma tegen Nederland.
+Denk hierbij aan
+landen als China, Rusland, Iran of Noord-Korea.
+Gebruik alleen door de
+overheid als veilig aangemerkte tools.
+Een lijst hiervan wordt opgenomen
+op Hoi!.
+7.
+Houd je aan wet- en regelgeving en interne afspraken
+Volgt altijd de relevante wet- en regelgeving bij het gebruik van AI.
+In ieder
+geval de AVG, de Hoornse gedragscode en deze handreiking.
+8.
+De organisatie staat betaalde AI-tools toe onder voorwaarden.
+De organisatie biedt centraal op dit moment geen betaalde versies van AI-
+tools aan en vergoedt ook geen betaalde persoonlijke- of
+groepsabonnementen voor AI-diensten.
+De organisatie faciliteert betaalde accounts wanneer geen inzet nodig is
+van capaciteit van andere teams en de kosten voor de AI tooling op team-
+of domeinniveau opgevangen worden.
+De betreffende teammanager zorgt
+dat het experiment voldoet aan alle wettelijke regels.
+Wanneer voor het experiment de inzet van capaciteit van andere teams
+gevraagd is maakt de directie de afweging dit wel of niet te doen.
+De
+directie maakt deze afweging aan de hand van een beschrijving van het AI-
+experiment
+3 Afspraken over het gebruik
+van generatieve AI
+Hoornse kaders voor het gebruik van generatieve AI 6
+Deze beschrijving bestaat uit de formulering van de onderzoeksvraag en -
+aanpak, de motivatie waarom betaalde AI-oplossingen nodig zijn, het
+beoogde doel, het gewenste resultaat en de inzet van de benodigde
+middelen en capaciteit.
+Deze werkwijze sluit aan bij de systematiek van
+projectmatig werken.”
+Wettelijke- en beleidskaders
+De volgende wetten en beleidskaders zijn in elk geval van toepassing
+AI-verordening (EU 2024/1689)
+De Europese AI-wet stelt eisen aan AI-systemen, afhankelijk van het
+risiconiveau.
+Het toepassen van Generatieve AI valt meestal onder ‘beperkt
+risico’, met eisen op het gebied van transparantie en AI-geletterdheid.
+Wanneer je gevoeliger informatie verwerkt of meer autonomie aan de AI
+toestaat, valt de toepassing al snel onder Hoog risico.
+In dit geval gelden
+strengere eisen.
+De AI-verordening treedt gefaseerd in werking.
+Sinds februari 2025 gelden
+de eerste regels, waaronder het verbod op AI-toepassingen met
+onaanvaardbaar risico en de eis van AI-geletterdheid bij medewerkers.
+In
+augustus 2025 volgen strengere eisen voor aanbieders van AI-modellen en
+toezicht door aangewezen toezichthouders.
+Vanaf augustus 2026 worden
+de transparantieverplichtingen belangrijker.
+Denk hierbij aan het expliciet
+maken dat AI wordt gebruikt.
+Algemene Verordening Gegevensbescherming (AVG)
+Bij inzet van AI moeten persoonsgegevens zorgvuldig worden verwerkt.
+Dit
+vraagt om bewuste keuzes in techniek, inrichting en gebruik.
+Archiefwet
+Generatieve AI moet voldoen aan de eisen van de Archiefwet.
+Output moet
+navolgbaar, reproduceerbaar en duurzaam toegankelijk zijn.
+De toepassing
+moet ook in staat zijn om informatie te vergeten, aangezien een deel van de
+overheidsinformatie volgens de geldende termijnen vernietigd moet worden.
+Gedragscode Gemeente Hoorn
+De gedragscode benadrukt betrouwbaarheid, zorgvuldigheid en
+transparantie.
+Medewerkers moeten bewust omgaan met data, belangen
+afwegen en integer handelen.
+De gedragscode helpt medewerkers bij het
+maken van verantwoorde keuzes, ook als regels nog niet duidelijk zijn.
+ICT visie (2019)
+In de ICT visie is verwoord dat we gebruik maken van nieuwe technologie
+voor het vernieuwen en verbeteren van onze informatievoorziening.
+Hierbij
+maken we slim gebruik van de ervaringen van andere gemeenten en
+zorgen dat we technologie toetsbaar, betrouwbaar en verantwoord inzetten
+Overheidsbreed standpunt voor de inzet van generatieve AI (22 april 2025)
+Het kabinet heeft nieuwe spelregels afgesproken met gemeenten,
+provincies, waterschappen en uitvoeringsorganisaties over het gebruik van
+generatieve AI.
+Deze passen binnen de bredere Nederlandse
+Digitaliseringsstrategie (NDS) voor de gehele overheid, die in het voorjaar
+naar de Tweede Kamer wordt gestuurd.
+De spelregels zijn niet verplicht en
+bedoeld als ondersteuning van overheden bij het gebruiken van
+generatieve AI.
+Hoornse kaders voor het gebruik van generatieve AI 7
+Auteurswet
+Generatieve AI wordt getraind met informatie.
+Het komt voor dat deze
+informatie auteursrechtelijk beschermd is.
+Dit is in een aantal gevallen
+toegestaan.
+De output van generatieve AI mag niet teveel lijken op deze
+werken.
+Rechthebbenden kunnen in dat geval juridische stappen
+ondernemen tegen de gemeente.
+Andere wetten die van toepassing zijn op IT systemen.
+Wetten als Algemene wet bestuursrecht, Wet digitale overheid en de Wet
+Open Overheid stellen kaders voor het gebruik van IT systemen.
+Deze zijn
+ook van toepassing op het gebruik van generatieve AI.
+Hoornse kaders voor het gebruik van generatieve AI 8
+Wanneer je generatieve AI gebruikt, zorg je dat je rekening houdt met de
+risico’s hiervan.
+De grootste risico’s zijn:
+Onjuiste informatie:
+Generatieve AI kan foutieve of niet-onderbouwde antwoorden
+geven, dus controleer altijd de inhoud.
+Gebrek aan bronvermelding:
+AI geeft vaak geen directe bronnen, wat verificatie lastig maakt.
+Vooroordelen in antwoorden:
+De output kan onbedoelde vooroordelen bevatten door de data
+waarmee AI is getraind.
+Gevoelige informatie:
+Deel geen vertrouwelijke of persoonlijke gegevens, want AI slaat
+interacties mogelijk op.
+Overmatige afhankelijkheid:
+Gebruik AI als hulpmiddel, niet als vervanging voor kritisch denken
+of het vragen van advies aan deskundigen.
+Contextverlies:
+AI begrijpt complexe beleidscontexten niet altijd goed, dus wees
+duidelijk en specifiek in je vragen.
+Hoog energieverbruik:
+Het beantwoorden van vragen met generatieve AI kost veel meer
+stroom dan wanneer je dat met een normale zoekmachine doet.
+Dit
+is strijdig met onze duurzaamheidsdoelen.
+Aanpak voor het verminderen van risico’s
+Met de volgende tips kan je zorgen dat je verantwoord gebruik maakt van
+generatieve AI:
+1.
+Formuleer de goede vraag
+2.
+Werk aan een betrouwbaar resultaat
+3.
+Deel geen gevoelige informatie
+Deze tips lichten we hieronder toe.
+4 Risicobewust gebruik
+Hoornse kaders voor het gebruik van generatieve AI 9
+4.1 Formuleer de goede vraag
+Door deze richtlijnen te volgen, verhoog je de kans op relevante,
+gedetailleerde en betrouwbare antwoorden van AI.
+Wees specifiek en duidelijk
+Hoe specifieker de vraag, hoe gerichter het antwoord zal zijn.
+Vermijd vage
+of algemene vragen, want die kunnen leiden tot brede of onnauwkeurige
+antwoorden.
+Voorbeeld:
+ Minder goed: "Wat kan de gemeente doen?"
+ Beter: "Welke maatregelen kan de gemeente nemen om de
+verkeersveiligheid in het centrum van Hoorn te verbeteren?"
+Een specifieke vraag zorgt ervoor dat AI niet hoeft te raden over het
+onderwerp, en het antwoord wordt daardoor relevanter.
+Geef context
+Als je AI vraagt om informatie over een specifiek onderwerp, geef dan
+voldoende achtergrondinformatie zodat AI de vraag in de juiste context kan
+plaatsen.
+Een citaat uit een bron meegeven kan hierbij helpen.
+Dit geldt
+vooral voor complexe of technische onderwerpen.
+Voorbeeld:
+ Minder goed: "Wat is het budget?"
+ Beter: "Wat is het totale budget voor duurzame energieprojecten in
+de gemeentebegroting van Hoorn 2025?"
+Door context toe te voegen, kan AI het antwoord beter afstemmen op het
+specifieke scenario.
+Stel open vragen voor gedetailleerde antwoorden
+Open vragen (die beginnen met "hoe", "wat", "waarom") moedigen AI aan
+om gedetailleerde uitleg of beschrijvingen te geven in plaats van simpele
+ja/nee-antwoorden.
+Voorbeeld:
+ Minder goed: "Is het budget voor duurzaamheid in Hoorn 5
+miljoen?"
+ Beter: "Hoe is het budget voor duurzaamheid in de begroting van
+Hoorn 2025 verdeeld over de verschillende projecten?"
+Open vragen helpen om complexere en informatieve antwoorden te
+verkrijgen.
+Vraag naar bron of onderbouwing
+Als je op zoek bent naar betrouwbaarheid, kun je vragen naar de bron van
+de informatie die AI gebruikt.
+Dit helpt je om te controleren of het antwoord
+op feiten is gebaseerd.
+Voorbeeld:
+ Minder goed: "Hoeveel subsidie is er beschikbaar voor
+zonnepanelen?"
+ Beter: "Wat is het budget voor zonnepaneelsubsidies in de
+gemeentebegroting van Hoorn 2025, en waar kan ik de officiële
+cijfers vinden?"
+Door expliciet naar de bron te vragen, kun je de informatie verifiëren.
+Hoornse kaders voor het gebruik van generatieve AI 10
+Gebruik voorbeeldscenario's of vergelijkingen
+Als je AI vraagt om een keuze of besluit, kun je bijvoorbeeld scenario’s of
+vergelijkingen toevoegen.
+Dit helpt AI om verschillende opties te evalueren.
+Voorbeeld:
+ Minder goed: "Wat is de beste manier om het verkeer in Hoorn te
+verminderen?"
+ Beter: "Als de gemeente Hoorn overweegt om de snelheidslimieten
+te verlagen of meer fietspaden aan te leggen, wat zijn de voor- en
+nadelen van deze maatregelen op basis van ervaringen in andere
+steden?"
+Scenario’s maken het voor AI gemakkelijker om een afgewogen antwoord
+te geven met praktische voorbeelden.
+Hoornse kaders voor het gebruik van generatieve AI 11
+4.2 Werk aan betrouwbare resultaten
+Controleer de bron van informatie
+ Vraag altijd naar de herkomst: Generatieve AI kan geen echte
+bronnen raadplegen, tenzij expliciet gekoppeld aan een
+betrouwbare dataset.
+Vraag bijvoorbeeld: "Welke bron gebruik je
+voor dit antwoord?"
+ Controleer claims handmatig: Gebruik betrouwbare externe
+bronnen om de gegeven antwoorden te valideren, vooral bij
+beleidsvoorstellen of feiten.
+Voer een toets uit op het antwoord
+ Vraag jezelf af: "Is dit logisch?
+Klinkt het aannemelijk?"
+ Vergelijk met bestaande kennis: Vergelijk de antwoorden met wat
+je al weet of wat experts zeggen.
+Gebruik AI als startpunt, niet als eindproduct
+ AI is een hulpmiddel, geen vervanging.
+Zie het als een hulpmiddel
+om snel inzichten te genereren, maar zorg altijd voor een
+menselijke interpretatie en beoordeling.
+ Dubbelcheck: Laat een ander teamlid of expert het AI-antwoord
+beoordelen voordat je het gebruikt in beleid of communicatie.
+Pas iteratief gebruik toe
+ Stel vervolgvraag: Als een antwoord vaag is of onvolledig, vraag
+dan door.
+Bijvoorbeeld: "Kun je dit antwoord specifieker maken
+door [details] toe te voegen?"
+ Vergelijk alternatieve formuleringen: Probeer dezelfde vraag anders
+te stellen om consistente antwoorden te krijgen.
+Wees bewust van hallucinaties (onzinantwoorden)
+ Generatieve AI kan overtuigend klinkende, maar foutieve
+antwoorden geven.
+ Hoe te herkennen: Als een antwoord heel stellig lijkt maar je het
+niet kunt verifiëren, wees dan extra kritisch.
+Bijvoorbeeld, als AI
+specifieke wetten of cijfers noemt, zoek die dan op.
+Gebruik extra tools voor controle
+ Toets de resultaten aan betrouwbare traditionelere bronnen.
+ Maak gebruik van samenvattende functies: Laat AI alleen
+samenvatten wat expliciet in een document staat, in plaats van vrij
+nieuwe informatie te genereren.
+Wat kan je doen om extra zekerheid te Creëren: Praktische Aanpak
+1.
+Iteratieve validatie: Vraag om een eerste AI-antwoord te
+herformuleren of verder te verfijnen, zodat de output consistenter
+wordt.
+2.
+Teambeoordeling: Laat meerdere mensen een antwoord
+beoordelen.
+Dit voorkomt dat één persoon alleen afgaat op wat AI
+heeft gecreëerd.
+3.
+Verifieer bij experts: Voor beleidskwesties kun je antwoorden laten
+checken door vakinhoudelijke experts.
+4.
+Combineer AI met menselijke expertise: Gebruik AI om snel ideeën
+of inzichten te genereren, maar laat de uiteindelijke conclusies altijd
+door mensen worden getrokken.
+Hoornse kaders voor het gebruik van generatieve AI 12
+4.3 Deel geen gevoelige informatie?
+Hier is een overzicht van welke gevoelige informatie je niet moet delen met
+generatieve AI vooral als je werkt binnen een gemeentelijke context:
+Persoonsgegevens
+ Namen, adressen, telefoonnummers, e-mailadressen of
+Burgerservicenummers (BSN).
+ Andere persoonsgegevens
+ Medische en strafrechtelijke informatie of gegevens over kwetsbare
+personen.
+Voorbeeld: Vermijd vragen zoals "Hoe kan ik dit probleem voor inwoner Jan
+Jansen oplossen?"
+Vertrouwelijke beleidsinformatie
+ Informatie over lopende onderhandelingen, bijvoorbeeld met
+andere gemeenten, bedrijven of bewonersorganisaties.
+ Concepten van beleidsstukken die nog niet openbaar zijn.
+Voorbeeld: Deel geen onvoltooide rapporten of discussies over interne
+gemeentelijke strategieën.
+Financiële gegevens
+ Gevoelige begrotingsinformatie, zoals cijfers die nog niet zijn
+gepubliceerd.
+ Plannen voor subsidies, belastingverhogingen of andere financiële
+regelingen die inwoners direct raken.
+Voorbeeld: Vraag niet: "Hoe moet ik omgaan met een gemeentelijk tekort
+van €5 miljoen?” als dat nog niet bekend is"
+Gegevens over openbare veiligheid
+ Informatie over veiligheidsmaatregelen, zoals beveiligingsplannen
+of details over crisissituaties.
+ Vertrouwelijke gegevens over misdaadbestrijding of toezicht.
+Voorbeeld: Deel geen vragen over specifieke locaties waar cameratoezicht
+wordt geplaatst.
+Bedrijfsgevoelige informatie
+ Informatie over samenwerkingen met private partijen, zoals
+aanbestedingsvoorwaarden of lopende contracten.
+Voorbeeld: Vermijd vragen als: "Hoe beoordeel ik dit aanbestedingsvoorstel
+voor project X?"
+Politiek gevoelige kwesties
+ Onderwerpen die politiek gevoelig liggen, zoals geplande besluiten
+die nog niet openbaar zijn of interne discussies binnen het college.
+Voorbeeld: Vraag niet: "Hoe moet ik omgaan met kritiek op ons interne
+besluit over locatie Y?"
+Met Copyright beschermde informatie
+ Informatie van auteurs die geen toestemming hebben gegeven
+voor de verwerking als input voor de generatieve AI.
+Voorbeeld: Vraag niet: "maak een samenvatting van het boek dat ik hier als
+bijlage meestuur.”
+Hoornse kaders voor het gebruik van generatieve AI 13
+5.1 Bij wie kan ik terecht met vragen?
+Als je behoefte hebt om in gesprek te gaan over de het gebruik van
+generatieve AI, kan je contact opnemen met de Strategisch adviseur of de
+Informatiemanagers van Team Informatievoorziening.
+Voor vragen over deze kaders, kunnen de leden van het integraal
+adviesteam worden benaderd.
+Zij kunnen de betekenis en achtergronden
+toelichten en ook helpen om de randvoorwaarden voor specifieke casussen
+uit te werken
+In het integraal adviesteam zitten o.a. de Ciso (beveiliging), Adviseur
+persoonsgegevens, Adviseur risicomanagement, Beleidsadviseur Digitale
+duurzaamheid en Strategisch adviseur Informatievoorziening.
+5.2 Waar vind ik meer kennis?
+Op ons intranet Hoi! is een groep opgericht om ervaringen, tips en best
+practices te delen over kunstmatige intelligentie.
+Deze groep heet: HAI!
+De organisatie biedt cursussen aan om kennis te maken met het gebruiken
+van generatieve AI via de Westfrieslandacademie.
+Een voorbeeld is de
+cursus Copilot en AI
+Op internet en in de media is heel veel informatie te vinden vanuit alle
+mogelijke invalshoeken.
+Koen Pelzer, een collega uit Zaanstad, heeft op
+LinkedIn een overzichtje gemaakt van een aantal gratis cursussen.
+5 GRATIS cursussen over Artificial Intelligence, gemaakt door specialisten
+De Nationale AI cursus: https://lnkd.in/eHQ-stn2
+Een introductie in algoritmen, beeldherkenning, etc.
+Inleiding in Artificial Intelligence: https://lnkd.in/exPF2bSx
+Een iets technischere inleiding in de wetenschap van AI.
+50 Dagen AI: https://50dagenai.nl/
+Leer in 50 dagen iedere dag iets over het gebruik van AI.
+De AI Junior Cursus voor de Jeugd: https://lnkd.in/efS9gH6C
+Een cursus voor de jeugd, met informatie over AI in je smartphone, en
+robots.
+AI en Ethiek: https://lnkd.in/ewNqkWkn
+De impact van AI op de maatschappij
+De gemeente Breda heeft het afgelopen jaar een groot aantal pilots
+uitgevoerd binnen de eigen organisatie.
+Zij hebben hun tips voor goed
+prompten in een flyer beschikbaar gesteld:
+https://vng.h5mag.com/pilot_breda/vng_reisverslag
+5 Meer informatie
+Hoornse kaders voor het gebruik van generatieve AI 14
+Versiebeheer:
+Het document zal regelmatig worden geactualiseerd om bij te blijven met de
+ontwikkelingen.
+Bij grote wijzigingen zal het opnieuw door de directie
+worden vastgesteld.
+Versie Auteur Datum Omschrijving
+0.6 P.
+Castenmiller 27-06-2025 Concept initiële versie
+0.7 P.
+Castenmiller 02-07-2025 Verwerkt opmerkingen integraal adviesteam
+0.8 P.
+Castenmiller 03-07-2025 Verwerkt opmerkingen AO 3-7-25
+1.1 P.
+Castenmiller 27-08-2025 Aangepast op basis van besluit directie 09-07-2025
+1.2 P.
+Castenmiller 05-09-2025 Aangepast op basis van directiebesluit 27-08-2025
+1.3 P.
+Castenmiller 29-10-2025 Samenvatting team Communicatie toegevoegd
+1.4 P.
+Castenmiller 31-10-2025 Gebroken link naar reisverslag Breda gerepareerd
+Goedkeuringen:
+In de overstaande tabel staat wat de officiële en geldende versie is.
+Versie Goedgekeurd door Datum Opmerkingen
+1.0 Directie 09-07-2025 Aanpassingen naar aanleiding van het directiebesluit zijn verwerkt in versie 1.1
+1.2 Directie 27-08-2025 Aanpassingen naar aanleiding van het directiebesluit zijn verwerkt in deze versie
