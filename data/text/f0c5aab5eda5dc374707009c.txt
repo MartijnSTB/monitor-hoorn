@@ -1,0 +1,249 @@
+C-3015
+C
+-7
+8
+7 C
+-7
+8
+8
+C
+-7
+8
+9
+C
+-7
+9
+0
+C
+-7
+9
+1
+C
+-7
+9
+2
+C-793
+C-794
+C-795
+C
+-7
+9
+8
+C-800
+C-814
+C
+-8
+2
+5
+C
+-8
+2
+6
+C
+-8
+2
+7 C
+-15
+3
+7
+C
+-15
+3
+8
+C-1539
+C-2957
+C-3036
+C-3831
+C-3935
+C-3936
+D-2768
+D-2769
+D
+-
+2
+9
+3
+4
+D
+-
+2
+9
+3
+5
+D
+-
+2
+9
+3
+6
+D
+-
+2
+9
+3
+7
+D-2938
+D-3277
+D-3289
+D
+-3
+8
+5
+5
+D-4872
+D-5335
+D-6388
+D-6577
+D-6578
+D-6605
+D-6607
+D-6640
+D-6641
+D-6831
+D-6871
+D-6872
+D-6873
+D-6874
+D-6875
+D-6876
+D-6954
+D
+-
+6
+9
+5
+5
+D-6960
+D-6961
+D-6963
+D-6988
+D-6989
+D-7374
+D-7393
+D-7394
+D-7410
+D-7411
+D-7412
+D
+-7
+4
+19
+D-7641
+D-7745
+D-7873
+D-7874
+C-3934
+D-7963
+D-7935
+Stationsgebied, gemeente Hoorn.
+Grondtekening behorend bij onteigeningsbeschikking
+G E T E K E N D
+ONDERWERP
+OPMERKING
+F O R M A A T
+T E K E N I N G N R .
+D A T U M
+T 0229 25 22 00
+1620 AR Hoorn
+Postbus 603
+Nieuwe Steen 1
+TEAM GEGEVENSMANANGEMENT
+B.PUNT
+25004.dgn
+31-08-2026 A3
+SCHAAL
+1 : 1000
+Kadastrale gemeente Hoorn, Sectie D
+D-6830
+D-6828
+3
+2
+D-7753
+Legenda
+Bestemmingsplangrens
+Bebouwing
+Kadastrale perceelnummers en
+Kadastrale grenzen en
+grondplannummer
+Te onteigenen gebied met
+D-6828
+2
+1D
+-
+2
+9
+3
+5
+D
+-
+2
+9
+3
+4
+5
+1
+16
+10
+2
+8
+A
+2
+8
+B
+2
+802
+12
+5
+6B
+2
+17
+2
+6
+2
+8
+5
+11
+7
+3 44
+13
+6
+8
+6
+9
+19
+6C
+900
+6A
+2
+8
+D
+3
+3
+D-6604
+1
+K
+e
+e
+r
+n
+K
+e
+e
+rn van Dedemstraat
+Keern
+M
+a
+e
+lso
+n
+stra
+a
+t
+Dampten
+0 25 50m
+3
+D-6607
+D-6830
+D-6831
+perceel D-6830
+Detail plannummer 3

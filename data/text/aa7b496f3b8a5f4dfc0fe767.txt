@@ -1,0 +1,305 @@
+G
+GD
+GDW-WG
+[sba-ds]
+13
+13
+13
+m
+58
+m
+53
+m
+26
+87
+79
+m
+38
+C-3015
+C
+-7
+8
+7 C
+-7
+8
+8
+C
+-7
+8
+9
+C
+-7
+9
+0
+C
+-7
+9
+1
+C
+-7
+9
+2
+C-793
+C-794
+C-795
+C
+-7
+9
+8
+C-800
+C-814
+C
+-8
+2
+5
+C
+-8
+2
+6
+C
+-8
+2
+7
+C
+-8
+4
+0
+C
+-12
+0
+0
+C
+-15
+3
+7
+C
+-15
+3
+8
+C-1539
+C-2957
+C-3036
+C-3831
+C-3935
+C-3936
+D-2768
+D-2769
+D
+-
+2
+9
+3
+4
+D
+-
+2
+9
+3
+5
+D
+-
+2
+9
+3
+6
+D
+-
+2
+9
+3
+7
+D-2938
+D-3277
+D-3289
+D
+-3
+8
+5
+5
+D-4872
+D-5335
+D-6388
+D-6577
+D-6578
+D-6604
+D-6605
+D-6607
+D-6640
+D-6641
+D-6828
+D-6830
+D-6831
+D-6871
+D-6872
+D-6873
+D-6874
+D-6875
+D-6876
+D-6953
+D
+-
+6
+9
+5
+5
+D-6960
+D-6961
+D-6963
+D-6988
+D-6989
+D-7374
+D-7393
+D-7394
+D-7410
+D-7411
+D-7412
+D
+-7
+4
+18
+D
+-7
+4
+19
+D-7745
+D
+-
+7
+7
+6
+8
+D-7873
+D-7874
+C-3934
+D-7963
+W-WG
+0 25 50m
+G E T E K E N D
+Stationsgebied, gemeente Hoorn.
+Projectietekening behorend bij onteigeningsbeschikking
+Kadastrale gemeente Hoorn, Sectie D
+SCHAAL
+1 : 1000
+ONDERWERP
+OPMERKING
+F O R M A A T
+T E K E N I N G N R .
+D A T U M
+T 0229 25 22 00
+1620 AR Hoorn
+Postbus 603
+Nieuwe Steen 1
+TEAM GEGEVENSMANANGEMENT
+B.PUNT
+25004-projectietekening.dgn
+31-08-2026 A3
+Legenda
+Plangebied
+Bestemmingen
+B-OV
+DienstverleningDV
+GroenG
+VerkeerV
+V-PG
+V-R
+V-V
+W-WG
+Gebiedsaanduidingen
+Functieaanduidingen
+Bouwvlak
+bouwvlak
+Bouwaanduidingen
+Maatvoeringaanduidingen
+maatvoeringsvlak
+GD Gemengd
+Openbaar vervoer
+Bedrijf -
+Parkeergarage
+Verkeer -
+Railverkeer
+Verkeer -
+Verblijf
+Verkeer -
+Woongebouw
+Wonen -
+doorsteek
+specifieke bouwaanduiding -
+Dubbelbestemmingen
+Waarde - Archeologie 1
+Waarde - Archeologie 2
+Waarde - Cultuurhistorie
+WR-A1
+WR-A2
+WR-C
+[sba-ds]
+overige zone - GSI
+parkeren ondergronds
+overige zone -
+zoekgebied 19m
+overige zone -
+zoekgebied 26m
+overige zone -
+zoekgebied 38m
+overige zone -
+zoekgebied museum
+overige zone -
+podium en stationsfuncties
+overige zone - zoekgebied
+openbaar vervoer
+overige zone - zoekgebied
+afwijkingsgebied
+wetgevingzone -
+detailhandel(dh)
+dienstverlening(dv)
+museum(mu)
+maximum bouwhoogte (m)
+maximum bebouwingspercentage (%)
+bebouwingspercentage (%)
+maximum bouwhoogte (m)
+maximum goothoogte (m),
+B
+D
+A
+B
+m
+J
+Bebouwing
+Kadastrale perceelnummers en
+Kadastrale grenzen en
+grondplannummer
+Te onteigenen gebied met
+D-6828
+2
+1D
+-
+2
+9
+3
+5
+D
+-
+2
+9
+3
+4
+Verklaring
+D-6607
+3
+D-6607
+D-6830
+D-6831
+perceel D-6830
+Detail plannummer 3
+D-6604
+D-6830
+D-6828
+3
+1
+2
+V
+V-V
+V-V
+V
+buurtsuper(bs)
+(bs)
+(bs)
