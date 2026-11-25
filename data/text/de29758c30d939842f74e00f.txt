@@ -1,0 +1,41 @@
+Berekening tarieven Afvalstoffenheffing 2027
+2026 2027
+Omschrijving lasten Kosten Vast (59%) Variabel (41%) Vast (59%) Variabel (41%)
+Inzameling, verwerking en collectieve kosten 10.540.677€ 11.183.573€
+Overige taken (Afvalstoffencontrole en plaagdierbestrijding) 244.316€ 258.112€
+Kostenreductie efficiency -496.285€ -496.285€
+Risico-opslag (2,5% i.p.v 10%) -€ -€
+Eliminatie kosten i.v.m. extra bak -€ -70.000€
+Totale kosten DVO 10.288.708€ 6.070.338€ 4.218.370€ 10.875.400€ 6.416.486€ 4.458.914€
+2026 Vast (59%) Variabel (41%) 2027 Vast (59%) Variabel (41%)
+Afvalstoffenbelasting (in de collectieve kosten) 472.570€ 278.816€ 193.754€ 691.098€ 407.748€ 283.350€
+Niet vereffend BTW compensatiefonds (6,5%) 668.766€ 394.572€ 274.194€ 706.901€ 417.072€ 289.829€
+Ketenvergoeding -560.000€ -330.400€ -229.600€ -595.000€ -351.050€ -243.950€
+Kosten Rijk gerelateerd 581.336€ 342.988€ 238.348€ 802.999€ 473.769€ 329.230€
+2026 Vast Variabel 2027 Vast Variabel
+Perceptiekosten Stadsbeheer (Verkeerd aangeboden huisvuil en
+bijplaatsingen) 350.000€ 350.000€ 350.000€ 350.000€
+Perceptiekosten Handhaving (op basis van APV en RAWf) 71.157€ 71.157€ 73.362€ 73.362€
+Perceptiekosten Belastingen (Inningkosten) 299.292€ 299.292€ 308.570€ 308.570€
+Perceptiekosten Stadsbeheer (Beheer en onderzoek) 154.263€ 154.263€ 159.045€ 159.045€
+Afvaleducatie basisscholen € 28.400 28.400€ 29.280€ € 29.280
+Leegstand (2,3% van de bruto opbrengst heffing) 236.640€ 236.640€ 250.134€ 250.134€
+Geraamde kosten Kwijtschelding 550.000€ 550.000€ 600.000€ 600.000€
+Kosten Gemeentelijke Grondstoffenplan 400.000€ 400.000€ 150.000€ 150.000€
+Oninbaarheid 25.000€ 25.000€ 25.000€ 25.000€
+Kosten gemeente 2.114.752€ 953.112€ 1.161.640€ 1.945.393€ 720.259€ 1.225.134€
+Totaal 12.984.796€ 7.366.438€ 5.618.358€ 13.623.792€ 7.610.514€ 6.013.278€
+Vaste kosten per huishouden 212,20€ 217,41€
+Variabele kosten eenpersoonshuishouden 20% 91,59€ 95,78€
+Variabele kosten meerpersoonshuishouden 80% 201,14€ 214,29€
+Huishoudens belastingplichtig peildatum: 4-11-2025 3-11-2026
+Eén persoon 12.452 12.556
+Meer personen 22.262 22.449
+Totaal 34.714 35.005
+Tarieven afvalstoffenheffing 2026 Vast Variabel Tarief 2026
+Eenpersoonshuishouden 2026 212,20€ 91,59€ 303,80€
+Meerpersoonshuishouden 2026 212,20€ 201,14€ 413,35€
+Tarieven afvalstoffenheffing 2027 Vast Variabel Tarief 2027 Tarief 2026 Stijging (€) Stijging (%)
+Eenpersoonshuishouden 2027 217,41€ 95,78€ 313,19€ 303,80€ 9,40€ 3,1
+Meerpersoonshuishouden 2027 217,41€ 214,29€ 431,71€ 413,35€ 18,36€ 4,4
+Verdeling kosten Verdeling kosten

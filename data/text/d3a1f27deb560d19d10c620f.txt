@@ -1,0 +1,1279 @@
+BEGROTINGSWIJZIGING 2026 TOTAAL VERWERKT 6.073.279 0 0 0 0
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 6.073.279 0 0 0 0
+Begrotingswijziging is gemaakt door:Adviseurs totaal aanmeldingen 6.073.279 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Adviseurs categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2026 2027 2028 2029 2030
+20.341.671 0 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Treasury renteomslag 300150 100 25105 I Rente kasgeld 320.000 0 0 0 0 NJB26: Rentebate Schatkistbankieren
+Treasury renteomslag 300150 100 25105 U Rente kasgeld -666.748 0 0 0 0 NJB26: Lagere rente door positief bedrag lopende rekening
+Treasury renteomslag 300150 100 25102 U Rente opgenomen langlopende leningen -779.902 0 0 0 0 NJB26: Lagere rente door minder hoge langlopende leningen
+Treasury renteomslag 300150 100 25106 I Rente rekening courant 170.000 0 0 0 0 NJB26: Rentebate SvN Leningen
+Treasury renteomslag 300150 100 25107 I Overige rentebaten 70.000 0 0 0 0 NJB26: Rentebate Rekening-courant
+Mutaties reserves 199991 12000 36016 I Beschikking Reserve masterplan hoofdinfrastructuur735.012 0 0 0 0 NJB26: Leegboeken reserve Masterplan infrastructuur en storten in reserve kapitaallasten
+Mutaties reserves 199991 12000 36004 U Storting reserve kapitaallasten investeringen 735.012 0 0 0 0 NJB26: Leegboeken reserve Masterplan infrastructuur en storten in reserve kapitaallasten
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves 735.012 0 0 0 0 NJB26: Leegboeken reserve Masterplan infrastructuur en storten in reserve kapitaallasten
+Reserve kapitaallasten investeringen49551026 100 36099 I Stortingen reserves 1.420.096 0 0 0 0 NJB26: Leegboeken reserve Masterplan infrastructuur en storten in reserve kapitaallasten
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -685.084 0 0 0 0 NJB26: doteren aan reserve voor kapitaallasten Masterplan
+Mutaties reserves 199991 12220 36004 U Storting reserve kapitaallasten investeringen 685.084 0 0 0 0 NJB26: doteren aan reserve voor kapitaallasten Masterplan
+Overige lasten en baten 116071 33 20000 U Stelpost kapitaallasten -685.084 0 0 0 0 NJB26: doteren aan reserve voor kapitaallasten Masterplan
+Mutaties reserves 199991 12000 36016 U Storting Reserve Masterplan hoofdinfrastructuur -50.000 0 0 0 0 NJB26: Storting vanuit reserve parkeren naar masterplan elimineren
+Mutaties reserves 199991 12000 36015 I Beschikking reserve parkeren -50.000 0 0 0 0 NJB26: Storting vanuit reserve parkeren naar masterplan elimineren
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 I Stortingen reserves -50.000 0 0 0 0 NJB26: Storting vanuit reserve parkeren naar masterplan elimineren
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves -50.000 0 0 0 0 NJB26: Storting vanuit reserve parkeren naar masterplan elimineren
+Kunst en cultuur-algemeen 112010 3804 44282 U Inkomensoverdrachten overige instellingen en pers.
+30.000 0 0 0 0 NJB26: Overbruggingsmiddelen voor St.
+Pakhuis/Hiaat
+Mutaties reserves 199991 12510 36083 I Beschikking reserve incidentele bestemmingen 30.000 0 0 0 0 NJB26: Overbruggingsmiddelen voor St.
+Pakhuis/Hiaat
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves 30.000 0 0 0 0 NJB26: Overbruggingsmiddelen voor St.
+Pakhuis/Hiaat
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 30.000 0 0 0 0 NJB26: Overbruggingsmiddelen voor St.
+Pakhuis/Hiaat
+Documenten-algemeen 103010 100 27301 U Afschrijvingen 3.233 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Documenten-algemeen 103010 100 27401 U Rente -604 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Verkiezingen 103130 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Verkiezingen 103130 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Handhaving openbare orde en veiligheid104030 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Handhaving openbare orde en veiligheid104030 90100 27301 U Afschrijvingen -247 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Handhaving openbare orde en veiligheid104030 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Handhaving openbare orde en veiligheid104030 90100 27401 U Rente 2 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie brandweerkazernes104042 90137 27301 U Afschrijvingen -20.647 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie brandweerkazernes104042 90140 27301 U Afschrijvingen -1.738 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie brandweerkazernes104042 90343 27301 U Afschrijvingen 4.470 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie brandweerkazernes104042 90137 27401 U Rente 466 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie brandweerkazernes104042 90140 27401 U Rente 16 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie brandweerkazernes104042 90343 27401 U Rente 1.163 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Reddingsstation Hoorn 104043 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Reddingsstation Hoorn 104043 100 27401 U Rente 381 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Economische ontwikkeling 105010 100 27301 U Afschrijvingen -1.613 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Economische ontwikkeling 105010 100 27401 U Rente 15 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Toeristische voorzieningen 105020 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Toeristische voorzieningen 105020 100 27401 U Rente -1.981 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Niet-functiespecifieke gronden 105030 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 100 27301 U Afschrijvingen 59.968 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90100 27401 U Rente 266 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90106 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90109 27301 U Afschrijvingen 15.245 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90188 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90253 27301 U Afschrijvingen -2.475 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90346 27301 U Afschrijvingen 3.954 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 100 27401 U Rente -20.870 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90101 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90106 27401 U Rente -1.199 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90109 27401 U Rente -1.004 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90188 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90253 27401 U Rente 22 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Overige onroerende zaken 105041 90346 27401 U Rente -36 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud gebouwen 105042 100 27301 U Afschrijvingen -1 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Zaaknummer + titel: Adviseur: Toelichting op het besluit om de begroting te wijzigen:
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Groot onderhoud gebouwen 105042 100 27401 U Rente 480 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Nog niet in gebruik genomen grondexploitatie105082 100 27401 U Rente -147 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Duurzaamheidsbeleid 107081 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Duurzaamheidsbeleid 107081 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Volkshuisvesting-algemeen 108010 100 27301 U Afschrijvingen -35.311 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Volkshuisvesting-algemeen 108010 100 27401 U Rente -3.361 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheerskosten Oostereiland 108012 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheerskosten Oostereiland 108012 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Projecten/Activiteiten Hoorn Nrd Venenlaankwartier108080 100 27301 U Afschrijvingen -7.726 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Projecten/Activiteiten Hoorn Nrd Venenlaankwartier108080 2868 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Projecten/Activiteiten Hoorn Nrd Venenlaankwartier108080 100 27401 U Rente -3.368 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Projecten/Activiteiten Hoorn Nrd Venenlaankwartier108080 2868 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Exploitatie Sint Pietershof 108110 100 27301 U Afschrijvingen -1.703 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Exploitatie Sint Pietershof 108110 100 27401 U Rente 22 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Planvorming/evaluatie verhardingen109010 100 27301 U Afschrijvingen -1 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Planvorming/evaluatie verhardingen109010 100 27401 U Rente 1 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 100 27301 U Afschrijvingen -312.510 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 3592 27301 U Afschrijvingen -8.842 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 90346 27301 U Afschrijvingen 726 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 100 27401 U Rente -64.399 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 1120 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 3592 27401 U Rente -2.036 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verhardingen109011 90346 27401 U Rente -7 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Tractie 109013 100 27301 U Afschrijvingen 66.795 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Tractie 109013 100 27401 U Rente -29.797 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Dagelijks onderhoud sneeuw-/gladheidsbestrijding109021 100 27301 U Afschrijvingen -1.341 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Dagelijks onderhoud sneeuw-/gladheidsbestrijding109021 100 27401 U Rente 13 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Dagelijks onderhoud straatreiniging109023 100 27301 U Afschrijvingen -3.173 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Dagelijks onderhoud straatreiniging109023 100 27401 U Rente -180 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten openbare verlichting109031 100 27301 U Afschrijvingen -43.523 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten openbare verlichting109031 2867 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten openbare verlichting109031 100 27401 U Rente -9.653 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten openbare verlichting109031 2867 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten civiele kunstwerken109041 100 27301 U Afschrijvingen -103.850 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten civiele kunstwerken109041 90346 27301 U Afschrijvingen 11.598 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten civiele kunstwerken109041 100 27401 U Rente -30.807 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten civiele kunstwerken109041 90346 27401 U Rente -104 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Planvorming/evaluatie verkeer 109050 100 27301 U Afschrijvingen -6.410 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Planvorming/evaluatie verkeer 109050 100 27401 U Rente -866 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 100 27301 U Afschrijvingen -121.057 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 3591 27301 U Afschrijvingen -42.294 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 5735 27301 U Afschrijvingen -30.548 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 90130 27301 U Afschrijvingen -1.868 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 100 27401 U Rente -13.186 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 3591 27401 U Rente -5.878 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 5735 27401 U Rente 274 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten verkeer109051 90130 27401 U Rente 17 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten stadsmeubilair109061 100 27301 U Afschrijvingen -74.030 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten stadsmeubilair109061 100 27401 U Rente -9.703 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Openbaar vervoer 109070 100 27301 U Afschrijvingen 35.864 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Openbaar vervoer 109070 100 27401 U Rente -323 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+PvH Parkeergarage PvH 109079 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+PvH Parkeergarage PvH 109079 5848 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+PvH Parkeergarage PvH 109079 100 27401 U Rente -23.048 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+PvH Parkeergarage PvH 109079 5848 27401 U Rente -5.330 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Handhaving straatparkeren 109081 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Handhaving straatparkeren 109081 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Exploitatie parkeerapparatuur straatparkeren109082 100 27301 U Afschrijvingen -5.261 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Exploitatie parkeerapparatuur straatparkeren109082 100 27401 U Rente -3.453 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Parkeergarages 109086 100 27301 U Afschrijvingen -11.659 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Parkeergarages 109086 90326 27301 U Afschrijvingen -5.827 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Parkeergarages 109086 100 27401 U Rente 104 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Parkeergarages 109086 90326 27401 U Rente -24 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Fietsparkeren 109088 100 27301 U Afschrijvingen -6.667 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Fietsparkeren 109088 100 27401 U Rente -900 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Markten/standplaatsen 109090 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Planvorming/evaluatie groenvoorzieningen109100 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Planvorming/evaluatie groenvoorzieningen109100 100 27401 U Rente -7.182 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten groenvoorzieningen109101 100 27301 U Afschrijvingen 2.462 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten groenvoorzieningen109101 100 27401 U Rente -11.739 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie dierenweiden109111 90122 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie dierenweiden109111 90122 27401 U Rente 745 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie dierenweiden109111 90123 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie dierenweiden109111 90123 27401 U Rente 2 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Speelterreinen en -weiden 109120 100 27301 U Afschrijvingen 5.851 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Speelterreinen en -weiden 109120 100 27401 U Rente -2.298 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Kermis 109130 100 27301 U Afschrijvingen 7.678 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Kermis 109130 100 27401 U Rente -70 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+(Binnen)havens en waterwegen 109140 100 27301 U Afschrijvingen 10.300 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+(Binnen)havens en waterwegen 109140 100 27401 U Rente -108 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie (binnen)havens109141 90321 27301 U Afschrijvingen -3 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie (binnen)havens109141 90321 27401 U Rente -1 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderh./project. waterg./-partijen/oevervrz.109151 100 27401 U Rente -3.046 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten begraafplaatsen109172 100 27301 U Afschrijvingen -1.606 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten begraafplaatsen109172 90130 27301 U Afschrijvingen -8.179 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten begraafplaatsen109172 90133 27301 U Afschrijvingen 39.001 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten begraafplaatsen109172 100 27401 U Rente -866 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten begraafplaatsen109172 90130 27401 U Rente -9 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Groot onderhoud/projecten begraafplaatsen109172 90133 27401 U Rente -341 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Wijkbeheer 109180 100 27301 U Afschrijvingen 943 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Wijkbeheer 109180 100 27401 U Rente -9 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Programma Kersenboogerd 109181 100 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Programma Kersenboogerd 109181 100 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Investeringen riolering 109202 100 27301 U Afschrijvingen -336.159 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Investeringen riolering 109202 100 27401 U Rente -44.393 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Sport algemeen 111010 100 27301 U Afschrijvingen -2.765 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Sport algemeen 111010 100 27401 U Rente -927 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Sporthal de Kers 111011 90173 27301 U Afschrijvingen -25.699 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Sporthal de Kers 111011 90173 27401 U Rente -2.711 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Sporthal De Opgang-hal/zaal/squash111014 90170 27301 U Afschrijvingen -55.269 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Sporthal De Opgang-hal/zaal/squash111014 90170 27401 U Rente -8.072 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Kunstijsbaan 111015 100 27301 U Afschrijvingen 17.944 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Kunstijsbaan 111015 100 27401 U Rente -107 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 100 27301 U Afschrijvingen -12.436 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 3504 27301 U Afschrijvingen 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90160 27301 U Afschrijvingen -1.204 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90161 27301 U Afschrijvingen -746 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90163 27301 U Afschrijvingen -2 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90173 27301 U Afschrijvingen 197 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 100 27401 U Rente -557 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 3504 27401 U Rente 0 0 0 0 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90160 27401 U Rente -188 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90161 27401 U Rente 7 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90163 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Gymnastieklokalen/Sportzalen 111016 90173 27401 U Rente -2 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie zwembaden 111017 2088 27301 U Afschrijvingen -44.674 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie zwembaden 111017 90179 27301 U Afschrijvingen -244.738 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie zwembaden 111017 2088 27401 U Rente -6.101 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie zwembaden 111017 90179 27401 U Rente 1.522 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3201 27301 U Afschrijvingen 2.030 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3202 27301 U Afschrijvingen 2.298 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3203 27301 U Afschrijvingen -932 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3204 27301 U Afschrijvingen -2.401 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3207 27301 U Afschrijvingen -1.999 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3208 27301 U Afschrijvingen -11.367 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3210 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3211 27301 U Afschrijvingen -1.185 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3214 27301 U Afschrijvingen 1.363 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3215 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3221 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3263 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3504 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3984 27301 U Afschrijvingen -1.455 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 7871 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 100 27401 U Rente -2.909 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3201 27401 U Rente -75 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3202 27401 U Rente -21 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3203 27401 U Rente 68 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3204 27401 U Rente -2 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3207 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3208 27401 U Rente -107 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3210 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3211 27401 U Rente -153 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3214 27401 U Rente -2.467 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3215 27401 U Rente -33 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3221 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3263 27401 U Rente 1 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3504 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Beheer sportaccommodaties 111020 3984 27401 U Rente 26 NJB2026: Aanpassen Kapitaallasten
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Beheer sportaccommodaties 111020 7871 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 100 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3202 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3203 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3208 27301 U Afschrijvingen -514 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3209 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3984 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 100 27401 U Rente -2.785 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3202 27401 U Rente -763 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3203 27401 U Rente -4 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3208 27401 U Rente 5 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3209 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Onderhoud sportcomplexen 111021 3984 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+40/60-regeling sport 111042 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+40/60-regeling sport 111042 3202 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+40/60-regeling sport 111042 100 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+40/60-regeling sport 111042 3202 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Recreatieschap Westfriesland 111050 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Recreatieschap Westfriesland 111050 100 27401 U Rente -563 NJB2026: Aanpassen Kapitaallasten
+Openluchtrecreatieterreinen-algemeen111070 90177 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie openluchtrecreatieterreinen111071 90178 27301 U Afschrijvingen -625 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie openluchtrecreatieterreinen111071 90177 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie openluchtrecreatieterreinen111071 90178 27401 U Rente 6 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie theater Het Pakhuis112013 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie theater Het Pakhuis112013 100 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Museum Stoomtram 112014 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Museum Stoomtram 112014 100 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Vredehofstr.7a,Blauwe Schuit112032 90263 27301 U Afschrijvingen 946 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Vredehofstr.7a,Blauwe Schuit112032 90263 27401 U Rente -8 NJB2026: Aanpassen Kapitaallasten
+Schouwburg en Congrescentrum Het Park112040 90275 27301 U Afschrijvingen 623 NJB2026: Aanpassen Kapitaallasten
+Schouwburg en Congrescentrum Het Park112040 90275 27401 U Rente -5 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Westerdijk 4, schouwburg112041 100 27301 U Afschrijvingen -13.333 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Westerdijk 4, schouwburg112041 90275 27301 U Afschrijvingen -112.380 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Westerdijk 4, schouwburg112041 100 27401 U Rente 120 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Westerdijk 4, schouwburg112041 90275 27401 U Rente 800 NJB2026: Aanpassen Kapitaallasten
+Westfries Museum-Personeelsbudgetten112050 100 27301 U Afschrijvingen -5.529 NJB2026: Aanpassen Kapitaallasten
+Westfries Museum-Personeelsbudgetten112050 90265 27301 U Afschrijvingen -9.648 NJB2026: Aanpassen Kapitaallasten
+Westfries Museum-Personeelsbudgetten112050 100 27401 U Rente 50 NJB2026: Aanpassen Kapitaallasten
+Westfries Museum-Personeelsbudgetten112050 90265 27401 U Rente 7 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Westfries Museum112052 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Westfries Museum112052 100 27401 U Rente -106.804 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie ateliers 112086 90260 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie ateliers 112086 90260 27401 U Rente -47 NJB2026: Aanpassen Kapitaallasten
+Westfries Archief-huisvesting 112111 100 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+Westfries Archief-huisvesting 112111 90108 27301 U Afschrijvingen 17.018 NJB2026: Aanpassen Kapitaallasten
+Westfries Archief-huisvesting 112111 100 27401 U Rente -829 NJB2026: Aanpassen Kapitaallasten
+Westfries Archief-huisvesting 112111 90108 27401 U Rente -247 NJB2026: Aanpassen Kapitaallasten
+Onderhoud/restauratie/vergunning monumenten112120 100 27301 U Afschrijvingen -14.109 NJB2026: Aanpassen Kapitaallasten
+Onderhoud/restauratie/vergunning monumenten112120 100 27401 U Rente -6 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 100 27301 U Afschrijvingen -5.155 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3304 27301 U Afschrijvingen -2.130 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3306 27301 U Afschrijvingen -1.818 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3308 27301 U Afschrijvingen -5.608 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3315 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3322 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3334 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3342 27301 U Afschrijvingen -8.852 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3352 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3362 27301 U Afschrijvingen -13.377 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3374 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3376 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3382 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3384 27301 U Afschrijvingen 15.611 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3504 27301 U Afschrijvingen -228 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3524 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3528 27301 U Afschrijvingen -3.166 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3532 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3536 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3540 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3544 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3548 27301 U Afschrijvingen -3.989 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3552 27301 U Afschrijvingen -1 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3560 27301 U Afschrijvingen 8.290 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3564 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3572 27301 U Afschrijvingen 13.616 NJB2026: Aanpassen Kapitaallasten
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Primair onderwijs-onderwijshuisvesting113011 3578 27301 U Afschrijvingen 7.477 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90145 27301 U Afschrijvingen -559 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90147 27301 U Afschrijvingen 2.565 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90148 27301 U Afschrijvingen 886 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90149 27301 U Afschrijvingen 1.028 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 100 27401 U Rente -180 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3304 27401 U Rente -128 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3306 27401 U Rente 16 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3308 27401 U Rente -724 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3315 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3322 27401 U Rente -1.127 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3334 27401 U Rente -718 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3342 27401 U Rente -743 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3352 27401 U Rente -628 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3362 27401 U Rente -1.038 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3374 27401 U Rente -1.492 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3376 27401 U Rente -1.575 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3382 27401 U Rente -1.362 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3384 27401 U Rente -141 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3504 27401 U Rente 4.502 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3508 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3520 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3524 27401 U Rente -661 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3528 27401 U Rente -884 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3532 27401 U Rente -652 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3536 27401 U Rente -798 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3540 27401 U Rente -767 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3544 27401 U Rente -1.729 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3548 27401 U Rente -1.498 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3552 27401 U Rente -1.603 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3560 27401 U Rente 296 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3564 27401 U Rente 27 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3572 27401 U Rente -286 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 3578 27401 U Rente -67 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90145 27401 U Rente -18 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90147 27401 U Rente -24 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90148 27401 U Rente -12 NJB2026: Aanpassen Kapitaallasten
+Primair onderwijs-onderwijshuisvesting113011 90149 27401 U Rente -258 NJB2026: Aanpassen Kapitaallasten
+Openbaar basisonderwijs-beheer en expl.schoolgeb.113018 100 27301 U Afschrijvingen -1.000 NJB2026: Aanpassen Kapitaallasten
+Openbaar basisonderwijs-beheer en expl.schoolgeb.113018 100 27401 U Rente 9 NJB2026: Aanpassen Kapitaallasten
+Voortgezet onderwijs-onderwijshuisvesting113021 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Voortgezet onderwijs-onderwijshuisvesting113021 3306 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Voortgezet onderwijs-onderwijshuisvesting113021 3675 27301 U Afschrijvingen 9.151 NJB2026: Aanpassen Kapitaallasten
+Voortgezet onderwijs-onderwijshuisvesting113021 100 27401 U Rente -2 NJB2026: Aanpassen Kapitaallasten
+Voortgezet onderwijs-onderwijshuisvesting113021 3306 27401 U Rente -2 NJB2026: Aanpassen Kapitaallasten
+Voortgezet onderwijs-onderwijshuisvesting113021 3675 27401 U Rente -83 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 100 27301 U Afschrijvingen -4.085 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3402 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3414 27301 U Afschrijvingen 27.409 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3426 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3426 27401 U Rente 27 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3604 27301 U Afschrijvingen -9.114 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3611 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 100 27401 U Rente -28.968 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3402 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3404 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3414 27401 U Rente -606 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3422 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3604 27401 U Rente 121 NJB2026: Aanpassen Kapitaallasten
+Speciaal (voortgezet) onderwijs- huisvesting113031 3611 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Overige onderwijssubsidies 113074 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Overige onderwijssubsidies 113074 100 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Peuterspeelzaalwerk 114020 100 27301 U Afschrijvingen -9.093 NJB2026: Aanpassen Kapitaallasten
+Peuterspeelzaalwerk 114020 100 27401 U Rente -82 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Manifesto 114076 90273 27301 U Afschrijvingen 568 NJB2026: Aanpassen Kapitaallasten
+Beheer en exploitatie Manifesto 114076 90273 27401 U Rente 54 NJB2026: Aanpassen Kapitaallasten
+Opvang Oekrainers 114200 100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Opvang Oekrainers 114200 4233 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Opvang Oekrainers 114200 100 27401 U Rente 1.008 NJB2026: Aanpassen Kapitaallasten
+Opvang Oekrainers 114200 4233 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+Sociaal Domein, algemeen 120010 100 27301 U Afschrijvingen -2.780 NJB2026: Aanpassen Kapitaallasten
+Sociaal Domein, algemeen 120010 100 27401 U Rente 25 NJB2026: Aanpassen Kapitaallasten
+Informatiemanagement 300430 100 27301 U Afschrijvingen -45.744 NJB2026: Aanpassen Kapitaallasten
+Informatiemanagement 300430 100 27401 U Rente -412 NJB2026: Aanpassen Kapitaallasten
+ICT infrastructuur 300450 100 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+ICT infrastructuur 300450 100 27401 U Rente -3.031 NJB2026: Aanpassen Kapitaallasten
+Kantoor-/bureaubehoeften 300550 100 27301 U Afschrijvingen 1 NJB2026: Aanpassen Kapitaallasten
+Kantoor-/bureaubehoeften 300550 100 27401 U Rente 376 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 100 27301 U Afschrijvingen 113.824 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90100 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90102 27301 U Afschrijvingen 8.722 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90103 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90104 27301 U Afschrijvingen 0 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90110 27301 U Afschrijvingen -1.185 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 100 27401 U Rente -6.691 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90100 27401 U Rente -22.297 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90102 27401 U Rente 1.425 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90103 27401 U Rente -67 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90104 27401 U Rente -70 NJB2026: Aanpassen Kapitaallasten
+Huisvesting 300600 90110 27401 U Rente 2.180 NJB2026: Aanpassen Kapitaallasten
+MFA De Grote Beer 300801 100 27301 U Afschrijvingen -692 NJB2026: Aanpassen Kapitaallasten
+MFA De Grote Beer 300801 90208 27301 U Afschrijvingen -10.169 NJB2026: Aanpassen Kapitaallasten
+MFA De Grote Beer 300801 100 27401 U Rente 6 NJB2026: Aanpassen Kapitaallasten
+MFA De Grote Beer 300801 90172 27401 U Rente 0 NJB2026: Aanpassen Kapitaallasten
+MFA De Grote Beer 300801 90208 27401 U Rente 91 NJB2026: Aanpassen Kapitaallasten
+MFA De Huesmolen 300802 90171 27301 U Afschrijvingen -651 NJB2026: Aanpassen Kapitaallasten
+MFA De Huesmolen 300802 90171 27401 U Rente 7 NJB2026: Aanpassen Kapitaallasten
+Wijkcentrum De Cogge 300803 90205 27301 U Afschrijvingen -3.229 NJB2026: Aanpassen Kapitaallasten
+Wijkcentrum De Cogge 300803 90205 27401 U Rente 33 NJB2026: Aanpassen Kapitaallasten
+Wijkcentrum Kersenboogerd 300804 90206 27301 U Afschrijvingen -2.159 NJB2026: Aanpassen Kapitaallasten
+Wijkcentrum Kersenboogerd 300804 90206 27401 U Rente 48 NJB2026: Aanpassen Kapitaallasten
+MFA De Kreek 300828 100 27301 U Afschrijvingen -9.232 NJB2026: Aanpassen Kapitaallasten
+MFA De Kreek 300828 100 27401 U Rente 81 NJB2026: Aanpassen Kapitaallasten
+Semi permanent gebouw De lage Hoek300833 100 27301 U Afschrijvingen -74.738 NJB2026: Aanpassen Kapitaallasten
+Semi permanent gebouw De lage Hoek300833 100 27401 U Rente 673 NJB2026: Aanpassen Kapitaallasten
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves -1.331 NJB2026: 5-111015 activa 3761 uitbreiding parkeerterrein kunstijsbaan
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves -2.814 NJB2026: 2-109051 activa 3803 kwaliteitsslag fietsvoorzieningen binnenstad
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves -2.405 NJB2026: 2-109051 activa 3805 aanp.router.
+Centrum en Haven
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves -7.971 NJB2026: 2-109011 activa 4381 herinrichting diverse straten binnenstad
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves 0 NJB2026: 2-109082 activa 4485 aanleg parkeren stadsstrand 2020
+Reserve Parkeren 49551004 100 36099 U Beschikkingen reserves -7.567 NJB2026: 2-109088 activa 4555 verbeteren fietsparkeren KN 2023
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -38.266 NJB2026: 2-109051 activa 3763 uitv.masterplan hoofdinfr.str.2008
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -7.275 NJB2026: 2-109050 activa 4461 verbeteren toegankelijkheid bushaltes
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -883 NJB2026: 2-109051 activa 4396 voetgangersoversteek Liornestraat 2017
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -1.058 NJB2026: 2-109011 activa 4383 fietsstroken Spoorsingel
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -12.746 NJB2026: 2-109051 activa 4325 reconstructie kruispunt IJsselweg/Dinkelweg 2015
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -2.130 NJB2026: 2-109051 activa 4278 Oostergouw/Nieuwe Steen reconstructie kruispunt
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -66.002 NJB2026: 2-109051 activa 4216 kruising Oostergouw/De Factorij
+Reserve Masterplan Hoofdinfrastructuur49551005 100 36099 U Beschikkingen reserves -6.916 NJB2026: 2-109051 activa 4335 reconstructie kruispunt Zwaagmergouw/Dorpsstraat 2
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -2.966 NJB2026: 2-109070 activa 4126 Spoorsingel 2
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -589 NJB2026: 2-109041 activa 4483 damwand Dampten 16 2020
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -13.693 NJB2026: 2-109051 activa 4464 omvormen rotonde HHNK 2019
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -5.330 NJB2026: 2-109079 activa 4403 voorbereidingskrediet Poort van Hoorn 2017
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -22.629 NJB2026: 2-109051 activa 4402 oplossen knelpunten Turborotonde 2017
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -11.043 NJB2026: 2-109011 activa 4401 verplaatsen busstation 2017
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -2.146 NJB2026: 2-109011 activa 4371 PVH: aankoop grond aansluiting Maelsonstraat 2016
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -16.923 NJB2026: 2-109051 activa 4328 aanleg Maelsonstraat 2015
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves 217 NJB2026: 4-113011/300828 activa 4059 school 1 Bangert en Oosterpolder (16 groepen)
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves 0 NJB2026: 6-114020/300828 activa 4060 peuterspeelzaal icm school 1
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves -3.521 NJB2026: 4-113011/300828 activa 4441 interne aanpassingen 1e school MFA de Kreek 2018
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves -4.257 NJB2026: 4-113011/300833 activa 3938 grond semi-permanent schoolgebouw B/O
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves 134 NJB2026: 4-113011/300828 activa 4062 school 2 Bangert en Oosterpolder (16 groepen) 2016
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves -8.348 NJB2026: 4-113011/300828 activa 4076 grondkosten MFA B/O
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves -3.867 NJB2026: 4-113011/300828 activa 4440 grond 2e school MFA de Kreek 2018
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves 0 NJB2026: 6-120011/300828 activa 4057 buurthuis Bangert en Oosterpolder
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves 0 NJB2026: 6-114020/300828 activa 4056 kinderopvangvoorz.
+Bangert en Oosterpolder
+Reserve welzijnsvoorzieningen Bangert Oosterpolder49551019 100 36099 U Beschikkingen reserves 153 NJB2026: 5-111010/300828 activa 4055 sporthal Bangert en Oosterpolder
+Reserve kunstijsbaan 49551025 100 36099 U Beschikkingen reserves 15.388 NJB2026: 5-111015 activa 2858 definitiefase kunstijsbaan
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -9.743 NJB2026: 0-112111 activa 4673 LBK en inbraaksignaleringsinstallatie WFA
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -14.834 NJB2026: 5-112041 activa 4380 nieuwbouw Schouwburg 19989
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -1.239 NJB2026: 8-108010 activa 4391 kwaliteitsverb.
+Openb.
+Ruimte WC Grote Beer 2017
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 6.782 NJB2026: 2-109041 activa 4393 programma Grote Waal: opgangen naar de dijk 2017
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -6.243 NJB2026: 4-113011 activa 3525 uitbreiding Ooievaarsnest tbv B/O
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -7.480 NJB2026: 6-114020 activa 3576 aanpassingen peuterspeelzalen
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -5.908 NJB2026: 5-112050 activa 3712 renovatie Westfries Museum
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -73.348 NJB2026: 4-113011/300833 activa 3722 semi permanente voorzieningen B/O
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 5-111017 activa 3990 Waterhoorn: uitvoeringsbegeleiding/bestek
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 5-111017 activa 3991 Waterhoorn: vervangen LBK's en aanpassingen leidingwerk
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 5-111017 activa 3992 Waterhoorn: bouwkundige werkzaamheden LBK's
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -7.014 NJB2026: 8-105041 activa 3997 energiebesparende maatregelen gemeentelijke gebouwen
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -14.101 NJB2026: 8-108010 activa 4256 verbeteren woonomgeving Sterflats 2013
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 1 NJB2026: 8-105041 activa 4266 zonnepanelen gemeentelijke panden 2014 kavel 2A
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -4.112 NJB2026: 5-111017 activa 4364 warmtekoppeling Waterhoorn 2015
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 8-105041 activa 4366 zonnepanelen maatschappelijk vastgoed 2016
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -2 NJB2026: 2-109141 activa 4370 haven toiletgebouw 2016
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 1.979 NJB2026: 5-105020 activa 2796 ontwikkeling Jachthaven/Nautisch kwartier
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -3.171 NJB2026: 2 - 109011 activa 4400 Brug Holenkwartier
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -4.755 NJB2026: 2-109141 activa 4375 brug Zomervaart
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 5-109120 activa 4408 beweeg- en ontmoettuin
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -3.192 NJB2026: 2-109041 activa 4434 vaarduiker Siriusstraat 2018
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 2-109061 activa 4435 halteborden Hoorn citytours 2018
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 8-108080 activa 4454 verbetering parkeerterr.achterz.Blauwe Schuit 2019
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 1 NJB2026: 2-109031 activa 4458 renovatie OV Hrn Nrd-Venenlaankw.
+2019
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -7.693 NJB2026: 2-109041 activa 4469 aanleg vaarduiker de Weel 2020
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 487 NJB2026: 98-300600 activa 4489 bruikleen bureaustoelen 2020
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -244 NJB2026: 1-104030 activa 4503 autostalling Nieuwe Steen 2021
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -78.270 NJB2026: 1-109061 activa 4627 ondergrondse afvalcontainers
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves -46.155 NJB2026: 1-109061 activa 18011 software
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 0 NJB2026: 5-111020 activa 18019 grassmaster verv.
+Door kunstgrasv.
+Westfriezen 2018
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -2.570 NJB2026: 4-113011 activa 4410 uitbreiding Tweemaster
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -3.393 NJB2026: 4-113031 activa 4438 tijdelijke huisvesting Spinaker
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -717 NJB2026: 4-113011/300833 activa 4439 bouwkundige aanpassingen de Vierhoek 2018
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -3.138 NJB2026: 4-113011 activa 4455 uitbreiding schoolgebouw Huesmolen 61 2019
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -2.988 NJB2026: 4-113011 activa 4456 uitbreiding schoolgebouw Ark 1 2019
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -1.589 NJB2026: 4-113031 activa 4462 (ver)nieuwbouw Spinaker 2019
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves 0 NJB2026: 4-113011 activa 4492 nieuwbouw IKC Montessori 2020
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -341 NJB2026: 4-113011 activa 4495 uitbreiding en vervanging de Tandem 2020
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -661 NJB2026: 4-113011 activa 4513 verduurzaming Ooievaarsnest
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves -1.829 NJB2026: 4-113011 activa 4514 verduurzaming Zonnewijzer
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves 948 NJB2026: 4-113018 activa 20015 luchtkwaliteit brede scholen
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves 11.493 NJB2026: 2-109041 activa 4135 botterwerf Oostereiland steiger 2011
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves 719 NJB2026: 2-109011 activa 4134 botterwerf Oostereiland inrichting 2011
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves 0 NJB2026: 2-109011 activa 3976 Oostereiland inrichting openbaar gebied
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves -22.104 NJB2026: 8-108012 activa 4007 grond Oostereiland
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves 0 NJB2026: 8-108012 activa 4008 gebouw Oostereiland
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves 3.918 NJB2026: 8-105041 activa 4133 botterwerf Oostereiland bouwkosten 2011
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves -1 NJB2026: 2-109041 activa 3930 Oostereiland kade/oever
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves -10.900 NJB2026: 2-109041 activa 3931 Oostereiland brug
+Reserve Oostereiland 49551042 100 36099 U Beschikkingen reserves 62.217 NJB2026: 8-105041 activa 3932 aank + exploit. vm gevangenis Oostereiland
+Reserve 40-60 regeling Sport 49551054 100 36099 U Beschikkingen reserves -15.423 NJB2026: 5 111020 dekking bijdrage clubacc.
+HSV Sport (activa 22001)
+Reserve 40-60 regeling Sport 49551054 100 36099 U Beschikkingen reserves -27 NJB2026: 5 111020 activa 4350 Renovatie clubgebouwe
+Reserve onderwijshuisvesting PO en (V)SO49551027 100 36099 U Beschikkingen reserves 0 NJB2026: 4 113011 realisatie IKEC
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 13.326 NJB2026: 2-109051 activa 3763 uitv.masterplan hoofdinfr.str.2008
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 3.746 NJB2026: 2-109050 activa 4461 verbeteren toegankelijkheid bushaltes
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 661 NJB2026: 2-109051 activa 4396 voetgangersoversteek Liornestraat 2017
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 462 NJB2026: 2-109011 activa 4383 fietsstroken Spoorsingel
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 5.563 NJB2026: 2-109051 activa 4325 reconstructie kruispunt IJsselweg/Dinkelweg 2015
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 828 NJB2026: 2-109051 activa 4278 Oostergouw/Nieuwe Steen reconstructie kruispunt
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 27.394 NJB2026: 2-109051 activa 4216 kruising Oostergouw/De Factorij
+Reserve kapitaallasten investeringen49551026 100 36099 U Beschikkingen reserves 1.851 NJB2026: 2-109051 activa 4335 reconstructie kruispunt Zwaagmergouw/Dorpsstraat 2
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -447.593 NJB2025: Wijziging Kapitaallasten Reserves
+Mutaties reserves 199991 12530 36015 I Beschikking reserve parkeren -1.331 NJB2026: 5-111015 activa 3761 uitbreiding parkeerterrein kunstijsbaan
+Mutaties reserves 199991 12220 36015 I Beschikking reserve parkeren -2.814 NJB2026: 2-109051 activa 3803 kwaliteitsslag fietsvoorzieningen binnenstad
+Mutaties reserves 199991 12220 36015 I Beschikking reserve parkeren -2.405 NJB2026: 2-109051 activa 3805 aanp.router.
+Centrum en Haven
+Mutaties reserves 199991 12210 36015 I Beschikking reserve parkeren -7.971 NJB2026: 2-109011 activa 4381 herinrichting diverse straten binnenstad
+Mutaties reserves 199991 12230 36015 I Beschikking reserve parkeren 0 NJB2026: 2-109082 activa 4485 aanleg parkeren stadsstrand 2020
+Mutaties reserves 199991 12230 36015 I Beschikking reserve parkeren -7.567 NJB2026: 2-109088 activa 4555 verbeteren fietsparkeren KN 2023
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-38.266 NJB2026: 2-109051 activa 3763 uitv.masterplan hoofdinfr.str.2008
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-7.275 NJB2026: 2-109050 activa 4461 verbeteren toegankelijkheid bushaltes
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur -883 NJB2026: 2-109051 activa 4396 voetgangersoversteek Liornestraat 2017
+Mutaties reserves 199991 12210 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-1.058 NJB2026: 2-109011 activa 4383 fietsstroken Spoorsingel
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-12.746 NJB2026: 2-109051 activa 4325 reconstructie kruispunt IJsselweg/Dinkelweg 2015
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-2.130 NJB2026: 2-109051 activa 4278 Oostergouw/Nieuwe Steen reconstructie kruispunt
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-66.002 NJB2026: 2-109051 activa 4216 kruising Oostergouw/De Factorij
+Mutaties reserves 199991 12220 36016 I Beschikking Reserve masterplan hoofdinfrastructuur-6.916 NJB2026: 2-109051 activa 4335 reconstructie kruispunt Zwaagmergouw/Dorpsstraat 2
+Mutaties reserves 199991 12220 36017 I Beschikking reserve Poort van Hoorn -2.966 NJB2026: 2-109070 activa 4126 Spoorsingel 2
+Mutaties reserves 199991 12210 36017 I Beschikking reserve Poort van Hoorn -589 NJB2026: 2-109041 activa 4483 damwand Dampten 16 2020
+Mutaties reserves 199991 12210 36017 I Beschikking reserve Poort van Hoorn -13.693 NJB2026: 2-109051 activa 4464 omvormen rotonde HHNK 2019
+Mutaties reserves 199991 12230 36017 I Beschikking reserve Poort van Hoorn -5.330 NJB2026: 2-109079 activa 4403 voorbereidingskrediet Poort van Hoorn 2017
+Mutaties reserves 199991 12220 36017 I Beschikking reserve Poort van Hoorn -22.629 NJB2026: 2-109051 activa 4402 oplossen knelpunten Turborotonde 2017
+Mutaties reserves 199991 12210 36017 I Beschikking reserve Poort van Hoorn -11.043 NJB2026: 2-109011 activa 4401 verplaatsen busstation 2017
+Mutaties reserves 199991 12210 36017 I Beschikking reserve Poort van Hoorn -2.146 NJB2026: 2-109011 activa 4371 PVH: aankoop grond aansluiting Maelsonstraat 2016
+Mutaties reserves 199991 12210 36017 I Beschikking reserve Poort van Hoorn -16.923 NJB2026: 2-109051 activa 4328 aanleg Maelsonstraat 2015
+Mutaties reserves 199991 12440 36058 I Beschikking reserve welzijnsvoorzieningen B/O 217 NJB2026: 4-113011/300828 activa 4059 school 1 Bangert en Oosterpolder (16 groepen)
+Mutaties reserves 199991 12630 36058 I Beschikking reserve welzijnsvoorzieningen B/O 0 NJB2026: 6-114020/300828 activa 4060 peuterspeelzaal icm school 1
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Mutaties reserves 199991 12440 36058 I Beschikking reserve welzijnsvoorzieningen B/O -3.521 NJB2026: 4-113011/300828 activa 4441 interne aanpassingen 1e school MFA de Kreek 2018
+Mutaties reserves 199991 12440 36058 I Beschikking reserve welzijnsvoorzieningen B/O -4.257 NJB2026: 4-113011/300833 activa 3938 grond semi-permanent schoolgebouw B/O
+Mutaties reserves 199991 12440 36058 I Beschikking reserve welzijnsvoorzieningen B/O 134 NJB2026: 4-113011/300828 activa 4062 school 2 Bangert en Oosterpolder (16 groepen) 2016
+Mutaties reserves 199991 12440 36058 I Beschikking reserve welzijnsvoorzieningen B/O -8.348 NJB2026: 4-113011/300828 activa 4076 grondkosten MFA B/O
+Mutaties reserves 199991 12440 36058 I Beschikking reserve welzijnsvoorzieningen B/O -3.867 NJB2026: 4-113011/300828 activa 4440 grond 2e school MFA de Kreek 2018
+Mutaties reserves 199991 12630 36058 I Beschikking reserve welzijnsvoorzieningen B/O 0 NJB2026: 6-120011/300828 activa 4057 buurthuis Bangert en Oosterpolder
+Mutaties reserves 199991 12630 36058 I Beschikking reserve welzijnsvoorzieningen B/O 0 NJB2026: 6-114020/300828 activa 4056 kinderopvangvoorz.
+Bangert en Oosterpolder
+Mutaties reserves 199991 12530 36058 I Beschikking reserve welzijnsvoorzieningen B/O 153 NJB2026: 5-111010/300828 activa 4055 sporthal Bangert en Oosterpolder
+Mutaties reserves 199991 12530 36065 I Beschikking reserve kunstijsbaan 15.388 NJB2026: 5-111015 activa 2858 definitiefase kunstijsbaan
+Mutaties reserves 199991 12000 36004 I Beschikking reserve kapitaallasten investeringen -9.743 NJB2026: 0-112111 activa 4673 LBK en inbraaksignaleringsinstallatie WFA
+Mutaties reserves 199991 12510 36004 I Beschikking reserve kapitaallasten investeringen -14.834 NJB2026: 5-112041 activa 4380 nieuwbouw Schouwburg 19989
+Mutaties reserves 199991 12820 36004 I Beschikking reserve kapitaallasten investeringen -1.239 NJB2026: 8-108010 activa 4391 kwaliteitsverb.
+Openb.
+Ruimte WC Grote Beer 2017
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen 6.782 NJB2026: 2-109041 activa 4393 programma Grote Waal: opgangen naar de dijk 2017
+Mutaties reserves 199991 12240 36004 I Beschikking reserve kapitaallasten investeringen -6.243 NJB2026: 4-113011 activa 3525 uitbreiding Ooievaarsnest tbv B/O
+Mutaties reserves 199991 12510 36004 I Beschikking reserve kapitaallasten investeringen -5.908 NJB2026: 5-112050 activa 3712 renovatie Westfries Museum
+Mutaties reserves 199991 12240 36004 I Beschikking reserve kapitaallasten investeringen -73.348 NJB2026: 4-113011/300833 activa 3722 semi permanente voorzieningen B/O
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 5-111017 activa 3990 Waterhoorn: uitvoeringsbegeleiding/bestek
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 5-111017 activa 3991 Waterhoorn: vervangen LBK's en aanpassingen leidingwerk
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 5-111017 activa 3992 Waterhoorn: bouwkundige werkzaamheden LBK's
+Mutaties reserves 199991 12820 36004 I Beschikking reserve kapitaallasten investeringen -7.014 NJB2026: 8-105041 activa 3997 energiebesparende maatregelen gemeentelijke gebouwen
+Mutaties reserves 199991 12820 36004 I Beschikking reserve kapitaallasten investeringen -14.101 NJB2026: 8-108010 activa 4256 verbeteren woonomgeving Sterflats 2013
+Mutaties reserves 199991 12820 36004 I Beschikking reserve kapitaallasten investeringen 1 NJB2026: 8-105041 activa 4266 zonnepanelen gemeentelijke panden 2014 kavel 2A
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen -4.112 NJB2026: 5-111017 activa 4364 warmtekoppeling Waterhoorn 2015
+Mutaties reserves 199991 12820 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 8-105041 activa 4366 zonnepanelen maatschappelijk vastgoed 2016
+Mutaties reserves 199991 12240 36004 I Beschikking reserve kapitaallasten investeringen -2 NJB2026: 2-109141 activa 4370 haven toiletgebouw 2016
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen 1.979 NJB2026: 5-105020 activa 2796 ontwikkeling Jachthaven/Nautisch kwartier
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen -3.171 NJB2026: 2 - 109011 activa 4400 Brug Holenkwartier
+Mutaties reserves 199991 12240 36004 I Beschikking reserve kapitaallasten investeringen -4.755 NJB2026: 2-109141 activa 4375 brug Zomervaart
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 5-109120 activa 4408 beweeg- en ontmoettuin
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen -3.192 NJB2026: 2-109041 activa 4434 vaarduiker Siriusstraat 2018
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 2-109061 activa 4435 halteborden Hoorn citytours 2018
+Mutaties reserves 199991 12840 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 8-108080 activa 4454 verbetering parkeerterr.achterz.Blauwe Schuit 2019
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen -7.480 NJB2026: 6-114020 activa 3576 aanpassingen peuterspeelzalen
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen 1 NJB2026: 2-109031 activa 4458 renovatie OV Hrn Nrd-Venenlaankw.
+2019
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen -7.693 NJB2026: 2-109041 activa 4469 aanleg vaarduiker de Weel 2020
+Mutaties reserves 199991 12980 36004 I Beschikking reserve kapitaallasten investeringen 487 NJB2026: 98-300600 activa 4489 bruikleen bureaustoelen 2020
+Mutaties reserves 199991 12120 36004 I Beschikking reserve kapitaallasten investeringen -244 NJB2026: 1-104030 activa 4503 autostalling Nieuwe Steen 2021
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen -78.270 NJB2026: 1-109061 activa 4627 ondergrondse afvalcontainers
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen -46.155 NJB2026: 1-109061 activa 18011 software
+Mutaties reserves 199991 12530 36004 I Beschikking reserve kapitaallasten investeringen 0 NJB2026: 5-111020 activa 18019 grassmaster verv.
+Door kunstgrasv.
+Westfriezen 2018
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 13.326 NJB2026: 2-109051 activa 3763 uitv.masterplan hoofdinfr.str.2008
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 3.746 NJB2026: 2-109050 activa 4461 verbeteren toegankelijkheid bushaltes
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 661 NJB2026: 2-109051 activa 4396 voetgangersoversteek Liornestraat 2017
+Mutaties reserves 199991 12210 36004 I Beschikking reserve kapitaallasten investeringen 462 NJB2026: 2-109011 activa 4383 fietsstroken Spoorsingel
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 5.563 NJB2026: 2-109051 activa 4325 reconstructie kruispunt IJsselweg/Dinkelweg 2015
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 828 NJB2026: 2-109051 activa 4278 Oostergouw/Nieuwe Steen reconstructie kruispunt
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 27.394 NJB2026: 2-109051 activa 4216 kruising Oostergouw/De Factorij
+Mutaties reserves 199991 12220 36004 I Beschikking reserve kapitaallasten investeringen 1.851 NJB2026: 2-109051 activa 4335 reconstructie kruispunt Zwaagmergouw/Dorpsstraat 2
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -2.570 NJB2026: 4-113011 activa 4410 uitbreiding Tweemaster
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -3.393 NJB2026: 4-113031 activa 4438 tijdelijke huisvesting Spinaker
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -717 NJB2026: 4-113011/300833 activa 4439 bouwkundige aanpassingen de Vierhoek 2018
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -3.138 NJB2026: 4-113011 activa 4455 uitbreiding schoolgebouw Huesmolen 61 2019
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -2.988 NJB2026: 4-113011 activa 4456 uitbreiding schoolgebouw Ark 1 2019
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -1.589 NJB2026: 4-113031 activa 4462 (ver)nieuwbouw Spinaker 2019
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO 0 NJB2026: 4-113011 activa 4492 nieuwbouw IKC Montessori 2020
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -341 NJB2026: 4-113011 activa 4495 uitbreiding en vervanging de Tandem 2020
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -661 NJB2026: 4-113011 activa 4513 verduurzaming Ooievaarsnest
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO -1.829 NJB2026: 4-113011 activa 4514 verduurzaming Zonnewijzer
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO 948 NJB2026: 4-113018 activa 20015 luchtkwaliteit brede scholen
+Mutaties reserves 199991 12210 36084 I Beschikking reserve Oostereiland 11.493 NJB2026: 2-109041 activa 4135 botterwerf Oostereiland steiger 2011
+Mutaties reserves 199991 12210 36084 I Beschikking reserve Oostereiland 719 NJB2026: 2-109011 activa 4134 botterwerf Oostereiland inrichting 2011
+Mutaties reserves 199991 12210 36084 I Beschikking reserve Oostereiland 0 NJB2026: 2-109011 activa 3976 Oostereiland inrichting openbaar gebied
+Mutaties reserves 199991 12820 36084 I Beschikking reserve Oostereiland -22.104 NJB2026: 8-108012 activa 4007 grond Oostereiland
+Mutaties reserves 199991 12820 36084 I Beschikking reserve Oostereiland 0 NJB2026: 8-108012 activa 4008 gebouw Oostereiland
+Mutaties reserves 199991 12820 36084 I Beschikking reserve Oostereiland 3.918 NJB2026: 8-105041 activa 4133 botterwerf Oostereiland bouwkosten 2011
+Mutaties reserves 199991 12210 36084 I Beschikking reserve Oostereiland -1 NJB2026: 2-109041 activa 3930 Oostereiland kade/oever
+Mutaties reserves 199991 12210 36084 I Beschikking reserve Oostereiland -10.900 NJB2026: 2-109041 activa 3931 Oostereiland brug
+Mutaties reserves 199991 12820 36084 I Beschikking reserve Oostereiland 62.217 NJB2026: 8-105041 activa 3932 aank + exploit. vm gevangenis Oostereiland
+Mutaties reserves 199991 12530 36012 I Beschikking reserve 40-60 regeling sport -15.423 NJB2026: 5 111020 dekking bijdrage clubacc.
+HSV Sport (activa 22001)
+Mutaties reserves 199991 12530 36012 I Beschikking reserve 40-60 regeling sport -27 NJB2026: 5 111020 activa 4350 Renovatie clubgebouwe
+Mutaties reserves 199991 12440 36033 I Besch.res.toekomstplan huisv.
+PO 0 NJB2026: 4 113011 realisatie IKEC
+Exploitatie Sint Pietershof 108110 100 20000 U Stelpost kapitaallasten 1.681 NJB2026: Bijstellen kapitaallasten st pietershof
+Treasury renteomslag 300150 100 27401 U Rente 502.637 NJB2026: Bijstellen rente kapitaallasten
+Afschrijvingen 49610010 100 27301 I Afschrijvingen -1.458.372 NJB2025: Bijstellen afschrijvingen kapitaallasten
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 1.458.372 NJB2025: Bijstellen afschrijvingen kapitaallasten
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Veiligheidsregio 104044 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 237.000 Opschonen taak 41 (ombuiging 5% VR)
+Veiligheidsregio 104044 100 44204 U Inkomensoverdrachten - gemeensch. regelingen -237.000 Opschonen taak 41 (ombuiging 5% VR)
+Westfries Archief-algemeen 112110 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 37.000 Opschonen taak 41 (ombuiging 5% WFA)
+Westfries Archief-algemeen 112110 100 44204 U Inkomensoverdrachten - gemeensch. regelingen -37.000 Opschonen taak 41 (ombuiging 5% WFA)
+Omgevingsdienst Noord-Holland Noord107080 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 11.000 Opschonen taak 41 (ombuiging 5% Omgevingsdienst)
+Omgevingsdienst Noord-Holland Noord107080 100 44204 U Inkomensoverdrachten - gemeensch. regelingen -11.000 Opschonen taak 41 (ombuiging 5% Omgevingsdienst)
+Pact van Westfriesland 101048 41 33501 U Organisatiekosten 7.000 Opschonen taak 41 (ombuiging 5% Pact)
+Pact van Westfriesland 101048 100 33501 U Organisatiekosten -7.000 Opschonen taak 41 (ombuiging 5% Pact)
+KVS Algemeen 400000 41 30000 U Stelpost exploitatielasten -13.437 Corrigeren ECL efficiency invulling beleidsregels Uitvaart in opdracht gemeente (2256779)
+KVS Algemeen 400000 41 30001 U Ombuigingen exploitatie 13.437 Corrigeren ECL efficiency invulling beleidsregels Uitvaart in opdracht gemeente (2256779)
+Treasury renteomslag 300150 41 25105 U Rente kasgeld 50.000 Opschonen taak 41 (ombuiging BUIG bevoorschotting)
+Treasury renteomslag 300150 100 25105 U Rente kasgeld -50.000 Opschonen taak 41 (ombuiging BUIG bevoorschotting)
+Inkomensvoorzieningen, algemeen110012 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 330.000 Opschonen taak 41 (ombuiging 5% Werksaam)
+Inkomensvoorzieningen, algemeen110012 4540 44204 U Inkomensoverdrachten - gemeensch. regelingen -330.000 Opschonen taak 41 (ombuiging 5% Werksaam)
+Reserve bedrijfvoering 49554002 100 36099 U Beschikkingen reserves 180.000 NJB26 alternatief niet behaalde ombuiging woon-werkverkeer
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 180.000 NJB26 alternatief niet behaalde ombuiging woon-werkverkeer
+Mutaties reserves 199991 12980 36092 I Beschikking afdelings(bedrijfs)reserves 180.000 98-300200 NJB26 alternatief niet behaalde ombuiging woon-werkverkeer
+KVS Algemeen 400000 41 30001 U Ombuigingen exploitatie 180.000 NJB26 alternatief niet behaalde ombuiging woon-werkverkeer
+Baten betaald parkeren 109085 4031 33408 I Opbrengst parkeerboetes -300.000 NJB26 nadeel niet behaalde maatregel fiscaliseren HFG 2026
+Veiligheidsregio 104044 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 43.000 NJB26 alternatief niet behaalde ombuiging GR Veiligheidsregio vanuit OD
+Omgevingsdienst Noord-Holland Noord107080 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 82.000 NJB26 invulling ombuiging 5% GR Omgevingsdienst
+Pact van Westfriesland 101048 41 33501 U Organisatiekosten 5.000 NJB26 alternatief niet behaalde ombuiging GR Pact vanuit OD
+Dagelijks onderhoud openbare verlichting109032 100 33101 U Elektra -31.000 NJB26 alternatief niet behaalde ombuiging VRI
+Groot onderhoud/projecten verkeer109051 100 30000 U Stelpost exploitatielasten 31.000 NJB26 alternatief niet behaalde ombuiging VRI
+Planning en Control 300205 100 33449 U Diverse vergoedingen 71.500 NJB26 Schade-uitkering Stichting Onderwijshuisvesting Hoorn
+Planning en Control 300205 100 34215 I Uitkering (verzekering)schade 71.500 NJB26 Schade-uitkering Stichting Onderwijshuisvesting Hoorn
+KVS Facilitaire Zaken 470006 100 10015 U Stelpost mutaties formatie 29.600 NJB26 Meebewegen bedrijfsvoering 0,6Fte Backoffice Medewerker
+KVS Algemeen 400000 98 10015 U Stelpost mutaties formatie -29.600 NJB26 Meebewegen bedrijfsvoering 0,6Fte Backoffice Medewerker
+Akten burgerlijke stand 103040 100 33401 I Leges 25.000 NJB26 Toename producten Burgelijke Stand en Huwelijken
+Huwelijksvoltrekking 103041 100 33401 I Leges 25.000 NJB26 Toename producten Burgelijke Stand en Huwelijken
+KVS Dienstverlening 419003 100 33000 U Externe inhuur personeel 50.000 NJB26 Toename producten Burgelijke Stand en Huwelijken
+Westfriesland Academie 300202 98903 33433 U Opleidingskosten 225.000 NJB26 Opleidingen Westfriesland Academie
+Westfriesland Academie 300202 1721 44205 I Bijdrage van gemeenten 225.000 NJB26 Opleidingen Westfriesland Academie
+Rijbewijs 103012 100 34111 U Afdracht leges aan het Rijk 17.000 NJB26 Rijbewijzen
+Rijbewijs 103012 100 44212 U Inkomensoverdrachten - overige overheden -61.000 NJB26 Rijbewijzen
+Rijbewijs 103012 100 33401 I Leges 14.000 NJB26 Rijbewijzen
+Wijkcentrum De Cogge 300803 90205 27351 U Afschrijvingen HKP 0 NJB26 Aanpassen doorbelasting afschrijvingslasten MFA de Cogge naar 120011
+Wijkcentrum De Cogge 300803 90205 27451 U Rente HKP 991 NJB26 Elimineren reeks rentelasten MFA de Cogge
+Wijkcentrum De Cogge 300803 90205 27451 U Rente HKP -743 NJB26 Nieuwe reeks doorbelasting rentelasten MFA de Cogge naar 120011
+Wijkcentrum De Cogge 300803 100 33518 U Belastingen MFA 1.287 NJB26 Elimineren reeks belastingen MFA de Cogge
+Wijkcentrum De Cogge 300803 90205 33518 U Belastingen MFA -1.461 NJB26 Doorbelasting belastingen naar 120011 buurt en clubhuizen
+Wijkcentrum De Cogge 300803 100 33802 U Exploitatielasten WC de Cogge 9.034 NJB26 Elimineren reeks exploitatielasten MFA de Cogge
+Wijkcentrum De Cogge 300803 90205 33802 U Exploitatielasten WC de Cogge -15.630 NJB26 Doorbelasting exploitatielasten naar 120011 buurt en clubhuizen
+Wijkcentrum De Cogge 300803 90205 33403 U Onderhoudscontract Installaties 3.161 NJB26 Actualiseren budget onderhoudscontract
+Wijkcentrum De Cogge 300803 90205 33640 U Klein onderhoud gemeentepanden 3.160 NJB26 Actualiseren budget klein onderhoud
+Wijkcentrum De Cogge 300803 100 33519 I Huuropbrengsten MFA 32.986 NJB26 Elimineren reeks doorbelasting huuropbrengsten MFA de Cogge
+Wijkcentrum De Cogge 300803 90205 33519 I Huuropbrengsten MFA -33.161 NJB26 Doorbelasting huuropbrengsten naar 120011 buurt en clubhuizen
+Wijkcentrum De Cogge 300803 90205 33201 I Huuropbrengsten panden 175 NJB26 Indexatie huuropbrengsten MFA de Cogge 3,86%
+Wijkcentrum De Cogge 300803 90205 33431 I Bijdrage in onderhouds- en investeringswerken 6.146 NJB26 Begroten inkomsten servicekosten MFA de Cogge
+Wijkcentrum De Cogge 300803 90205 33533 I Inkomsten MFA -6.146 NJB26 Doorbelasten inkomsten servicekosten MFA de Cogge naar 120011
+Wijkcentrum De Cogge 300803 90205 27351 U Afschrijvingen HKP 463 NJB26 Afschrijvingslasten MFA de Cogge naar 120011
+Buurt- en clubhuizen 120011 90205 27351 U Afschrijvingen HKP 2.427 NJB26 Afschrijvingslasten MFA de Cogge naar 120011
+Peuterspeelzaalwerk 114020 90205 27351 U Afschrijvingen HKP -2.890 NJB26 Elimineren afschrijvingslasten MFA de Cogge (volledigheid 120011)
+Buurt- en clubhuizen 120011 90205 27451 U Rente HKP -714 NJB26 Elimineren reeks rentelasten MFA de Cogge naar 120011
+Buurt- en clubhuizen 120011 90205 27451 U Rente HKP 743 NJB26 Rentelasten MFA de Cogge naar 120011
+Peuterspeelzaalwerk 114020 90205 27451 U Rente HKP -277 NJB26 Elimineren rentelasten MFA de Cogge (volledigheid naar 120011)
+Buurt- en clubhuizen 120011 90205 33518 U Belastingen MFA 516 NJB26 Belastingen MFA de Cogge naar 120011
+Peuterspeelzaalwerk 114020 100 33518 U Belastingen MFA -342 NJB26 Elimineren belastingen MFA de Cogge (volledigheid 120011)
+Buurt- en clubhuizen 120011 100 33802 U Exploitatielasten WC de Cogge -6.600 NJB26 Elimineren exploitatielasten MFA de Cogge (volledigheid 120011)
+Buurt- en clubhuizen 120011 90205 33802 U Exploitatielasten WC de Cogge 15.630 NJB26 Exploitatielasten MFA de Cogge
+Peuterspeelzaalwerk 114020 100 33802 U Exploitatielasten WC de Cogge -2.434 NJB26 Elimineren exploitatielasten MFA de Cogge (volledigheid 120011)
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA 33.161 NJB26 Huuropbrengsten MFA de Cogge naar 120011
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -20.507 NJB26 Elimineren huuropbrengsten MFA de Cogge (volledigheid 120011)
+Buurt- en clubhuizen 120011 90205 33519 I Huuropbrengsten MFA -3.243 NJB26 Elimineren huuropbrengsten MFA de Cogge (volledigheid 120011)
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA -7.975 NJB26 Elimineren huuropbrengsten MFA de Cogge (volledigheid 120011)
+Peuterspeelzaalwerk 114020 90205 33519 I Huuropbrengsten MFA -1.261 NJB26 Elimineren huuropbrengsten MFA de Cogge (volledigheid 120011)
+Buurt- en clubhuizen 120011 90205 33533 I Inkomsten MFA 6.146 NJB26 Inkomsten servicekosten MFA de Cogge naar 120011
+Semi permanent gebouw De lage Hoek300833 100 33403 U Onderhoudscontract Installaties 10.921 NJB26 Actualiseren budget onderhoudscontract
+Semi permanent gebouw De lage Hoek300833 100 33406 U Schoonhouden 10.920 NJB26 Actualiseren budget schoonhouden
+Semi permanent gebouw De lage Hoek300833 100 33640 U Klein onderhoud gemeentepanden 10.920 NJB26 Actualiseren budget klein onderhoud
+Semi permanent gebouw De lage Hoek300833 100 33805 U Exploitatielasten MFA de Lage Hoek -33.130 NJB26 Actualiseren doorbelasting exploitatielasten MFA de Lage Hoek
+Primair onderwijs-onderwijshuisvesting113011 100 33805 U Exploitatielasten MFA de Lage Hoek -129.234 NJB26 Elimineren reeks exploitatielasten MFA de Lage Hoek naar 113011
+Peuterspeelzaalwerk 114020 100 33805 U Exploitatielasten MFA de Lage Hoek -28.979 NJB26 Elimineren reeks exploitatielasten MFA de Lage Hoek naar 114020
+Regiotaxi 121013 100 33805 U Exploitatielasten MFA de Lage Hoek -760 NJB26 Elimineren reeks exploitatielasten MFA de Lage Hoek naar 121013
+Jeugdgezondheidszorg 123012 100 33805 U Exploitatielasten MFA de Lage Hoek -26.572 NJB26 Elimineren reeks exploitatielasten MFA de Lage Hoek naar 123012
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Primair onderwijs-onderwijshuisvesting113011 100 33805 U Exploitatielasten MFA de Lage Hoek 162.502 NJB26 Doorbelasting exploitatielasten MFA de Lage Hoek naar 113011
+Peuterspeelzaalwerk 114020 100 33805 U Exploitatielasten MFA de Lage Hoek 26.097 NJB26 Doorbelasting exploitatielasten MFA de Lage Hoek naar 114020
+Jeugdgezondheidszorg 123012 100 33805 U Exploitatielasten MFA de Lage Hoek 30.076 NJB26 Doorbelasting exploitatielasten MFA de Lage Hoek naar 123012
+Semi permanent gebouw De lage Hoek300833 100 27451 U Rente HKP 10.979 NJB26 Elimineren reeks doorbelasting rentelasten MFA de Lage Hoek
+Semi permanent gebouw De lage Hoek300833 100 27451 U Rente HKP -8.234 NJB26 Nieuwe reeks doorbelasting rentelasten MFA de Lage Hoek
+Primair onderwijs-onderwijshuisvesting113011 100 27451 U Rente HKP -8.789 NJB26 Elimineren reeks rentelasten MFA de Lage Hoek naar 113011
+Peuterspeelzaalwerk 114020 100 27451 U Rente HKP -2.190 NJB26 Elimineren reeks rentelasten MFA de Lage Hoek naar 114020
+Primair onderwijs-onderwijshuisvesting113011 100 27451 U Rente HKP 6.119 NJB26 Doorbelasting rente MFA de Lage Hoek naar 113011 Primair onderwijs
+Peuterspeelzaalwerk 114020 100 27451 U Rente HKP 983 NJB26 Doorbelasting rente MFA de Lage Hoek naar 114020 Peuterspeelzaalwerk
+Jeugdgezondheidszorg 123012 100 27451 U Rente HKP 1.132 NJB26 Doorbelasting rente MFA de Lage Hoek naar 123012 Jeugdgezondheidszorg
+Semi permanent gebouw De lage Hoek300833 100 33518 U Belastingen MFA -3.686 NJB26 Actualiseren doorbelasting belastingen MFA de Lage Hoek
+Primair onderwijs-onderwijshuisvesting113011 100 33518 U Belastingen MFA -10.873 NJB26 Elimineren reeks belastingen MFA de Lage Hoek naar 113011 Primair onderwijs
+Peuterspeelzaalwerk 114020 100 33518 U Belastingen MFA -1.786 NJB26 Elimineren reeks belastingen MFA de Lage Hoek naar 114020 Peuterspeelzaalwerk
+Primair onderwijs-onderwijshuisvesting113011 100 33518 U Belastingen MFA 12.146 NJB26 Doorbelasting belastingen MFA de Lage Hoek naar 113011 Primair onderwijs
+Peuterspeelzaalwerk 114020 100 33518 U Belastingen MFA 1.951 NJB26 Doorbelasting belastingen MFA de Lage Hoek naar 114020 Peuterspeelzaalwerk
+Jeugdgezondheidszorg 123012 100 33518 U Belastingen MFA 2.248 NJB26 Doorbelasting belastingen MFA de Lage Hoek naar 123012 Jeugdgezondheidszorg
+Semi permanent gebouw De lage Hoek300833 100 34216 I Vergoeding schoolbesturen 4.252 NJB26 Indexatie (3,57%) vergoeding schoolbesturen MFA de Lage Hoek
+Semi permanent gebouw De lage Hoek300833 100 33534 I Inkomsten MFA-schoolbesturen -4.252 NJB26 Indexatie (3,57%) vergoeding schoolbesturen MFA de Lage Hoek naar 113011
+Primair onderwijs-onderwijshuisvesting113011 100 33534 I Inkomsten MFA-schoolbesturen 4.252 NJB26 Indexatie (3,57%) vergoeding schoolbesturen MFA de Lage Hoek naar 113011
+Semi permanent gebouw De lage Hoek300833 100 33466 I Bijdrage in exploitatielasten 3.161 NJB26 Facilitaire inkomsten MFA de Lage Hoek
+Semi permanent gebouw De lage Hoek300833 100 33533 I Inkomsten MFA 41.484 NJB26 Elimineren facilitaire inkomsten MFA de Lage Hoek naar 114020
+Semi permanent gebouw De lage Hoek300833 100 33533 I Inkomsten MFA -22.421 NJB26 Facilitaire inkomsten MFA de Lage Hoek naar 114020
+Semi permanent gebouw De lage Hoek300833 100 33533 I Inkomsten MFA -22.224 NJB26 Facilitaire inkomsten MFA de Lage Hoek naar 123012
+Peuterspeelzaalwerk 114020 100 33533 I Inkomsten MFA -41.484 NJB26 Elimineren facilitaire inkomsten MFA de Lage Hoek naar 114020
+Peuterspeelzaalwerk 114020 100 33533 I Inkomsten MFA 22.421 Facilitaire inkomsten MFA de Lage Hoek naar 114020
+Jeugdgezondheidszorg 123012 100 33533 I Inkomsten MFA 22.224 Facilitaire inkomsten MFA de Lage Hoek naar 123012
+Semi permanent gebouw De lage Hoek300833 100 33201 I Huuropbrengsten panden 25.348 NJB26 Huurinkomsten MFA de Lage Hoek
+Semi permanent gebouw De lage Hoek300833 100 33519 I Huuropbrengsten MFA 43.478 NJB26 elimineren huuropbrengsten MFA de Lage Hoek
+Semi permanent gebouw De lage Hoek300833 100 33519 I Huuropbrengsten MFA -37.367 NJB26 Huuropbrengsten MFA de Lage Hoek naar 114020
+Semi permanent gebouw De lage Hoek300833 100 33519 I Huuropbrengsten MFA -31.459 NJB26 Huuropbrengsten MFA de Lage Hoek naar 123012
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA -43.478 NJB26 elimineren huuropbrengsten MFA de Lage Hoek
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA 37.367 NJB26 Huuropbrengsten MFA de Lage Hoek naar 114020
+Jeugdgezondheidszorg 123012 100 33519 I Huuropbrengsten MFA 31.459 NJB26 Huuropbrengsten MFA de Lage Hoek naar 123012
+Semi permanent gebouw De lage Hoek300833 100 27351 U Afschrijvingen HKP 0 NJB26 Aanpassen doorbelasting afschrijving MFA de Lage Hoek
+Primair onderwijs-onderwijshuisvesting113011 100 27351 U Afschrijvingen HKP -109.492 NJB26 Elimineren doorbelasting afschrijving MFA de Lage Hoek
+Peuterspeelzaalwerk 114020 100 27351 U Afschrijvingen HKP -27.289 NJB26 Elimineren doorbelasting afschrijving MFA de Lage Hoek
+Primair onderwijs-onderwijshuisvesting113011 100 27351 U Afschrijvingen HKP 101.645 NJB26 doorbelasting afschrijving MFA de Lage Hoek
+Peuterspeelzaalwerk 114020 100 27351 U Afschrijvingen HKP 16.323 NJB26 doorbelasting afschrijving MFA de Lage Hoek
+Opvoedondersteuning 123013 100 27351 U Afschrijvingen HKP 18.812 NJB26 doorbelasting afschrijving MFA de Lage Hoek
+MFA De Huesmolen 300802 90171 33410 I Vergoeding energie -15.000 NJB26 Elimineren vergoeding energie taak sport
+MFA De Huesmolen 300802 90216 33410 I Vergoeding energie 33.000 NJB26 Nieuwe reeks vergoeding energie Netwerk
+Sport algemeen 111010 100 33533 I Inkomsten MFA -15.000 NJB26 Elimineren doorbelasting vergoeding energie MFA de Huesmolen
+Buurt- en clubhuizen 120011 90216 33533 I Inkomsten MFA 40.570 NJB26 Doorbelasting inkomsten MFA de Huesmolen naar 120012
+MFA De Huesmolen 300802 90216 33533 I Inkomsten MFA -40.570 NJB26 Doorbelasting vergoeding energie naar 120012
+MFA De Huesmolen 300802 100 33533 I Inkomsten MFA 15.000 NJB26 Elimineren doorbelasting vergoeding energie MFA de Huesmolen
+MFA De Huesmolen 300802 90216 33431 I Bijdrage in onderhouds- en investeringswerken 7.570 NJB26 Servicekosten Netwerk
+Openbare bibliotheek 112020 90271 33519 I Huuropbrengsten MFA -180.179 NJB26 Elinimeren doorbelasting huurinkomsten MFA de Huesmolen biobliotheek
+Openbare bibliotheek 112020 100 33519 I Huuropbrengsten MFA -810 NJB26 Elinimeren doorbelasting huurinkomsten MFA de Huesmolen biobliotheek
+Buurt- en clubhuizen 120011 90216 33519 I Huuropbrengsten MFA 22.786 NJB26 Elinimeren doorbelasting huurinkomsten MFA de Huesmolen Cultureel Centrum
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -110.619 NJB26 Elinimeren doorbelasting huurinkomsten MFA de Huesmolen Cultureel Centrum
+Sport algemeen 111010 90171 33519 I Huuropbrengsten MFA -60.000 NJB26 Elimineren doorbelasting huurinkomsten MFA de Huesmolen sportzaal
+Openbare bibliotheek 112020 90271 33519 I Huuropbrengsten MFA 192.736 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen biobliotheek
+Buurt- en clubhuizen 120011 90216 33519 I Huuropbrengsten MFA 76.423 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen Cultureel Centrum
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA 20.552 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen Kinderopvang
+Sport algemeen 111010 90171 33519 I Huuropbrengsten MFA 86.738 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen sportzaal
+MFA De Huesmolen 300802 90271 33201 I Huuropbrengsten panden -180.000 NJB26 Elinimeren huurinkomsten MFA de Huesmolen biobliotheek
+MFA De Huesmolen 300802 90216 33201 I Huuropbrengsten panden -87.833 NJB26 Elinimeren huurinkomsten MFA de Huesmolen Cultureel Centrum
+MFA De Huesmolen 300802 90171 33201 I Huuropbrengsten panden -60.000 NJB26 Elimineren huurinkomsten MFA de Huesmolen sportzaal
+MFA De Huesmolen 300802 100 33201 I Huuropbrengsten panden -989 NJB26 Elinimeren huurinkomsten MFA de Huesmolen biobliotheek
+MFA De Huesmolen 300802 90271 33201 I Huuropbrengsten panden 192.736 NJB26 huurinkomsten MFA de Huesmolen biobliotheek
+MFA De Huesmolen 300802 90216 33201 I Huuropbrengsten panden 76.423 NJB26 huurinkomsten MFA de Huesmolen Cultureel Centrum
+MFA De Huesmolen 300802 100 33201 I Huuropbrengsten panden 20.552 NJB26 huurinkomsten MFA de Huesmolen Peuterspeelzaal
+MFA De Huesmolen 300802 90171 33201 I Huuropbrengsten panden 86.738 NJB26 huurinkomsten MFA de Huesmolen sportzaal
+MFA De Huesmolen 300802 90271 33519 I Huuropbrengsten MFA 180.000 NJB26 Elimineren doorbelasting huurinkomsten MFA de Huesmolen biobliotheek
+MFA De Huesmolen 300802 90216 33519 I Huuropbrengsten MFA 87.833 NJB26 Elimineren doorbelasting huurinkomsten MFA de Huesmolen Cultureel Centrum
+MFA De Huesmolen 300802 90171 33519 I Huuropbrengsten MFA 60.000 NJB26 Elimineren doorbelasting huurinkomsten MFA de Huesmolen sportzaal
+MFA De Huesmolen 300802 100 33519 I Huuropbrengsten MFA 989 NJB26 Elimineren doorbelasting huurinkomsten MFA de Huesmolen biobliotheek
+MFA De Huesmolen 300802 90271 33519 I Huuropbrengsten MFA -192.736 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen biobliotheek
+MFA De Huesmolen 300802 90216 33519 I Huuropbrengsten MFA -76.423 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen Cultureel Centrum
+MFA De Huesmolen 300802 100 33519 I Huuropbrengsten MFA -20.552 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen Peuterspeelzaal
+MFA De Huesmolen 300802 90171 33519 I Huuropbrengsten MFA -86.738 NJB26 Doorbelasting huurinkomsten MFA de Huesmolen sportzaal
+MFA De Huesmolen 300802 100 33801 U Exploitatielasten MFA de Huesmolen 128.508 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+MFA De Huesmolen 300802 90171 33801 U Exploitatielasten MFA de Huesmolen 24.636 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+MFA De Huesmolen 300802 90216 33801 U Exploitatielasten MFA de Huesmolen 23.540 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+Sport algemeen 111010 90171 33801 U Exploitatielasten MFA de Huesmolen -16.423 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Buurt- en clubhuizen 120011 100 33801 U Exploitatielasten MFA de Huesmolen -96.514 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+Sport algemeen 111010 100 33801 U Exploitatielasten MFA de Huesmolen -63.747 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+MFA De Huesmolen 300802 100 30001 U Ombuigingen exploitatie 5.649 NJB26 Elimineren stelpost exploitatielasten MFA de Huesmolen
+MFA De Huesmolen 300802 100 33640 U Klein onderhoud gemeentepanden 67.548 NJB26 Ophogen budget klein onderhoud/overige kosten
+MFA De Huesmolen 300802 90171 33801 U Exploitatielasten MFA de Huesmolen -114.536 NJB26 Doorbelasting MFA de Huesmolen naar sport
+MFA De Huesmolen 300802 90216 33801 U Exploitatielasten MFA de Huesmolen -88.579 NJB26 Doorbelasting MFA de Huesmolen naar Wijkcentrum
+MFA De Huesmolen 300802 100 33801 U Exploitatielasten MFA de Huesmolen -40.120 NJB26 Doorbelasting MFA de Huesmolen naar bibliotheek
+MFA De Huesmolen 300802 100 33801 U Exploitatielasten MFA de Huesmolen -8.600 NJB26 Doorbelasting MFA de Huesmolen naar Peuterspeelzaal
+Sport algemeen 111010 90171 33801 U Exploitatielasten MFA de Huesmolen 114.536 NJB26 Doorbelasting MFA de Huesmolen naar sport
+Buurt- en clubhuizen 120011 90216 33801 U Exploitatielasten MFA de Huesmolen 88.579 NJB26 Doorbelasting MFA de Huesmolen naar Wijkcentrum
+Openbare bibliotheek 112020 100 33801 U Exploitatielasten MFA de Huesmolen 40.120 NJB26 Doorbelasting MFA de Huesmolen naar bibliotheek
+Peuterspeelzaalwerk 114020 100 33801 U Exploitatielasten MFA de Huesmolen 8.600 NJB26 Doorbelasting MFA de Huesmolen naar Peuterspeelzaal
+MFA De Huesmolen 300802 90171 27451 U Rente HKP 308 NJB26 Doorbelasting rente aanpassen aan daadwerkelijke reeks
+Sport algemeen 111010 90171 27451 U Rente HKP -308 NJB26 Doorbelasting rente MFA de Huesmolen aanpassen aan daadwerkelijke reeks
+MFA De Huesmolen 300802 90171 33518 U Belastingen MFA 3.090 NJB26 Elimineren doorbelasting belastingen MFA de Huesmolen
+MFA De Huesmolen 300802 90216 33518 U Belastingen MFA 6.711 NJB26 Elimineren doorbelasting belastingen MFA de Huesmolen
+Sport algemeen 111010 90171 33518 U Belastingen MFA 812 NJB26 Elimineren doorbelasting belastingen MFA de Huesmolen
+Buurt- en clubhuizen 120011 90216 33518 U Belastingen MFA -1.816 NJB26 Elimineren doorbelasting belastingen MFA de Huesmolen
+Sport algemeen 111010 100 33518 U Belastingen MFA -3.902 NJB26 Elimineren doorbelasting belastingen MFA de Huesmolen
+Buurt- en clubhuizen 120011 100 33518 U Belastingen MFA -4.895 NJB26 Elimineren doorbelasting belastingen MFA de Huesmolen
+MFA De Huesmolen 300802 90171 33518 U Belastingen MFA -5.067 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Huesmolen
+MFA De Huesmolen 300802 90216 33518 U Belastingen MFA -6.155 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Huesmolen
+Sport algemeen 111010 90171 33518 U Belastingen MFA 5.067 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Huesmolen
+Buurt- en clubhuizen 120011 90216 33518 U Belastingen MFA 6.155 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Huesmolen
+MFA De Grote Beer 300801 100 33201 I Huuropbrengsten panden -24.747 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33201 I Huuropbrengsten panden -47.674 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90208 33201 I Huuropbrengsten panden -98.108 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90272 33201 I Huuropbrengsten panden -179 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33201 I Huuropbrengsten panden 37.742 NJB26 huurinkomsten MFA de Grote Beer sport
+MFA De Grote Beer 300801 90208 33201 I Huuropbrengsten panden 99.750 NJB26 huurinkomsten MFA de Grote Beer cultureel centrum
+MFA De Grote Beer 300801 100 33201 I Huuropbrengsten panden 44.670 NJB26 huurinkomsten MFA de Grote Beer kinderdagverblijf
+MFA De Grote Beer 300801 90272 33201 I Huuropbrengsten panden 6.567 NJB26 huurinkomsten MFA de Grote Beer bibliotheek
+MFA De Grote Beer 300801 100 33519 I Huuropbrengsten MFA 150.708 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33519 I Huuropbrengsten MFA 20.000 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33519 I Huuropbrengsten MFA -37.742 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer sport
+MFA De Grote Beer 300801 90208 33519 I Huuropbrengsten MFA -99.750 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer cultureel centrum
+MFA De Grote Beer 300801 100 33519 I Huuropbrengsten MFA -44.670 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer kinderdagverblijf
+MFA De Grote Beer 300801 90272 33519 I Huuropbrengsten MFA -6.567 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer bibliotheek
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -24.747 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+Sport algemeen 111010 100 33519 I Huuropbrengsten MFA -27.674 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+Sport algemeen 111010 90172 33519 I Huuropbrengsten MFA -20.000 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -98.108 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+Openbare bibliotheek 112020 100 33519 I Huuropbrengsten MFA -179 NJB26 eliminatie doorbelasting huurinkomsten MFA de Grote Beer
+Sport algemeen 111010 90172 33519 I Huuropbrengsten MFA 37.742 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 33519 I Huuropbrengsten MFA 99.750 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA 44.670 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer
+Openbare bibliotheek 112020 90272 33519 I Huuropbrengsten MFA 6.567 NJB26 Doorbelasting huurinkomsten MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33466 I Bijdrage in exploitatielasten -3.000 NJB26 eliminatie bijdrage in exploitatielasten MFA de Grote Beer
+MFA De Grote Beer 300801 100 33533 I Inkomsten MFA 3.000 NJB26 eliminatie bijdrage in exploitatielasten MFA de Grote Beer
+Sport algemeen 111010 100 33533 I Inkomsten MFA -3.000 NJB26 eliminatie bijdrage in exploitatielasten MFA de Grote Beer
+MFA De Grote Beer 300801 90208 33466 I Bijdrage in exploitatielasten 6.146 NJB26 Bijdrage in exploitatielasten cultureel centrum
+MFA De Grote Beer 300801 100 33466 I Bijdrage in exploitatielasten 4.708 NJB26 Bijdrage in exploitatielasten kinderdagverblijf
+MFA De Grote Beer 300801 90208 33533 I Inkomsten MFA -6.146 NJB26 doorbelasting bijdrage in exploitatielasten cultureel centrum
+MFA De Grote Beer 300801 100 33533 I Inkomsten MFA -4.708 NJB26 doorbelasting bijdrage in exploitatielasten kinderdagverblijf
+Buurt- en clubhuizen 120011 90208 33533 I Inkomsten MFA 6.146 NJB26 doorbelasting bijdrage in exploitatielasten cultureel centrum
+Peuterspeelzaalwerk 114020 100 33533 I Inkomsten MFA 4.708 NJB26 doorbelasting bijdrage in exploitatielasten kinderdagverblijf
+MFA De Grote Beer 300801 100 33640 U Klein onderhoud gemeentepanden 25.875 NJB26 Budget klein onderhoud ophogen
+MFA De Grote Beer 300801 100 27451 U Rente HKP 154 NJB26 elimineren doorbelasting rente MFA de Grote Beer
+MFA De Grote Beer 300801 90172 27451 U Rente HKP 933 NJB26 elimineren doorbelasting rente MFA de Grote Beer
+MFA De Grote Beer 300801 90208 27451 U Rente HKP 1.418 NJB26 elimineren doorbelasting rente MFA de Grote Beer
+MFA De Grote Beer 300801 90208 27451 U Rente HKP -116 NJB26 Nieuwe reeks doorbelasting rente MFA de Grote Beer
+MFA De Grote Beer 300801 90172 27451 U Rente HKP -700 NJB26 Nieuwe reeks doorbelasting rente MFA de Grote Beer
+MFA De Grote Beer 300801 90208 27451 U Rente HKP -1.064 NJB26 Nieuwe reeks doorbelasting rente MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 27351 U Afschrijvingen HKP 3 NJB26 Actualiseren doorbelasting afschrijvingen MFA de Grote Beer
+MFA De Grote Beer 300801 90208 27351 U Afschrijvingen HKP -3 NJB26 Actualiseren doorbelasting afschrijvingen MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 27451 U Rente HKP -1.418 NJB26 elimineren doorbelasting rente MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 27451 U Rente HKP 1.064 NJB26 Nieuwe reeks doorbelasting rente MFA de Grote Beer
+Sport algemeen 111010 90172 27451 U Rente HKP -933 NJB26 elimineren doorbelasting rente MFA de Grote Beer
+Sport algemeen 111010 90172 27451 U Rente HKP 700 NJB26 Nieuwe reeks doorbelasting rente MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 27451 U Rente HKP 116 NJB26 Nieuwe reeks doorbelasting rente MFA de Grote Beer
+Buurt- en clubhuizen 120011 100 27451 U Rente HKP -154 NJB26 elimineren doorbelasting rente MFA de Grote Beer
+MFA De Grote Beer 300801 90208 33518 U Belastingen MFA 4.410 NJB26 elimineren doorbelasting belastingen MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33518 U Belastingen MFA 2.819 NJB26 elimineren doorbelasting belastingen MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 33518 U Belastingen MFA -636 NJB26 elimineren doorbelasting belastingen MFA de Grote Beer
+Buurt- en clubhuizen 120011 100 33518 U Belastingen MFA -3.774 NJB26 elimineren doorbelasting belastingen MFA de Grote Beer
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Sport algemeen 111010 90172 33518 U Belastingen MFA -174 NJB26 elimineren doorbelasting belastingen MFA de Grote Beer
+Sport algemeen 111010 100 33518 U Belastingen MFA -2.645 NJB26 elimineren doorbelasting belastingen MFA de Grote Beer
+MFA De Grote Beer 300801 90208 33518 U Belastingen MFA -5.011 NJB26 nieuwe reeks doorbelasting belastingen MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33518 U Belastingen MFA -3.196 NJB26 nieuwe reeks doorbelasting belastingen MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 33518 U Belastingen MFA 5.011 NJB26 nieuwe reeks doorbelasting belastingen MFA de Grote Beer
+Sport algemeen 111010 90172 33518 U Belastingen MFA 3.196 NJB26 nieuwe reeks doorbelasting belastingen MFA de Grote Beer
+MFA De Grote Beer 300801 100 33800 U Exploitatielasten MFA de Grote Beer 97.625 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+MFA De Grote Beer 300801 90172 33800 U Exploitatielasten MFA de Grote Beer 9.184 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Sport algemeen 111010 100 33800 U Exploitatielasten MFA de Grote Beer -35.490 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Sport algemeen 111010 90172 33800 U Exploitatielasten MFA de Grote Beer -20.449 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Amateurkunst 112011 100 33800 U Exploitatielasten MFA de Grote Beer -2.509 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Openbare bibliotheek 112020 90272 33800 U Exploitatielasten MFA de Grote Beer -2.050 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Peuterspeelzaalwerk 114020 100 33800 U Exploitatielasten MFA de Grote Beer -1.767 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Buurt- en clubhuizen 120011 100 33800 U Exploitatielasten MFA de Grote Beer -23.617 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+Buurt- en clubhuizen 120011 90208 33800 U Exploitatielasten MFA de Grote Beer -20.927 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Grote Beer
+MFA De Grote Beer 300801 90208 33800 U Exploitatielasten MFA de Grote Beer -56.251 NJB26 reeks doorbelasting exploitatielasten MFA de Grote Beer 120011
+MFA De Grote Beer 300801 90172 33800 U Exploitatielasten MFA de Grote Beer -69.454 NJB26 reeks doorbelasting exploitatielasten MFA de Grote Beer 111010
+MFA De Grote Beer 300801 100 33800 U Exploitatielasten MFA de Grote Beer -8.646 NJB26 reeks doorbelasting exploitatielasten MFA de Grote Beer 114020
+Buurt- en clubhuizen 120011 90208 33800 U Exploitatielasten MFA de Grote Beer 56.251 NJB26 reeks doorbelasting exploitatielasten MFA de Grote Beer 120011
+Sport algemeen 111010 90172 33800 U Exploitatielasten MFA de Grote Beer 69.454 NJB26 reeks doorbelasting exploitatielasten MFA de Grote Beer 111010
+Peuterspeelzaalwerk 114020 100 33800 U Exploitatielasten MFA de Grote Beer 8.646 NJB26 reeks doorbelasting exploitatielasten MFA de Grote Beer 114020
+Wijkcentrum Kersenboogerd 300804 90206 33201 I Huuropbrengsten panden -127.587 NJB26 elimineren reeks huuropbrengsten MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 100 33519 I Huuropbrengsten MFA 127.587 NJB26 elimineren reeks huuropbrengsten MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 33201 I Huuropbrengsten panden 91.058 NJB26 reeks huuropbrengsten MFA de Kersenboogerd Netwerk
+Wijkcentrum Kersenboogerd 300804 90206 33201 I Huuropbrengsten panden 41.000 NJB26 reeks huuropbrengsten MFA de Kersenboogerd Kinderdagverblijf
+Wijkcentrum Kersenboogerd 300804 90206 33519 I Huuropbrengsten MFA -91.058 NJB26 reeks doorbelasting huuropbrengsten MFA de Kersenboogerd Netwerk
+Wijkcentrum Kersenboogerd 300804 90206 33519 I Huuropbrengsten MFA -41.000 NJB26 reeks doorbelasting huuropbrengsten MFA de Kersenboogerd Kinderdagverblijf
+Wijkcentrum Kersenboogerd 300804 90206 33431 I Bijdrage in onderhouds- en investeringswerken 9.463 NJB26 reeks bijdrage in exploitatielasten MFA de Kersenboogerd Netwerk
+Wijkcentrum Kersenboogerd 300804 90206 33533 I Inkomsten MFA -9.463 NJB26 reeks doorbelasting bijdrage in exploitatielasten MFA de Kersenboogerd Netwerk
+Buurt- en clubhuizen 120011 90206 33533 I Inkomsten MFA 9.463 NJB26 bijdrage in exploitatielasten MFA de Kersenboogerd naar 120011
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA -11.281 NJB26 elimineren reeks huuropbrengsten MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -116.306 NJB26 elimineren reeks huuropbrengsten MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 90206 33519 I Huuropbrengsten MFA 41.000 NJB26 reeks huuropbrengsten MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 33519 I Huuropbrengsten MFA 91.058 NJB26 reeks huuropbrengsten MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 27351 U Afschrijvingen HKP -549 NJB26 Aanpassen doorbelasting reeks afschrijving MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 27351 U Afschrijvingen HKP -29.532 NJB26 elimineren reeks afschrijvingen MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 90206 27351 U Afschrijvingen HKP -7.149 NJB26 elimineren reeks afschrijvingen MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 27351 U Afschrijvingen HKP 30.845 NJB26 reeks afschrijvingen MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 90206 27351 U Afschrijvingen HKP 6.385 NJB26 reeks afschrijvingen MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 27451 U Rente HKP 1.311 NJB26 Aanpassen doorbelasting reeks rente MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 27451 U Rente HKP -4.223 NJB26 elimineren reeks rente MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 90206 27451 U Rente HKP -1.022 NJB26 elimineren reeks rente MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 27451 U Rente HKP 3.259 NJB26 doorbelasting reeks rente MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 90206 27451 U Rente HKP 675 NJB26 doorbelasting reeks rente MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 33518 U Belastingen MFA -905 NJB26 Aanpassen doorbelasting reeks belastingen MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 33518 U Belastingen MFA -465 NJB26 elimineren reeks belastingen MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 100 33518 U Belastingen MFA -4.942 NJB26 elimineren reeks belastingen MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 100 33518 U Belastingen MFA -1.196 NJB26 elimineren reeks belastingen MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 33518 U Belastingen MFA 6.220 NJB26 doorbelasting reeks belastingen MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 90206 33518 U Belastingen MFA 1.288 NJB26 doorbelasting reeks belastingen MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 33640 U Klein onderhoud gemeentepanden 13.934 NJB26 Aanpassen budget klein onderhoud
+Wijkcentrum Kersenboogerd 300804 100 33803 U Exploitatielasten WC Kersenboogerd -1.221 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 33803 U Exploitatielasten WC Kersenboogerd 21.947 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Kersenboogerd
+Wijkcentrum Kersenboogerd 300804 90206 33803 U Exploitatielasten WC Kersenboogerd -29.346 NJB26 reeks doorbelasting exploitatielasten MFA de Kersenboogerd Wijkcentrum
+Wijkcentrum Kersenboogerd 300804 90206 33803 U Exploitatielasten WC Kersenboogerd -6.074 NJB26 reeks doorbelasting exploitatielasten MFA de Kersenboogerd Kinderdagverblijf
+Buurt- en clubhuizen 120011 100 33803 U Exploitatielasten WC Kersenboogerd -16.949 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Kersenboogerd
+Peuterspeelzaalwerk 114020 100 33803 U Exploitatielasten WC Kersenboogerd -3.777 NJB26 elimineren reeks doorbelasting exploitatielasten MFA de Kersenboogerd
+Buurt- en clubhuizen 120011 90206 33803 U Exploitatielasten WC Kersenboogerd 29.346 NJB26 reeks doorbelasting exploitatielasten MFA de Kersenboogerd naar 120011
+Peuterspeelzaalwerk 114020 90206 33803 U Exploitatielasten WC Kersenboogerd 6.074 NJB26 reeks doorbelasting exploitatielasten MFA de Kersenboogerd naar 114020
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA -41.092 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Sport algemeen 111010 100 33519 I Huuropbrengsten MFA -15.412 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -3.704 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA -36.313 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Sport algemeen 111010 100 33519 I Huuropbrengsten MFA -50.000 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA -206.933 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Openbare bibliotheek 112020 100 33519 I Huuropbrengsten MFA -5.017 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+Peuterspeelzaalwerk 114020 100 33519 I Huuropbrengsten MFA 252.730 NJB26 Huurinkomsten MFA de Kreek 114020
+Primair onderwijs-onderwijshuisvesting113011 100 33519 I Huuropbrengsten MFA 94.790 NJB26 Huurinkomsten MFA de Kreek 113011
+Buurt- en clubhuizen 120011 100 33519 I Huuropbrengsten MFA 23.851 NJB26 Huurinkomsten MFA de Kreek 120011
+MFA De Kreek 300828 100 33519 I Huuropbrengsten MFA 358.471 NJB26 Elimineren doorbelasting MFA de Kreek huurinkomsten
+MFA De Kreek 300828 100 33519 I Huuropbrengsten MFA -252.730 NJB26 Huurinkomsten MFA de Kreek 114020
+MFA De Kreek 300828 100 33519 I Huuropbrengsten MFA -94.790 NJB26 Huurinkomsten MFA de Kreek 113011
+MFA De Kreek 300828 100 33519 I Huuropbrengsten MFA -23.851 NJB26 Huurinkomsten MFA de Kreek 120011
+MFA De Kreek 300828 100 33201 I Huuropbrengsten panden 12.901 NJB26 Bijdrage in huurinkomsten indexatie MFA de Kreek
+MFA De Kreek 300828 100 34216 I Vergoeding schoolbesturen 12.292 NJB26 Indexatie (3,57%) vergoeding schoolbesturen MFA de Kreek naar 113011
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+MFA De Kreek 300828 100 33534 I Inkomsten MFA-schoolbesturen -12.292 NJB26 Indexatie (3,57%) vergoeding schoolbesturen MFA de Kreek naar 113011
+Primair onderwijs-onderwijshuisvesting113011 100 33534 I Inkomsten MFA-schoolbesturen 12.292 NJB26 Indexatie (3,57%) vergoeding schoolbesturen MFA de Kreek
+MFA De Kreek 300828 100 33466 I Bijdrage in exploitatielasten -12.000 NJB26 Elimineren bijdrage in exploitatielasten MFA de Kreek
+MFA De Kreek 300828 100 33533 I Inkomsten MFA 12.000 NJB26 Elimineren doorbelasting bijdrage in Exploitatielasten MFA de Kreek
+Peuterspeelzaalwerk 114020 100 33533 I Inkomsten MFA -9.776 NJB26 Elimineren doorbelasting bijdrage in Exploitatielasten MFA de Kreek
+Buurt- en clubhuizen 120011 100 33533 I Inkomsten MFA -2.224 NJB26 Elimineren doorbelasting bijdrage in Exploitatielasten MFA de Kreek
+MFA De Kreek 300828 100 33466 I Bijdrage in exploitatielasten -103.569 NJB26 Elimineren bijdrage in Exploitatielasten MFA de Kreek
+MFA De Kreek 300828 100 33533 I Inkomsten MFA 103.569 NJB26 Elimineren doorbelasting bijdrage in Exploitatielasten MFA de Kreek
+Peuterspeelzaalwerk 114020 100 33533 I Inkomsten MFA -72.591 NJB26 Elimineren doorbelasting bijdrage in Exploitatielasten MFA de Kreek
+Buurt- en clubhuizen 120011 100 33533 I Inkomsten MFA -30.978 NJB26 Elimineren doorbelasting bijdrage in Exploitatielasten MFA de Kreek
+MFA De Kreek 300828 100 33466 I Bijdrage in exploitatielasten 119.626 NJB26 reeks bijdrage in exploitatielasten MFA de Kreek
+MFA De Kreek 300828 100 33533 I Inkomsten MFA -97.501 NJB26 reeks bijdrage in exploitatielasten MFA de Kreek 114020
+MFA De Kreek 300828 100 33533 I Inkomsten MFA -22.125 NJB26 reeks bijdrage in exploitatielasten MFA de Kreek 120011
+Peuterspeelzaalwerk 114020 100 33533 I Inkomsten MFA 97.501 NJB26 reeks bijdrage in exploitatielasten MFA de Kreek 114020
+Buurt- en clubhuizen 120011 100 33533 I Inkomsten MFA 22.125 NJB26 reeks bijdrage in exploitatielasten MFA de Kreek 120011
+MFA De Kreek 300828 100 33640 U Klein onderhoud gemeentepanden 29.250 NJB26 Actualiseren budget klein onderhoud MFA de Kreek
+MFA De Kreek 300828 100 33804 U Exploitatielasten MFA de Kreek 1.202.779 NJB26 elimineren doorbelasting exploitatielasten MFA de Kreek
+Sport algemeen 111010 100 33804 U Exploitatielasten MFA de Kreek -270.740 NJB26 elimineren doorbelasting exploitatielasten MFA de Kreek
+Primair onderwijs-onderwijshuisvesting113011 100 33804 U Exploitatielasten MFA de Kreek -624.454 NJB26 elimineren doorbelasting exploitatielasten MFA de Kreek
+Peuterspeelzaalwerk 114020 100 33804 U Exploitatielasten MFA de Kreek -201.795 NJB26 elimineren doorbelasting exploitatielasten MFA de Kreek
+Sociaal Domein, algemeen 120010 100 33804 U Exploitatielasten MFA de Kreek -4.342 NJB26 elimineren doorbelasting exploitatielasten MFA de Kreek
+Buurt- en clubhuizen 120011 100 33804 U Exploitatielasten MFA de Kreek -101.448 NJB26 elimineren doorbelasting exploitatielasten MFA de Kreek
+MFA De Kreek 300828 100 33804 U Exploitatielasten MFA de Kreek -182.003 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 111010
+MFA De Kreek 300828 100 33804 U Exploitatielasten MFA de Kreek -31.414 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 120011
+MFA De Kreek 300828 100 33804 U Exploitatielasten MFA de Kreek -782.030 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 113011
+MFA De Kreek 300828 100 33804 U Exploitatielasten MFA de Kreek -244.997 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 114020
+MFA De Kreek 300828 100 33804 U Exploitatielasten MFA de Kreek -17.120 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 112020
+Sport algemeen 111010 100 33804 U Exploitatielasten MFA de Kreek 182.003 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 111010
+Buurt- en clubhuizen 120011 100 33804 U Exploitatielasten MFA de Kreek 31.414 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 120011
+Primair onderwijs-onderwijshuisvesting113011 100 33804 U Exploitatielasten MFA de Kreek 782.030 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 113011
+Peuterspeelzaalwerk 114020 100 33804 U Exploitatielasten MFA de Kreek 244.997 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 114020
+Openbare bibliotheek 112020 100 33804 U Exploitatielasten MFA de Kreek 17.120 NJB26 Nieuwe reeks doorbelasting exploitatielasten MFA de Kreek 112020
+MFA De Kreek 300828 100 33518 U Belastingen MFA 44.699 NJB26 elimineren doorbelasting belastingen MFA de Kreek
+Buurt- en clubhuizen 120011 100 33518 U Belastingen MFA -3.881 NJB26 elimineren doorbelasting belastingen MFA de Kreek
+Sport algemeen 111010 100 33518 U Belastingen MFA -10.231 NJB26 elimineren doorbelasting belastingen MFA de Kreek
+Primair onderwijs-onderwijshuisvesting113011 100 33518 U Belastingen MFA -23.234 NJB26 elimineren doorbelasting belastingen MFA de Kreek
+Peuterspeelzaalwerk 114020 100 33518 U Belastingen MFA -7.353 NJB26 elimineren doorbelasting belastingen MFA de Kreek
+MFA De Kreek 300828 100 33518 U Belastingen MFA -7.240 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 111010
+MFA De Kreek 300828 100 33518 U Belastingen MFA -1.250 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 120011
+MFA De Kreek 300828 100 33518 U Belastingen MFA -31.110 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 113011
+MFA De Kreek 300828 100 33518 U Belastingen MFA -9.746 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 114020
+MFA De Kreek 300828 100 33518 U Belastingen MFA -681 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 112020
+Sport algemeen 111010 100 33518 U Belastingen MFA 7.240 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 111010
+Buurt- en clubhuizen 120011 100 33518 U Belastingen MFA 1.250 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 120011
+Primair onderwijs-onderwijshuisvesting113011 100 33518 U Belastingen MFA 31.110 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 113011
+Peuterspeelzaalwerk 114020 100 33518 U Belastingen MFA 9.746 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 114020
+Openbare bibliotheek 112020 100 33518 U Belastingen MFA 681 NJB26 Nieuwe reeks doorbelasting belastingen MFA de Kreek 112020
+MFA De Kreek 300828 100 27451 U Rente HKP 184.520 NJB26 elimineren doorbelasting rente MFA de Kreek
+Buurt- en clubhuizen 120011 100 27451 U Rente HKP -16.020 NJB26 elimineren doorbelasting rente MFA de Kreek
+Sport algemeen 111010 100 27451 U Rente HKP -42.238 NJB26 elimineren doorbelasting rente MFA de Kreek
+Primair onderwijs-onderwijshuisvesting113011 100 27451 U Rente HKP -95.907 NJB26 elimineren doorbelasting rente MFA de Kreek
+Peuterspeelzaalwerk 114020 100 27451 U Rente HKP -30.355 NJB26 elimineren doorbelasting rente MFA de Kreek
+MFA De Kreek 300828 100 27451 U Rente HKP -20.029 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 111010
+MFA De Kreek 300828 100 27451 U Rente HKP -3.457 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 120011
+MFA De Kreek 300828 100 27451 U Rente HKP -86.061 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 113011
+MFA De Kreek 300828 100 27451 U Rente HKP -26.962 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 114020
+MFA De Kreek 300828 100 27451 U Rente HKP -1.884 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 112020
+Sport algemeen 111010 100 27451 U Rente HKP 20.029 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 111010
+Buurt- en clubhuizen 120011 100 27451 U Rente HKP 3.457 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 120011
+Primair onderwijs-onderwijshuisvesting113011 100 27451 U Rente HKP 86.061 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 113011
+Peuterspeelzaalwerk 114020 100 27451 U Rente HKP 26.962 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 114020
+Openbare bibliotheek 112020 100 27451 U Rente HKP 1.884 NJB26 Nieuwe reeks doorbelasting rente MFA de Kreek 112020
+MFA De Kreek 300828 100 27351 U Afschrijvingen HKP 577.587 NJB26 elimineren doorbelasting afschrijving MFA de Kreek
+Buurt- en clubhuizen 120011 100 27351 U Afschrijvingen HKP -50.147 NJB26 elimineren doorbelasting afschrijving MFA de Kreek
+Sport algemeen 111010 100 27351 U Afschrijvingen HKP -132.212 NJB26 elimineren doorbelasting afschrijving MFA de Kreek
+Primair onderwijs-onderwijshuisvesting113011 100 27351 U Afschrijvingen HKP -300.212 NJB26 elimineren doorbelasting afschrijving MFA de Kreek
+Peuterspeelzaalwerk 114020 100 27351 U Afschrijvingen HKP -95.016 NJB26 elimineren doorbelasting afschrijving MFA de Kreek
+MFA De Kreek 300828 100 27351 U Afschrijvingen HKP -83.592 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 111010
+MFA De Kreek 300828 100 27351 U Afschrijvingen HKP -14.428 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 120011
+MFA De Kreek 300828 100 27351 U Afschrijvingen HKP -359.179 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 113011
+MFA De Kreek 300828 100 27351 U Afschrijvingen HKP -112.525 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 114020
+MFA De Kreek 300828 100 27351 U Afschrijvingen HKP -7.863 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 112020
+Sport algemeen 111010 100 27351 U Afschrijvingen HKP 83.592 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 111010
+Buurt- en clubhuizen 120011 100 27351 U Afschrijvingen HKP 14.428 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 120011
+Primair onderwijs-onderwijshuisvesting113011 100 27351 U Afschrijvingen HKP 359.179 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 113011
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Peuterspeelzaalwerk 114020 100 27351 U Afschrijvingen HKP 112.525 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 114020
+Openbare bibliotheek 112020 100 27351 U Afschrijvingen HKP 7.863 NJB26 Nieuwe reeks doorbelasting afschrijving MFA de Kreek 112020
+Volkshuisvesting-algemeen 108010 2952 44201 I Inkomensoverdrachten - provincies 60.000 NJB26 Toekenning subsidie provincie voor Versnelllen woningbouw
+Omgevingsdienst Noord-Holland Noord107080 100 44204 U Inkomensoverdrachten - gemeensch. regelingen -289.000 NJB26 Bijdrage omgevingsdienst NHN
+Omgevingsvergunningen 106040 100 33401 I Leges 1.700.000 NJB26 Uitgaven en inkomsten omgevingsleges en omgevingsplan
+Ontheffingen omgevingsplan 106050 100 33401 I Leges -200.000 NJB26 Uitgaven en inkomsten omgevingsleges en omgevingsplan
+Omgevingsvergunningen 106040 100 33000 U Externe inhuur personeel 800.000 NJB26 Uitgaven en inkomsten omgevingsleges en omgevingsplan
+Omgevingsvergunningen 106040 100 33546 U Adviezen welstandscommissie 150.000 NJB26 Uitgaven en inkomsten omgevingsleges en omgevingsplan
+Volkshuisvesting-algemeen 108010 100 44213 U Bijdrage woningstichting 279.100 NJB26 Verlenen Startbouwimpuls Rozenbuurt
+Volkshuisvesting-algemeen 108010 100 44101 I Inkomensoverdrachten - Rijk 279.100 NJB26 Verlenen Startbouwimpuls Rozenbuurt
+Kermis 109130 4064 33201 I Huuropbrengsten panden 175.000 NJB26: bijstelling kermis
+Kermis 109130 100 33501 U Organisatiekosten 55.000 NJB26: bijstelling kermis
+Vennootschapsbelasting 116075 100 33429 U Te betalen vennootschapsbelasting 30.000 NJB26: bijstelling kermis
+KVS Erfgoed 430001 100 34205 I Bijdrage van gemeenten -116.200 NJB26 Inkomsten archeologie
+Archeologie Gemeenschappelijke regeling112123 100 44205 I Bijdrage van gemeenten 116.200 NJB26 Inkomsten archeologie
+PvH Poort van Hoorn-algemeen 106014 100 33000 U Externe inhuur personeel -130.000 NJB26 Poort van Hoorn exploitatiebudget
+Mutaties reserves 199991 12230 36017 I Beschikking reserve Poort van Hoorn -130.000 8-106014 NJB26 Poort van Hoorn exploitatiebudget
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -130.000 8-106014 NJB26 Poort van Hoorn exploitatiebudget
+PvH Voorbereidingskrediet Poort van Hoorn 201740907901 100 33333 U Kosten uitbestede investeringen 130.000 NJB26 Poort van Hoorn exploitatiebudget
+PvH Voorbereidingskrediet stadstoegang106015 6911 16407 U Doorberekening van KVS (loonsom) -360.253 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6912 16407 U Doorberekening van KVS (loonsom) -317.371 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6913 16407 U Doorberekening van KVS (loonsom) -99.787 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6914 16407 U Doorberekening van KVS (loonsom) -18.865 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6912 16499 U Correctie doorberekening KVS -77.619 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6911 33570 U Uitvoeringskosten -1.286.144 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6912 33570 U Uitvoeringskosten -1.410.157 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6913 33570 U Uitvoeringskosten -356.250 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6914 33570 U Uitvoeringskosten -67.351 NJB26 Voorbereidende fase Nieuwe Stadstoegang (tegenboeking primitief)
+PvH Voorbereidingskrediet stadstoegang106015 6910 16407 U Doorberekening van KVS (loonsom) 302.381 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6910 33000 U Externe inhuur personeel 215.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6910 33432 U Vergader- en representatiekosten 5.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6910 33472 U Communicatie en marketing 20.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6910 33542 U Onderzoekskosten 13.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6911 33542 U Onderzoekskosten 738.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6912 33570 U Uitvoeringskosten 1.014.054 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6912 16499 U Correctie doorberekening KVS 77.619 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6912 33540 U Advieskosten 12.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6912 33542 U Onderzoekskosten 88.797 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6913 16407 U Doorberekening van KVS (loonsom) 103.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6914 33542 U Onderzoekskosten 14.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6915 33542 U Onderzoekskosten 33.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+PvH Voorbereidingskrediet stadstoegang106015 6920 33542 U Onderzoekskosten 36.000 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+Mutaties reserves 199991 12810 36017 I Beschikking reserve Poort van Hoorn -1.321.946 8-106015 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+Reserve Poort van Hoorn 49551006 100 36099 U Beschikkingen reserves -1.321.946 8-106015 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -1.321.946 NJB26 Voorbereidende fase Nieuwe Stadstoegang
+Tractie 109013 100 33522 U Onderhoud/overige kosten 275.000 NJB26 Tractie
+Dagelijks onderhoud sneeuw-/gladheidsbestrijding109021 100 33522 U Onderhoud/overige kosten 80.000 NJB26 Gladheidsbestrijding
+Dagelijks onderhoud openbare verlichting109032 100 33101 U Elektra -426.000 NJB26 Elektrakosten openbare verlichting
+Lasten afvalstoffenheffing 116020 100 44212 U Inkomensoverdrachten - overige overheden -855.000 NJB26 PMD Afvalstoffenheffing
+Mutaties reserves 199991 12730 36002 I Beschikking reserve Riolering -855.000 7-116020 NJB26 PMD Afvalstoffenheffing
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves -855.000 7-116020 NJB26 PMD Afvalstoffenheffing
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -855.000 NJB26 PMD Afvalstoffenheffing
+GRP 2022: riolering (ineens tlv. voorziening Riol)40920237 100 36798 I Bijdrage van balans -3.116.794 NJB26 Riolering
+Voorziening riolering 49560002 100 36799 U Bijdrage aan balans -3.116.794 NJB26 Riolering
+Regionaal Expert Team (RET) 120013 3061 44205 I Bijdrage van gemeenten 150.000 NJB26: DU Vrouwenopvang
+Gemeenschappelijke gezondhdsdnst Hollands Noorden115013 41 44204 I Inkomensoverdrachten - gemeensch. regelingen 177.000 NJB26: invulling taakstelling GGD (reeds gerealiseerd)
+Gemeenschappelijke gezondhdsdnst Hollands Noorden115013 3854 44204 I Inkomensoverdrachten - gemeensch. regelingen -177.000 NJB26: invulling taakstelling GGD (reeds gerealiseerd)
+Gemeenschappelijke gezondhdsdnst Hollands Noorden115013 41 44204 U Inkomensoverdrachten - gemeensch. regelingen 71.000 NJB26: invulling taakstelling GGD (dekking reserve diverse incidentele bestemmingen)
+Mutaties reserves 199991 12630 36083 I Beschikking reserve incidentele bestemmingen 11.798 6-115013: invulling taakstelling 2026 GGD
+Mutaties reserves 199991 12630 36083 I Beschikking reserve incidentele bestemmingen 27.364 6-115013: invulling taakstelling 2026 GGD
+Mutaties reserves 199991 12630 36083 I Beschikking reserve incidentele bestemmingen 31.838 6-115013: invulling taakstelling 2026 GGD
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves 11.798 6-115013: invulling taakstelling 2026 GGD
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves 27.364 6-115013: invulling taakstelling 2026 GGD
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves 31.838 6-115013: invulling taakstelling 2026 GGD
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 71.000 invulling taakstelling GGD vanuit reserve diverse incidentele bestemmingen
+KVS 1.Hoorn 450005 100 10015 U Stelpost mutaties formatie 35.500 NJB26: tijdelijke uitbreiding casemanager inburgering (0,66FTE)
+Opvang asielzoekers en vluchtelingen114100 3091 44101 I Inkomensoverdrachten - Rijk 35.500 NJB26: Har+ wordt ingezet voor tijdelijke uitbreiding casemanager inburgering (0,66FTE)
+Eerstelijns loket Jeugdzorg 123010 100 44282 U Inkomensoverdrachten overige instellingen en pers.
+15.000 NJB26: extra inzet Home-Start 2026
+Eerstelijns loket Jeugdzorg 123010 40000 33433 U Opleidingskosten -3.458 NJB26: dekking extra inzet Home-Start 2026
+Eerstelijns loket Jeugdzorg 123010 40000 33570 U Uitvoeringskosten -11.542 NJB26: dekking extra inzet Home-Start 2026
+Opvang asielzoekers en vluchtelingen114100 3091 33102 U Gas 1.000 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 33406 U Schoonhouden 17.000 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 33411 U Beveiliging 112.000 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 33415 U Aanschaf inventaris/materialen 30.000 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 33427 U Betaalde huren 88.300 NJB26: doorstroomlocatie Maelsonstraat
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Opvang asielzoekers en vluchtelingen114100 3091 33432 U Vergader- en representatiekosten 1.000 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 33522 U Onderhoud/overige kosten 35.000 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 33570 U Uitvoeringskosten -12.300 NJB26: doorstroomlocatie Maelsonstraat
+Opvang asielzoekers en vluchtelingen114100 3091 44212 I Inkomensoverdrachten - overige overheden 774.500 NJB26: HAR+ regeling
+Opvang asielzoekers en vluchtelingen114100 3091 44101 I Inkomensoverdrachten - Rijk 262.500 NJB26: SPUK huisvesting vergunninghouders in doorstroomlocaties (Maelsonstr)
+Opvang asielzoekers en vluchtelingen114100 3091 44101 I Inkomensoverdrachten - Rijk 35.000 NJB26: SPUK Oekraine (opvang in Maelsonstr)
+Mutaties reserves 199991 12630 36083 U Storting reserve incidentele bestemmingen 800.000 6-114100 surplus opvanglocatie Maelsonstraat 2026
+Reserve diverse incidentele bestemmingen49550003 100 36099 I Stortingen reserves 800.000 6-114100 surplus opvanglocatie Maelsonstraat 2026
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -800.000 Surplus opvangloc Maelsonstr wordt gestort in de reserve div.inc.best
+Opvang Oekrainers 114200 100 33570 U Uitvoeringskosten 2.272.000 NJB26: kosten opvang Oekraïne
+Opvang Oekrainers 114200 100 44101 I Inkomensoverdrachten - Rijk 2.272.000 NJB26: SPUK Oekraïne (leefgeld, verlengde Lageweg, sloopwon. en uitv.kn)
+Opvang Oekrainers 114200 4233 33570 U Uitvoeringskosten 725.000 NJB26: kosten opvang Oekraïne
+Opvang Oekrainers 114200 4233 44101 I Inkomensoverdrachten - Rijk 725.000 NJB26: SPUK Oekraïne
+Opvang Oekrainers 114200 3090 33570 U Uitvoeringskosten 703.000 NJB26: kosten opvang Oekraïne - gebouwdeel C
+Opvang Oekrainers 114200 3090 44101 I Inkomensoverdrachten - Rijk 703.000 NJB26: SPUK Oekraïne - gebouwdeel C
+Kwetsbare inwoners-Overige kosten122049 100 36606 U Verrekening tussen exploitatie en KVS -163.253 NJB26: Bijstelling MO/BW (dubbel geraamd)
+Regionaal Expert Team (RET) 120013 100 36606 U Verrekening tussen exploitatie en KVS 163.253 NJB26: Bijstelling MO/BW (dubbel geraamd)
+Mutaties reserves 199991 12630 36011 I Beschikking reserve beschermd wonen MO/VB/OGGZ250.000 6-12204x aandeel Hoorn in surplus (NJB26)
+Reserve beschermd wonen MO/VB/OGGZ49551052 100 36099 U Beschikkingen reserves 250.000 6-12204x aandeel Hoorn in surplus (NJB26)
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 250.000 NJB26: surplus MO/BW
+Jeugdzorg-Algemeen 124010 100 30001 U Ombuigingen exploitatie -1.490.956 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg-Algemeen 124010 100 33516 U Inkoop zorg 487.700 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg-Algemeen 124010 40000 33516 U Inkoop zorg 302.705 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg - Segment B - Ondersteuningsproﬁelen124011 40000 33516 U Inkoop zorg 3.000.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg - Segment C 124012 40000 33516 U Inkoop zorg 26.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg - Segment C 124012 100 44282 U Inkomensoverdrachten overige instellingen en pers.
+35.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg - Segment C 124012 100 33501 U Organisatiekosten 150.000 NJB26: bijstelling budgetten Jeugdzorg (verg. bijdrage GGZ)
+Jeugdzorg - Segment C 124012 100 44205 I Bijdrage van gemeenten 98.000 NJB26: projectbegeleiding segment C
+Jeugdzorg - Segment B - Extra componenten124013 100 33516 U Inkoop zorg 360.000 NJB26: bijdrage voor projectbegeleiding segment C
+Jeugdhulp ambulant lokaal 124015 40000 33516 U Inkoop zorg -619.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdhulp ambulant regionaal 124016 40000 33516 U Inkoop zorg -2.239.631 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdhulp ambulant landelijk 124017 40000 33516 U Inkoop zorg -476.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdhulp met verblijf regionaal - pleegzorg124020 40000 44212 U Inkomensoverdrachten - overige overheden -969.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdhulp met verblijf regionaal 124022 40000 33516 U Inkoop zorg -1.926.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdzorg Plus 124030 40000 33516 U Inkoop zorg 20.000 NJB26: bijstelling budgetten Jeugdzorg
+Crisishulp en -opvang 124040 40000 33516 U Inkoop zorg 120.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdbescherming en -reclassering124050 40000 33516 U Inkoop zorg 660.000 NJB26: bijstelling budgetten Jeugdzorg
+Ernstige Enkelvoudige Dyslexie 124070 40000 33516 U Inkoop zorg 30.000 NJB26: bijstelling budgetten Jeugdzorg
+Specialistische Geestelijke GezondheidsZorg124100 40000 33516 U Inkoop zorg 200.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugd- en opvoedhulp 124111 40000 33516 U Inkoop zorg 575.000 NJB26: bijstelling budgetten Jeugdzorg
+Persoonl.begeleiding, verzorging en kort verblijf124120 40000 33516 U Inkoop zorg 975.000 NJB26: bijstelling budgetten Jeugdzorg
+Jeugdhulp ambulant regionaal 124016 40000 33516 U Inkoop zorg 2.229.000 NJB26: bijstelling budgetten Jeugdzorg
+Persoongebonden Budget Jeugdzorg124130 40000 33516 U Inkoop zorg -303.000 NJB26: bijstelling budgetten Jeugdzorg
+Sociaal Domein, algemeen 120010 100 33000 U Externe inhuur personeel -262.176 NJB26: bijstelling budgetten Jeugdzorg
+Algemeen WMO <2015 121010 100 30000 U Stelpost exploitatielasten -750.000 Bijstelling raming Wmo
+Inkomensvoorzieningen, algemeen110012 4541 44204 U Inkomensoverdrachten - gemeensch. regelingen 250.000 NJN26;
+Vrijval deel algemene reserve WerkSaam, nav aanpassing nota res&voorz
+Inkomensvoorzieningen, algemeen110012 4540 44204 U Inkomensoverdrachten - gemeensch. regelingen -250.000 NJN26;
+Vrijval deel algemene reserve WerkSaam, nav aanpassing nota res&voorz
+Inkomensvoorzieningen, algemeen110012 4540 44204 U Inkomensoverdrachten - gemeensch. regelingen -220.000 NJN26;
+Vrijval deel algemene reserve WerkSaam, nav aanpassing nota res&voorz
+Primair onderwijs-onderwijshuisvesting113011 100 33421 U Kosten huisvesting onderwijs 40.000 NJN26: Herstel schade Ooievaarsnest 1e etage
+Primair onderwijs-onderwijshuisvesting113011 100 33431 I Bijdrage in onderhouds- en investeringswerken 40.000 NJN26: Herstel schade Ooievaarsnest 1e etage
+Primair onderwijs-onderwijshuisvesting113011 100 33421 U Kosten huisvesting onderwijs 230.000 NJN26: Gebouwen Trigoon
+Primair onderwijs-onderwijshuisvesting113011 100 33431 I Bijdrage in onderhouds- en investeringswerken 230.000 NJN26: Gebouwen Trigoon
+Inkomensvoorzieningen, PB 110013 100 44204 U Inkomensoverdrachten - gemeensch. regelingen 1.474.000 NJN26: Bijstelling BUIG naar nader voorlopig budget
+Inkomensvoorzieningen, PB 110013 100 44101 I Inkomensoverdrachten - Rijk 1.474.000 NJN26: Bijstelling BUIG naar nader voorlopig budget
+Vul een geldige FCL in 125055 100 33501 U Organisatiekosten 75.000 NJN26;
+Regiodeal
+Vul een geldige FCL in 125055 100 44205 I Bijdrage van gemeenten 75.000 NJN26;
+Regiodeal
+Toeslagenaffaire belastingdienst 125050 100 33000 U Externe inhuur personeel -86.500 NJB26 - Uitvoeringslaten TSA 2026
+Toeslagenaffaire belastingdienst 125050 100 44220 U Vergoedingen 400.000 NJB26 - maatwerk TSA 2026
+Begeleiding (WMO) 122020 40000 33516 U Inkoop zorg 65.500 NJB26 - Wmo TSA 2026
+Jeugdhulp ambulant regionaal 124016 40000 33516 U Inkoop zorg 966.000 NJB26 - Jeugd TSA 2026
+Toeslagenaffaire belastingdienst 125050 100 44101 I Inkomensoverdrachten - Rijk 400.000 NJB26 - Maatwerk TSA 2026
+Toeslagenaffaire belastingdienst 125050 100 44101 I Inkomensoverdrachten - Rijk 66.000 NJB26 - Normbedragen TSA 2026
+Algemeen WMO <2015 121010 100 44101 I Inkomensoverdrachten - Rijk 65.500 NJB26 - Wmo TSA 2026
+Jeugdzorg-Algemeen 124010 100 44101 I Inkomensoverdrachten - Rijk 966.000 NJB26 - Jeugd TSA 2026
+Mutaties reserves 199991 12610 36083 I Beschikking reserve incidentele bestemmingen -152.500 6-125050-NJB26: dekking Toeslagenaffaire
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves -152.500 NJB26: Toeslagenaffaire
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -152.500 NJB26: Toeslagenaffaire
+Leerlingenvervoer 113072 100 44261 U Vervoersvoorzieningen -95.500 NJB26: LLV
+Uitkeringen gemeentefonds 117020 101 44101 I Inkomensoverdrachten - Rijk -13.433 SC26: raming cf. berekening Pauw
+Uitkeringen gemeentefonds, stelposten117021 41 30006 I Te verwachten mutaties AU -802.519 SC26: voorschot 2026 ontvangen BTW Compensatiefonds
+Opvang asielzoekers en vluchtelingen114100 4265 33418 U Exploitatielasten 125.238 SC26: uitvoeringskosten inburgering
+Volkshuisvesting-algemeen 108010 100 33570 U Uitvoeringskosten 159.894 SC26: Wet versterking regie volkshuisvesting: uitvoeringskosten
+Volkshuisvesting-algemeen 108010 100 33420 U Dienstverlening I-NUP 43.030 SC26: Wet versterking regie volkshuisvesting: integrale dienstverlening
+Kwetsbare inwoners-Maatschappelijke opvang122046 100 30000 U Stelpost exploitatielasten 13.406 SC26: maatschappelijke opvang en OGGz
+Opvang asielzoekers en vluchtelingen114100 100 33543 U Projecten 5.759 SC26: faciliteitenbesluit opvangcentra
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Kwetsbare inwoners-Beschermd wonen ingekocht ZiN122044 100 30000 U Stelpost exploitatielasten 11.424 SC26: beschermd wonen
+Opvang asielzoekers en vluchtelingen114100 100 33543 U Projecten 55.282 SC26: spreidingswet
+Uitkeringen gemeentefonds 117020 102 44101 I Inkomensoverdrachten - Rijk 723.348 uitkeringsjaar 2025 2026-07 (25/06/2026)
+Uitkeringen gemeentefonds 117020 103 44101 I Inkomensoverdrachten - Rijk 596.011 uitkeringsjaar 2024 2026-07 (25/06/2026)
+Uitkeringen gemeentefonds 117020 104 44101 I Inkomensoverdrachten - Rijk 259 uitkeringsjaar 2023 2026-02 (21/01/2026)
+Nog niet functioneel ingedeelde lasten/baten116073 34 30000 U Stelpost exploitatielasten 1.150.000 Vervallen onderuitputting Begroting
+Mutaties reserves 199991 12000 36099 I Stortingen reserves -7.100.000 ADM: verkeerde ECL gecorrigeerd
+Mutaties reserves 199991 12000 36000 I Beschikking Algemene reserve 7.100.000 ADM: verkeerde ECL gecorrigeerd
+Uitkeringen gemeentefonds, stelposten117021 100 30000 U Stelpost exploitatielasten -22.807 SC2024: Kinderopvang Sociaal Medische Indicatie (SMI)
+Algemeen AWBZ/Wmo 122010 40000 44241 U Betaling kinderopvang alleenstaande ouders 22.807 SC2024: Kinderopvang Sociaal Medische Indicatie (SMI)
+Uitkeringen gemeentefonds, stelposten117021 100 30006 I Te verwachten mutaties AU 530.600 MC2025: correctie wegens aantallen laag inkomens
+Uitkeringen gemeentefonds, stelposten117021 100 30006 I Te verwachten mutaties AU 106.104 Ambulantisering GGZ (SC2019)
+Gemeenschappelijke gezondhdsdnst Hollands Noorden115013 3842 44204 U Inkomensoverdrachten - gemeensch. regelingen 106.104 Ambulantisering GGZ (SC2019)
+Uitkeringen gemeentefonds, stelposten117021 100 30006 I Te verwachten mutaties AU 146.000 MC24: Volume- en prijsdeel 2027 en verder
+Uitkeringen gemeentefonds, stelposten117021 100 30006 I Te verwachten mutaties AU 658.349 Correctie loonkostensubsidie
+Uitkeringen gemeentefonds, stelposten117021 100 30006 I Te verwachten mutaties AU 2.245 MC20: Fokuswoningen Wlz indicatie
+Kwetsbare inwoners-Beschermd wonen ingekocht ZiN122044 3882 33516 U Inkoop zorg 2.245 MC20: Fokuswoningen Wlz indicatie
+Uitkeringen gemeentefonds, stelposten117021 100 30006 I Te verwachten mutaties AU -1.000.000 Ombuiging B2025 Inkomsten BTW compensatiefonds
+Uitkeringen gemeentefonds, stelposten117021 41 30006 I Te verwachten mutaties AU 1.000.000 Ombuiging B2025 Inkomsten BTW compensatiefonds
+Uitkeringen gemeentefonds, stelposten117021 41 30006 I Te verwachten mutaties AU -70.000 Ombuiging B2025 Inkomsten BTW compensatiefonds
+Uitkeringen gemeentefonds 117020 100 44101 I Inkomensoverdrachten - Rijk -63.222.785 Correctie naar juiste taak
+Uitkeringen gemeentefonds 117020 101 44101 I Inkomensoverdrachten - Rijk 63.222.785 Correctie naar juiste taak
+Uitkeringen gemeentefonds 117020 101 44101 I Inkomensoverdrachten - Rijk 6.511.421 MC2026: raming cf. berekening Pauw
+Gezondheidszorg algemeen 115010 4240 30000 U Stelpost exploitatielasten 42.176 SC2025: Wet Integrale suïcidepreventie
+Jeugdhulp ambulant regionaal 124016 100 33516 U Inkoop zorg 109.650 SC2025: Loon- en prijsbijstelling middelen op de AP Jeugdzorg
+Participatie-Reïntegratie 126010 100 44204 U Inkomensoverdrachten - gemeensch. regelingen 63.073 SC2025: Implementatie Participatiewet in Balans
+Kwetsbare inwoners-Maatschappelijke opvang122046 100 30000 U Stelpost exploitatielasten 16.106 SC2025: MO en OGGz
+Kwetsbare inwoners-Beschermd wonen ingekocht ZiN122044 100 30000 U Stelpost exploitatielasten 72.059 SC2025: Beschermd Wonen
+Inkomensvoorzieningen, algemeen110012 4541 44204 U Inkomensoverdrachten - gemeensch. regelingen 244.115 SC2025: Participatie (IU);
+Beschut werk
+Inkomensvoorzieningen, algemeen110012 100 44204 U Inkomensoverdrachten - gemeensch. regelingen -6.050 SC2025: Participatie (IU);
+Sociale infrastructuur
+Participatie-Reïntegratie 126010 4601 44204 U Inkomensoverdrachten - gemeensch. regelingen 21.325 SC2025: Impulsbudget sociale infrastructuur
+Mutaties reserves 199991 12720 36043 U Storting reserve Stimuleringsmaatr.
+Duurzaamheid2.310.837 SC2025: Capaciteit decentrale overheden klimaat- en energiebeleid (CDOKE)
+Reserve Stimuleringsmaatregelen Duurzaamheid49551043 100 36099 I Stortingen reserves 2.310.837 SC2025: Capaciteit decentrale overheden klimaat- en energiebeleid (CDOKE)
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -2.310.837 SC2025: Capaciteit decentrale overheden klimaat- en energiebeleid (CDOKE)
+Openbare bibliotheek 112020 3809 44281 U Inkomensoverdrachten-gemeenten 64.888 SC2025: Overheidsbrede dienstverlening
+Mutaties reserves 199991 12720 36043 U Storting reserve Stimuleringsmaatr.
+Duurzaamheid1.184.892 DC2025: Capaciteit decentrale overheden klimaat- en energiebeleid (CDOKE)
+Reserve Stimuleringsmaatregelen Duurzaamheid49551043 100 36099 I Stortingen reserves 1.184.892 DC2025: Capaciteit decentrale overheden klimaat- en energiebeleid (CDOKE)
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -1.184.892 DC2025: Capaciteit decentrale overheden klimaat- en energiebeleid (CDOKE)
+Inkomensvoorzieningen, algemeen110012 100 33570 U Uitvoeringskosten 24.403 MC2026: Wet handhaving sociale zekerheid
+Sociaal Domein, algemeen 120010 100 44220 U Vergoedingen 47.657 MC2026: Kinderopvang pleegouders
+Jeugdzorg-Algemeen 124010 100 33516 U Inkoop zorg -282.914 MC2026: Compensatieregeling niet-beoogde kosten jeugdzorg
+Jeugdzorg-Algemeen 124010 100 33516 U Inkoop zorg -47.821 MC2026: 'Weeffout' Jeugdzorg
+Uitvoering Wet op de lijkbezorging 104051 100 33592 U Diensten derden -13.999 MC2026: Wet op de lijkbezorging
+Volkshuisvesting-algemeen 108010 100 33418 U Exploitatielasten 2.887 MC2026: Wet betaalbare huur
+Kwetsbare inwoners-Maatschappelijke opvang122046 100 30000 U Stelpost exploitatielasten -2.778 MC2026: MO en OGGz
+Kwetsbare inwoners-Beschermd wonen ingekocht ZiN122044 100 30000 U Stelpost exploitatielasten 449.509 MC2026: Beschermd Wonen
+Inkomensvoorzieningen, algemeen110012 4540 44204 U Inkomensoverdrachten - gemeensch. regelingen 211.809 MC2026: Participatie
+Kwetsbare inwoners-Uitvoeringskosten122048 100 33543 U Projecten 2.243 MC2026: Nationaal Actieplan Dakloosheid
+Openbare bibliotheek 112020 3809 44281 U Inkomensoverdrachten-gemeenten 7.210 MC2026: Overheidsbrede dienstverlening
+Opvang asielzoekers en vluchtelingen114100 3821 44282 U Inkomensoverdrachten overige instellingen en pers.
+25.000 MC2026: Aanpak overlastgevende asielzoekers
+Opvang asielzoekers en vluchtelingen114100 100 33543 U Projecten 11.345 MC2026: Faciliteitenbesluit opvangcentra
+Rondkomen - inkomensondersteuning125080 4326 44220 U Vergoedingen 226.380 MC2026: Alleenverdienersproblematiek
+Rondkomen - inkomensondersteuning125080 4366 44263 U Overige voorzieningen 82.927 MC2026: Aanvullende ondersteuning lokale energiehulp
+Rondkomen - hulp bij schulden 125075 4324 33570 U Uitvoeringskosten 86.681 MC2026: IBO Problematische schulden
+Inkomensvoorzieningen, algemeen110012 100 44204 U Inkomensoverdrachten - gemeensch. regelingen 45.750 MC2026: Re-integratiedienstverlening gericht op jongeren
+Feitelijke kosten raad en raadscommissies101010 100 44104 U Vul geldige combinatie ECL/IU in 25.970 MC2026: Ondersteuning lokale politieke partijen
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
