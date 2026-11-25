@@ -1,0 +1,71 @@
+Vorige pagina
+Brieven College
+Raadsbrief Beveiligingskwetsbaarheden PHP
+ID
+3112
+Omschrijving
+Raadsbrief Beveiligingskwetsbaarheden PHP
+Datum
+22-10-2026
+Afzender
+College
+Bijlage(s)
+Raadsbrief beveiligingskwetsbaarheden PHP
+[Bijlage: Raadsbrief beveiligingskwetsbaarheden PHP]
+HOORN
+Aan de leden van de raad
+Gemeente Hoorn
+Nieuwe Steen 1
+Postbus 603
+1620 AR Hoorn
+T 0229 25 22 00
+www.hoorn.nl
+Contactpersoon
+F. van den Berg
+Zaaknummer: 3093368
+Hoorn, 22 oktober 2026
+Onderwerp: Beveiligingskwetsbaarheden PHP
+Beste leden van de raad,
+Op woensdag 21 oktober zijn wereldwijd verschillende websites uit voorzorg offline gehaald vanwege
+kwetsbaarheden.
+Met deze brief informeren wij u over de impact die dit heeft gehad voor de gemeente
+Hoorn en hoe wij hebben gehandeld.
+Landelijke en internationale situatie
+Op woensdag 21 oktober zijn wereldwijd verschillende websites uit voorzorg tijdelijk offline gehaald.
+Dit
+is gedaan vanwege twee ernstige beveiligingskwetsbaarheden in PHP.
+Dit is een veelgebruikte
+programmeertaal voor websites en online toepassingen.
+Door deze kwetsbaarheden konden
+kwaadwillenden mogelijk op afstand toegang krijgen tot systemen.
+Ook verschillende overheidsorganisaties werden hierdoor geraakt, waaronder websites van
+overheidsdiensten en veiligheidsregio's.
+Het Nationaal Cyber Security Centrum adviseerde organisaties
+om de beveiligingsupdates zo snel mogelijk te testen en te installeren en waar nodig preventieve
+maatregelen te treffen.
+Maatregelen gemeente Hoorn
+Ook gemeente Hoorn heeft direct maatregelen genomen naar aanleiding van de
+beveiligingskwetsbaarheid.
+Wij hebben uit voorzorg het intranet en een aantal themawebsites offline
+gehaald, waaronder Hoornpas en Jongeren Startpunt Hoorn.
+De gemeentelijke website Hoorn.nl is
+steeds beschikbaar gebleven.
+Deze website maakt geen gebruik van PHP, de programmeertaal waarop
+de beveiligingskwetsbaarheid betrekking had.
+Het was daarom niet nodig om Hoorn.nl offline te halen.
+Dienstverlening en communicatie
+De gemeentelijke website Hoorn.nl en de gemeentelijke dienstverlening zijn beschikbaar gebleven.
+Om inwoners zo goed mogelijk te kunnen helpen, is het Klantcontactcentrum (KCC) geïnformeerd over
+de situatie en voorbereid op mogelijke vragen.
+Medewerkers zijn intern op de hoogte gehouden van de
+situatie en de beschikbare alternatieven.
+Herstel
+Zodra de beveiligingsupdates beschikbaar kwamen, zijn deze geïnstalleerd en de systemen
+gecontroleerd.
+Aan het einde van de middag is het intranet weer online gegaan.
+En op woensdagavond
+waren ook Hoornpas en Jongeren Startpunt Hoorn weer online.
+Met vriendelijke groet, v
+Burgerree n weth uders van Hoorn \
+de secreta7~ de burgem
+is
