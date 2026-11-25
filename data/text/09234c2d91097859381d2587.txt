@@ -1,0 +1,102 @@
+Vorige pagina
+Brieven College
+Raadsbrief ENSIA-verantwoording 2025
+ID
+3028
+Omschrijving
+Raadsbrief ENSIA-verantwoording 2025
+Datum
+21-05-2026
+Afzender
+College
+Bijlage(s)
+Raadsbrief ENSIA-verantwoording 2025
+[Bijlage: Raadsbrief ENSIA-verantwoording 2025]
+MEEWTF
+HOORN
+Aan de leden van de gemeenteraad
+Gemeente Hoorn
+Nieuwe Steen 1
+Postbus 603
+1620 AR Hoorn
+T 0229 25 22 00
+rsvw hoorn nl
+Contactpersoon
+Frank Viarien
+Zaaknummer 3 L1 o 2..
+5.
+Bijlagen
+Hoorn, 2 0 MEI 2026
+Onderwerp: lnformatieve brief aan de raad ENSIA-verantwoording 2025
+Geachte leden van de gemeenteraad,
+Alle Nederlandse gemeentebesturen leggen jaarlijks, op één en hetzelfde moment, via één en dezelfde
+methode verantwoording af over de stand van zaken van hun gemeente met betrekking tot het voldoen
+aan gestelde normen rondom lnformatiebeveiliging. datakwaliteit, data-integriteit en de AVG
+(privacywet).
+Via het zogenoemde Eenduidige Normatiek Single lnformation Audit (ENSIA) wordt over
+het voorafgaande jaar een officiële terugkoppeling gegeven aan betrokken ministeries (BZK en SZW) en
+bijbehorende toezichthouders zoals bijvoorbeeld Logius en het Bureau Keteninformatisering Werk en
+lnkomen (BKWI).
+Positief resultaat normering verantwoordingsjaar 2025
+Over het verantwoordingsjaar 2025 is de conclusie van de onafhankelijke IT-auditor dat de gemeente
+Hoorn aan alle normen voor zowel de DigiD-aansluitingen als voor de Suwinet dienstverlening door de
+gemeente Hoorn heeft voldaan
+lnhoudelijke informatie
+Hieronder vindt u specifieke informatie over het verantwoordingsjaar 2025 en de specifieke onderdelen.
+Het proces van deze evaluatie is doorlopen waarin informatiebeveiliging beoordeeld wordt aan de
+normen en eisen van:
+• De baseline lnformatiebeveiliging Overheid (BIO)
+• De basisregistratie Personen (BRP)
+• De basisregistratie adressen en gebouwen (BAG)
+• De basisregistratie Grootschalige Topografie (BGT)
+• Basisregistratie ondergrond (BRO)
+• De paspoortuitvoeringsregeling Nederland (PUN)
+• Het systeem Suwinet van het ministerie van SzW, waarin UWJ, SVB en gemeenten
+persoonsgegevens uitwisselen
+• DigiD
+• Algemene verordening gegevensbescherming (AVG)
+DigiD
+ln onze gemeente maken wij gebruik van drie DigiD aansluitingen
+• Belastingbalie: voor het inzien van belastingaanslagen, automatisch incasso aanvrage.
+bezwaar indienen tegen een belastingaanslag, kwijtschelding aanvragen en contactgegevens
+aanpassen.
+Formulieren voor een deel van onze digitale dienstverlening
+1/2
+Parkeervergunningensysteem: voor het aanvragen, wijzigen en verlenen van
+parkeervergunningen.
+Suwinet
+De Suwinet applicatie wordt gebruikt voor de onderstaande dienstverlening:
+• Participatiewet (Pw)
+• lnkomensvoorziening voor Oudere en gedeeltelijk arbeidsongeschikte Werknemers (IOAW)
+• Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
+(IOAZ)
+• Regelingopvang OntheemdeOekraïners (R00O)
+• Wet gemeentelijkeschuldhulpverlening (WGS)
+• Adres onderzoek door Burgerzaken (BZ)
+• Hulp aan vroegtijdigschoolverlaters door Doorstroompunt-regios (DSP)
+• Werksaam Westfriesland
+Onafhankelijke toetsing
+Naast de zelfevaluatie op bovengenoemde onderdelen, bestaat het proces van ENSIA uit een specifieke
+extra toetsing op de onderdelen DigiD en Suwinet.
+Deze toetsing wordt uitgevoerd door een externe
+onafhankelijke IT-auditor.
+Vervolgens stelt de auditor een vertrouwelijk zogenoemd Assurantie rapport op
+welke met de getekende collegeverklaring naar de ministeries wordt verstuurd.
+AIle betrokken collegestukken, de inhoudelijke stukken en het assurantie rapport kennen een
+geheimhouding volgens artikel 87 Gemeentewet voor onbepaalde tijd.
+Dit heeft te maken met het
+vertrouwelijk karakter van alle informatie rondom de gemeentelijke informatiebeveiliging.
+Collegeverklaring
+ln een apart voorstel is het college al reeds geïnformeerd over de uitkomsten van de zelfevaluaties.
+Daarnaast legt het college in een verklaring verantwoording af over de informatiebeveiliging van:
+Suwinet aan het ministerie van SZW.
+DigiD aan Logius als onderdeel van het ministerie van BZK.
+Meer informatie?
+Stel uw vraag dan via www.hoorn.nl/vraag.
+Als u op deze brief reageert, vermeld dan het zaaknummer.
+Dit nummer staat rechtsboven in deze brief vermeld.
+Met vriendelijke groet,
+wethouders van Hoorn
+de bu
+\
+2/2
