@@ -1,0 +1,2274 @@
+Vorige pagina
+Belangrijke documenten
+Warmteplan Streektuinen
+ID
+87
+Onderwerp
+Warmteplan Streektuinen
+Datum
+19-11-2026
+Bijlage(n)
+Definitief Warmteplan Streektuinen
+Categorie
+[Bijlage: Definitief Warmteplan Streektuinen]
+Pagina 1 van 55
+Pagina 2 van 55
+Warmteplan De Streektuinen (Hoorn-Noord)
+November, 2026
+Inhoudsopgave
+Begrippenlijst beknopt .....................................................................................................................................5
+Inleiding ...........................................................................................................................................................6
+Kijk op de wijk ..................................................................................................................................................6
+Context .........................................................................................................................................................6
+Gebiedsafbakening ......................................................................................................................................7
+Doelgroepen ................................................................................................................................................9
+Partners .....................................................................................................................................................10
+Kaders en regelgeving ...................................................................................................................................11
+Wetgeving ..................................................................................................................................................11
+Beleid .........................................................................................................................................................12
+Externe randvoorwaarden ..........................................................................................................................13
+Overige opgaven ........................................................................................................................................13
+Inspraakkaders ..........................................................................................................................................13
+Opname van plan in omgevingsplannen ....................................................................................................14
+Analyse ..........................................................................................................................................................15
+Voorkeurs warmteoplossing uit Warmteprogramma ..................................................................................15
+Analyse VvE’s ............................................................................................................................................15
+Participatie en communicatie .........................................................................................................................16
+Participatieaanpak .....................................................................................................................................16
+Publieke Dialogen ......................................................................................................................................16
+Conclusie wensen uit de buurt ...................................................................................................................17
+Businesscase ................................................................................................................................................18
+Technische analyse ...................................................................................................................................18
+Financiële haalbaarheid .............................................................................................................................19
+Besluit ............................................................................................................................................................21
+Gekozen warmteoplossing(en) ..................................................................................................................21
+Wat betekent dit voor belanghebbenden ...................................................................................................21
+Handelingsperspectief ............................................................................................................................21
+Woningscans ..........................................................................................................................................21
+Pagina 3 van 55
+Woningscan 1 .....................................................................................................................................23
+Woningscan 2 .....................................................................................................................................25
+Woningscan 3 .....................................................................................................................................28
+Beslisboom .............................................................................................................................................30
+Goedkeuringsproces ..................................................................................................................................31
+Identificatie aanvullende kaders .............................................................................................................31
+Bestuurlijke procedure ............................................................................................................................31
+Plan van aanpak ............................................................................................................................................32
+Projectdefinitie ...........................................................................................................................................32
+Projectaanpak ............................................................................................................................................32
+Koppelkansen ............................................................................................................................................33
+Financiering ...............................................................................................................................................33
+Regie en organisatie ..................................................................................................................................33
+Kwaliteitsmanagement ...............................................................................................................................34
+Veranderplan .............................................................................................................................................34
+Risico-inventarisatie en mitigatie ...............................................................................................................35
+Communicatieplan .....................................................................................................................................35
+Projectplan .................................................................................................................................................36
+Planning .....................................................................................................................................................38
+Bijlagen ............................................................................................................Error!
+Bookmark not defined.
+Bijlage 1.
+Stakeholderanalyse ...............................................................................................................39
+Bijlage 2.
+Bronnen voor wet- en regelgeving .........................................................................................40
+Bronnen: .................................................................................................................................................40
+Beleid .....................................................................................................................................................40
+Gemeentelijke regelgeving .....................................................................................................................40
+Nationale wetgeving ...............................................................................................................................40
+Bijlage 3.
+Beslisboom warmteoplossing ................................................................................................41
+Bijlage 4.
+Stappenplan Aardgasvrij ........................................................................................................42
+Huurders .................................................................................................................................................42
+Ongeacht warmtescenario (www.duurzaambouwloket.nl/maatregelen) .............................................42
+Warmtenet ..........................................................................................................................................42
+Elektrisch ............................................................................................................................................42
+Overige verwarmingstechnieken ........................................................................................................42
+Eigenaar-bewoners/VvE’s/particuliere verhuurders/woningeigenaren ...................................................42
+Pagina 4 van 55
+Ongeacht warmtescenario (www.duurzaambouwloket.nl/maatregelen) .............................................42
+Warmtenet ..........................................................................................................................................43
+Elektrisch ............................................................................................................................................43
+Overige verwarmingstechnieken ........................................................................................................43
+Gebouweigenaren (utiliteit, maatschappelijk vastgoed, winkels, enz.) ..................................................44
+Ongeacht warmtescenario (www.duurzaamondernemersloket.nl) .....................................................44
+Warmtenet ..........................................................................................................................................44
+Elektrisch ............................................................................................................................................44
+Overige alternatieven ..........................................................................................................................44
+Bijlage 5.
+Bronnen ondersteuning doelgroepen .....................................................................................45
+Huurders .................................................................................................................................................45
+Adviezen kleine energiebesparende maatregelen ..............................................................................45
+Hulp bij financiering ............................................................................................................................45
+Eigenaar-bewoners/VvE/particuliere verhuurders/woningeigenaren .....................................................45
+Adviezen maatregelen ........................................................................................................................45
+Hulp bij financiering ............................................................................................................................45
+(Hulp bij) vergunningen (www.omgevingsloket.nl) ..............................................................................46
+Collectieve inkoop ...............................................................................................................................46
+Bijlage 6.
+Identificatie aanvullende ruimtelijke kaders ...........................................................................47
+o Geïdentificeerd ruimtebeslag (Knelpunten met ondergronds en bovengrondse infra) ..................47
+o Detail niveau bestemmingsplan .....................................................................................................47
+o Volume van de bovengrondse technische oplossing .....................................................................47
+o Stippellijn ondergrondse infra. + Mogelijke alternatieven. .............................................................47
+Bijlage 7.
+Bestuurlijk proces ...................................................................................................................48
+Bijlage 8.
+Begrippenlijst volledig ............................................................................................................49
+Pagina 5 van 55
+Begrippenlijst beknopt
+Tabel 1: Begrippenlijst beknopt.
+De volledige begrippenlijst is te vinden in bijlage 8.
+Begrip Uitleg
+Aardgasvrij wonen Wonen zonder gebruik van aardgas voor verwarming, warm water en koken.
+Hiervoor worden duurzame alternatieven gebruikt.
+All-electric Een woning die volledig elektrisch wordt verwarmd, meestal met een
+warmtepomp, zonder gasaansluiting.
+Energietransitie Overgang van fossiele brandstoffen naar duurzame energiebronnen.
+Kleinschalig collectief Een gezamenlijke warmtevoorziening voor een kleine groep woningen,
+bijvoorbeeld binnen een woonblok of straat.
+Netcongestie Gebrek aan voldoende capaciteit op het elektriciteitsnet waardoor uitbreiding
+of verzwaring niet altijd direct mogelijk is.
+Standaard voor
+woningisolatie
+Minimumniveau van isolatie dat een woning geschikt maakt voor duurzame
+warmteoplossingen.
+VvE Vereniging van Eigenaars; organisatie van appartementseigenaren die
+gezamenlijk verantwoordelijk zijn voor het gebouw.
+Warmtenet Een warmtenet is een netwerk van ondergrondse leidingen dat warmte van
+een centrale bron naar woningen, kantoren en andere gebouwen
+transporteert.
+In plaats van dat elk gebouw een eigen cv-ketel heeft, wordt
+warm water via het warmtenet aangevoerd voor verwarming.
+Warmteprogramma Gemeentelijk beleidsdocument waarin de gemeente aangeeft welke
+duurzame warmteopties per wijk in beeld zijn en welke richting wordt
+verkend.
+WCW (Wet collectieve
+warmtevoorziening)
+Wet met regels voor warmtenetten, waaronder de levering van warmte, de
+tarieven en de bescherming van inwoners die zijn aangesloten op een
+warmtenet.
+WGIW (Wet
+gemeentelijk
+instrumentarium
+warmtetransitie)
+Wet die gemeenten meer bevoegdheden geeft om wijken stap voor stap
+aardgasvrij te maken en een duurzame warmteoplossing aan te wijzen.
+WKO (Warmte-Koude
+Opslag)
+Duurzaam energiesysteem waarbij warmte en koude in de bodem worden
+opgeslagen voor later gebruik.
+In de zomer kan warmte worden opgeslagen
+om gebouwen in de winter te verwarmen.
+Omgekeerd kan in de winter koude
+worden opgeslagen om gebouwen in de zomer te koelen.
+Zienswijze Formele reactie die inwoners kunnen indienen op een voorgenomen besluit
+van de overheid.
+Bewoners kunnen een zienswijze indienen wanneer
+onderdelen van een wijkuitvoeringsplan leiden tot formele besluiten
+(bijvoorbeeld wijzigingen in het omgevingsplan of warmte-infrastructuur).
+Pagina 6 van 55
+Inleiding
+Om de effecten van klimaatverandering tegen te gaan, streven we landelijk naar minimaal 55% CO2
+reductie in 2030 ten opzichte van 1990.
+Hiermee willen wij ons land leefbaar houden voor toekomstige
+generaties.
+In de gebouwde omgeving zal het tegengaan van klimaatverandering voor een belangrijk deel
+worden bereikt via een wijkgerichte aanpak, onder regie van gemeenten.
+Aardgasvrij wonen lijkt misschien nog ver weg, maar de overstap is onvermijdelijk.
+Om voorbereid te zijn op
+de toekomst, zetten we als gemeente samen met bewoners en partners nu al concrete stappen.
+Voor De
+Streektuinen, noordzijde Wabenstraat, Westfriese Hof, Kaap Hoorn en een deel van de Holenweg, hierna
+te noemen ‘Streektuinen’, zijn er goede kansen om over te stappen op een duurzame warmtebron.
+In dit warmteplan beschrijven we hoe de transitie naar aardgasvrij wonen in de Streektuinen wordt
+vormgegeven.
+We gaan in op de aanleiding, de keuzes die zijn gemaakt, en de randvoorwaarden die
+belangrijk zijn voor een haalbare en betaalbare overstap.
+Ook leggen we uit hoe we samenwerken met de
+wijk, welke uitgangspunten we hanteren en welke stappen er nodig zijn om dit plan te realiseren.
+Met dit
+plan werken we stap voor stap aan een toekomstbestendige en duurzame buurt.
+Kijk op de wijk
+Het warmteplan start met een 'kijk op de wijk', het projectgebied, een globale analyse van de wijk, de
+belangrijkste doelgroepen en partners.
+Context
+Het Warmteprogramma beschrijft dat in Hoorn-Noord de nationale kosten het laagst zijn wanneer er wordt
+gekozen voor collectieve warmte, bijvoorbeeld een kleinschalig of grootschalig warmtenet.
+Gelegen naast
+de wijk Kersenboogerd, wordt daarom onderzocht of het warmtenet van HVC kan worden doorontwikkeld
+naar Hoorn-Noord.
+De Streektuinen zal in dat geval een logische locatie zijn voor de oversteek in verband
+met de kans om ook zwembad de Waterhoorn aan te sluiten.
+Om deze reden is er gestart met een
+warmteplan voor deze buurt in Hoorn-Noord.
+De eerste contouren worden zichtbaar van wat de
+doorontwikkeling betekent voor de gebouweigenaren in de Streektuinen.
+Deze staan beschreven in dit
+warmteplan.
+Ondertussen wordt er ook gekeken naar de mogelijkheden voor kleinschalige collectieve
+systemen en individuele oplossingen (all-electric).
+Een belangrijke factor die hierbij een rol speelt is netcongestie.
+Er zijn knelpunten op het net voor afname
+en opwek in Hoorn-Noord.
+Een gunstige bijkomstigheid is dat een warmtenet ten opzichte van een all-
+electric oplossing een lagere energievraag heeft, waardoor de druk op het net beperkt blijft.
+Pagina 7 van 55
+Gebiedsafbakening
+De weergegeven afbeeldingen in dit hoofdstuk gelden enkel indicatief en zijn niet juridisch bindend.
+Het Warmteplan de Streektuinen bevat een plangebied van bijna 110.000 m², afgebakend door de
+Liornestraat, de Wabenstraat en de Provincialeweg (zie figuur 1).
+Binnen dit gebied vallen de
+appartementen van VvE Kaap Hoorn, VvE Triomphe, de woningen van Intermaris (Westfriese hof 1 t/m
+112) en de grondgebonden woningen in de straten Kaap Hoorn, Westfriese Hof, de Streektuinen,
+Wabenstraat 18 t/m 42 en Holenweg 16 t/m 22.
+De Streektuinen Projectgebied Warmteplan
+Figuur 1: Toont het afgebakende projectgebied ‘de Streektuinen’.
+Hoeveelheid aardgasvrije woningen in de Streektuinen
+Figuur 2: Toont welke gebouwen op bovenstaande kaart niet zijn aangesloten op het aardgasnet.
+Bron: Tomahawk Energy, juni 2026
+Pagina 8 van 55
+Woningen in de Streektuinen die voldoen aan standaard om over te stappen op duurzame warmte
+Figuur 3: Deze kaart geeft per gebouw een indicatie van de beoogde maximale warmtevraag.
+Deze waarden zijn bedoeld als
+richtlijn en zijn afgeleid van algemene gebouwkenmerken en typologieën, berekend voor postcode-6 clusters.
+Bron: Tomahawk Energy, juni 2026
+Aardgasverbruik (per woning)
+Figuur 4: Standaardjaar gasverbruik per adres in het gebouw.
+Omdat individueel bewonersgedrag hierin niet is meegenomen, zal
+het cijfer niet altijd overeenkomen met de werkelijke energierekening van de bewoner.
+Bron: Tomahawk Energy, juni 2026
+Pagina 9 van 55
+Woningen naar eigenaar
+Figuur 5: Deze gegevens zijn afkomstig uit de dataset referentiegebruik warmte van het Planbureau voor de Leefomgeving en zijn
+indirect vastgesteld—bijvoorbeeld via het energielabel—waardoor ze als indicatief en niet als juridisch sluitend moeten worden
+geïnterpreteerd.
+Persoonlijke gegevens van eigenaren worden hier niet in getoond.
+*De lichtblauwe gebouwen betreffen de VvE Kaap Hoorn en VvE Triomphe, beiden gespikkeld bezit.
+In VvE Triomphe zijn een
+aantal woningen in het bezit van verhuurder Zeeman.
+Bron: Tomahawk Energy, juni 2026
+Doelgroepen
+In dit gebied onderscheiden wij een aantal doelgroepen waarop dit warmteplan van toepassing is:
+- Woningeigenaren inclusief particuliere verhuurders, 138 huishoudens: voornamelijk met een
+aardgasaansluiting)
+- Woningeigenaren in VvE:
+o VvE Kaap Hoorn: Collectief gasgestookt warmtesysteem (blokverwarming)
+o VvE Triomphe: Decentraal gasgestookt warmtesysteem (individuele Cv-Ketels)
+- Huurders
+o Vrije sector (voornamelijk met een gasaansluiting)
+- Maatschappelijk vastgoed:
+o Zwembad De Waterhoorn: WKK (Warmtekrachtkoppeling) en gasaansluiting.
+Pagina 10 van 55
+Partners
+Naast de partijen die hierboven genoemd worden als zijnde doelgroep, zijn er ook partijen die niet binnen
+de doelgroep vallen maar wel een bepaald belang hebben bij de mogelijke duurzame warmteoplossingen
+in de breedste zin van het woord.
+De belanghebbende partijen zijn;
+- HVC ontwikkelt een grootschalig warmtenet in de Kersenboogerd, mogelijk wordt het warmtenet
+doorontwikkeld naar Hoorn-Noord.
+Dit netwerk zorgt op termijn voor een duurzame
+warmteoplossing zonder aardgas.
+- Intermaris verhuurt een deel van de woningen in de wijk.
+Zij denkt mee over plannen voor de
+toekomst en zorgt dat de huurwoningen klaar zijn voor een duurzame manier van verwarmen.
+Ook
+is Intermaris als opdrachtgever bepalend in de doorontwikkeling van het warmtenet.
+Huurders van Intermaris worden door Intermaris meegenomen en geïnformeerd over de overstap
+naar duurzame warmte.
+- Liander beheert het elektriciteitsnet in de wijk.
+In het kader van netcongestie vindt er regelmatig
+afstemming plaats tussen de gemeente en Liander.
+Aanvragen voor het afsluiten van gas of het
+verzwaren van een aansluiting kunnen lang(er) duren.
+- Energieloket gemeente Hoorn biedt bewoners gratis advies over energiebesparing en aardgasvrij
+wonen.
+- Aannemers en installateurs voeren het werk uit, zoals het aansluiten van woningen op het
+warmtenet of het installeren van warmtepompen en isolatie.
+De gemeente blijft via aannemers en
+installateurs op de hoogte van praktische zaken en mogelijkheden.
+- Wijkcentrum De Zaagtand is een plek waar bewoners samenkomen en waar bijeenkomsten
+georganiseerd kunnen worden.
+- Zwembad De Waterhoorn is een belangrijke voorziening in de wijk.
+De gemeente, HVC en
+Optisport onderzoeken of het zwembad aangesloten kan worden op het warmtenet.
+Als dit het geval
+is vergroot dit ook de kans dat het warmtenet een mogelijke warmteoplossing wordt voor de
+woningen in de Streektuinen.
+- Saxion Hogeschool doet onderzoek naar inclusieve participatie in wijken die te maken krijgen met
+transitie naar aardgasvrij en richt zich in Hoorn specifiek op jonge gezinnen.
+Een bredere stakeholderanalyse inclusief een lijst met alle door de gemeente vastgestelde stakeholders is
+te vinden in bijlage 1.
+Pagina 11 van 55
+Kaders en regelgeving
+In deze paragraaf staan de belangrijkste regels en wetten die van toepassing zijn op het gebied en de
+energietransitie.
+Hierbij maken we gebruik van landelijke en gemeentelijke beleidsdocumenten en
+regelgeving.
+De bronnen voor de wet- en regelgeving zijn te vinden in bijlage 2.
+Aanvullende ruimtelijke
+kaders zijn terug te vinden in bijlage 6.
+Wetgeving
+• Warmtewet 2014: Beschermt bewoners die zijn aangesloten op een warmtenet.
+De wet regelt
+bijvoorbeeld dat je nooit méér betaalt dan je zou betalen met een gasaansluiting (de zogenaamde
+maximumprijs), en dat er eisen zijn aan betrouwbaarheid en storingsduur.
+Ook regelt de wet wat je
+rechten zijn als klant van een warmtebedrijf.
+• Wet collectieve warmtevoorziening (Wcw): Deze nieuwe wet is al goedgekeurd door de Eerste
+en Tweede Kamer en zal naar verwachting op 1 januari 2027 in werking treden en de huidige
+warmtewet vervangen.
+De gemeente krijgt een grotere rol in het organiseren van warmtenetten.
+Elke warmtevoorziening wordt minimaal voor 50% in publieke handen gebracht (zoals bij
+gemeenten of coöperaties).
+De wet moet zorgen voor meer grip op de prijs, betere bescherming
+voor bewoners en meer duurzame warmte.
+• Wet gemeentelijk instrumentarium warmtetransitie (Wgiw): Met deze wet krijgt de gemeente
+meer mogelijkheden om wijken van het gas af te helpen.
+De gemeente kan per wijk bepalen welke
+alternatieve warmtevoorziening er komt.
+Aardgasaansluitingen kunnen in de toekomst worden
+uitgezet als er een goed alternatief beschikbaar is.
+Dit wordt ook wel de aanwijsbevoegdheid
+genoemd.
+De gemeente is momenteel niet van plan om de aanwijsbevoegdheid in te zetten in de
+Streektuinen.
+• Algemene Verordening Gegevensbescherming (AVG): Deze wet beschermt je persoonlijke
+gegevens.
+Organisaties die betrokken zijn bij de warmtetransitie (zoals netbeheerders of
+energiebedrijven) moeten zorgvuldig omgaan met je gegevens.
+Ze mogen gegevens alleen
+gebruiken met een duidelijke reden en moeten je hierover informeren.
+• SpUk LAI: Deze specifieke uitkering is bedoeld voor woningen met slecht geïsoleerde bouwdelen.
+Vanuit deze uitkering kunnen gemeentes een subsidie opzetten om deze woningen te isoleren.
+In
+de gemeente Hoorn betreft de subsidie 2500,- voor woningen met een WOZ-waarde onder de
+300.000 op 1-1-2021.
+Pagina 12 van 55
+Beleid
+Het Warmteprogramma is het beleidsplan van de gemeente waarin richting wordt gegeven aan de manier
+waarop wijken in Hoorn van het aardgas af gaan en wanneer.
+Het is vanaf eind 2027 een verplicht
+programma onder de Omgevingswet, wat wordt vastgelegd in de Wet gemeentelijke instrumenten
+warmtetransitie (Wgiw).
+In deze visie staat op hoofdlijnen:
+• Welke wijken het eerst aan de beurt zijn, de startwijken;
+• Welke duurzame alternatieven voor verwarming kansrijk zijn (zoals een warmtenet of elektrische
+warmtepomp);
+• Welke rol de gemeente daarin speelt.
+Voor elke wijk vormt het Warmteprogramma een belangrijke leidraad bij het bepalen van het tempo en de
+aanpak van de warmtetransitie.
+Daarnaast speelt het Omgevingsplan een belangrijke rol.
+Dit plan bepaalt hoe de ruimte in de gemeente
+wordt gebruikt, bijvoorbeeld voor wonen, groen, verkeer of energie.
+Dit is van belang bij de warmtetransitie
+omdat de gemeente daarin ook kan vastleggen:
+• Dat een wijk op termijn aardgasvrij wordt gemaakt, en;
+• Wat het haal- en betaalbare alternatief wordt voor verwarming.
+Zo wordt het besluit om van het aardgas af te gaan uiteindelijk bindend vastgelegd, met ruimte voor
+participatie en voorbereiding.
+Voor deze wijk houdt de gemeente rekening met landelijke uitgangspunten, zoals het principe van de
+laagst nationale kosten; de financiële gevolgen voor bewoners, bedrijven en de uitvoeringskosten van
+beleid.
+We kiezen voor technisch haalbare warmteoplossingen tegen redelijke kosten.
+Op die manier houden we
+de warmtetransitie zo betaalbaar mogelijk voor iedereen.
+De gemeente onderzoekt daarom voor deze wijk niet alleen de technische mogelijkheden, maar ook of de
+oplossing financieel, juridisch en praktisch uitvoerbaar is, en of er voldoende steun is onder bewoners.
+In het Beleid bewonersinitiatieven in de Energietransitie is vastgelegd dat er ruimte is voor
+bewonersinitiatieven binnen de Energietransitie.
+Bijvoorbeeld door samen met de buurt een collectieve
+warmtevoorziening aan te leggen of gezamenlijk (isolatie)maatregelen of warmte installaties in te kopen.
+De gemeente ondersteunt dergelijke bewonersinitiatieven financieel op het gebied van proces en
+onderzoek.
+Ook kunt u het startbudget aanvragen voor de opstartkosten, zoals het oprichten van een
+energiecoöperatie.
+Pagina 13 van 55
+Externe randvoorwaarden
+Een externe randvoorwaarde voor het aansluiten van particuliere woningen op het grootschalig warmtenet
+van HVC is dat er een aanbod komt voor particuliere gebouweigenaren.
+Dat is op dit moment nog in
+ontwikkeling.
+Of een aanbod haalbaar is en hoe dit aanbod er precies uitziet is afhankelijk van
+verschillende factoren.
+Woningeigenaren in dit gebied ontvangen hierover meer informatie zodra deze
+duidelijkheid er is.
+In Hoorn speelt net zoals in de rest van Nederland ook netcongestie.
+De gemeente Hoorn werkt hierin
+nauw samen met Liander.
+Waar netcongestie is of dreigt te ontstaan komt Liander zo snel mogelijk het net
+versterken.
+Wel kan dit lang duren in verband met beperkte capaciteit.
+Liander doet dit met een
+buurtaanpak om het zo snel mogelijk te laten verlopen.
+Lokaal betekent dit op termijn dat kabels worden
+vervangen en dat er middenspanningsruimtes (MSR) bij zullen komen.
+Daarnaast beschikt Liander over de
+zogeheten stroomnetchecker, waar men kan bekijken welke impact de capaciteitsproblemen hebben per
+adres.
+Overige opgaven
+Naast de opgave van externe partijen zoals HVC en Liander, zijn er ook nog andere uitdagingen die in
+Hoorn-Noord van invloed zijn op dit warmteplan.
+- Vanaf 2027 zullen er in Hoorn-Noord grote rioleringswerkzaamheden plaatsvinden.
+Hiervoor zal een
+groot deel van de straat worden opengebroken.
+Mogelijk is er een kans om de werkzaamheden
+rondom het warmtenet hieraan te koppelen.
+In de Streektuinen geldt dit alleen voor de Holenweg.
+Inspraakkaders
+In het Klimaatakkoord is afgesproken dat Nederland in 2050 aardgasvrij is.
+De gemeente heeft hierin een
+rol als regisseur.
+Elke bewoner is vrij om een eigen keuze te maken binnen de bestaande mogelijkheden.
+Het Warmteplan geeft bewoners richting in deze keuze en geeft aan op welke vlakken de gemeente
+bewoners ondersteunt.
+Om het Warmteplan goed aan te laten sluiten op de behoefte van de buurt
+doorloopt de gemeente een uitgebreid participatietraject waarbij op de volgende momenten mogelijkheden
+zijn voor inspraak:
+Wettelijk participatiekader (Omgevingswet)
+Vanuit de Omgevingswet zijn gemeenten verplicht om aan te geven hoe belanghebbenden zijn betrokken
+bij plannen voor de leefomgeving zoals een wijkuitvoeringsplan (Warmteplan).
+Nota participatie in de fysieke leefomgeving
+In 2021 is de Nota Participatie fysieke leefomgeving vastgesteld waarin de gemeente Hoorn de
+inspraakkaders en visie op participatie heeft vastgelegd voor de komende jaren.
+De uitgangspunten uit
+deze nota vormen ook de basis voor de wijkuitvoeringsplannen.
+Pagina 14 van 55
+In de Nota wordt ook de participatieladder benoemd, welke duidelijkheid geeft over de verschillende
+mogelijkheden in participatie (informeren, raadplegen, adviseren, coproduceren, meebeslissen, faciliteren).
+Voor het opstellen van het Warmteplan worden participatieactiviteiten georganiseerd om te informeren,
+raadplegen en adviseren.
+Participatieplan
+Voor iedere wijk of buurt stelt de gemeente een participatie- en communicatieplan op waarin beschreven
+staat in welke fases bewoners kunnen participeren en op welke manier.
+Het participatieplan wordt
+beschreven in het hoofdstuk Analyse.
+Formele zienswijze procedure
+Wanneer onderdelen van een wijkuitvoeringsplan leiden tot formele besluiten (bijvoorbeeld wijzigingen in
+het Omgevingsplan of warmte-infrastructuur), hebben bewoners de mogelijkheid om:
+- Zienswijzen in te dienen;
+- Bezwaar te maken;
+- Beroep in te stellen.
+Dit verloopt via de formele zienswijze procedure en vindt aan het einde van het traject plaats.
+Opname van plan in omgevingsplannen
+Wanneer het plan leidt tot wijzigingen van de warmte-infrastructuur of de gemeente de aanwijsbevoegdheid
+gaat inzetten, wordt dit in het Omgevingsplan opgenomen.
+Pagina 15 van 55
+Analyse
+Voorkeurs warmteoplossing uit Warmteprogramma
+Voor elke wijk is een voorkeursoplossing bepaald in het Warmteprogramma, gebaseerd op de laagst
+nationale kosten.
+In het Warmteprogramma is Hoorn-Noord vanuit dat oogpunt benoemd als wijk waar
+collectieve warmte het meest voor de hand ligt.
+Het plan is dat hier mogelijk tussen 2027 en 2032 gestart
+kan worden met de aanleg van het warmtenet van HVC.
+De Streektuinen is een logische locatie voor de oversteek van het warmtenet van de Kersenboogerd naar
+Hoorn-Noord in verband met de ligging van hoofdleidingen en de mogelijke aansluiting van zwembad De
+Waterhoorn.
+Dit betekent niet dat deze oplossing voor elke woning de beste of enige keuze is.
+In de praktijk
+ontstaat altijd een mix van warmteoplossingen.
+De voorkeursoplossing geeft vooralsnog dus een richting
+op wijkniveau, maar is geen verplichting per woning.
+Analyse VvE’s
+Kaap Hoorn:
+Met betrekking tot VvE Kaap Hoorn heeft VvE Belang een adviesrapport opgesteld over de mogelijke
+duurzame maatregelen die deze VvE het beste kan nemen.
+In dit adviesrapport wordt Kaap Hoorn onder
+andere aanbevolen om zich aan te sluiten op het lokale warmtenet.
+Triomphe:
+Voor VvE Triomphe is nog geen adviesrapport opgesteld.
+Uit een eerste verkenning door HVC lijkt het
+technisch mogelijk om het warmtenet van HVC door te trekken naar VvE Triomphe.
+Dit is aannemelijk
+vanwege de ligging en de grootte van het gebouw, en omdat het warmtenet de voorkeursoplossing is voor
+de Streektuinen.
+Dat betekent dat het warmtenet een extra aardgasvrije optie zou kunnen zijn voor de VvE.
+Om te bepalen wat voor VvE Triomphe het meest geschikt is, is verder onderzoek op maat nodig.
+Vervolgens kan de VvE zelf een besluit nemen.
+Pagina 16 van 55
+Participatie en communicatie
+De wensen van de buurt
+Het vroegtijdig betrekken van bewoners bij de verkenning naar een aardgasvrije toekomst voor de
+Streektuinen is essentieel.
+Communicatie en participatie spelen daarbij een centrale rol.
+In het afgelopen
+jaar zijn verschillende participatieactiviteiten georganiseerd om bewoners te informeren en hun vragen,
+wensen en zorgen op te halen.
+Deze input is waar mogelijk meegenomen in het opstellen van dit
+warmteplan.
+Participatieaanpak
+De participatie in de buurt De Streektuinen is stap voor stap opgezet.
+Het doel daarvan is om bewoners op
+verschillende momenten en op verschillende manieren te betrekken.
+Een belangrijk moment daarbij was de
+buurtenquête aan het begin van het project.
+De uitkomsten hiervan vormden een goede basis voor verdere
+gesprekken in de buurt en voor de onderwerpen die tijdens bijeenkomsten en in nieuwsbrieven zijn
+besproken.
+Het afgelopen jaar hebben we verschillende participatie- en communicatiemomenten georganiseerd in de
+Streektuinen:
+• Enquête over aardgasvrij wonen, resulterend in 90 ingevulde enquêtes;
+• Een buurtevenement in de wijk met ruim 35 aanwezige bewoners;
+• Een bewonersgroep met actieve buurtbewoners;
+• Informatiebijeenkomst, waar ruim 25 bewoners aanwezig waren;
+• Online nieuwsbrieven voor de buurt;
+• Online-informatie via de website van de gemeente.
+• Online platform ‘Publieke Dialogen’ waarbij bewoners een eerste reactie konden geven op het
+buurtplan.
+Hieraan hebben 80 bewoners deelgenomen.
+• Zienswijzeperiode, waar ongeveer 20 mensen langs zijn geweest tijdens inloopmomenten in de
+Zaagtand, en 5 schriftelijke reacties zijn ontvangen.
+Met deze mix van activiteiten hebben we brede input uit de buurt opgehaald.
+Het eerste concept
+Warmteplan hebben we mede met deze input kunnen samenstellen en gedeeld met de buurt.
+Middels het
+online platform 'Publieke Dialogen' konden we met bewoners hierover in gesprek gaan.
+Publieke Dialogen
+Het platform Publieke Dialogen heeft een aantal duidelijke wensen vanuit de buurt naar voren laten komen,
+namelijk:
+Sterke behoefte aan duidelijkheid en ontzorging.
+Bewoners ervaren onzekerheid over subsidies, vinden de besluitvorming complex en hebben behoefte aan
+Pagina 17 van 55
+ondersteuning bij de overstap naar een alternatief voor aardgas.
+Ook wordt aangegeven dat de beslisboom
+niet duidelijk genoeg is en dat het een goeie toevoeging zou zijn om de woonscans die we hebben
+uitgevoerd meer in de spotlight te zetten.
+Deze nuttige feedback hebben we verwerkt in het huidige
+Warmteplan.
+Autonomie en keuzevrijheid.
+Veel bewoners hechten waarde aan autonomie en keuzevrijheid.
+Er is weerstand tegen het volledig
+loslaten van gas en de beschikbare alternatieven worden niet altijd als aantrekkelijk gezien.
+De voorkeur
+gaat veelal uit naar individuele oplossingen boven collectieve voorzieningen zodat de regie in eigen handen
+blijft.
+Kosten en risico’s.
+Financiële zorgen spelen ook een grote rol: wat zijn de kosten en de risico’s.
+Er is een groep bewoners die
+zich uitspreekt tegen de plannen en een groep bewoners die juist positief is en kansen ziet in de
+energietransitie.
+Vooral lijkt er een grote stille meerderheid aanwezig te zijn die zich minder nadrukkelijk
+uitspreekt, waardoor hun standpunt minder zichtbaar is in het totaalbeeld.
+Om een beter beeld te krijgen bij deze stille meerderheid is de gemeente ook de buurt in geweest om met
+een aantal bewoners te spreken die niet deel heeft genomen aan Publieke Dialogen.
+Uit deze gesprekken
+kwam naar voren dat veel bewoners ervoor openstaan om over te stappen op een duurzame warmtebron
+als er vanuit de gemeente een concreet voorstel komt dat niet te ingewikkeld is en financieel haalbaar.
+Conclusie wensen uit de buurt
+Op basis van alle participatieactiviteiten zijn de wensen uit de buurt samengevat.
+Er is behoefte aan:
+• Een concreet en helder aanbod voor warmteoplossingen, zowel qua kosten als praktische
+uitvoering — met bijzondere aandacht voor het warmtenet.
+• Meer inzicht in de betaalbaarheid van de overstap en de middelen die de gemeente daarvoor
+aanbiedt.
+• Behoud van keuzevrijheid tussen verschillende warmteoplossingen.
+• Een overzichtelijk stappenplan om de mogelijke keuzes inzichtelijk te maken.
+• Ervaringsverhalen van buurtbewoners die al stappen hebben ondernomen hebben richting een
+aardgasvrije woning.
+• De woningscans die de gemeente heeft uitgevoerd beter onder de aandacht brengen.
+• Een daadwerkelijk duurzaam alternatief voor gas.
+• Tijdige informatievoorziening over ontwikkelingen in de buurt.
+Pagina 18 van 55
+Businesscase
+Technische analyse
+Warmtenet HVC: Een gedeelte van de woningen in de Streektuinen kan mogelijk worden aangesloten op
+het warmtenet van HVC.
+Of dit kan is afhankelijk van verschillende factoren zoals subsidie vanuit het rijk,
+afspraken met Intermaris en de gemeente en voldoende draagvlak voor de businesscase.
+Voor woningeigenaren is het in elk geval zinvol om de woning te isoleren tot de zogeheten standaard.
+De
+meeste woningen met een energielabel B of beter zijn tot de standaard geïsoleerd.
+Bent u niet zeker of dit
+het geval is?
+Neem dan contact op met het Energieloket van de gemeente.
+Elektrische warmteoplossing: In de Streektuinen is een elektrische warmteoplossing (zoals een,
+eventueel hybride-, warmtepomp) een geschikte oplossing voor de overstap naar een aardgasvrije
+warmteoplossing.
+Hier is wel een aantal voorwaarden aan verbonden:
+- U heeft mogelijk nog een zwaardere netaansluiting nodig.
+In uw meterkast kunt u aflezen welke
+aansluiting u heeft.
+Bij vragen kunt u contact opnemen met netbeheerder Liander;
+- Uw woning moet tot de zogeheten standaard zijn geïsoleerd.
+De meeste woningen met een
+energielabel B of beter zijn tot de standaard geïsoleerd.
+Bent u niet zeker of dit het geval is?
+Neem
+dan contact op met energieloket van de gemeente;
+- Uw warmteafgiftesysteem moet geschikt zijn voor de warmtepomp.
+Voorbeelden van
+warmteafgiftesystemen zijn radiatoren of vloerverwarming;
+- Een hybride warmtepomp werkt met zowel een warmtepomp als een gasgestookte cv-ketel.
+De
+warmtepomp verwarmt je woning op lage temperaturen (tot 40 graden).
+Er zijn hybride
+warmtepompen die in de toekomst omgebouwd kunnen worden naar een volledig elektrisch
+systeem.
+Dit wordt ook wel ‘all-electric ready’ genoemd.
+De verscheidene mogelijkheden voor all-electric oplossingen vindt u in de referentierapporten van
+Energieloketten.
+Deze zijn te vinden op duurzaam.hoorn.nl/streektuinen.
+Kleinschalig collectief: Er worden steeds meer collectieve warmteoplossingen geïnstalleerd op (zeer)
+kleine schaal.
+Bijvoorbeeld een scenario waarbij een aantal buren met bodemlussen duurzame warmte uit
+de grond haalt en hier gezamenlijk gebruik van maakt.
+In januari 2026 hebben de Westfriese gemeenten
+de markt hierover bevraagd.
+Hierbij konden lokale en niet-lokale bedrijven meedenken over de
+mogelijkheden voor kleinschalige collectieven.
+De Streektuinen is aan hen gepresenteerd als casus en met
+twee bedrijven wordt op dit moment de haalbaarheid onderzocht voor een drietal woningclusters in de
+buurt.
+In deze pilot werkt de gemeente samen met geïnteresseerde bewoners.
+De gemeente faciliteert de
+pilot en werkt aan gestandaardiseerde formats en werkwijzen om de pilot ophaalbaar en reproduceerbaar
+te maken.
+Voor kleinschalige collectieven kan mogelijk ook de subsidie voor bewonersinitiatieven worden
+gebruikt.
+Pagina 19 van 55
+Financiële haalbaarheid
+Er is een aantal financiële mogelijkheden beschikbaar voor de overstap naar een aardgasvrije oplossing en
+de voorbereiding daarop:
+Isoleren en duurzame warmteoplossing:
+- ISDE: Gebruik de Investeringssubsidie duurzame energie en energiebesparing (ISDE) om uw
+woning te verduurzamen.
+Zo vraagt u geld terug nadat u een (hybride) warmtepomp, zonneboiler of
+elektrische kookvoorziening laat installeren.
+Of nadat u uw woning isoleert of deze aansluit op een
+warmtenet.
+Vanaf 2026 kunt u ook subsidie aanvragen voor ventilatie als u de ventilatiemaatregel
+combineert met een of meer isolatiemaatregelen.
+Meer informatie en aanvragen vindt u hier.
+- Warmtefonds: Voor zowel isolatie en aardgasvrije warmteoplossing kan een lening bij het
+Warmtefonds worden afgesloten tegenover voordelige rentepercentages.
+Als je inkomen minder
+dan €60.000 bruto per jaar is dan is de rente zelfs 0%.
+Meer informatie en aanvragen vindt u hier.
+- Duurzaamheidslening gemeente: Met de duurzaamheidslening kunt u geld lenen om uw woning
+of appartementencomplex energiezuiniger te maken.
+Als eigenaar van een woning of als Vereniging
+van Eigenaren (VvE) kunt u een duurzaamheidslening aanvragen.
+Meer informatie vindt u hier.
+- SVvE: Wilt u als Vereniging van Eigenaars (VvE) uw gebouw(en) verduurzamen?
+Vraag dan SVvE:
+subsidie voor verduurzamingsmaatregelen aan.
+Er zijn 3 soorten: energiebesparende
+isolatiemaatregelen, duurzame warmte-opties, en een Zeer Energiezuinig Pakket.
+U kunt extra
+subsidie aanvragen voor aanvullende maatregelen en bouwbegeleiding.
+Vraag subsidie voor
+verduurzamingsmaatregelen aan vóór u de maatregelen uitvoert.
+Meer informatie vindt u hier.
+- Subsidie bewonersinitiatieven: Inwoners van Hoorn kunnen helpen bij de energietransitie.
+Dit kan
+door gezamenlijk van het gas af te gaan of dit voor te bereiden.
+De gemeente stimuleert
+bewonersinitiatieven en energiecoöperaties via financiële ondersteuning.
+U kunt financiële
+ondersteuning krijgen voor opstartkosten en proceskosten van het initiatief.
+De gemeente adviseert
+u een juridische organisatievorm te kiezen, zoals een stichting.
+Een initiatief kan 50% van de kosten
+vergoed krijgen tot maximaal € 10.000.
+Dit bedrag wordt verdeeld over de opstartfase,
+voorbereidingsfase en de uitvoeringsfase.
+Tijdens de voorbereidingsfase worden bijvoorbeeld
+kosten voor een haalbaarheidsstudie of inhuur van een technische expert deels vergoed.
+In de
+uitvoeringsfase kan de gemeente een deel vergoeden van proceskosten.
+De technische
+maatregel/toepassing vergoedt de gemeente niet.
+Meer informatie vindt u hier.
+Pagina 20 van 55
+Tabel 2: Investerings- en jaarlijkse kosten warmteoplossingen (alle tarieven zijn inclusief BTW).
+Warmtepomp HVC Warmtenet Kleinschalig
+Collectief
+Aardgas
+Eenmalige
+investering
+€ 5.000 – € 30.000 ~ € 11.000 Afhankelijk van
+installatie keuze
+CV-Ketel
+€1.900 - €3.000
+Hybride
+warmtepomp
+€3.600 - €7.100
+Eindgebruikerskosten
+(per jaar)
+€ 4.000 - € 6.000 € 5.200 Afhankelijk van
+installatie keuze
+€2.000 - €4.400
+Subsidies (per
+situatie verschillend)
+€500 - € 2.400 € 3.775 Afhankelijk van
+installatie keuze
+Geen
+Gemiddelde jaarlijkse
+energierekening
+€826 - €1.354 €1.200 - €1.850 Afhankelijk van
+installatie keuze
+€1.664 - €2.192
+Levensduur systeem
+(excl.
+Infrastructuur,
+vaak langere
+levensduur)
+15 tot 20 jaar 20 tot 25 jaar Afhankelijk van
+installatie keuze
+10 tot 15 jaar
+Bronnen: o.a. verbeterjehuis.nl, milieu centraal, ACM, RVO, NPLW, HVC Warmte, vereniging eigen huis, uitgebreide bronnenlijst
+per doelgroep: Bijlage 5
+Pagina 21 van 55
+Besluit
+Gekozen warmteoplossing(en)
+Voorkeursoplossing Warmteprogramma: Warmtenet
+De voorkeursoplossing van de gemeente in de wijk Hoorn-Noord is collectieve warmte, zoals vastgesteld in
+het warmteprogramma.
+Er wordt momenteel onderzocht of het warmtenet van HVC vanuit de
+Kersenboogerd doorontwikkeld kan worden naar Hoorn-Noord.
+- Soort (collectief) systeem: Midden-temperatuur Warmtenet
+o Warmtebron: Momenteel wordt onderzocht welke bron het beste is voor het warmtenet in
+Centrum Kersenboogerd.
+Aquathermie en geo-thermie zijn beide mogelijke opties, waar in het
+geval van aquathermie dit gecombineerd zal worden met een WKO.
+Dat is afhankelijk van het
+aantal aansluitingen, maar ook van welke bron het beste ligt ten opzichte van de wijk en buurten
+of gebouwen die in de toekomst aangesloten kunnen worden.
+o Aanvoertemperatuur: 70 graden
+- Technische installatie
+o Locatie: De locatie van de warmtebron is tot dusver nog onbekend
+o Volume/debiet: In tegenstelling tot aardgaswinning wordt bij aardwarmte netto geen volume
+onttrokken aan de ondergrond: het opgepompte water wordt in afgekoelde vorm weer
+teruggepompt op een andere plaats in dezelfde laag.
+- Dekking van het gebied
+o Minimaal en maximaal aantal aansluitingen: Het aantal aansluitingen dat benodigd is voor de
+businesscase is afhankelijk van het warmtenet aanbod van HVC
+o Locatie van het netwerk wanneer van toepassing: Zie kaartje businesscase
+Wat betekent dit voor belanghebbenden
+Handelingsperspectief
+Het handelingsperspectief is uitgewerkt in de vorm van een beslisboom.
+Deze vindt u in Bijlage 10.
+Woningscans
+Door Duurzaam Bouwloket zijn woningscans uitgevoerd voor drie meest voorkomende woningen in de
+Streektuinen die het meest voorkomen, waarmee u uw eigen huis kan vergelijken.
+Zo krijgt u een beter
+beeld van de mogelijkheden omtrent verduurzaming binnen uw eigen woning.
+Een korte samenvatting van
+de woningscans is hieronder te vinden.
+De volledige scans zijn in te zien via deze link.
+Pagina 22 van 55
+Er zijn woningscans uitgevoerd van de volgende woningen:
+- Hoekwoning, bouwjaar 2007, 2 volwassenen
+- Twee-onder-een-kap woning, bouwjaar 2006, 2 volwassenen en 3 kinderen
+- Tussenwoning, bouwjaar 2007, 1 volwassene
+Alle woningen in de wijk zijn tijdens de bouw al goed geïsoleerd.
+Daarmee valt dus weinig winst meer te
+behalen.
+Met stappen als ventilatie, zonne-energie en duurzaam verwarmen kan de woning wel verder
+verduurzaamd worden.
+Pagina 23 van 55
+Figuur 6 Hoekwoning buurt Streektuinen
+Woningscan 1
+Reactie adviseur Energieloket
+"De bezochte referentiewoning ligt in de wijk Hoorn-Noord, in de straat de Streektuinen te Hoorn.
+Het
+project de Streektuinen bestaat uit verschillende woonvormen: een woonblok van circa 90 woningen
+rondom een groen binnengebied, 44 watervilla’s en 117 appartementen.
+De onderzochte woning betreft een grote via de garage geschakelde woning (=vrijstaand) uit 2007.
+Vanuit de bouwperiode beschikt de woning over een moderne afwerking en goede isolatie, met aandacht
+voor comfort en energiezuinigheid.
+De woning heeft een open karakter en er is veel glas aanwezig.
+De woning is origineel, op de in 2009 geplaatste dakkapel na.
+Bij de bouw is gebruikgemaakt van hogere
+isolatiewaarden dan destijds vereist waren.
+De goede isolatie, in combinatie met HR++-glas, maakt de
+woning energiezuinig en comfortabel.
+De woning heeft mechanische ventilatie (systeem C), convectoren en radiatoren voor verwarming, en
+een nieuwe cv-ketel uit 2024.
+De woning heeft een 1-fase elektriciteit aansluiting.
+De keuken is recentelijk uitgerust met een
+inductiekookplaat, wat de overstap naar een volledig elektrische oplossing eenvoudig mogelijk maakt.
+Er
+zijn 16 zonnepanelen uit 2023 aanwezig aan de noordzijde.
+In de badkamer wordt gebruikgemaakt van een
+elektrische radiator.
+De woning kan met lage temperaturen worden verwarmd, waardoor een warmtepomp in de nabije
+toekomst een passende oplossing is om de woning volledig gaslooste maken.
+Aangezien de cv-ketel
+recent is vervangen, heeft de bewoner nog ruim de tijd om zich te laten informeren over de mogelijkheden
+en – afhankelijk van de wens – deze stap op termijn te zetten.
+Er bestaat een wens om een thuisbatterij aan te schaffen.
+Ons advies is eerst een hybride oplossing te
+kiezen, zodat direct op het gasverbruik kan worden bespaard.
+Daarnaast kan in het voor-en naseizoen de
+zonnestroom extra nuttig worden gebruikt voor de verwarming.
+Voor het warmtapwater kan een
+warmtepomp-of slimme boiler worden ingezet, waardoor de woning gedurende de gehele zomerperiode
+gasloos kan zijn.
+Daarnaast kan met het toevoegen van balansventilatie energie worden bespaard en de luchtkwaliteit
+automatisch op orde worden gebracht.”
+Er is nog geen zonwering toegepast.
+Door zonwering te plaatsen, is er minder warmtetoetreding en kan
+oververhitting van de woning worden voorkomen."
+Type woning: Hoekwoning
+Bouwjaar: 2007
+Gezinssamenstelling: 2 volwassenen
+Gasverbruik: 1.100 m³
+Pagina 24 van 55
+Tabel 3: Mogelijke maatregelen woningscan 1.
+Maatregel Prijsindicatie Besparing Comfort
+Kleine maatregelen en handige tips
+Leidingisolatie € 50,- **** n.v.t.
+Radiatorfolie € 20,- **** ***
+Ledverlichting ***** *** € 5, - / lamp, € 75,- / dimmer ***** ***
+Naad-en kierdichting verbeteren € 25,- ***** ***
+Stap 1.
+Isoleren
+Vervangen beglazing circa 29,0 m² Van € 7.200,- tot € 9.570, - * ****
+Stap 2.
+Ventileren
+Bewust(er) ventileren n.v.t. n.v.t. n.v.t
+CO2-meter (incl. luchtvochtigheidsmeter) € 150,- n.v.t. **
+Vervangen ventilatiebox € 350,- *** **
+Onderhouden ventilatieroosters n.v.t. n.v.t. ***
+Plaatsen ventilatieroosters bij vervangen glas € 150,- per meter n.v.t. **
+Centrale balansventilatie (incl.
+Installatie) Vanaf €5.000,- * ****
+Decentrale balansventilatie (incl. installatie) Vanaf €2.000,-
+* ****
+Stap 3.
+Opwekken duurzame energie
+Zonnepanelen (12 panelen van 440Wp) €5.200,- ***** n.v.t.
+Zonneboiler €3.000,- * n.v.t.
+Stap 4.
+Duurzaam verwarmen
+Afgiftesysteem +/-€40,- per m² n.v.t ****
+A: Vervangen cv-ketel € 2.000, - ** ***
+B: Hybride warmtepomp (excl. ketel) € 6.000, - ** ***
+C: Lucht-water warmtepomp (aardgasvrij) € 12.000, - ** ***
+• De besparing en comfortverbetering zijn aangegeven met 1 tot 5 sterren (1 = laag, 5 = hoog)
+• De kosten van stap 1 t/m 4 zijn op basis van uitvoering door een bedrijf
+• Alle genoemde prijzen zijn exclusief eventuele subsidie
+Disclaimer: Ondanks dat het Energieloket veel zorg besteedt aan de inhoud van dit besparingsoverzicht en de daarin opgenomen gegevens, kan
+het Duurzaam Bouwloket niet instaan voor de volledigheid, juistheid of voortdurende actualiteit van de gegevens in dit overzicht.
+Elk huis blijft
+maatwerk, en de daadwerkelijke kosten zullen alleen afgegeven kunnen worden door een uitvoerende partij.
+De genoemde kosten en besparingen
+in dit rapport zijn gebaseerd op landelijke gemiddelden.
+Uitleg besparingen in dit rapport
+Investeringen in energiebesparende maatregelen leiden tot een lagere maandelijkse energierekening.
+De energierekening kan sterk variëren, zelfs tussen buren met gelijk verbruik.
+Dit verschil komt door
+wanneer het energiecontract is afgesloten en of het contract vast of variabel is.
+De afgelopen jaren zijn de
+energieprijzen flink gestegen.
+In dit rapport berekenen we de besparing op basis van de energieprijzen die
+het Planbureau voor de Leefomgeving (PBL) voor 2040 voorspelt: € 0,21 per kWh voor stroom en € 1,42
+per m³ voor gas.
+De uiteindelijke besparing is natuurlijk ook afhankelijk van het energieverbruik van de
+bewoner.
+Tabel 4: Beoogde besparing op de energierekening, woningscan 1
+Bewoner verbruik: 3.000kWh en 1.100 m³ Gemiddeld verbruik: 1.840 kWh en 900 m³
+Pagina 25 van 55
+€ 0,21 per kWh en € 1,42 per m³
+Maandbedrag € 183,- Maandbedrag € 139,-
+Jaarlijkse lasten € 2.192, - Jaarlijkse lasten € 1.664, -
+Totaal over 5 jaar € 11.805, - Totaal over 5 jaar € 8.974, -
+Totaal over 15 jaar € 42.994, - Totaal over 15 jaar € 32.777, -
+Kosten na 30% besparen € 30.096, - Kosten na 30% besparen € 22.944, -
+Besparing € 12.898, - Besparing € 9.833, -
+Een doelstelling om in de komende 15 jaar, 30% op de energielasten te besparen is realistisch.
+Dit zou
+betekenen dat je nu € 12.898,- kan investeren in energiebesparende maatregelen die binnen 15 jaar zijn
+terugverdiend (uitgaande van de huidige energieprijzen).
+Woningscan 2
+Reactie adviseur Energieloket
+"De bezochte referentiewoning ligt in de wijk Hoorn-Noord, in de straat de Streektuinen te Hoorn.
+Het
+project de Streektuinen bestaat uit verschillende woonvormen: een woonblok van circa 90 woningen
+rondom een groen binnengebied, 44 watervilla’s en 117 appartementen.
+De bezochte woning betreft een ruime 2-onder-1-kap uit 2006.
+Door de bouwperiode beschikt de woning
+over een moderne afwerking en goede isolatie, met aandacht voor comfort en energiezuinigheid.
+De
+woning heeft een split-level indeling tussen de keuken en woonkamer, wat zorgt voor een speelse en
+ruimtelijke beleving.
+Aan de achterzijde is een aanbouw gerealiseerd, waardoor extra leefruimte is ontstaan.
+In deze aanbouw
+bevindt zich tevens een werkruimte.
+De aanbouw heeft geen kruipruimte.
+Bij de bouw is gebruikgemaakt
+van hogere isolatiewaarden dan destijds vereist was.
+De goede isolatie vanuit de bouw, in combinatie
+met HR++-glas, maakt de woning energiezuinig en comfortabel.
+Vanuit de bouw is een zonnecollector geplaatst voor warmwatervoorziening.
+Daarnaast beschikt de
+woning over mechanische ventilatie (systeem C), convectoren en radiatoren voor verwarming, en een
+nieuwe cv-ketel uit 2024.
+In een later stadium zijn 8 stuks zonnepanelen geplaatst op de woning.
+De woning heeft een 1-fase aansluiting en maakt deels gebruik van infraroodpanelen voor
+bijverwarming.
+Voor extra comfort, zowel in de zomer als in de winter, zijn de slaapvertrekken voorzien
+van rolluiken.
+De keuken is uitgerust met een gasfornuis, waarbij een overstap naar inductie koken
+mogelijk is.
+Type woning: 2-onder-1-kapwoning
+Bouwjaar: 2006
+Gezinssamenstelling: 2 volwassenen, 3 kinderen
+Gasverbruik: 1.100 m³
+Elektriciteitsverbruik: 1.946 kWh
+Figuur 7 Hoekwoning buurt Streektuinen
+Pagina 26 van 55
+De bewoner geeft aan dat de aanhechting tussen dak en gevel van de aanbouw het zwakkere deel van
+de constructie vormt.
+Het is onbekend welke specifieke isolatie in de aanbouw is toegepast; dit kan nader
+worden onderzocht en waar nodig verbeterd.
+De woning kan met lage temperaturen worden verwarmd, waardoor een warmtepomp in de toekomst
+een passende oplossing is om de woning volledig gasloos te maken.
+Aangezien de cv-ketel recent is
+vervangen, heeft de bewoner nog ruim de tijd om zich te laten informeren over de mogelijkheden en –
+afhankelijk van de wens –deze stap op termijn te zetten.
+Zonnepanelen plaatsen is voor bewoners zonder
+panelen aan te raden.
+Tabel 5: Mogelijke maatregelen woningscan 2.
+Maatregel Prijsindicatie Besparing Comfort
+Kleine maatregelen en handige tips
+Leidingisolatie € 50,- **** n.v.t.
+Radiatorfolie € 20,- **** ***
+Ledverlichting ***** *** € 5,- / lamp, € 75,- / dimmer ***** ***
+Naad-en kierdichting verbeteren € 25,- à € 50,- ***** ***
+Stap 1.
+Isoleren
+Spouwmuurisolatie circa 69 m² Van € 1.661, - tot € 2.613, - ***** ****
+Vloerisolatie circa 47 m² Van € 1.419, - tot € 2.366, - *** ***
+Dakisolatie circa 60 m² Van € 5.400, - tot € 8.400, - ** ***
+Vervangen beglazing circa 29,0 m² Van € 7.200, - tot € 9.570, - * ****
+Stap 2.
+Ventileren
+Bewust(er) ventileren n.v.t. n.v.t. n.v.t
+CO2-meter (incl. luchtvochtigheidsmeter) € 150,- n.v.t. **
+Vervangen ventilatiebox € 350,- *** **
+Onderhouden ventilatieroosters n.v.t. n.v.t. ***
+Centrale balansventilatie (incl.
+Installatie) Vanaf €5.000,- * ****
+Decentrale balansventilatie (incl. installatie) Vanaf €2.000,-
+* ****
+Stap 3.
+Opwekken duurzame energie
+Zonnepanelen (8 panelen van 435Wp) € 3.300, - tot € 4.000 ***** n.v.t.
+Zonneboiler €3.000, - * n.v.t.
+Stap 4.
+Duurzaam verwarmen
+Inductiekookplaat € 1.000, - n.v.t. ****
+Afgiftesysteem +/-€40,- per m² n.v.t ****
+A: Vervangen cv-ketel € 2.000, - ** ***
+B: Hybride warmtepomp (excl. ketel) € 6.000, - ** ***
+C: Lucht-water warmtepomp (aardgasvrij) € 12.500, - ** ***
+• De besparing en comfortverbetering zijn aangegeven met 1 tot 5 sterren (1 = laag, 5 = hoog)
+• De kosten van stap 1 t/m 4 zijn op basis van uitvoering door een bedrijf
+• Alle genoemde prijzen zijn exclusief eventuele subsidie
+Disclaimer: Ondanks dat het Duurzaam Bouwloket veel zorg besteedt aan de inhoud van dit besparingsoverzicht en de daarin opgenomen
+gegevens, kan het Duurzaam Bouwloket niet instaan voor de volledigheid, juistheid of voortdurende actualiteit van de gegevens in dit overzicht.
+Elk
+Pagina 27 van 55
+huis blijft maatwerk, en de daadwerkelijke kosten zullen alleen afgegeven kunnen worden door een uitvoerende partij.
+De genoemde kosten en
+besparingen in dit rapport zijn gebaseerd op landelijke gemiddelden.
+Uitleg besparingen in dit rapport
+Investeringen in energiebesparende maatregelen leiden tot een lagere maandelijkse energierekening.
+De energierekening kan sterk variëren, zelfs tussen buren met gelijk verbruik.
+Dit verschil komt door
+wanneer het energiecontract is afgesloten en of het contract vast of variabel is.
+De afgelopen jaren zijn de
+energieprijzen flink gestegen.
+In dit rapport berekenen we de besparing op basis van de energieprijzen die
+het Planbureau voor de Leefomgeving (PBL) voor 2040 voorspelt: € 0,21 per kWh voor stroom en € 1,42
+per m³ voor gas.
+De uiteindelijke besparing is natuurlijk ook afhankelijk van het energieverbruik van de
+bewoner.
+Tabel 6: Beoogde besparing op de energierekening, woningscan 2.
+Bewoner verbruik: 1.946kWh en 1.100 m³ Gemiddeld verbruik: 3.140 kWh en 1.010 m³
+€ 0,21 per kWh en € 1,42 per m³
+Maandbedrag € 164,- Maandbedrag € 175,-
+Jaarlijkse lasten € 1.971, - Jaarlijkse lasten € 2.094, -
+Totaal over 5 jaar € 10.630, - Totaal over 5 jaar € 11.269, -
+Totaal over 15 jaar € 38.878, - Totaal over 15 jaar € 40.982, -
+Kosten na 30% besparen € 27.215, - Kosten na 30% besparen € 28.687, -
+Besparing € 11.663, - Besparing € 12,295-
+Een doelstelling om in de komende 15 jaar, 30% op de energielasten te besparen is realistisch.
+Dit zou
+betekenen dat je nu € 11.663, - kan investeren in energiebesparende maatregelen die binnen 15 jaar zijn
+terugverdiend (uitgaande van de huidige energieprijzen).
+Pagina 28 van 55
+Woningscan 3
+Reactie adviseur Energieloket
+“Deze woning heeft bouwjaar 2007 en beschikt daardoor over een degelijke basisisolatie.
+Dat betekent
+dat de warmte goed wordt vastgehouden en het energieverbruik over het algemeen laag blijft.
+Verdere
+isolatiemaatregelen zijn in dit geval niet praktisch of kosteneffectief en daarom niet meegenomen in dit
+rapport.
+Wel is er nog winst te behalen op het gebied van ventilatie.
+Door over te stappen op een vraag
+gestuurd ventilatiesysteem, dat automatisch reageert op de gemeten CO￿-en vochtwaarden, kan de
+luchtkwaliteit in huis aanzienlijk verbeteren.
+Dit zorgt niet alleen voor een gezonder binnenklimaat, maar
+ook voor een lager energieverbruik, omdat er alleen wordt geventileerd wanneer dat echt nodig is.
+Op dit moment zijn er nog geen zonnepanelen aanwezig op de woning, en de bewoner heeft aangegeven
+hier voorlopig geen behoefte aan te hebben.
+Toch blijven zonnepanelen een effectieve manier om de
+woning verder te verduurzamen en de energierekening te verlagen.
+Daarom worden ze in dit rapport
+alsnog als mogelijke maatregel genoemd, voor het moment dat de situatie of voorkeur verandert.
+De cv-ketel bevindt zich aan het einde van zijn technische levensduur.
+Dit is een natuurlijk moment om
+na te denken over de overstap naar een (volledige) warmtepomp.
+Een warmtepomp zorgt op een
+duurzame manier voor verwarming en vermindert de afhankelijkheid van gas.
+Om het rendement van de
+warmtepomp te verbeteren, is het aan te raden om de bestaande radiatoren te voorzien van
+radiatorventilatoren.
+Deze zorgen ervoor dat de warmte beter door de ruimte wordt verspreid, wat het
+comfort verhoogt en het energieverbruik verlaagt.
+Wanneer u kiest voor een warmtepomp en overstapt op koken met inductie, wordt uw woning volledig
+gasloos en klaar voor de toekomst.
+U profiteert van een comfortabel en energiezuinig huis, met een
+aangenaam binnenklimaat en lagere maandlasten.
+Zo draagt u niet alleen bij aan een beter milieu, maar
+verhoogt u ook het wooncomfort en de waarde van uw woning."
+Type woning: Tussenwoning
+Bouwjaar: 2007
+Gezinssamenstelling: 1 volwassene
+Gasverbruik: 574 m³
+Elektriciteitsverbruik: 1.265 kWh
+Figuur 8 Tussenwoning buurt Streektuinen
+Pagina 29 van 55
+Tabel 7: Mogelijke maatregelen woningscan 3.
+Maatregel Prijsindicatie Besparing Comfort
+Kleine maatregelen en handige tips
+Leidingisolatie € 50,- **** n.v.t.
+Radiatorfolie € 20,- **** ***
+Ledverlichting ***** *** € 5,- / lamp, € 75,- / dimmer ***** ***
+Stap 1.
+Isoleren
+Stap 2.
+Ventileren
+Bewust(er) ventileren n.v.t. n.v.t. n.v.t
+CO2-meter (incl. luchtvochtigheidsmeter) € 150,- n.v.t. **
+Vervangen ventilatiebox € 350,- *** **
+Onderhouden ventilatieroosters n.v.t. n.v.t. ***
+Plaatsenventilatieroosters bij vervangen glas € 150,- per meter n.v.t. **
+Centrale balansventilatie (incl.
+Installatie) Vanaf €5.000,- * ****
+Decentrale balansventilatie (incl. installatie) Vanaf €2.000,-
+* ****
+Stap 3.
+Opwekken duurzame energie
+Zonnepanelen (10 zonnepanelen van 435Wp) € 3.900, - ***** n.v.t.
+Stap 4.
+Duurzaam verwarmen
+Inductiekookplaat € 1.000, - n.v.t. ****
+Afgiftesysteem +/-€40,- per m² n.v.t ****
+A: Vervangen cv-ketel € 2.000, - ** ***
+B: Hybride warmtepomp (excl. ketel) € 6.000, - ** ***
+C: Lucht-water warmtepomp (aardgasvrij) € 12.000, - ** ***
+• De besparing en comfortverbetering zijn aangegeven met 1 tot 5 sterren (1 = laag, 5 = hoog)
+• De kosten van stap 1 t/m 4 zijn op basis van uitvoering door een bedrijf
+• Alle genoemde prijzen zijn exclusief eventuele subsidie
+Disclaimer: Ondanks dat het Duurzaam Bouwloket veel zorg besteedt aan de inhoud van dit besparingsoverzicht en de daarin opgenomen
+gegevens, kan het Duurzaam Bouwloket niet instaan voor de volledigheid, juistheid of voortdurende actualiteit van de gegevens in dit overzicht.
+Elk
+huis blijft maatwerk, en de daadwerkelijke kosten zullen alleen afgegeven kunnen worden door een uitvoerende partij.
+De genoemde kosten en
+besparingen in dit rapport zijn gebaseerd op landelijke gemiddelden.
+Uitleg besparingen in dit rapport
+Investeringen in energiebesparende maatregelen leiden tot een lagere maandelijkse energierekening.
+De energierekening kan sterk variëren, zelfs tussen buren met gelijk verbruik.
+Dit verschil komt door
+wanneer het energiecontract is afgesloten en of het contract vast of variabel is.
+De afgelopen jaren zijn de
+energieprijzen flink gestegen.
+In dit rapport berekenen we de besparing op basis van de energieprijzen die
+het Planbureau voor de Leefomgeving (PBL) voor 2040 voorspelt: € 0,21 per kWh voor stroom en € 1,42
+per m³ voor gas.
+De uiteindelijke besparing is natuurlijk ook afhankelijk van het energieverbruik van de
+bewoner.
+Pagina 30 van 55
+Tabel 8: Beoogde besparing op de energierekening, woningscan 3.
+Bewoner verbruik: 1.265 kWh en 574 m³ Gemiddeld verbruik: 2.530 kWh en 770 m³
+€ 0,21 per kWh en € 1,42 per m³
+Maandbedrag € 90, - Maandbedrag € 135, -
+Jaarlijkse lasten € 1.081, - Jaarlijkse lasten € 1.625, -
+Totaal over 5 jaar € 5.825, - Totaal over 5 jaar € 8.743, -
+Totaal over 15 jaar € 21.262, - Totaal over 15 jaar € 31.775, -
+Kosten na 30% besparen € 14.883, - Kosten na 30% besparen € 22.243, -
+Besparing € 6.379, - Besparing € 9.533, -
+Een doelstelling om in de komende 15 jaar, 30% op de energielasten te besparen is realistisch.
+Dit zou
+betekenen dat je nu € 6.379, - kan investeren in energiebesparende maatregelen die binnen 15 jaar zijn
+terugverdiend (uitgaande van de huidige energieprijzen).
+Beslisboom
+In bijlage 3 vindt u een beslisboom waarin stap voor stap staat beschreven hoe de overstap naar duurzame
+warmte gemaakt kan worden.
+De stappen zijn onderverdeeld in vier fases.
+Per fase verzamelt u meer
+informatie over uw woning en de mogelijkheden.
+Aan de hand daarvan kunt u een plan maken voor uw
+woning.
+De fases die u doorloopt zijn de volgende:
+- Verkenning: In deze fase verkent u waar uw woning staat in de overstap naar duurzame warmte.
+Met deze informatie kunt u een goed plan maken voor uw woning.
+De informatie op de website van
+Milieu Centraal kan u hierbij helpen.
+Ook biedt Milieu Centraal een online verbetercheck waar een
+advies uit komt op basis van uw woning op www.verbeterjehuis.nl .
+Aan het einde van deze stap
+weet u:
+o Wat er in uw buurt speelt (warmteoplossingen/ bewoners initiatieven)
+o Uit welk jaar uw cv-ketel is en wanneer deze aan vervanging toe is (uitgaande van een
+levensduur van 10-15 jaar)
+o Welke verduurzamingsmaatregelen u al heeft uitgevoerd en tot welk niveau uw woning is
+geïsoleerd
+o Welke maatregelen de grootste besparingen opleveren en heeft u eventueel plannen
+gemaakt om deze uit te voeren
+o U heeft nagedacht over wat u belangrijk vindt (uitstraling woning, weinig aanpassingen
+woning, wooncomfort, kosten)
+- Onderzoek: In deze fase onderzoekt u welke vorm van duurzame warmte het beste past bij uw
+woning en uw wensen.
+In een volledig elektrisch scenario is de warmtepomp als voorbeeld gebruikt
+als meest voorkomende oplossing, maar er zijn meerdere elektrische warmteoplossingen.
+Het
+Energieloket van de gemeente Hoorn, Energieloketten, kan u helpen bij deze keuze.
+Op de website
+van Energieloketten kunt u ook de subsidie-checker gebruiken om te kijken hoeveel subsidie u kunt
+krijgen. www.energieloketten.nl/hoorn .
+Aan het einde van deze stap weet u:
+Pagina 31 van 55
+o Uit welke warmteoplossingen u kunt kiezen
+o Welke warmteoplossing past bij uw woning of wat uw voorkeur heeft
+o Welke maatregelen nog nodig zijn om deze uit te voeren
+o Op welke termijn u deze stappen wilt gaan zetten
+- Voorbereiding: U bereidt zich voor op de overstap naar duurzame warmte en voert de nodige
+isolatie-, ventilatie- en installatiemaatregelen uit.
+Er is een aantal zaken om rekening mee te
+houden.
+De gemeente heeft namelijk de optie om een wijk aan te wijzen en daar het aardgas af te
+sluiten binnen minimaal 8 jaar.
+Daarnaast kan het, in verband met drukte op het stroomnet, zijn dat
+het verzwaren van uw aansluiting niet (direct) mogelijk is.
+Meer informatie over de ruimte op het
+stroomnet in uw buurt vindt u op de website van Liander: www.liander.nl/aansluitingen/stroomnet-
+vol/stroomnetchecker.
+Aan het einde van deze stap weet u:
+o Dat u alle benodigde isolatie- en ventilatiemaatregelen die passen bij de gewenste
+warmteoplossing heeft uitgevoerd of uitgevoerd zullen worden.
+o Hoe u kunt overstappen op de gewenste warmteoplossing en welke voorbereiding hiervoor
+nodig is (denk aan instaleren elektrische kookplaat, aanvraag netaansluiting).
+o Hoe u de overstap kunt financieren en/of heeft u deze mogelijkheden ook aangevraagd.
+o Weet u waar u terecht kunt met uw vragen.
+- Overstap: In deze fase wordt de voorlopige/daadwerkelijke overstap gemaakt.
+Per tussenstap kan
+de doorlooptijd verschillen.
+Voor vragen over de doorlooptijd kunt ook terecht bij het Energieloket
+van de gemeente.
+Aan het einde van deze stap heeft u:
+o De nodige isolatiemaatregelen uitgevoerd voor uw aardgasvrije warmteoplossingen.
+o Eventuele ventilatiemaatregelen uitgevoerd.
+o Uw gasapparatuur vervangen voor elektrische apparatuur en uw gasleiding wordt
+verwijderd.
+o Uw aardgasvrije warmtesysteem is geïnstalleerd of staat gepland
+In bijlage 4 vindt u verder de hierboven geschreven stappen verder uitgeschreven met verschillende
+duurzame verwarmingsopties als voorbeelden.
+Goedkeuringsproces
+Identificatie aanvullende kaders
+Op basis van het besluit over het warmtenet kunnen de aanvullende kaders worden bepaald.
+In bijlage 6
+zijn de afwegingen opgenomen waaraan gedacht kan worden voor aanvullende ruimtelijke kaders.
+Bestuurlijke procedure
+Afhankelijk van het besluit over het warmtenet wordt de bestuurlijke procedure bepaald voor het wijkplan.
+De afwegingen worden in bijlage 7 weergegeven.
+Pagina 32 van 55
+Plan van aanpak
+Projectdefinitie
+Het project richt zich op de transitie naar aardgasvrij wonen in de Streektuinen (Hoorn‑Noord), Een gebied
+met grondgebonden particuliere koopwoningen, koopwoningen in een Vereniging van Eigenaren en sociale
+huur van woningcorporatie Intermaris.
+Het doel is om een haalbare, betaalbare en gedragen
+warmteoplossing te realiseren in deze buurt, in lijn met het gemeentelijke Warmteprogramma en het
+landelijke Klimaatakkoord
+Uit het Warmteprogramma blijkt dat het gebied kansrijk is voor aansluiting op het warmtenet, maar dat de
+voorkeur voor een warmteoplossing onder bewoners uiteenloopt.
+Dit warmteplan zou bewoners een
+duidelijk beeld moeten geven over de mogelijke oplossingen en plannen voor de buurt
+Projectaanpak
+De aanpak is onderverdeeld in 3 scenario’s uitgaande van 3 warmteoplossingen:
+• Individueel all-electric: Hierbij zullen bewoners zelfstandig overstappen op een volledig
+elektrische warmtevoorziening, zoals een lucht-waterwarmtepomp.
+Dit vraagt om voldoende isolatie,
+een passend afgiftesysteem en afstemming met Liander in verband met mogelijke verzwaring van
+de elektriciteitsaansluiting.
+De participatie binnen dit scenario draait vooral om het bieden van
+duidelijke informatie, het ondersteunen van individuele keuzes en het wegnemen van praktische
+drempels.
+• Warmtenet: In het Warmteprogramma is voor de wijk Hoorn-Noord het warmtenet benoemd als
+voorkeursoplossing op basis van laagst nationale kosten.
+In de Technische Analyse wordt
+aangegeven voor welke panden het warmtenet van HVC mogelijk een kansrijke warmteoplossing
+kan zijn.
+Hierbij wordt een collectieve infrastructuur aangelegd in de openbare ruimte, die geschikt
+is voor zowel particuliere woningen als VvE’s en het bezit van Intermaris.
+De haalbaarheid hangt
+sterk samen met voldoende aansluitbereidheid, subsidie en afspraken met de gemeente en
+Intermaris.
+Wanneer hierover meer duidelijkheid is zal de gemeente in samenwerking met HVC een
+separaat participatietraject starten met de woningen binnen dit gebied.
+De participatie richt zich in
+dit scenario op gezamenlijke besluitvorming, transparantie over kosten en duidelijkheid over het
+aanbod.
+• Kleinschalig collectieve warmte/ mini warmtenet (samen met de buren): In dit scenario zal een
+groep bewoners samen een lokale warmtevoorziening organiseren.
+Hoewel dit technisch mogelijk
+is, is de financiële haalbaarheid vaak minder zeker.
+Dit scenario vraagt om intensieve
+samenwerking tussen buren.
+Waarbij de gemeente ondersteunt bij procesbegeleiding,
+organisatievormen en het benutten van subsidies.
+De gemeente start samen met een aantal
+geïnteresseerde bewoners een pilot om ervaring op te doen en de mogelijkheden te onderzoeken.
+Pagina 33 van 55
+Koppelkansen
+Er is ook een aantal koppelkansen waar wij in dit plan rekening mee kunnen houden om de bovenstaande
+scenario’s te versterken:
+• Rioleringswerkzaamheden Hoorn-Noord 2027–2032: biedt de kans om het warmtenet aan te leggen
+met minder overlast
+• Vervangingsmoment cv-ketels (bouwjaar 2004–2008): wanneer de cv-ketel aan vervanging toe is, is
+dat een mooi moment voor een overstap naar aardgasvrij om dubbele kosten in de toekomst te
+voorkomen
+• Zwembad De Waterhoorn: Er wordt onderzocht of De Waterhoorn wordt aangesloten op het
+warmtenet van HVC, dit ondersteunt mogelijk de businesscase voor de doorontwikkeling van het
+warmtenet.
+• Onderzoek Saxion Hogeschool: inzichten over inclusieve participatie van jonge gezinnen
+• Netverzwaring Liander: koppelen aan elektrificatie van warmtepompen
+Financiering
+De volgende beschikbare middelen en regelingen zijn er om in dit Plan van Aanpak rekening mee te
+houden:
+• ISDE‑subsidie voor isolatie, warmtepompen en warmtenet‑aansluiting
+• Nationaal Warmtefonds
+• Duurzaamheidslening gemeente voor woningeigenaren en VvE’s
+• SVvE‑subsidie voor VvE’s
+• Subsidie bewonersinitiatieven tot €10.000
+Regie en organisatie
+Voor dit warmteplan staan de volgende organisaties centraal, waarbij de regiorol per situatie kan
+verschillen:
+• Gemeente Hoorn: De rol van de gemeente is als regisseur warmtetransitie, gemeente stelt vanuit
+die rol het warmteplan op in samenwerking met de omgeving
+• HVC: Ontwikkelaar van het warmtenet en warmteleverancier
+• Liander: Verantwoordelijk voor de netcapaciteit, installeren van juiste aansluiting van
+warmtepompen en verzorgt eventuele afsluiting van de gasaansluiting
+• Intermaris: Verantwoordelijk voor de verduurzaming van de sociale huurwoningen
+• Energieloketten: Energieloket van de gemeente, geeft advies over warmteoplossingen en
+voorbereidingsmaatregelen (isolatie en ventilatie) voor bewoners
+• Bewoners: verantwoordelijk voor de keuze en (gedeeltelijke) uitvoering van de overstap
+Pagina 34 van 55
+Kwaliteitsmanagement
+Om de kwaliteit van het warmteplan te waarborgen zullen de bronnen worden geraadpleegd:
+• Landelijke wetgeving (Warmtewet, WCW, WGIW)
+• Referentierapporten van voorbeeldwoningen de Streektuinen
+• Regelmatig overleg met alle betrokken organisaties
+• Een concreet en uitvoerbaar participatie- en communicatieplan, waardoor bewoners mogelijkheid
+hebben tot inspraak
+• Procesbegeleiding voor VvE’s door externe partners om de stap te zetten naar duurzaamheid
+Veranderplan
+De overstap naar aardgasvrij vraagt gedragsverandering en besluitvorming door bewoners.
+Het
+veranderplan richt zich op:
+1.
+Bewustwording
+Bij dit onderdeel draait het om het vergroten van de bewustwording onder bewoners.
+Zij krijgen duidelijke
+uitleg over de noodzaak van de energietransitie en waarom de wijk richting een aardgasvrije toekomst
+beweegt.
+Daarnaast wordt inzicht geboden in de kosten, beschikbare subsidies en de voordelen die
+duurzame warmteoplossingen kunnen opleveren.
+Deze combinatie zou bewoners kunnen helpen om beter
+te begrijpen welke keuzes er op hen afkomen en wat dit voor hun woning betekent.
+2.
+Draagvlak
+Het tweede onderdeel richt zich op het creëren van draagvlak voor de passende warmteoplossingen.
+Dit
+gebeurt door transparant te communiceren over de stappen, keuzes en onzekerheden binnen het proces.
+Bewonerspanels worden actief betrokken, zodat de stem van de wijk goed wordt meegenomen in de
+besluitvorming.
+Daarnaast worden heldere keuzemogelijkheden geboden, zodat iedereen weet welke
+opties voor hem of haar relevant of passend zijn.
+3.
+Ondersteuning
+In de derde stap wordt de bewoner geïnformeerd en door het energieloket ondersteund om de
+daadwerkelijke overstap te maken naar een duurzame warmteoplossing.
+Hierbij kan gebruik worden
+gemaakt van het handelingsperspectief waarbij stap-voor-stap wordt uitgelegd wat er nodig is om de
+overstap naar aardgasvrije warmte oplossing te maken
+Pagina 35 van 55
+Risico-inventarisatie en mitigatie
+Tabel 9: Risico-inventarisatie en mitigatie
+Risico Impact Kans Mitigatie
+Onvoldoende draagvlak warmtenet
+(voorkeursoplossing) bij
+particulieren
+Hoog Hoog
+Via participatie en het verenigen van bewoners is
+het doel om bewoners er bewust van te maken
+dat de keuze om wel/niet aan te sluiten
+collectieve gevolgen heeft.
+Om op die manier de
+buurt te ondersteunen bij het gezamenlijk
+afwegen van de opties en te kiezen voor de
+warmteoplossing die het beste past bij de
+woningen en persoonlijke situatie.
+Netcongestie Hoog Hoog
+Afstemming Liander over versterken
+elektriciteitsnet in de wijk, via participatie
+inventariseren welk tempo verwacht kan worden
+in elektrificatie van de warmtevraag
+Niet behalen doelstelling 2040 Middel Middel
+Communicatie en participatie, financiering
+(bewonersinitiatieven, VvE-aanpak), inzet
+aanwijsbevoegdheid o.b.v. uitgangspunten
+warmteprogramma
+Communicatieplan
+Na publicatie van dit Warmteplan ziet de communicatie er als volgt uit:
+- Gesprekken met bedrijven over een kleinschalig collectief worden voortgezet.
+Bij succes zal de
+gemeente de uitwerking, vormgeving en eventuele opschaling van deze pilot begeleiden.
+- Bewoners met woningen die kansrijk zijn voor aansluiting op het warmtenet worden betrokken
+zodra HVC een particulier aanbod doet.
+De vorm van communicatie wordt in afstemming met HVC
+vastgesteld.
+- De nieuwsbrief wordt stopgezet.
+Belangrijke informatie wordt voortaan wanneer nodig per brief aan
+bewoners verzonden.
+- De bewonersgroep kan naar wens blijven bestaan, waar nodig, gefaciliteerd door de gemeente.
+- De projectwebpagina blijft actief waarop relevante informatie beschikbaar blijft.
+- Alle verdere ontwikkelingen zijn te volgen op duurzaam.hoorn.nl
+Pagina 36 van 55
+Projectplan
+Vervolgstappen warmtenet
+Een gedeelte van de woningen in de Streektuinen kan mogelijk worden aangesloten op het warmtenet van
+HVC.
+Of dit kan is afhankelijk van verschillende factoren zoals subsidie vanuit het rijk, afspraken met
+Intermaris en de gemeente en voldoende draagvlak voor de businesscase.
+De woningen waarvoor dit mogelijk is zijn rood omlijnd in de afbeelding hieronder en bevatten:
+Figuur 9: in rood gemarkeerd de particuliere woningen en gebouwen die mogelijk aangesloten kunnen worden op het warmtenet
+van HVC.
+In blauw gemarkeerd de woningen van Intermaris, waar het warmtenet zo mogelijk en in overleg ook zal worden
+toegepast.
+• De Streektuinen 1 t/m 186 inclusief de appartementen van VvE de Triomphe.
+• De appartementen van VvE Kaap Hoorn.
+Voor woningeigenaren is het in elk geval zinvol om de woning te isoleren tot de zogeheten standaard en
+streefwaarden voor woningisolatie.
+De meeste woningen met een energielabel B of beter zijn tot de
+standaard geïsoleerd.
+Bent u niet zeker of dit het geval is?
+Neem dan contact op met het Energieloket van
+de gemeente.
+Valt uw woning binnen het kansrijke gebied dan nemen HVC en de gemeente contact met u op wanneer er
+een eventueel aanbod ligt.
+We horen graag van u op welke manieren u hierover geïnformeerd wilt worden
+in de vragen hiernaast.
+Vervolgstappen kleinschalig collectief
+Er is ook de mogelijkheid om samen met uw buren voor aardgasvrije warmte te kiezen.
+Hoewel dit
+technisch mogelijk is, is de financiële haalbaarheid vaak minder zeker.
+Dit scenario vraagt om intensieve
+samenwerking tussen buren.
+Waarbij de gemeente ondersteunt bij procesbegeleiding, organisatievormen
+Pagina 37 van 55
+en het benutten van subsidies.
+In de Streektuinen is de gemeente gestart met een pilot voor kleinschalige
+collectieven met een aantal bewoners en marktpartijen.
+Vervolgstappen kleinschalig collectief
+Verschillende woningclusters in de Streektuinen zijn mogelijk geschikt voor een kleinschalig collectief
+systeem op basis van eerste berekeningen.
+Hierbij is gekeken naar onder andere woningtype, oppervlakte
+woning en standaard en streefwaarden isolatie.
+Er zijn drie mogelijke woningclusters in de Streektuinen
+met bewoners die geïnteresseerd zijn in een kleinschalig collectief.
+De gemeente werkt samen met twee
+marktpartijen om oplossingen te verkennen.
+Eind 2026 verwachten we de eerste bijeenkomst voor
+betrokken bewoners te kunnen organiseren.
+Wanneer de pilot in de Streektuinen succesvol en reproduceerbaar blijkt, biedt dit een extra mogelijkheid.
+Ook voor andere bewoners.
+De gemeente faciliteert daarom deze pilot en zet zich in om waar mogelijk
+procesonderdelen te standaardiseren
+Vervolgstappen individueel All-Electric
+Voor de overstap naar een elektrische warmteoplossing zoals een (hybride) warmtepomp kunt u zelf aan
+de slag.
+Hier is wel een aantal voorwaarden aan verbonden:
+- U heeft mogelijk nog een zwaardere aansluiting nodig.
+In uw meterkast kunt u aflezen welke aansluiting
+u heeft.
+U kunt contact opnemen met netbeheerder Liander over uw vragen.
+- Uw woning moet tot de zogeheten standaard zijn geïsoleerd.
+De meeste woningen met een
+energielabel B of beter zijn tot de standaard geïsoleerd.
+Bent u niet zeker of dit het geval is?
+Neem dan
+contact op met het Energieloket van de gemeente.
+- Uw warmteafgiftesysteem moet geschikt zijn voor de warmtepomp.
+Voorbeelden van
+warmteafgiftesystemen zijn radiatoren of vloerverwarming.
+- Een hybride warmtepomp werkt met zowel een warmtepomp als een gasgestookte cv-ketel.
+De
+warmtepomp verwarmt je woning op lage temperaturen (tot 40 graden).
+Er zijn hybride warmtepompen
+die in de toekomst omgebouwd kunnen worden naar een volledig elektrisch systeem.
+Dit wordt ook wel
+‘all-electric ready’ genoemd.
+Het is wellicht interessanter en voordeliger om direct over te stappen naar
+een aardgasvrije variant.
+Het Energieloket van de gemeente kan adviseren over de voorbereiding en overstap.
+Ook geven de
+referentierapporten een goed overzicht van het type installaties dat past bij vergelijkbare woningen in de
+Streektuinen.
+In het geval van de individuele warmteoplossingen is het van belang dat de bewoner zich
+bewust is van alle stappen die moeten worden genomen voor het gereedmaken van de woning voor de
+aardgasvrije toepassing.
+De beslisboom in bijlage 3 kan hierbij goed helpen.
+Pagina 38 van 55
+Planning
+Tabel 10: Planning
+2026/2027 Vierde kwartaal
+(okt-dec) 2026
+Eerste kwartaal
+(jan-mrt) 2027
+Tweede kwartaal
+(apr-jun) 2027
+Derde kwartaal
+(jul-sep) 2027
+Vierde kwartaal
+(okt-dec) 2027
+HVC
+Warmtenet
+Naar verwachting meer duidelijkheid over doorontwikkeling warmtenet
+en afhankelijkheden zoals subsidie vanuit het rijk.
+(Kleinschalig)
+collectief
+Eerste
+bewoners-
+bijeenkomst
+Uitwerken
+aanbod door
+marktpartij(en)
+Bewoners
+besluit over go/
+no go en
+planning
+uitvoering
+Terugkoppeling
+buurt
+Bestuurlijke
+planning
+Publicatie
+definitief
+Warmteplan
+Start
+buurtplannen
+voor buurten
+Hoorn-Noord
+2028 2029 2030 2031
+HVC
+Warmtenet
+Naar verwachting
+kunnen particuliere
+eigenaren een
+aanbod verwachten
+Beoogd moment
+aansluiten
+warmtenet
+Beoogd moment
+aansluiten
+warmtenet
+Bestuurlijke
+planning
+Uitvoeringsplan
+Hoorn-Noord
+vaststellen (college)
+Herijking
+Warmteprogramma
+Pagina 39 van 55
+Bijlage 1.
+Stakeholderanalyse
+Een stakeholdersanalyse is nodig om de juiste benadering en participatie te bepalen.
+Wie zijn de
+groepen in de buurt/wijk en wat weten wij van hen?
+Hoe gaan we ze benaderen en hoe gaan we
+gesprekken in?
+De analyse doorloopt een aantal stappen:
+1.
+De groepen identificeren
+2.
+De ringen van invloed invullen
+3.
+Het doel van de groep achterhalen
+4.
+Een belangenanalyse maken
+5.
+Een strategie opstellen
+6.
+Een kernboodschap formuleren
+7.
+Gesprekspartner(s) bepalen
+Figuur 10: Ringen van invloed bepalen
+De volgende stakeholders kunnen worden onderscheiden:
+- Huurders
+- Verhuurder Zeeman
+- Eigenaar-bewoners
+- Woningcorporatie (Intermaris of Woonzorg)
+- Verenigingen van Eigenaren
+- Eigenaren en gebruikers van utiliteitsgebouwen
+- Ondernemers
+- Bewonersinitiatieven (op het gebied van zon, wind, warmte, inkoop of besparing)
+- Liander
+- Waterschap HHNK (aquathermie)
+- RWS (Rijkswaterstaat)
+- Lokale installateurs
+- Energieloketten
+- Servicepunt Duurzaam Ondernemen
+- Winkelcentra en buurtorganisaties
+- Ambassadeurs (lijst van bewoners die aangegeven hebben dat ze betrokken willen worden bij de
+energietransitie)
+Pagina 40 van 55
+Bijlage 2.
+Bronnen voor wet- en regelgeving
+Bronnen:
+• Warmteprogramma Hoorn: Deze is hier beschikbaar
+• Haalbaarheidsstudie HVC 2021 – projectleider warmte
+• Bestemmingsplannen: Ruimtelijkeplannen.nl/viewer
+• Omgevingsvisie: Omgevingsvisie Hoorn (ruimtelijkeplannen.nl)
+• Hollands noorderkwartier
+• Rijkswaterstaat
+• PWN
+Beleid
+Doel is hiermee de kaders te geven voor de keuze van bepaalde warmtescenario’s en de argumentatie
+daarvoor.
+Dit moet ook duidelijk maken waarover wel en waarover geen inspraak kan plaatsvinden.
+Beleid
+op andere gebieden dan energie wordt beschreven onder ‘Overige opgaven’.
+Wanneer mogelijk overleg
+met gebieds/programmamanager.
+Gemeentelijke regelgeving
+• De basis is het Warmteprogramma (2025) met de ambitie van klimaatneutraliteit voor heel Hoorn in
+2040.
+• Daarnaast is er de Haalbaarheidsstudie naar een warmtenet van HVC.
+• Deze laatste is vooral van belang wanneer de wijk kwalificeert voor een warmtenet.
+De
+Haalbaarheidsstudie biedt meer gedetailleerde informatie over het tracé voor een warmtenet.
+• Het bestemmingsplan of omgevingsplan is van belang voor toedeling van functies in de wijk.
+• Gebiedsplan (indien beschikbaar).
+Overleggen met Gebiedsmanager als die er is.
+Nationale wetgeving
+• Warmtewet 2026
+• (Ontwerp) Wet Collectieve Warmtevoorziening (WCW
+• Wet Gemeentelijk Instrumentarium Warmtetransitie (WGIW)
+• Warmte Infrastructuur Subsidie (WIS)
+Pagina 41 van 55
+Bijlage 3.
+Beslisboom warmteoplossing
+Figuur 11: Beslisboom warmteoplossing
+Pagina 42 van 55
+Bijlage 4.
+Stappenplan Aardgasvrij
+Huurders
+Ongeacht warmtescenario (www.duurzaambouwloket.nl/maatregelen)
+Kleine energiebesparende maatregelen (fixers):
+• Aanvoertemperatuur CV verlagen naar 55-60 °C
+• Ledverlichting
+• Leidingen isoleren
+• Naad- en kierdichten
+• Pompschakelaar vloerverwarming
+• Radiatorfolie
+• Waterbesparende douchekop
+• Zie Milieu Centraal en Energieloketten voor meer kleine energiebesparende maatregelen
+Warmtenet
+Huurder mag/zal hiervoor zelf geen maatregelen nemen.
+Elektrisch
+Huurder mag/zal hiervoor zelf geen maatregelen nemen (Individueel en collectief elektrisch)
+Overige verwarmingstechnieken
+Voor groen gas zijn geen voorbereidende maatregelen noodzakelijk.
+Voor innovatieve technieken is het
+nog onduidelijk.
+Eigenaar-bewoners/VvE’s/particuliere verhuurders/woningeigenaren
+Ongeacht warmtescenario (www.duurzaambouwloket.nl/maatregelen)
+Kleine energiebesparende maatregelen (fixers):
+• Aanvoertemperatuur CV verlagen naar 55-60 °C
+• Ledverlichting
+• Leidingen isoleren
+• Naad- en kierdichten
+• Pompschakelaar vloerverwarming
+• Radiatorfolie aanbrengen
+• Waterbesparende douchekop
+• Zie Milieu Centraal en Energieloketten voor meer kleine energiebesparende maatregelen
+Warmtevraag verminderen (hoe meer hoe beter):
+• Vloer-/bodemisolatie
+• (Spouw)muur-/gevelisolatie
+• Ramen
+• Dak-/zoldervloerisolatie
+Pagina 43 van 55
+Ventileren (bij hogere mate van isolatie):
+• WTW-unit
+Duurzame energie opwekken (als budget het toelaat):
+• PV-panelen
+• Zonneboiler
+• PVT-panelen
+Warmtenet
+• Apparaten op gas elektrificeren:
+o Elektrische kookvoorziening aanschaffen
+• Warmtevraag verminderen door isoleren bouwdelen
+• Ventileren (bij hogere mate van isolatie)
+• Gasaansluiting laten verwijderen
+Elektrisch
+Individueel elektrisch:
+• Apparaten op gas elektrificeren:
+o Elektrische kookvoorziening aanschaffen
+• Warmtevraag verminderen door isoleren bouwdelen
+• Ventileren (bij hogere mate van isolatie)
+• Voldoende groot oppervlak voor warmteafgifte realiseren in te verwarmen deel van de woning (als die
+nog niet aanwezig is):
+o Vloerverwarming aanleggen
+o Laagtemperatuurradiatoren aanbrengen
+o Aanpassen meterkast
+o Nieuwe groep(en) laten plaatsen
+o Meterkast compleet vernieuwen
+• Gasaansluiting laten verwijderen
+Collectief elektrisch:
+• Apparaten op gas elektrificeren
+o Elektrische kookvoorziening aanschaffen
+• Warmtevraag verminderen door isoleren bouwdelen
+• Ventileren (bij hogere mate van isolatie)
+• Voldoende groot oppervlak voor warmteafgifte realiseren in te verwarmen deel van de woning (als die
+nog niet aanwezig is):
+o Vloerverwarming aanleggen
+o Laagtemperatuurradiatoren aanbrengen
+o Aanpassen meterkast
+o Nieuwe groep(en) aan laten maken
+o Meterkast compleet vernieuwen
+• Gasaansluiting laten verwijderen
+Overige verwarmingstechnieken
+Voor groen gas zijn geen voorbereidende maatregelen noodzakelijk.
+Voor innovatieve technieken is het
+nog onduidelijk.
+Pagina 44 van 55
+Gebouweigenaren (utiliteit, maatschappelijk vastgoed, winkels, enz.)
+Ongeacht warmtescenario (www.duurzaamondernemersloket.nl)
+Warmtevraag verminderen (hoe meer hoe beter):
+• Vloer-/bodemisolatie
+• (Spouw)muur-/gevelisolatie
+• Ramen
+• Dak-/zoldervloerisolatie
+Ventileren (bij hogere mate van isolatie):
+• WTW-unit
+Duurzame energie opwekken (als budget het toelaat):
+• PV-panelen
+• Zonneboiler
+• PVT-panelen
+Warmtenet
+• Alle apparaten op gas elektrificeren
+• Warmtevraag verminderen (minimaal X bouwdelen goed geïsoleerd)
+• Ventileren (bij hogere mate van isolatie)
+Elektrisch
+• Warmtevraag verminderen door isoleren bouwdelen
+• Ventileren (bij hogere mate van isolatie)
+• Voldoende groot oppervlak voor warmteafgifte realiseren (als dit nog niet aanwezig is):
+o Vloerverwarming aanleggen in te verwarmen deel van de woning
+o Laagtemperatuurradiatoren aanbrengen
+• Aanpassen meterkast:
+o Nieuwe groep(en) aan laten maken
+o Meterkast compleet vernieuwen
+o Netaansluiting verzwaren (indien nodig)
+• Gasaansluiting laten verwijderen
+Overige alternatieven
+Voor groen gas zijn geen voorbereidende maatregelen noodzakelijk.
+Voor innovatieve technieken is het
+nog onduidelijk.
+Pagina 45 van 55
+Bijlage 5.
+Bronnen ondersteuning doelgroepen
+Huurders
+Adviezen kleine energiebesparende maatregelen
+• Verhuurder
+• Milieu Centraal (www.milieucentraal.nl/energie-besparen/snelle-bespaartips)*,
+• Verbeter je huis (www.verbeterjehuis.nl)*,
+• Duurzaam Hoorn (www.duurzaam.hoorn.nl/campagne/)*
+• Energieloketten (www.duurzaambouwloket.nl/contact)*
+Hulp bij financiering
+• Energieloketten (www.duurzaambouwloket.nl/nieuws)
+• Rabobank
+• Warmtefonds
+• Collectieve inkoop
+Eigenaar-bewoners/VvE/particuliere verhuurders/woningeigenaren
+Adviezen maatregelen
+• Milieu Centraal (www.milieucentraal.nl/energie-besparen/snelle-bespaartips), Verbeter je huis
+(www.verbeterjehuis.nl)*
+• Energieloketten (www.duurzaambouwloket.nl/contact)
+o Gratis, onafhankelijk, als energieloket van de gemeente
+o Bouwkundig maatwerk advies (individuele kijk)
+• Adviesbureaus (www.duurzaambouwloket.nl/bedrijven-zoeken)
+o Tegen betaling, onafhankelijk
+o Bouwkundig maatwerk advies (individuele kijk)
+o Liefst lokaal, schept vertrouwen
+o VvE belang (www.vvebelang.nl, www.vvebelang.nl/events/hoorn/)
+• Uitvoeringsbedrijven (www.duurzaambouwloket.nl/bedrijven-zoeken)
+o Onderdeel van betaling uitvoeren klus, afhankelijk
+o Bouwkundig advies (specifiek voor uit te voeren maatregelen)
+o Liefst lokaal, schept vertrouwen
+Hulp bij financiering
+• Energieloketten (www.duurzaambouwloket.nl/nieuws)
+• Duurzaamheidslening Hoorn (www.hoorn.nl/duurzaamheidslening)
+• Warmtefonds
+Pagina 46 van 55
+(Hulp bij) vergunningen (www.omgevingsloket.nl)
+• Monumenten/beschermd dorps-/stadsaanzicht
+• Omgevingsvergunning
+o Afdeling vergunningen/bouwtoezicht/erfgoed van Gemeente Hoorn (www.erfgoedhoorn.nl)
+o Spouwmuur-/dakisolatie (individueel of collectieve schaal)
+o (Brochure natuurvriendelijk verduurzamen - OD NHN)
+• Omgevingswet over SMP (voorheen Wet natuurbescherming)
+o Provincie Noord-Holland is op dit moment bezig met het voorbereiden van een handreiking
+over hoe te werken met een Soortenmanagementplan.
+Voor de gemeente Hoorn zal dit de basis
+vormen voor het werken met SMP.
+o Meer informatie over het Soortenmanagementplan (SMP) in Hoorn: Zes Westfriese
+gemeenten starten ecologisch onderzoek naar beschermde soorten - Duurzaam Hoorn
+o Meer informatie over het Soortenmanagementplan (SMP) vanuit Omgevingsdienst Wat is
+een Soortenmanagementplan (SMP)? | Omgevingsdienst Noord-Holland Noord
+Collectieve inkoop
+• Energieloketten kan platform aanbieden
+• Liefst lokaal, schept vertrouwen
+• Bewonersinitiatieven- zon, wind, warmte.
+Melden bij gemeente Hoorn: duurzamestad@hoorn.nl
+Pagina 47 van 55
+Bijlage 6.
+Identificatie aanvullende ruimtelijke kaders
+Hierbij moet gedacht worden aan:
+• Het plannen van noodzakelijke opstallen voor
+o Collectieve warmtepompen
+o Een inlaat voor aquathermie
+o Transformatorhuisjes
+o Warmte onder- of tussenstation.
+• Detail niveau
+o Geïdentificeerd ruimtebeslag (knelpunten met ondergronds en bovengrondse infra)
+o Detail niveau bestemmingsplan
+o Volume van de bovengrondse technische oplossing
+o Stippellijn ondergrondse infra + mogelijke alternatieven.
+• Mogelijk extra voorwaarden vanwege druk(te) in gebied.
+• Extra aanpassingen aan:
+o Warmte kaders: Kaart en regels openbare ruimte
+o Bestemmingsplan/omgevingsplan/ Handboek kabels en leidingen/Opwek kaders
+o Gedetailleerder warmtenet
+Pagina 48 van 55
+Bijlage 7.
+Bestuurlijk proces
+Figuur 12: Vaststellingsprocedure bestuurlijk proces.
+55 555
+Vaststellingsprocedure uitvoeringsplan wijk X
+Start procedure besluitvormingcollege en informeer de raad
+meedenkgroep raad
+Wordt alleen eenomgevingsvergunningverleend?
+Gaat het omeennieuwe situatie?
+Moet hetomgevingsplanaangepastworden?
+Moet er een SOKworden opgesteld?
+Start procedurebesluitvormingraad
+ja
+nee
+ja
+neenee
+ja
+nee
+jaja
+nee
+Laat hetgewijzigdeomgevingsplangoedkeurendoor de raad
+Start proceduredirectiebesluiten informeer deraad
+Is er eenbudgetbeslissingboven €50.000?
+Laat vergunninggoedkeurendoor de raad
+Heeft devergunning eengroot effect op desamenlevingénis erweerstand?
+ja
+nee
+23
+Pagina 49 van 55
+Bijlage 8.
+Begrippenlijst volledig
+Tabel 11: Volledige Begrippenlijst
+Begrip Uitleg
+Aanwijsbevoegdheid Aanwijsbevoegdheid betekent dat de gemeente volgens de wet een gebied
+mag aanwijzen waarvoor bepaalde afspraken gelden.
+Bijvoorbeeld: de gemeente kan aanwijzen welke wijk als eerste overstapt op
+een andere manier van verwarmen.
+De gemeente moet zich daarbij aan de
+wet houden.
+Aardgasvrij wonen Wonen zonder gebruik van aardgas voor verwarming, warm water en koken.
+Hiervoor worden duurzame alternatieven gebruikt.
+All-electric Een woning die volledig elektrisch wordt verwarmd, meestal met een
+warmtepomp, zonder gasaansluiting.
+All-electric ready Een warmtesysteem dat uitgebreid kan worden om later volledig aardgasvrij
+te worden.
+Aquathermie Het winnen van warmte uit water, zoals oppervlaktewater, voor verwarming
+van gebouwen.
+Dit kan bijvoorbeeld als warmtebron gebruikt worden voor het
+warmtenet.
+Balansventilatie Ventilatiesysteem dat vervuilde lucht afvoert en verse lucht toevoert, vaak
+met warmteterugwinning.
+Bewonersinitiatief Een initiatief van bewoners om gezamenlijk duurzame maatregelen uit te
+voeren, zoals isolatie of een collectief energiesysteem.
+Businesscase Onderbouwing van de technische en financiële haalbaarheid van een project.
+Cv-ketel Installatie die aardgas gebruikt om een woning te verwarmen en warm water
+te leveren.
+Collectieve warmte Warmtevoorziening die door meerdere woningen of gebouwen gezamenlijk
+wordt gebruikt.
+Kleinschalig vanaf 2 woningen en grootschalig tot wijken of
+hele stadsdelen.
+Duurzaam Bouwloket Onafhankelijke organisatie die bewoners advies geeft over energiebesparing
+en verduurzaming.
+Energielabel Indicatie van de energiezuinigheid van een gebouw, variërend van G (minst
+zuinig) tot A++++ (meest zuinig).
+Energieloket Loket waar bewoners informatie en advies kunnen krijgen over
+verduurzaming van hun woning.
+Energietransitie Overgang van fossiele brandstoffen naar duurzame energiebronnen.
+Geo-thermie
+(aardwarmte)
+Warmte die uit diepe aardlagen wordt gewonnen voor verwarming van
+gebouwen.
+Dit kan bijvoorbeeld als warmtebron gebruikt worden voor het
+warmtenet.
+HVC Energie- en afvalbedrijf dat onder andere warmtenetten ontwikkelt en
+beheert.
+Hybride warmtepomp Warmtepomp die samenwerkt met een cv-ketel.
+De warmtepomp verzorgt het
+grootste deel van de verwarming.
+Op piekmomenten op het net kan worden
+overgeschakeld op gasverwarming via de cv-ketel.
+Pagina 50 van 55
+ISDE Investeringssubsidie Duurzame Energie en Energiebesparing voor onder
+andere warmtepompen, isolatie en warmtenetaansluitingen.
+Kleinschalig collectief Een gezamenlijke warmtevoorziening voor een kleine groep woningen,
+bijvoorbeeld binnen een woonblok of straat.
+Klimaatakkoord Landelijke afspraken om de uitstoot van broeikasgassen te verminderen en
+klimaatdoelen te behalen.
+Laagst nationale kosten Principe waarbij wordt gekeken welke warmteoplossing voor de samenleving
+als geheel de laagste kosten heeft.
+Liander Netbeheerder die verantwoordelijk is voor het elektriciteits- en gasnet in de
+regio.
+Mitigatie Mitigatie doelt op het treffen van maatregelen om de gevolgen of de oorzaak
+van een risico of probleem te beperken.
+Netcongestie Gebrek aan voldoende capaciteit op het elektriciteitsnet waardoor uitbreiding
+of verzwaring niet altijd direct mogelijk is.
+Omgevingsplan Juridisch plan waarin de gemeente regels vastlegt voor het gebruik en de
+inrichting van de fysieke leefomgeving.
+Omgevingswet Wet die regels voor de leefomgeving bundelt en participatie bij ruimtelijke
+plannen stimuleert.
+Participatie Het betrekken van bewoners, bedrijven en andere belanghebbenden bij
+plannen en besluitvorming.
+Participatieladder Model dat verschillende niveaus van betrokkenheid beschrijft, van informeren
+tot meebeslissen.
+Publieke Dialogen Online participatieplatform waarop bewoners hun mening kunnen geven over
+plannen in de wijk.
+SpUk LAI Rijksregeling waarmee gemeenten subsidie kunnen verstrekken aan
+woningeigenaren met slecht geïsoleerde woningen om hun huis beter te
+isoleren.
+Standaard voor
+woningisolatie
+Minimumniveau van isolatie dat een woning geschikt maakt voor duurzame
+warmteoplossingen.
+SVvE Subsidieregeling voor Verenigingen van Eigenaars (VvE's) om gebouwen te
+verduurzamen.
+Warmtefonds Fonds dat leningen verstrekt voor energiebesparende maatregelen en
+duurzame installaties.
+Warmtenet Een warmtenet is een netwerk van ondergrondse leidingen dat warmte van
+een centrale bron naar woningen, kantoren en andere gebouwen
+transporteert.
+In plaats van dat elk gebouw een eigen cv-ketel heeft, wordt
+warm water via het warmtenet aangevoerd voor verwarming.
+Warmteprogramma Gemeentelijk beleidsdocument waarin de gemeente aangeeft welke
+duurzame warmteopties per wijk in beeld zijn en welke richting wordt
+verkend.
+Warmtepomp Installatie die warmte uit lucht, bodem of water haalt om een woning
+duurzaam te verwarmen.
+Pagina 51 van 55
+Warmtevraag Hoeveel warmte een woning of gebouw nodig heeft voor verwarming en
+warm water.
+Warmtewet Wet die consumenten beschermt die gebruikmaken van een warmtenet.
+WCW (Wet collectieve
+warmtevoorziening)
+Deze nieuwe wet is al goedgekeurd door de Eerste en Tweede Kamer en zal
+naar verwachting op 1 januari 2027 in werking treden en de huidige
+Warmtewet vervangen.
+De gemeente krijgt een grotere rol in het organiseren
+van warmtenetten.
+Elke warmtevoorziening wordt minimaal voor 50% in
+publieke handen gebracht (zoals bij gemeenten of coöperaties).
+De wet moet
+zorgen voor meer grip op de prijs, betere bescherming voor bewoners en
+meer duurzame warmte.
+WGIW Wet die gemeenten meer bevoegdheden geeft om wijken stap voor stap
+aardgasvrij te maken en een duurzame warmteoplossing aan te wijzen.
+WKO (Warmte-Koude
+Opslag)
+Duurzaam energiesysteem waarbij warmte en koude in de bodem worden
+opgeslagen voor later gebruik.
+In de zomer kan warmte worden opgeslagen
+om gebouwen in de winter te verwarmen.
+Omgekeerd kan in de winter koude
+worden opgeslagen om gebouwen in de zomer te koelen.
+WKK
+(Warmtekrachtkoppeling)
+Installatie die tegelijkertijd elektriciteit en warmte produceert.
+WTW-unit Warmte-terug-win-installatie die warmte uit afgevoerde ventilatielucht
+hergebruikt.
+VvE Vereniging van Eigenaars; organisatie van appartementseigenaren die
+gezamenlijk verantwoordelijk zijn voor het gebouw.
+Zienswijze Formele reactie die inwoners kunnen indienen op een voorgenomen besluit
+van de overheid.
+Bewoners kunnen een zienswijze indienen wanneer
+onderdelen van een wijkuitvoeringsplan leiden tot formele besluiten
+(bijvoorbeeld wijzigingen in het omgevingsplan of warmte-infrastructuur).
+Pagina 52 van 55
+Bijlage 9.
+Zienswijze
+Aanleiding en doel
+Het concept Buurtplan voor de Streektuinen heeft van maandag 14 september tot en met vrijdag 23
+oktober 2026 voor de bewoners ter inzage gelegen bij wijkcentrum De Zaagtand.
+Er zijn in totaal 5
+schriftelijke zienswijzen binnengekomen.
+Deze worden in deze bijlage anoniem getoond inclusief reactie
+vanuit de gemeente.
+Ook zijn er tijdens de periode van ter inzagelegging meerdere mondelinge zienswijzen
+ingediend bij De Zaagtand.
+Zienswijzen per mail
+Vraag Reactie van de gemeente Invloed op warmteplan
+Bewoner 1 heeft in het
+concept Warmteplan gelezen
+dat de woning van de
+bewoner, een van de
+watervilla’s, niet binnen het
+kansrijke gebied voor het
+warmtenet van HVC valt en
+vraagt bevestiging of dit klopt
+en of dit een definitief besluit
+is.
+Momenteel is er nog geen goed aanbod voor
+particuliere woningeigenaren om aan te
+sluiten op het warmtenet van HVC.
+Dat heeft
+ermee te maken dat er nog subsidies
+aankomen en hangt af van afspraken tussen
+Intermaris en HVC.
+Om die reden is het niet
+mogelijk om hier een definitief antwoord op te
+geven.
+Wel is er samen met HVC gekeken
+naar kansen in de toekomst en daar is dit
+kansrijke gebied uitgekomen.
+De kans dat de
+watervilla’s ook worden meegenomen is
+klein.
+Er wordt een afbeelding
+toegevoegd aan de
+warmtegids waarop
+duidelijker zichtbaar is
+welke woningen wel of
+niet vallen binnen het
+gebied waar mogelijk
+een aanbod voor wordt
+gemaakt door HVC.
+Ook
+wordt de
+voorkeursoplossing voor
+het gebied dat hier niet
+binnen valt duidelijker
+benoemd.
+Bewoner 2 geeft aan graag
+meegenomen te worden in de
+ontwikkelingen omtrent
+kleinschalig collectief in de
+Streektuinen.
+De bewoner
+geeft aan geen interesse te
+hebben in een warmtenet en
+eerder naar een all-electric
+oplossing te bewegen naast
+interesse in kleinschalig
+collectief.
+De bewoner geeft
+aan het een beter idee te
+vinden om te wachten te de
+netcongestie problemen
+verholpen zijn, waarna het
+De bewoner is uitgenodigd voor de
+bewonersbijeenkomst over kleinschalig
+collectief.
+Ook wordt genoemd dat de
+bewoner vrij is om voor een all-electric
+warmte-oplossing te gaan in de woning, ook
+als er een warmtenet wordt aangelegd.
+De
+gemeentelijke voorkeur voor een warmtenet
+is gebaseerd op twee overwegingen.
+Ten
+eerste is nog onzeker hoe lang de
+netcongestie aanhoudt, terwijl de
+elektriciteitsvraag naar verwachting blijft
+toenemen.
+Een warmtenet maakt het
+mogelijk om eerder een buurtbrede
+verduurzaming te starten en beperkt de
+totale energievraag.
+Ten tweede leidt een
+Pagina 53 van 55
+net verzwaard kan worden en
+iedereen op een volledig
+elektrische oplossing kan
+overstappen in plaats van de
+aanleg van een warmtenet.
+warmtenet in de Streektuinen tot de laagste
+nationale kosten, waardoor de financiële
+impact zo beperkt mogelijk blijft.
+Bewoner 3 woont ook in een
+van de watervilla’s en komt
+met dezelfde vraag als
+bewoner 1.
+Daarnaast geeft
+de bewoner aan niks mee te
+hebben gekregen van de
+ontwikkeling van het
+Warmteplan voor de buurt en
+de communicatie hierover en
+vraagt zich af op welke wijze
+er is gecommuniceerd met de
+bewoners van de watervilla’s.
+Daarnaast heeft de bewoner
+het verzoek om per mail op
+de hoogte gehouden te
+worden over nieuwe
+ontwikkelingen in de buurt.
+Op de eerste vraag is een gelijke reactie
+gegeven als aan bewoner 1.
+Het is vervelend dat de bewoner niet bereikt
+is met de participatieactiviteiten die vanuit de
+gemeente zijn georganiseerd.
+De bewoner is
+uitgenodigd bij wijkcentrum De Zaagtand om
+met de projectleider in gesprek te gaan over
+het Warmteplan.
+Gedurende het participatietraject zijn er 4
+nieuwsbrieven per mail verstuurd waarvoor
+bewoners zich konden aanmelden.
+De
+nieuwsbrief stopt na het uitreiken van het
+Warmteplan.
+Belangrijke ontwikkelingen
+zullen in het vervolg per brief
+gecommuniceerd worden.
+Er wordt een afbeelding
+toegevoegd aan het
+Warmteplan waarop
+duidelijker zichtbaar is
+waar de beoogde grens
+van het kansrijke gebied
+voor het warmtenet van
+HVC ligt.
+Ook wordt de
+voorkeursoplossing voor
+het gebied dat hier niet
+binnen valt duidelijker
+benoemd.
+Dit is terug te
+vinden in figuur 9 op
+pagina 36.
+Bewoner 4 merkt op dat de
+woningen van verhuurder
+Zeeman missen bij de
+afbeelding met
+eigenaarschap in figuur 5 op
+pagina 9.
+Bedankt voor de scherpte van de bewoner
+en aangegeven dit te zullen verwerken in het
+Warmteplan.
+In het bijschrift van
+figuur 5 op pagina 9
+worden nu de woningen
+van verhuurder Zeeman
+genoemd.
+Bewoner 5 woont in een
+appartement van VvE
+Triomphe en stelt een aantal
+vragen over de eigen woning
+en een aantal vragen die
+betrekking hebben op
+specifiek VvE de Triomphe.
+De bewoner geeft aan dat het
+onduidelijk is waarom de
+gemeente een warmtenet van
+HVC de beste optie vindt voor
+VvE de Triomphe en dat
+hiervoor geen duidelijke
+onderbouwing in het
+warmteplan staat.
+Er is persoonlijk contact opgenomen met de
+bewoner om de vragen te bespreken.
+Verder is er een verduidelijking over de
+mogelijkheid van het warmtenet van HVC
+voor VvE Triomphe opgenomen in het
+warmteplan.
+Tekst is verduidelijkt op
+pagina 15 in hoofdstuk
+‘Analyse’ onder het
+kopje ‘VvE Triomphe’.
+Pagina 54 van 55
+Bewoner 5 merkt op dat er
+een fout zit in de figuur over
+eigenaarschap.
+Ook geeft de
+bewoner aan dat de term
+‘mitigatie’ mist in de
+begrippenlijst.
+Bedankt voor de scherpte van de bewoner
+en aangegeven dit te verwerken in het
+Warmteplan.
+Figuur 5 op pagina 9 is
+hierop aangepast.
+De
+lichtblauwe arcering
+geeft aan dat het om
+zowel koop-, als
+huurwoningen gaat in
+VvE Triomphe, dit
+noemen we ‘gespikkeld
+bezit’.
+De term ‘mitigatie’
+is toegevoegd aan de
+begrippenlijst op pagina
+50.
+Samenvatting zienswijzen wijkcentrum De Zaagtand
+Algemeen:
+• De Projectleider wijkuitvoeringsplannen heeft gedurende 6 weken op woensdagmiddag tussen
+16.00 en 17.00 uur in wijkcentrum De Zaagtand gezeten om bewoners met vragen over het concept
+Warmteplan te woord te staan.
+• Wekelijks zijn er tussen de 1 tot 4 bezoekers langsgekomen met vragen en/of opmerkingen.
+• Zowel nieuwe gezichten, als bewoners die al eerder op evenementen zijn geweest.
+• Veelal hadden bewoners vragen over de persoonlijke situatie.
+Overzicht vragen en antwoorden:
+Vraag Antwoord Invloed op warmteplan
+Een aantal bewoners stelde de
+vraag of hun woning wel of niet
+binnen het kansrijke
+warmtenetgebied viel.
+Dit ging
+specifiek veel over de
+watervilla’s en nummers 34 tot
+en met 42 aan de
+Wabenstraat.
+Met de bewoners gekeken naar de positie van
+hun huis en of deze binnen of buiten het
+plangebied viel.
+Momenteel is er nog geen
+goed aanbod voor particuliere woningeigenaren
+om aan te sluiten op het warmtenet van HVC.
+Dat heeft ermee te maken dat er nog subsidies
+aankomen en hangt af van afspraken tussen
+Intermaris en HVC.
+Om die reden is het niet
+mogelijk om hier een definitief antwoord op te
+geven.
+Wel is er samen met HVC gekeken naar
+kansen in de toekomst en daar is dit kansrijke
+gebied uitgekomen.
+De kans dat de watervilla’s
+ook worden meegenomen is klein.
+Er wordt een afbeelding
+toegevoegd aan het
+Warmteplan waarop
+duidelijker zichtbaar is
+waar de beoogde grens
+van het kansrijke gebied
+voor het warmtenet van
+HVC ligt.
+Ook wordt de
+voorkeursoplossing voor
+het gebied dat hier niet
+binnen valt duidelijker
+benoemd.
+Bewoners stelden vragen over
+hun specifieke situatie, en
+Verwezen naar Energieloketten, of naar
+verhuurder (in geval van huurwoning).
+Pagina 55 van 55
+welke vervolgstappen het
+beste waren.
+Specifiek in het
+geval dat hun cv-ketel aan
+vervanging toe was.
+Bewoners stelden vragen over
+de mate van isolatie van hun
+huis.
+Gaven aan dat het huis
+niet te koud werd, eerder te
+warm.
+Hadden in sommige
+gevallen een airco.
+Verwezen naar Energieloketten.
+Enkele bewoners stelden
+vragen over de tijdlijn van het
+project: zijn vervolgstappen nu
+nodig, of is er speelruimte?
+Het is de bedoeling dat de stad in 2040 van het
+gas af is.
+Met het Warmteplan bereiden we
+bewoners goed voor op de toekomst door de
+informatie te delen die nu beschikbaar is.
+Enkele bewoners stelden
+vragen over de mate van
+verplichting die de gemeente
+oplegt.
+Het is momenteel geen verplichting om over te
+gaan op een aardgasvrije oplossing, omdat de
+gemeente op dit moment geen
+aanwijsbevoegdheid inzet voor deze buurt.
+Landelijk lijkt het wel vanaf 2029 een
+verplichting te worden om bij vervanging van
+een cv-ketel over te stappen op een hybride
+warmtepomp.
+Het kabinet moet deze plannen
+nog uitwerken en deze moeten vervolgens nog
+worden goedgekeurd door de Eerste en
+Tweede Kamer.
+Enkele bewoners hebben de
+communicatie over het
+Warmteplan als dwingend
+ervaren.
+De gemeente begrijpt dat er veel communicatie
+heeft plaatsgevonden, dat de inhoud complex is
+en dus om veel uitleg vraagt en dat de toon
+over dit onderwerp serieus is.
+Daarmee kan de
+communicatie als dwingend worden ervaren.
+Het doel van dit plan is om bewoners goed voor
+te bereiden op de toekomst en te activeren om
+na te denken over de eigen woning.
+Enkele bewoners hebben het
+plan als ondoorzichtig
+ervaren.
+Over het grootschalig warmtenet van HVC is
+inderdaad nog veel onduidelijkheid.
+Dat is terug
+te lezen in het Warmteplan.
+De ambitie van de
+gemeente om toe te werken naar een
+energieneutrale stad in 2040 staat vast.
+Er is een warmtegids
+uitgewerkt als beknopte en
+praktische versie van dit
+buurtplan.
+Deze wordt
+uitgereikt aan de
+bewoners.
