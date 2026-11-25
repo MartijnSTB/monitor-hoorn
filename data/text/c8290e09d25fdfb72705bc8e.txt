@@ -1,0 +1,82 @@
+BEGROTINGSWIJZIGING 2027 TOTAAL VERWERKT 0 0 0 0 0
+TOTAAL VERWERKT UITGAVEN EXPLOITATIE -1.100.000 0 0 0 0
+TOTAAL VERWERKT INKOMSTEN EXPLOITATIE 0 0 0 0 0
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok => totaal kredieten (uitgaven min inkomsten): moet 0 zijn 1.100.000 0 0 0 0
+totaal exploitatie -1.100.000 0 0 0 0
+Begrotingswijziging is gemaakt door: Chris totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door: Elise categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2027 2028 2029 2030 2031 2027 2028 2029 2030 2031
+2.200.000 0 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging raming was
+lopend jaar
+raming was jaar
+2
+raming was jaar
+3
+raming was jaar
+4
+raming was jaar
+5
+Vul een geldige FCL in n.n.b.
+100 33333 U Kosten uitbestede investeringen 216.000 0 0 0 0 OV fiets-/voetpad Badhuisweg lichtmasten en kabels 0 0 0 0 0
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 216.000 -8.640 -8.640 -8.640 -8.640 OV fiets-/voetpad Badhuisweg lichtmasten en kabels 8.131.375 8.042.048 18.558.014 13.680.033 13.680.033
+Groot onderhoud/projecten openbare verlichting109031 100 27301 U Afschrijvingen 0 8.640 8.640 8.640 8.640 OV fiets-/voetpad Badhuisweg lichtmasten en kabels 654.409 654.409 655.789 679.440 679.440
+Afschrijvingen 49610010 100 27301 I Afschrijvingen 0 8.640 8.640 8.640 8.640 OV fiets-/voetpad Badhuisweg lichtmasten en kabels -2.412.029 -3.172.575 -3.231.203 -1.404.115 -1.404.115
+Groot onderhoud/projecten openbare verlichting109031 100 27401 U Rente 0 1.296 1.244 1.192 1.140 OV fiets-/voetpad Badhuisweg lichtmasten en kabels 131.531 148.614 152.628 150.549 150.549
+Treasury renteomslag 300150 100 27401 U Rente 0 -1.296 -1.244 -1.192 -1.140 OV fiets-/voetpad Badhuisweg lichtmasten en kabels -4.065.840 -5.181.319 -5.239.443 -5.063.379 -5.063.379
+Treasury renteomslag 300150 100 25105 U Rente kasgeld 0 1.296 1.244 1.192 1.140 OV fiets-/voetpad Badhuisweg lichtmasten en kabels 1.113.220 1.680.564 1.709.788 1.712.912 1.712.912
+Vul een geldige FCL in n.n.b.
+100 33333 U Kosten uitbestede investeringen 649.000 0 0 0 0 OV fiets-/voetpad Badhuisweg armaturen 0 0 0 0 0
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 649.000 -12.980 -12.980 -12.980 -12.980 OV fiets-/voetpad Badhuisweg armaturen 8.131.375 8.042.048 18.558.014 13.680.033 13.680.033
+Groot onderhoud/projecten openbare verlichting109031 100 27301 U Afschrijvingen 0 12.980 12.980 12.980 12.980 OV fiets-/voetpad Badhuisweg armaturen 654.409 654.409 655.789 679.440 679.440
+Afschrijvingen 49610010 100 27301 I Afschrijvingen 0 12.980 12.980 12.980 12.980 OV fiets-/voetpad Badhuisweg armaturen -2.412.029 -3.172.575 -3.231.203 -1.404.115 -1.404.115
+Groot onderhoud/projecten openbare verlichting109031 100 27401 U Rente 0 3.894 3.816 3.738 3.660 OV fiets-/voetpad Badhuisweg armaturen 131.531 148.614 152.628 150.549 150.549
+Treasury renteomslag 300150 100 27401 U Rente 0 -3.894 -3.816 -3.738 -3.660 OV fiets-/voetpad Badhuisweg armaturen -4.065.840 -5.181.319 -5.239.443 -5.063.379 -5.063.379
+Treasury renteomslag 300150 100 25105 U Rente kasgeld 0 3.894 3.816 3.738 3.660 OV fiets-/voetpad Badhuisweg armaturen 1.113.220 1.680.564 1.709.788 1.712.912 1.712.912
+Vul een geldige FCL in n.n.b.
+100 33333 U Kosten uitbestede investeringen 164.000 0 0 0 0 Verlichten Koepelkerk lichtmasten en kabels 0 0 0 0 0
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 164.000 -3.280 -3.280 -3.280 -3.280 Verlichten Koepelkerk lichtmasten en kabels 8.131.375 8.042.048 18.558.014 13.680.033 13.680.033
+Groot onderhoud/projecten openbare verlichting109031 100 27301 U Afschrijvingen 0 3.280 3.280 3.280 3.280 Verlichten Koepelkerk lichtmasten en kabels 654.409 654.409 655.789 679.440 679.440
+Afschrijvingen 49610010 100 27301 I Afschrijvingen 0 3.280 3.280 3.280 3.280 Verlichten Koepelkerk lichtmasten en kabels -2.412.029 -3.172.575 -3.231.203 -1.404.115 -1.404.115
+Groot onderhoud/projecten openbare verlichting109031 100 27401 U Rente 0 984 964 945 925 Verlichten Koepelkerk lichtmasten en kabels 131.531 148.614 152.628 150.549 150.549
+Treasury renteomslag 300150 100 27401 U Rente 0 -984 -964 -945 -925 Verlichten Koepelkerk lichtmasten en kabels -4.065.840 -5.181.319 -5.239.443 -5.063.379 -5.063.379
+Treasury renteomslag 300150 100 25105 U Rente kasgeld 0 984 964 945 925 Verlichten Koepelkerk lichtmasten en kabels 1.113.220 1.680.564 1.709.788 1.712.912 1.712.912
+Vul een geldige FCL in n.n.b.
+100 33333 U Kosten uitbestede investeringen 71.000 0 0 0 0 Verlichten Koepelkerk armaturen 0 0 0 0 0
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 71.000 -2.840 -2.840 -2.840 -2.840 Verlichten Koepelkerk armaturen 8.131.375 8.042.048 18.558.014 13.680.033 13.680.033
+Groot onderhoud/projecten openbare verlichting109031 100 27301 U Afschrijvingen 0 2.840 2.840 2.840 2.840 Verlichten Koepelkerk armaturen 654.409 654.409 655.789 679.440 679.440
+Afschrijvingen 49610010 100 27301 I Afschrijvingen 0 2.840 2.840 2.840 2.840 Verlichten Koepelkerk armaturen -2.412.029 -3.172.575 -3.231.203 -1.404.115 -1.404.115
+Groot onderhoud/projecten openbare verlichting109031 100 27401 U Rente 0 426 409 392 375 Verlichten Koepelkerk armaturen 131.531 148.614 152.628 150.549 150.549
+Treasury renteomslag 300150 100 27401 U Rente 0 -426 -409 -392 -375 Verlichten Koepelkerk armaturen -4.065.840 -5.181.319 -5.239.443 -5.063.379 -5.063.379
+Treasury renteomslag 300150 100 25105 U Rente kasgeld 0 426 409 392 375 Verlichten Koepelkerk armaturen 1.113.220 1.680.564 1.709.788 1.712.912 1.712.912
+Dagelijks onderhoud openbare verlichting 109032 100 33101 U Elektra 0 -26.810 -26.680 -26.551 -26.421 Dekking OV fiets-/voetpad Badhuisweg 597.918 597.918 597.918 597.918 597.918
+Dagelijks onderhoud openbare verlichting 109032 100 33101 U Elektra 0 -7.530 -7.493 -7.457 -7.420 Dekking verlichten Koepelker 597.918 597.918 597.918 597.918 597.918
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0 0 0 0 0 0
+Zaaknummer + titel: 3074292 - Verlichting stadsstrand en aanlichten Koepelkerk
+Adviseur: Elise Smits
+Toelichting op het besluit om de begroting te wijzigen:
+Om ervoor te zorgen dat mensen in het donker veilig van en naar het stadsstrand kunnen lopen en fietsen, wordt voorgesteld om verlichting te plaatsen langs de fiets- en voetgangersroute
+aan de Badhuisweg vanaf het strandpaviljoen Reuring naar De Kuil.
+Daarnaast wordt voorgesteld de beleving van de sociale veiligheid op de route te ondersteunen, en de beleving van de binnenst ad en erfgoed te vergroten door het aanlichten van de
+Koepelkerk.
+Naar verwachting is het werk voor de winter van 2027/2028 gereed.
+De raad besluit
+- openbare verlichting aan te brengen langs het fiets-/voetpad van de Badhuisweg, vanaf het strandpaviljoen tot De Kuil;
+- als instrument ter ondersteuning van de beleving van de binnenstad en erfgoed en aanvullend de sociale veiligheidsbeleving op het fiets-/voetpad, de Koepelkerk te verlichten;
+- een investeringskrediet beschikbaar te stellen van:
+€ 865.000 voor openbare verlichting stadsstrand
+€ 235.000 voor het aanlichten van de Koepelkerk
+de bijbehorende jaarlijkse kapitaallasten van respectievelijk € 26.810 voor de openbare verlichting stadsstrand en € 7.530 vo or het aanlichten van de Koepelkerk (diverse
+afschrijvingstermijnen, 0,6% rente) vanaf 2028 te dekken uit de energiebesparing die is gerealiseerd door het verledden en di mmen van de openbare verlichting;
+- de begrotingswijziging die bij dit besluit hoort vast te stellen

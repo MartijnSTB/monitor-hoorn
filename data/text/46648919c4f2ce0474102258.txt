@@ -1,0 +1,70 @@
+BEGROTINGSWIJZIGING 2026 TOTAAL VERWERKT 0 0 0 0 0
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 0 0 0 0 0
+Begrotingswijziging is gemaakt door:Niels totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Adviseurs categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2026 2027 2028 2029 2030
+0 2.000.000 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging
+lopend jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves 0 500.000 0 0 0
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 0 500.000 0 0 0
+Mutaties reserves 199991 12530 36083 I Beschikking reserve incidentele bestemmingen 0 500.000 0 0 0
+Sport algemeen 111010 100 30000 U Stelpost exploitatielasten 0 100.000 0 0 0
+Sport algemeen 111010 100 30000 U Stelpost exploitatielasten 0 50.000 0 0 0
+Sport algemeen 111010 100 30000 U Stelpost exploitatielasten 0 350.000 0 0 0
+2026 2027 2028 2029 2030 2026 2027 2028
+toelichting van de wijziging raming was
+lopend jaar
+raming was jaar
+2
+raming was jaar
+3
+raming was jaar
+4
+raming was jaar
+5
+raming wordt
+lopend jaar
+raming wordt
+jaar 2
+raming wordt
+jaar 3
+Incidentele dekking Sportbedrijf 0 0 0 0 0 0 500.000 0
+Incidentele dekking Sportbedrijf 0 0 0 0 0 0 -500.000 0
+Incidentele dekking Sportbedrijf 0 -66.700 0 0 0 0 -566.700 0
+Sportbedrijf: ICT-kosten 0 0 0 0 0 0 100.000 0
+Sportbedrijf: Oprichtingskosten 0 0 0 0 0 0 50.000 0
+Sportbedrijf: Opbouw weerstandsvermogen 0 0 0 0 0 0 350.000 0
+Zaaknummer + titel: Adviseur: Toelichting op het besluit om de begroting te wijzigen: Er wordt een budget gevraagd van € 500.000.
+Het betreft € 100.000 voor ICT, € 50.000 voor oprichtings- en inrichtingskosten en € 350.000 voor de opbouw van het weerstandsvermogen.
+Deze kosten konden in 2025 nog niet betrouwbaar worden geraamd en zijn in de financiële einduitwerking nader bepaald.
+Eerder is daarom al aangegeven dat eventuele aanvullende budgetvragen uit deze verdere uitwerking opnieuw aan de raad zouden worden voorgelegd.De incidentele kosten kunnen worden gedekt uit de reserve Diverse Incidentele bestemmingen.
+Bij de najaarsbijstelling 2025 is de reserve gevuld om effecten van de nieuwe nota Investeren en afschrijven 2025 op te vangen.
+Via de nieuwe nota is bij de Jaarstukken 2025 onder andere versneld afgeschreven op een aantal investeringen, waaronder ook sportaccommodaties.
+Deze middelen blijven nodig voor het Sportbedrijf, vandaar dat dit via de onttrekking aan de reserve wordt teruggegeven.
+2029 2030
+raming wordt
+jaar 4
+raming wordt jaar
+5
+FCLtaakECLiulengte
+FCL
+categori
+e
+0 0 4955000310036099U 8 71
+0 0 4999999910033359I 8 38
+0 0 1999911253036083I 6 71
+0 0 11101010030000U 6 38
+0 0 11101010030000U 6 38
+0 0 11101010030000U 6 38
