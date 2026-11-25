@@ -3,6 +3,66 @@
     "hoorn"
   ],
   "items": {
+    "0760c1b3392b32ca238a7dbe59f9e1e96e8297f89b7eaae57b724797463a6d60": {
+      "title": "Technische aanvullende vragen EénHoorn",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Agenda/Document/645769fa-56bc-4288-8821-e7b0cddd1560?documentId=5ae7e594-9b79-438b-9643-03325c53cc85&agendaItemId=3c34dbd1-0a6f-4db1-8415-66c34a2b2002",
+      "source": "Raadsstukken",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T14:45:53+00:00",
+      "updated": "2026-11-25T14:45:53+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-12-01",
+          "meeting": "Algemene Raadscommissie dinsdag 1 december 2026",
+          "agendapunt": "5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)"
+        }
+      ],
+      "file_url": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5ae7e594-9b79-438b-9643-03325c53cc85",
+      "doc_date": "2026-12-01",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Algemene Raadscommissie dinsdag 1 december 2026",
+      "agendapunt": "5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)",
+      "last_seen": "2026-11-25",
+      "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)",
+      "missing_count": 0,
+      "text_hash": "1e3ea6286615c14b9ffe0013c8af5e464a92c9c35d173ada9281017fa5de32a1",
+      "content_checked": "2026-11-25T14:46:14+00:00",
+      "kw_sig": "4f53cda18c2b|1e3ea6286615c14b9ffe0013c8af5e464a92c9c35d173ada9281017fa5de32a1|Technische aanvullende vragen EénHoorn|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)"
+    },
+    "45975b976aca93d72ad4f468b78ad37ff23bc93addf91f3c87e8bf664a02e68d": {
+      "title": "Technische vragen EénHoorn",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Agenda/Document/645769fa-56bc-4288-8821-e7b0cddd1560?documentId=ffa842df-8960-4eb9-bbaf-fdea65d03506&agendaItemId=6f1b79d7-ee47-4c6d-8b7b-c86b35f17cb7",
+      "source": "Raadsstukken",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T14:45:53+00:00",
+      "updated": "2026-11-25T14:45:53+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-12-01",
+          "meeting": "Algemene Raadscommissie dinsdag 1 december 2026",
+          "agendapunt": "5.2 Verordening Afvalstoffenheffing 2027 (portefeuillehouder Assendelft)"
+        }
+      ],
+      "file_url": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ffa842df-8960-4eb9-bbaf-fdea65d03506",
+      "doc_date": "2026-12-01",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Algemene Raadscommissie dinsdag 1 december 2026",
+      "agendapunt": "5.2 Verordening Afvalstoffenheffing 2027 (portefeuillehouder Assendelft)",
+      "last_seen": "2026-11-25",
+      "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.2 Verordening Afvalstoffenheffing 2027 (portefeuillehouder Assendelft)",
+      "missing_count": 0,
+      "text_hash": "e9c10e77bc36a0be934bfb0e13fcc37a4c66f1666084cfa55039c9fc6b7b7a70",
+      "content_checked": "2026-11-25T14:46:15+00:00",
+      "kw_sig": "4f53cda18c2b|e9c10e77bc36a0be934bfb0e13fcc37a4c66f1666084cfa55039c9fc6b7b7a70|Technische vragen EénHoorn|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.2 Verordening Afvalstoffenheffing 2027 (portefeuillehouder Assendelft)"
+    },
     "680bb1559cabb90f0d0c210115855f1f301f71d4378dd1c3ac111eb28439b5cd": {
       "title": "Teams nemen afscheid van Sam Oomen en Taco van der Hoorn",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXV5T2dXVmRqUWVjOFZFdHZSRkVOOGNTU1pPV1N6QmlOMG9heXdNTGpCeUliQ04yYVdoa29VZXpXWDZ5VGxxcFVXVzBveDB3cHVkQXllQ2VnT3o0Wk8tdzhRZnBRaGtvanNDenAyMnRBcVFydXFJWmxHOF9aNjFYUS1OZkNiNnE0OGxrdllxeThpYlRlMWhtWGVVSldhWlp0bHp2dWpYVGJHS0tzdEF6c056UVhBWERmZ2xvMFBFWXlWc3YteTdaS0NUQ3BVdw?oc=5",
@@ -48878,7 +48938,20 @@
       "doc_date": "2026-03-12",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Overige vragen over ruimte voor kerken|Overige vragen raad"
+      "kw_sig": "4f53cda18c2b|020cf9c37d78eeab644d80b1c1a5a19a93b54a369b7508a52250891f907093b8|Overige vragen over ruimte voor kerken|Overige vragen raad",
+      "missing_count": 0,
+      "text_hash": "020cf9c37d78eeab644d80b1c1a5a19a93b54a369b7508a52250891f907093b8",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Overige vragen over ruimte voor kerken"
+      ],
+      "bijlagen": [
+        {
+          "t": "Overige vragen over ruimte voor kerken",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/85a5cc7b-ecfe-42dd-a685-bd57deff472e"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:18+00:00"
     },
     "dbf0cd4687d9b1dea848135886f4afe72d8e2e40628bd441b405da609e336f8b": {
       "title": "Overige vragen toewijzen invalideparkeerplaats",
@@ -48898,7 +48971,25 @@
       "doc_date": "2026-03-11",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Overige vragen toewijzen invalideparkeerplaats|Overige vragen raad"
+      "kw_sig": "4f53cda18c2b|8379df09ce53432322cab9402086bbf979d3ba5e44f3c5fe18072d7931c3e677|Overige vragen toewijzen invalideparkeerplaats|Overige vragen raad",
+      "missing_count": 0,
+      "text_hash": "8379df09ce53432322cab9402086bbf979d3ba5e44f3c5fe18072d7931c3e677",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Overige vragen toewijzen invalideparkeerplaats",
+        "Beantwoording overige vragen toewijzen invalideparkeerplaats"
+      ],
+      "bijlagen": [
+        {
+          "t": "Overige vragen toewijzen invalideparkeerplaats",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e4776cee-f08a-43bd-8556-5539d6084d7f"
+        },
+        {
+          "t": "Beantwoording overige vragen toewijzen invalideparkeerplaats",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/bdff1a8f-7c11-4497-ae0a-46a227c72803"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:26+00:00"
     },
     "62b6dfece2776aeeb368c0f0dfaeff15276d48c87a2487fe4c2a164ce4972e3d": {
       "title": "Overige vragen Ontwikkeling Vredehof en borging van groen en sporthallen",
@@ -48918,7 +49009,25 @@
       "doc_date": "2026-03-04",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Overige vragen Ontwikkeling Vredehof en borging van groen en sporthallen|Overige vragen raad"
+      "kw_sig": "4f53cda18c2b|52e017fe100497d81b7377a98b5e71f7c362b2f480787fb370980580b93a4a03|Overige vragen Ontwikkeling Vredehof en borging van groen en sporthallen|Overige vragen raad",
+      "missing_count": 0,
+      "text_hash": "52e017fe100497d81b7377a98b5e71f7c362b2f480787fb370980580b93a4a03",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Overige vragen woningbouw Vredehof",
+        "Beantwoording overige vragen Ontwikkeling Vredehof en borging van groen en sporthallen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Overige vragen woningbouw Vredehof",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/265a1334-b2c2-4e0d-b61c-14a014d37892"
+        },
+        {
+          "t": "Beantwoording overige vragen Ontwikkeling Vredehof en borging van groen en sporthallen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/54063f5e-3d31-4f8c-97a5-021a83664a1d"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:35+00:00"
     },
     "6a52240dc5f1d930f7e3255734daf1d82bca0295906219eba7c6b97e718c8592": {
       "title": "Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie",
@@ -48938,7 +49047,30 @@
       "doc_date": "2026-02-24",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie|Overige vragen raad"
+      "kw_sig": "4f53cda18c2b|b2548b346785d7061a3c81770710adc9dad236109238f886afff7acefd0f7ba8|Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie|Overige vragen raad",
+      "missing_count": 0,
+      "text_hash": "b2548b346785d7061a3c81770710adc9dad236109238f886afff7acefd0f7ba8",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands",
+        "Tussenbericht Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie",
+        "Beantwoording overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie"
+      ],
+      "bijlagen": [
+        {
+          "t": "Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a6dbad90-53e1-4888-b49f-f22fb45ea369"
+        },
+        {
+          "t": "Tussenbericht Overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5754c0d2-b5ac-4034-89c8-13600d958e7c"
+        },
+        {
+          "t": "Beantwoording overige vragen betreffende voortzetting herdenking van het einde van de oorlog op 15 augustus 1945 Nederlands-Indie",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/50355748-7621-422b-8516-4d34b51a886d"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:09+00:00"
     },
     "625133b4bd22479e812cd07c1d6f4c23c43fd2ffbe1806dc838ccc651c33de2d": {
       "title": "Overige vragen parkeerboetes scanauto",
@@ -49756,7 +49888,25 @@
       "doc_date": "2026-03-04",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verzoek onderzoek naar het plaatsen van een hekwerk bij gracht basketbalplein Kersenboogerd|Overige acties raad"
+      "kw_sig": "4f53cda18c2b|385d0c180ac0a942dbca44e76e24bab95f8d7c972d2607b227c7466586eb1f96|Verzoek onderzoek naar het plaatsen van een hekwerk bij gracht basketbalplein Kersenboogerd|Overige acties raad",
+      "missing_count": 0,
+      "text_hash": "385d0c180ac0a942dbca44e76e24bab95f8d7c972d2607b227c7466586eb1f96",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Verzoek onderzoek naar het plaatsen van een hekwerk bij gracht basketbalplein Kersenboogerd",
+        "Beantwoording verzoek van onderzoek voor het plaatsen van een hekwerk bij gracht basketbalplein Kersenboogerd"
+      ],
+      "bijlagen": [
+        {
+          "t": "Verzoek onderzoek naar het plaatsen van een hekwerk bij gracht basketbalplein Kersenboogerd",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d0713a6d-dfcf-4ed4-802d-8b610d2bb40e"
+        },
+        {
+          "t": "Beantwoording verzoek van onderzoek voor het plaatsen van een hekwerk bij gracht basketbalplein Kersenboogerd",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/60a7378d-2750-4e98-99c7-7295af2d2df6"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:42+00:00"
     },
     "6f9953f10fd357e694dac90c6fe17ff5cdbd729dc5dfbc664d4e3cffa3e4b4eb": {
       "title": "Brief inzake ontwikkelingen bedrijventerrein Gildenweg en uitbreiding Plukon",
@@ -49776,7 +49926,40 @@
       "doc_date": "2026-02-24",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief inzake ontwikkelingen bedrijventerrein Gildenweg en uitbreiding Plukon|Overige acties raad"
+      "kw_sig": "4f53cda18c2b|5a9642697a0c5cbd0a7291ae1a0050e56a4eab50a8602d3293eaf0abd06cb2c6|Brief inzake ontwikkelingen bedrijventerrein Gildenweg en uitbreiding Plukon|Overige acties raad",
+      "missing_count": 0,
+      "text_hash": "5a9642697a0c5cbd0a7291ae1a0050e56a4eab50a8602d3293eaf0abd06cb2c6",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief Ontwikkelingen Bedrijventerrein Gildenweg en uitbreiding Plukon",
+        "Reactie op brief Ontwikkelingen Bedrijventerrein Gildenweg en uitbreiding Plukon",
+        "Bijlage 1 Participatieverslag BOPA Plukon",
+        "Bijlage 2 Toekomstscenario's Gildenweg - Rapportage Ecorys oktober 2020",
+        "Bijlage 3 Raadsbrief ontwikkelingen bedrijventerrein Gildenweg"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief Ontwikkelingen Bedrijventerrein Gildenweg en uitbreiding Plukon",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/7bf64fd1-3783-4171-9c68-de9036b039c7"
+        },
+        {
+          "t": "Reactie op brief Ontwikkelingen Bedrijventerrein Gildenweg en uitbreiding Plukon",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1aa8a685-9d19-47d0-8550-6dd8ef603a6d"
+        },
+        {
+          "t": "Bijlage 1 Participatieverslag BOPA Plukon",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4ffa846a-4f2f-44f2-9a33-d537be58a496"
+        },
+        {
+          "t": "Bijlage 2 Toekomstscenario's Gildenweg - Rapportage Ecorys oktober 2020",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b9da7f05-5783-4c83-9d3a-4c45755f5701"
+        },
+        {
+          "t": "Bijlage 3 Raadsbrief ontwikkelingen bedrijventerrein Gildenweg",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5295ee06-5f2c-4a2f-bed1-c2882303501a"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:19+00:00"
     },
     "b6f3b9ccc3d7c9472c26d46e2688309fdd459d81f6d29c17032fd70eb2e4da03": {
       "title": "Brief verzoek verruiming openingstijden horeca tijdens WK-wedstrijden Nederlands elftal",
@@ -49796,7 +49979,20 @@
       "doc_date": "2026-02-20",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief verzoek verruiming openingstijden horeca tijdens WK-wedstrijden Nederlands elftal|Overige acties raad"
+      "kw_sig": "4f53cda18c2b|55c0f5d5d4f37a667257b9c5a315a25e3569462e03352b7dd71358d1ea627750|Brief verzoek verruiming openingstijden horeca tijdens WK-wedstrijden Nederlands elftal|Overige acties raad",
+      "missing_count": 0,
+      "text_hash": "55c0f5d5d4f37a667257b9c5a315a25e3569462e03352b7dd71358d1ea627750",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief verzoek verruiming openingstijden horeca tijdens WK-wedstrijden Nederlands elftal"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief verzoek verruiming openingstijden horeca tijdens WK-wedstrijden Nederlands elftal",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cc48bb49-7381-4431-8cba-a8994f4c88c4"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:42+00:00"
     },
     "d0b51e269912afccb98ade04c088801f4788dedb072882d732040a78c1ebf4f8": {
       "title": "Brief behoud en ondersteuning van evenementen",
@@ -49816,7 +50012,20 @@
       "doc_date": "2026-02-19",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief behoud en ondersteuning van evenementen|Overige acties raad"
+      "kw_sig": "4f53cda18c2b|645c2517a5d821e12edc065c6e0fcf62fee9fd4e425841d4a28c9841c0c7a880|Brief behoud en ondersteuning van evenementen|Overige acties raad",
+      "missing_count": 0,
+      "text_hash": "645c2517a5d821e12edc065c6e0fcf62fee9fd4e425841d4a28c9841c0c7a880",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief behoud en ondersteuning van evenementen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief behoud en ondersteuning van evenementen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cc0c010e-0774-4fc0-af90-b1b8d4e707d3"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:43+00:00"
     },
     "9c29287aae6fb4014c7cf09f3d9d750275c50e9e6c9b746028624f46d85357c8": {
       "title": "Brief aan Intermaris inzake schimmel-, vocht- en gezondheidsrisico’s woningen Venenlaan",
@@ -51966,7 +52175,20 @@
       "motie_status": "Stemmen gestaakt",
       "afgedaan": true,
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Participatie deelgebieden Hoorn-Noord Intermaris|Moties · Stemmen gestaakt · afgedaan"
+      "kw_sig": "4f53cda18c2b|8237911aa9d4989ace9c835bc41b74c6aa8c3c9c7a21e8ff068286c230712bc9|Participatie deelgebieden Hoorn-Noord Intermaris|Moties · Stemmen gestaakt · afgedaan",
+      "missing_count": 0,
+      "text_hash": "8237911aa9d4989ace9c835bc41b74c6aa8c3c9c7a21e8ff068286c230712bc9",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Wilde Motie 3 - Participatie deelgebieden Hoorn-Noord Intermaris - 12-02"
+      ],
+      "bijlagen": [
+        {
+          "t": "Wilde Motie 3 - Participatie deelgebieden Hoorn-Noord Intermaris - 12-02",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/801113ba-49c5-4fc9-bd7c-66ea81e8527c"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:06+00:00"
     },
     "7015cf5e07c08bb94813056d868da7667393a4e02081e9aef7aa6524f1716bd3": {
       "title": "Sanitaire voorzieningen in de stad",
@@ -51989,7 +52211,25 @@
       "afgedaan": true,
       "stand": "Raadsbrief inzake toilet kerkplein toegevoegd. Overige acties uit deze motie staan nog open 25-3-2026",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Sanitaire voorzieningen in de stad|Moties · Aangenomen · afgedaan"
+      "kw_sig": "4f53cda18c2b|f495ebc129fccf38379cb031b72f0e7211259a2d413b10dcb876f18103cdc6f0|Sanitaire voorzieningen in de stad|Moties · Aangenomen · afgedaan",
+      "missing_count": 0,
+      "text_hash": "f495ebc129fccf38379cb031b72f0e7211259a2d413b10dcb876f18103cdc6f0",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Wilde Motie 2 - Sanitaire voorzieningen binnenstad - 12-02",
+        "Raadsbrief toilet kerkplein"
+      ],
+      "bijlagen": [
+        {
+          "t": "Wilde Motie 2 - Sanitaire voorzieningen binnenstad - 12-02",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/01d848b8-27f9-4832-a3dc-697ad51ec125"
+        },
+        {
+          "t": "Raadsbrief toilet kerkplein",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e078eaa4-9a5a-46c5-b357-a2469dc25952"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:09+00:00"
     },
     "a0c9770a8355c0c345a70164d3860dd48a98e274b40e2468adefb64fd07dc800": {
       "title": "Kat uit de gracht 2026",
@@ -52012,7 +52252,20 @@
       "motie_status": "Aangenomen",
       "afgedaan": false,
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Kat uit de gracht 2026|Moties · Aangenomen · nog open"
+      "kw_sig": "4f53cda18c2b|bf5e0b2e33ba16b8bcccb8cbe47e25123623324336a60795dea71a7a07777504|Kat uit de gracht 2026|Moties · Aangenomen · nog open",
+      "missing_count": 0,
+      "text_hash": "bf5e0b2e33ba16b8bcccb8cbe47e25123623324336a60795dea71a7a07777504",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Wilde Motie 1 - Kat uit de gracht - 12-02"
+      ],
+      "bijlagen": [
+        {
+          "t": "Wilde Motie 1 - Kat uit de gracht - 12-02",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/6b862aae-c5a4-4422-83f8-c07d8c85c719"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:11+00:00"
     },
     "941599eeb5769905a29e04ee4573651499895730febadf08ad6083a7750c0cbe": {
       "title": "Borging continuïteit Stichting Netwerk tot herijking subsidies",
@@ -52124,7 +52377,25 @@
       "doc_date": "2026-02-13",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen plaatsing glasbakken nabij De Kemphaan|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|5009de4ba7dddd84e62853516a0f7ed81f3dbcf671b19548872a902acd64df0a|Artikel 36 vragen plaatsing glasbakken nabij De Kemphaan|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "5009de4ba7dddd84e62853516a0f7ed81f3dbcf671b19548872a902acd64df0a",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen plaatsing glasbakken nabij De Kemphaan",
+        "Beantwoording artikel 36 vragen plaatsing glasbakken nabij De Kemphaan"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen plaatsing glasbakken nabij De Kemphaan",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/217554cc-4fb2-40e3-b810-be20fefc5bcd"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen plaatsing glasbakken nabij De Kemphaan",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f6bb80a3-1178-42d1-98c4-0b86ac174357"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:04+00:00"
     },
     "5556158ed0f1bcc6afc84d1d130e63dea9aa04c42a91b47eb4a81d2354e8772b": {
       "title": "Artikel 36 vragen elektriciteitshuis De Strip",
@@ -55894,7 +56165,25 @@
       "doc_date": "2026-03-05",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen Oude Philipsfabriek Holenweg / Holenkwartier|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|4c325491c6943b24b26a38e5059862f3c077ec6916bf79fbbab186105c9d9f1e|Artikel 36 vragen Oude Philipsfabriek Holenweg / Holenkwartier|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "4c325491c6943b24b26a38e5059862f3c077ec6916bf79fbbab186105c9d9f1e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen Oude Philipsfabriek Holenweg / Holenkwartier",
+        "Beantwoording artikel 36 vragen Oude Philipsfabriek Holenweg - Holenkwartier"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen Oude Philipsfabriek Holenweg / Holenkwartier",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/bdab0803-83ab-4619-8d03-934d9ad05a07"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen Oude Philipsfabriek Holenweg - Holenkwartier",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/278ff7c8-f958-4fdc-b49a-5eda461edba7"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:31+00:00"
     },
     "01da3c2aba2a975e74787ac3d6a90a6e2a54e1093e95f7bec66eecfca0356978": {
       "title": "Artikel 36 vragen herbouw watertoren Hoorn",
@@ -55914,7 +56203,25 @@
       "doc_date": "2026-03-03",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen herbouw watertoren Hoorn|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|3c449e3a8697b23b399724fd9fb7f6d58b86a63e1fc4ff3706bdc12dd0efc20e|Artikel 36 vragen herbouw watertoren Hoorn|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "3c449e3a8697b23b399724fd9fb7f6d58b86a63e1fc4ff3706bdc12dd0efc20e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen herbouw watertoren Hoorn",
+        "Beantwoording artikel 36 RvO herbouw watertoren Hoorn"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen herbouw watertoren Hoorn",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1a3482e8-f3ba-464d-b426-a5656d2d7a90"
+        },
+        {
+          "t": "Beantwoording artikel 36 RvO herbouw watertoren Hoorn",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/530c712b-bfa7-45a6-a242-29386c14031f"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:47+00:00"
     },
     "23fdb8f40110269724bb0123f3822c458e63700adc462b6c7fbf3394b7b06b11": {
       "title": "Artikel 36 vragen cliëntondersteuners",
@@ -55934,7 +56241,25 @@
       "doc_date": "2026-03-02",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen cliëntondersteuners|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|550f821b4f1866446d4bebd94e51ef8a937aba5b58fd0ae6eadbacbe490b90c5|Artikel 36 vragen cliëntondersteuners|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "550f821b4f1866446d4bebd94e51ef8a937aba5b58fd0ae6eadbacbe490b90c5",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "art 36 vragen clientbegeleiders",
+        "Beantwoording artikel 36 vragen cliëntondersteuners"
+      ],
+      "bijlagen": [
+        {
+          "t": "art 36 vragen clientbegeleiders",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a2830a32-8558-49e9-aa7e-6f822d42aa4d"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen cliëntondersteuners",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/86a8526d-68d0-4f99-b8d1-26dd46e77f0d"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:54+00:00"
     },
     "99d52e439ad98136a3fb62d1d1b11345ef6ac9f843f747b7fbf9ef25b7fc5270": {
       "title": "Artikel 36 vragen ondergrondse afvalcontainer West",
@@ -55954,7 +56279,25 @@
       "doc_date": "2026-03-02",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen ondergrondse afvalcontainer West|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|4c7c0bb52be20a01c78ffd2d5ebb3f960add1987d194a9f81176968cd2b72392|Artikel 36 vragen ondergrondse afvalcontainer West|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "4c7c0bb52be20a01c78ffd2d5ebb3f960add1987d194a9f81176968cd2b72392",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "art 36 vragen ondergrondse afvalcontainers West v2",
+        "Beantwoording artikel 36 vragen ondergrondse afvalcontainer West"
+      ],
+      "bijlagen": [
+        {
+          "t": "art 36 vragen ondergrondse afvalcontainers West v2",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f9fce668-6f4c-43b5-b602-3164f2583f4b"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen ondergrondse afvalcontainer West",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e96212dd-445c-4ac2-a8a3-3996a2b0fb00"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:56+00:00"
     },
     "7a70afb0f98b331fb9df057d457a08d64cfe69547606890eceac7a9d1ceeb2a0": {
       "title": "Artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s",
@@ -55974,7 +56317,25 @@
       "doc_date": "2026-02-27",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|1c73ed1cb6e8b5774aaa871b5315e9edc62ddbaf411cbf1c1bae6f5db5dae63a|Artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "1c73ed1cb6e8b5774aaa871b5315e9edc62ddbaf411cbf1c1bae6f5db5dae63a",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s",
+        "Beantwoording artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b7d2a529-0c57-412a-ad26-9aaf95d9d12e"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen over gebruik UF-isolatieschuim en gezondheidsrisico’s",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/0ac8e24c-b73b-4a1a-869c-b2c47913e24c"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:59+00:00"
     },
     "695ec2945b9eb84c3f6ca6e20acbce4494fddcf3bff6e6add6b15e51f2727f03": {
       "title": "Artikel 36 vragen uitbreiding Plukon",
@@ -55994,7 +56355,40 @@
       "doc_date": "2026-02-24",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen uitbreiding Plukon|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|9b42bc1f80d4f1714e988b072cc4b5927a8b72ab2e17589d2937cc5c28da9828|Artikel 36 vragen uitbreiding Plukon|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "9b42bc1f80d4f1714e988b072cc4b5927a8b72ab2e17589d2937cc5c28da9828",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen uitbreiding Plukon",
+        "Beantwoording artikel 36 vragen Plukon",
+        "Bijlage 1 Toekomstscenario's Gildenweg - Rapportage Ecorys oktober 2020",
+        "Bijlage 2 Raadsbrief ontwikkelingen bedrijventerrein Gildenweg",
+        "Bijlage 3 Participatieverslag BOPA Plukon"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen uitbreiding Plukon",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/fdd6be47-3075-485e-acfb-f6f5e50552dc"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen Plukon",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ea55e4e4-67a4-474d-a86d-454a10d4af17"
+        },
+        {
+          "t": "Bijlage 1 Toekomstscenario's Gildenweg - Rapportage Ecorys oktober 2020",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b07a58ee-d0e3-4fcf-9b1a-f4b9fb01176a"
+        },
+        {
+          "t": "Bijlage 2 Raadsbrief ontwikkelingen bedrijventerrein Gildenweg",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/16737c88-9c12-43f1-b06a-5fada9fcad4d"
+        },
+        {
+          "t": "Bijlage 3 Participatieverslag BOPA Plukon",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e0bbdb3f-f2b5-4548-9464-87c5f5f37502"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:29+00:00"
     },
     "322507b3ac3c1cee15bd0cbc48904ed06c05cea4b3b0e2a1c3eaf9a3372f7144": {
       "title": "Artikel 36 (vervolg)vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad",
@@ -56014,7 +56408,35 @@
       "doc_date": "2026-02-24",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 (vervolg)vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|95960ab38e5c170762e91e5a046b1d500ce78ebba5d23c7f4553b87ce5324911|Artikel 36 (vervolg)vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "95960ab38e5c170762e91e5a046b1d500ce78ebba5d23c7f4553b87ce5324911",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad",
+        "Beantwoording Artikel 36 vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad",
+        "Artikel 36-vervolgvragen inzake participatie rechtsbescherming en bestuurlijke openheid bij aanwijzing containerlocaties",
+        "Beantwoording artikel 36 (vervolg)vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a9368175-b436-4461-b2e4-f3270ac4cecb"
+        },
+        {
+          "t": "Beantwoording Artikel 36 vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/95d7593b-39ab-40ac-abfa-ddb092499805"
+        },
+        {
+          "t": "Artikel 36-vervolgvragen inzake participatie rechtsbescherming en bestuurlijke openheid bij aanwijzing containerlocaties",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/602451f5-ac53-4fb1-912b-152a0012ae56"
+        },
+        {
+          "t": "Beantwoording artikel 36 (vervolg)vragen bestuurlijke werkwijze bij aanwijzing en uitvoering containerlocaties binnenstad",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d5d07e1d-8b36-4f9d-b153-eec381fb7558"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:35+00:00"
     },
     "490dadd363f95c1088c586aaf2b8c6ee1fef761ed11e750e6e03500f4376f95a": {
       "title": "Artikel 36 vragen over kunstaankoop verbouwde en nieuw deel stadhuis",
@@ -56034,7 +56456,25 @@
       "doc_date": "2026-02-23",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen over kunstaankoop verbouwde en nieuw deel stadhuis|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|44ea3d3f6de6f76b0a199eb105363920fbf58777a381bbfd3ea16563bb8975df|Artikel 36 vragen over kunstaankoop verbouwde en nieuw deel stadhuis|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "44ea3d3f6de6f76b0a199eb105363920fbf58777a381bbfd3ea16563bb8975df",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "vragen art. 36 aankoop kunst nieuwbouw en verbouwing stadhuis I",
+        "Beantwoording artikel 36 vragen over kunstaankoop verbouwde en nieuw deel stadhuis"
+      ],
+      "bijlagen": [
+        {
+          "t": "vragen art. 36 aankoop kunst nieuwbouw en verbouwing stadhuis I",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/bea59c3a-444b-430e-b259-5c37ba9c788c"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen over kunstaankoop verbouwde en nieuw deel stadhuis",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/24bca3a1-7fb1-4ddc-9a50-ef290bc0b82f"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:40+00:00"
     },
     "d7fd0a66019c0bc1ce6d97bff3bffc55a637bd28062ee21f563e909b774d2103": {
       "title": "Artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)",
@@ -56054,7 +56494,30 @@
       "doc_date": "2026-02-19",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|36b135c24c71bb68e1455918d30dd882c1d18bbf2a1a6aad7eca322526eb6f6f|Artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "36b135c24c71bb68e1455918d30dd882c1d18bbf2a1a6aad7eca322526eb6f6f",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)",
+        "Tussenbericht artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)",
+        "3022138 Beantwoording_artikel 36 over verkeersknip Getekend"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/531fbbc9-0bfc-4e31-afba-b3bc746603eb"
+        },
+        {
+          "t": "Tussenbericht artikel 36 vragen verkeersknip Rijnweg en herinrichting Aagje Dekenplein en Betje Wolffplein (winkelcentrum Kersenboogerd)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8f9b16c6-1f2c-4e56-b425-1158a1b29982"
+        },
+        {
+          "t": "3022138 Beantwoording_artikel 36 over verkeersknip Getekend",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/278be8b0-d6b0-4502-a180-f6da1bd24218"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:47+00:00"
     },
     "9031e8124ca4e83bc81413060afea196b3d3041ea977c4c531b5fb71448c3cfd": {
       "title": "Artikel 36 vragen speeddaten voor ouderen",
@@ -56074,7 +56537,25 @@
       "doc_date": "2026-02-16",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen speeddaten voor ouderen|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|42cd6f3efde8b4a8907dd02cfa2d456ec88d3045cc93b34046f7e0c3d6fdaafe|Artikel 36 vragen speeddaten voor ouderen|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "42cd6f3efde8b4a8907dd02cfa2d456ec88d3045cc93b34046f7e0c3d6fdaafe",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "art 36 vragen speeddaten voor ouderen def",
+        "Beantwoording artikel 36 vragen speeddaten voor ouderen"
+      ],
+      "bijlagen": [
+        {
+          "t": "art 36 vragen speeddaten voor ouderen def",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/657f3f6e-3605-4c49-bb17-0bbfff9d5cac"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen speeddaten voor ouderen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a184eecb-f15d-4a39-9cc2-9883f846a893"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:01+00:00"
     },
     "24058ecb67c430f18294c964ae25b58bfbf1938a625d20fc2296e39a88d8013e": {
       "title": "Amendement K - HvH, SP - INGETROKKEN - Waterpunt Julianapark",
@@ -56707,7 +57188,20 @@
       "doc_date_label": "datum",
       "motie_status": "Aangehouden",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Afkoop en beheer nazorg Westwoud|Amendementen · Aangehouden"
+      "kw_sig": "4f53cda18c2b|ab55aeec223bc26ff9fa6bed9f2a749f642a5176f08c07dc083d975e9aff0716|Afkoop en beheer nazorg Westwoud|Amendementen · Aangehouden",
+      "missing_count": 0,
+      "text_hash": "ab55aeec223bc26ff9fa6bed9f2a749f642a5176f08c07dc083d975e9aff0716",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Amendement E - Afkoop en beheer nazorg Westwoud - 12-02"
+      ],
+      "bijlagen": [
+        {
+          "t": "Amendement E - Afkoop en beheer nazorg Westwoud - 12-02",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/300aaa75-5f43-4245-9e9a-2a5285d7cb0c"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:12+00:00"
     },
     "01522909a2ed0a61c58430e9c33e3361f5e6a029f601519c419e19577f343284": {
       "title": "Positieve zienswijze op structurele bijdrage aan de Veiligheidsregio",
@@ -56728,7 +57222,13 @@
       "doc_date_label": "datum",
       "motie_status": "Stemmen gestaakt",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Positieve zienswijze op structurele bijdrage aan de Veiligheidsregio|Amendementen · Stemmen gestaakt"
+      "kw_sig": "4f53cda18c2b|e8b87bf82852eb54825b7d036bb4ed0c9e637d022497c837a8ae358d0751ade6|Positieve zienswijze op structurele bijdrage aan de Veiligheidsregio|Amendementen · Stemmen gestaakt",
+      "missing_count": 0,
+      "text_hash": "e8b87bf82852eb54825b7d036bb4ed0c9e637d022497c837a8ae358d0751ade6",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:14+00:00"
     },
     "2a13befe9bb08d7a6484f9a12e2c657830a0b119938c217f2558b5a2c0585a2a": {
       "title": "Amendement B HvH- Uitsluitend opvang Oekraiense ontheemden Koopvaarder 1",
@@ -56749,7 +57249,20 @@
       "doc_date_label": "datum",
       "motie_status": "Verworpen",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Amendement B HvH- Uitsluitend opvang Oekraiense ontheemden Koopvaarder 1|Amendementen · Verworpen"
+      "kw_sig": "4f53cda18c2b|e6327695238f0cc79a06b61aad1ddeea3992b0fa2df6165fbaad19290f6d0d5d|Amendement B HvH- Uitsluitend opvang Oekraiense ontheemden Koopvaarder 1|Amendementen · Verworpen",
+      "missing_count": 0,
+      "text_hash": "e6327695238f0cc79a06b61aad1ddeea3992b0fa2df6165fbaad19290f6d0d5d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Amendement B HvH- Uitsluitend opvang Oekraiense ontheemden Koopvaarder 1"
+      ],
+      "bijlagen": [
+        {
+          "t": "Amendement B HvH- Uitsluitend opvang Oekraiense ontheemden Koopvaarder 1",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/acb3f3f0-d0a5-4584-88be-6a0e2d2d64a7"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:16+00:00"
     },
     "f416cf5e6f6b2641ff24b11bdaedadf248ad35a223cac3c4128a6065384e3bb3": {
       "title": "Geen hoogtevrees voor de participatieladder",
@@ -56770,7 +57283,20 @@
       "doc_date_label": "datum",
       "motie_status": "Aangenomen",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Geen hoogtevrees voor de participatieladder|Amendementen · Aangenomen"
+      "kw_sig": "4f53cda18c2b|4998dd8ed884bb97b82bb2f0b71d2bdc53c0843e4636741bba051565267f47ad|Geen hoogtevrees voor de participatieladder|Amendementen · Aangenomen",
+      "missing_count": 0,
+      "text_hash": "4998dd8ed884bb97b82bb2f0b71d2bdc53c0843e4636741bba051565267f47ad",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Amendement A HOE!, HC vh FT, GVBV, VVD Hoorn, CU en H!B Participatie aangepast"
+      ],
+      "bijlagen": [
+        {
+          "t": "Amendement A HOE!, HC vh FT, GVBV, VVD Hoorn, CU en H!B Participatie aangepast",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/810d9da7-9a2e-4389-9e1e-4309f086b733"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:18+00:00"
     },
     "f174f463faac74126b819ad48e8f8b1ace7b88b74679e970d5bea953e1ac342b": {
       "title": "JP Coen",
@@ -58372,7 +58898,13 @@
       "portefeuillehouder": "Arthur Helling",
       "stand": "Bushalte: In het aangepaste ontwerp voor het herstel van het buitenterrein van het stadhuis wordt een abri opgenomen. Afzonderlijke op- en afrit parkeerterrein: Een tweede uitrit ter hoogte van de bestaande uitrit van de parkeergarage wordt verkeerskundig niet wenselijk geacht. De bestaande inrit constructie van het parkeerterrein blijft daarom gehandhaafd.",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Mondelinge vragen over voortgang groen en bestrating rondom het stadhuis|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|6d32225d3dd3564ec77a85e06fb9f7bd07e5cb1af6a8385a110d8c40773f448a|Mondelinge vragen over voortgang groen en bestrating rondom het stadhuis|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "6d32225d3dd3564ec77a85e06fb9f7bd07e5cb1af6a8385a110d8c40773f448a",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:19+00:00"
     },
     "f56a850943561ecb8f836449fffbd1498679d0e98a165171c3fc6cb511c2e6b0": {
       "title": "Strategische aankoop Koopvaarder 1",
@@ -58394,7 +58926,13 @@
       "portefeuillehouder": "Dennis Boutkan",
       "stand": "Update augustus 2026 Kan blijven staan, geen verandering.",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Strategische aankoop Koopvaarder 1|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|e89f141fcee925a5133b72a7d3f623289ad1837325d8da6f9acca94c5b20454a|Strategische aankoop Koopvaarder 1|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "e89f141fcee925a5133b72a7d3f623289ad1837325d8da6f9acca94c5b20454a",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:21+00:00"
     },
     "c9a783ddd6355f95d5cd70f8ba3f1259119fe702a8c4aa07716f5f091ee472ef": {
       "title": "Mondelinge vragen over werkzaamheden in Hoorn Noord",
@@ -58416,7 +58954,13 @@
       "portefeuillehouder": "Dick Bennis",
       "stand": "Bewoners die het treft kunnen bij de betreffende omgevingsmanager van de gemeente aangeven waar ze een tijdelijke vergunningen voor willen hebben; bewonersgebied VHN (parkeergebied Venenlaan-Hoorn Noord) en of P&R terrein en of gedeelte blauwe zone Koepoortsweg. Sommige geven alle 3 de opties door, andere 1 van de 3. De meeste 2.",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Mondelinge vragen over werkzaamheden in Hoorn Noord|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|dfb9c26e561bb6cf0e7f5d613f25d1d6fa88755f4ddb3cae5c12265c20d0ced6|Mondelinge vragen over werkzaamheden in Hoorn Noord|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "dfb9c26e561bb6cf0e7f5d613f25d1d6fa88755f4ddb3cae5c12265c20d0ced6",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:22+00:00"
     },
     "61191bfb8c41f16ebb0de301acd98ad7478bd2a961ff0d29920c311e7a17b615": {
       "title": "Wilde motie Participatie deelgebieden Hoorn-Noord Intermaris",
@@ -58438,7 +58982,13 @@
       "portefeuillehouder": "René Assendelft",
       "stand": "12-08-2026 Via de projectleider van Intermaris is de brief doorgestuurd, met het vriendelijke verzoek de brief van het Actiecomité onder de aandacht te brengen van de directie van Intermaris.",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Wilde motie Participatie deelgebieden Hoorn-Noord Intermaris|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|bf5422448752ed86edbc122b095d5f7a5a1c39474ba858015e763f768ec72462|Wilde motie Participatie deelgebieden Hoorn-Noord Intermaris|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "bf5422448752ed86edbc122b095d5f7a5a1c39474ba858015e763f768ec72462",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:23+00:00"
     },
     "39510f060a5cfd09ac505895c4e9d67c865fc49c48af51f4237f7477a8a120c1": {
       "title": "Mondelinge vragen over safe points",
@@ -58459,7 +59009,13 @@
       "doc_date_label": "datum",
       "portefeuillehouder": "Dennis Boutkan",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Mondelinge vragen over safe points|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|a0c012119348fecc14cb112b1e40b7e2f09cdbe801a8569587d40b4337204f82|Mondelinge vragen over safe points|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "a0c012119348fecc14cb112b1e40b7e2f09cdbe801a8569587d40b4337204f82",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:24+00:00"
     },
     "53c540ee692fd839a13f54184adc6b1c9b8e2a7aac6ca3d84e068746d04c9626": {
       "title": "Zienswijze Veiligheidsregio",
@@ -58481,7 +59037,13 @@
       "portefeuillehouder": "Jan Nieuwenburg",
       "stand": "14-07-2026: Op 5 maart 2026 is de reactie op ingebrachte zienswijzen Kadernota 2027 VR NHN vanuit de gemeentes verstuurd aan de raad.",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Zienswijze Veiligheidsregio|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|e9cf3bd149a8c64dc8c594c9c0f26c22dfb3d1578deca680508f97af595488c2|Zienswijze Veiligheidsregio|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "e9cf3bd149a8c64dc8c594c9c0f26c22dfb3d1578deca680508f97af595488c2",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-25T14:48:25+00:00"
     },
     "060922afe8705842496a7e45aaea83cdee3ef82d08e83f031da33804702ab46a": {
       "title": "Wijkpark Bangert en Oosterpolder",
@@ -59963,7 +60525,20 @@
       "doc_date": "2026-03-13",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief voortgang verbouwing gebouwdeel C voor opvang Oekraïense ontheemden|Brieven College"
+      "kw_sig": "4f53cda18c2b|e0e56f91b2b5b302aec0ac8586a5e32e7797a0852f2c52a4e88b28ac6be4f3d8|Raadsbrief voortgang verbouwing gebouwdeel C voor opvang Oekraïense ontheemden|Brieven College",
+      "missing_count": 0,
+      "text_hash": "e0e56f91b2b5b302aec0ac8586a5e32e7797a0852f2c52a4e88b28ac6be4f3d8",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief voortgang verbouwing gebouwdeel C voor opvang Oekraïense ontheemden"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief voortgang verbouwing gebouwdeel C voor opvang Oekraïense ontheemden",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/80504783-29fb-4f47-b69f-7ba795e47fea"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:17+00:00"
     },
     "fdc4f35c1e0d72b0bda096db7961b837c1e1948f47cde9ceb1af272ed313d667": {
       "title": "Raadsbrief tweede cyclus Spreidingswet",
@@ -59983,7 +60558,25 @@
       "doc_date": "2026-03-12",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief tweede cyclus Spreidingswet|Brieven College"
+      "kw_sig": "4f53cda18c2b|2f5b1312014e08fdfd5d9b59f9bab634eb7554dda25b150cd351698cfbf655c6|Raadsbrief tweede cyclus Spreidingswet|Brieven College",
+      "missing_count": 0,
+      "text_hash": "2f5b1312014e08fdfd5d9b59f9bab634eb7554dda25b150cd351698cfbf655c6",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief tweede cyclus Spreidingswet",
+        "Bijlage bij raadsbrief tweede cyclus spreidingswet"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief tweede cyclus Spreidingswet",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/7d039919-ca8d-482a-8aab-c25ea575ee58"
+        },
+        {
+          "t": "Bijlage bij raadsbrief tweede cyclus spreidingswet",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b34aac92-1a8c-4ea1-9495-6f7fdf25329b"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:22+00:00"
     },
     "97b7210f9b0e600af80e98e88b38a96d35cfe9685efdb5947de56ff0a80f4309": {
       "title": "Raadbrief start uitvoering plaatsen ondergrondse containers en GFE cocons in de binnenstad",
@@ -60003,7 +60596,20 @@
       "doc_date": "2026-03-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadbrief start uitvoering plaatsen ondergrondse containers en GFE cocons in de binnenstad|Brieven College"
+      "kw_sig": "4f53cda18c2b|b18168d2936d415c4cb7a28212162715b3e9c6e92bef5cc9a0159e935db827a9|Raadbrief start uitvoering plaatsen ondergrondse containers en GFE cocons in de binnenstad|Brieven College",
+      "missing_count": 0,
+      "text_hash": "b18168d2936d415c4cb7a28212162715b3e9c6e92bef5cc9a0159e935db827a9",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadbrief start uitvoering plaatsen ondergrondse containers en GFE cocons"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadbrief start uitvoering plaatsen ondergrondse containers en GFE cocons",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/bc24e032-1efc-440d-a42d-7ddb4f4b5f5c"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:29+00:00"
     },
     "5798d6d7ee58c6c011d49d60b4703667c654194fa1ccd6a5ce7e6ecf85e758be": {
       "title": "Raadsbrief bomenkap bij herinrichting Patio, Prieel en Pergola",
@@ -60023,7 +60629,20 @@
       "doc_date": "2026-03-04",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief bomenkap bij herinrichting Patio, Prieel en Pergola|Brieven College"
+      "kw_sig": "4f53cda18c2b|e8af829dc5c7429fca96c01986bdf7e7f2eeb4f52f63070fdc579f2ee92b6917|Raadsbrief bomenkap bij herinrichting Patio, Prieel en Pergola|Brieven College",
+      "missing_count": 0,
+      "text_hash": "e8af829dc5c7429fca96c01986bdf7e7f2eeb4f52f63070fdc579f2ee92b6917",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief bomenkap bij herinrichting Patio, Prieel en Pergola"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief bomenkap bij herinrichting Patio, Prieel en Pergola",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f251ffe6-3008-4a48-8376-e588436a0897"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:44+00:00"
     },
     "7013d138d5bd8d7ebc0e531a4f6c3b9cc2b03d7f41552a41e596e9dae5874183": {
       "title": "Raadsbrief realisatiestimulans betaalbare woningbouw",
@@ -60043,7 +60662,20 @@
       "doc_date": "2026-03-03",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief realisatiestimulans betaalbare woningbouw|Brieven College"
+      "kw_sig": "4f53cda18c2b|aeced142561fd1d70b20c4271aeb42f92664eea713aad1580736d3e0382caaea|Raadsbrief realisatiestimulans betaalbare woningbouw|Brieven College",
+      "missing_count": 0,
+      "text_hash": "aeced142561fd1d70b20c4271aeb42f92664eea713aad1580736d3e0382caaea",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief realisatiestimulans betaalbare woningbouw"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief realisatiestimulans betaalbare woningbouw",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/79e3340b-8e74-447a-9673-904e3f763eec"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:49+00:00"
     },
     "60c399515f7f304809700b271e0125eb596b11faf4b0bc40142c58a6f9120c02": {
       "title": "Raadsbrief project Buitenstad",
@@ -60063,7 +60695,25 @@
       "doc_date": "2026-02-25",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief project Buitenstad|Brieven College"
+      "kw_sig": "4f53cda18c2b|9e1f16fe08586333dea4d10c645b77848bb5b0eabc823e0eadc561593553c370|Raadsbrief project Buitenstad|Brieven College",
+      "missing_count": 0,
+      "text_hash": "9e1f16fe08586333dea4d10c645b77848bb5b0eabc823e0eadc561593553c370",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief project buitenstad",
+        "Memo adviesrecht voor raad (3002246)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief project buitenstad",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/79939800-9db2-4c80-bd26-81e2663a4dda"
+        },
+        {
+          "t": "Memo adviesrecht voor raad (3002246)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/21635a6f-8104-4055-98af-1623feb6102a"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:02+00:00"
     },
     "fe403110af961c9007dc752833352539756eff7d410511c1fe4b929fa1c37aa3": {
       "title": "Raadsbrief oplegger visie Hoornse Hoogte",
@@ -60083,7 +60733,25 @@
       "doc_date": "2026-02-25",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief oplegger visie Hoornse Hoogte|Brieven College"
+      "kw_sig": "4f53cda18c2b|f0b30a52082b7aa513cb5cac3c0c706b801e3df2476e6308ed6483af2aacb7c3|Raadsbrief oplegger visie Hoornse Hoogte|Brieven College",
+      "missing_count": 0,
+      "text_hash": "f0b30a52082b7aa513cb5cac3c0c706b801e3df2476e6308ed6483af2aacb7c3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief oplegger visie Hoornse Hoogte",
+        "Oplegger Visie Hoornse Hoogte"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief oplegger visie Hoornse Hoogte",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2465c4e2-11a6-46ff-83c3-0f6b6dd70f0a"
+        },
+        {
+          "t": "Oplegger Visie Hoornse Hoogte",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/307c8f0e-ef8c-4af2-92fe-03ccac8b5ad4"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:05+00:00"
     },
     "ffec891f2fd3383ea2633f74de1b591ab6057f95dc67f8966bcaad6b2f4878b9": {
       "title": "Raadsbrief voortgang fietsbrug Holenkwartier - Provincialeweg",
@@ -60103,7 +60771,20 @@
       "doc_date": "2026-02-25",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief voortgang fietsbrug Holenkwartier - Provincialeweg|Brieven College"
+      "kw_sig": "4f53cda18c2b|6dc9222a5e8f7881b0441bdd572267ff0752adbafe40f500daac108130609450|Raadsbrief voortgang fietsbrug Holenkwartier - Provincialeweg|Brieven College",
+      "missing_count": 0,
+      "text_hash": "6dc9222a5e8f7881b0441bdd572267ff0752adbafe40f500daac108130609450",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief voortgang fietsbrug Holenkwartier - Provinciale weg"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief voortgang fietsbrug Holenkwartier - Provinciale weg",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8b597aeb-46e4-4d23-b725-fb5dcf6998a2"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:06+00:00"
     },
     "4d87622dfae04c5ae779b1aecedb26165cc0688beeb80fafdb7275731ade0e4a": {
       "title": "Raadsbrief compensatie overbruggingsmiddelen stichting Netwerk",
@@ -60123,7 +60804,20 @@
       "doc_date": "2026-02-19",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief compensatie overbruggingsmiddelen stichting Netwerk|Brieven College"
+      "kw_sig": "4f53cda18c2b|f95637bdf9c60c91cd655394a57316a072a8a4f06000a6a46ef8d3a4c8e44d54|Raadsbrief compensatie overbruggingsmiddelen stichting Netwerk|Brieven College",
+      "missing_count": 0,
+      "text_hash": "f95637bdf9c60c91cd655394a57316a072a8a4f06000a6a46ef8d3a4c8e44d54",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief compensatie overbruggingsmiddelen stichting Netwerk"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief compensatie overbruggingsmiddelen stichting Netwerk",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/bdc00a38-c290-42e9-9096-a7fe9d8c911c"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:49+00:00"
     },
     "1c3ac598e9858efb76b0ee9a43049e896b29bb3e62c59cc880934ce41b3caa8b": {
       "title": "Raadsbrief uitvoerings- en handhavingsplannen omgevingsrecht 2026",
@@ -60143,7 +60837,40 @@
       "doc_date": "2026-02-18",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief uitvoerings- en handhavingsplannen omgevingsrecht 2026|Brieven College"
+      "kw_sig": "4f53cda18c2b|2ce61a0304a3ec34b322136232b8fbe3920fb9f38aa0ec31d1ca84fc23a24b13|Raadsbrief uitvoerings- en handhavingsplannen omgevingsrecht 2026|Brieven College",
+      "missing_count": 0,
+      "text_hash": "2ce61a0304a3ec34b322136232b8fbe3920fb9f38aa0ec31d1ca84fc23a24b13",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief uitvoerings- en handhavingsplannen omgevingsrecht 2026",
+        "Omschrijving Projecten bij UP 2026 ODNHN (3018043)",
+        "UP 2026 deel 1 ODNHN (3018043)",
+        "U&H plan 2026 Omgevingswet openbare ruimte en kinderopvang (3018043)",
+        "UP 2026 deel 2 gemeente Hoorn versie 2 ODNHN (3018043)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief uitvoerings- en handhavingsplannen omgevingsrecht 2026",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5b59e7a7-73bb-4f4a-8cd5-6bb28c7edd11"
+        },
+        {
+          "t": "Omschrijving Projecten bij UP 2026 ODNHN (3018043)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/40b3302c-d2cb-490a-ae17-58adc96fe8ab"
+        },
+        {
+          "t": "UP 2026 deel 1 ODNHN (3018043)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/071b09fd-759c-4389-9646-23db6dfde18a"
+        },
+        {
+          "t": "U&H plan 2026 Omgevingswet openbare ruimte en kinderopvang (3018043)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/7d49a1f7-2d49-42af-8644-dc7f068a301a"
+        },
+        {
+          "t": "UP 2026 deel 2 gemeente Hoorn versie 2 ODNHN (3018043)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/51a4faab-1f37-4889-a93d-c9d1eee9ac44"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:55+00:00"
     },
     "35682786540fc752ac6ee943e4988efdb8069fa9fe1908eaa50172a80b2ded3a": {
       "title": "Raadsbrief beleidsregels woningdelen, kamerverhuur en woningsplitsen",
@@ -60163,7 +60890,20 @@
       "doc_date": "2026-02-12",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief beleidsregels woningdelen, kamerverhuur en woningsplitsen|Brieven College"
+      "kw_sig": "4f53cda18c2b|fd279d5f40c6a0c179f4f75250697963cb5eb750cd7fc6c41f1f7c35529dc0ed|Raadsbrief beleidsregels woningdelen, kamerverhuur en woningsplitsen|Brieven College",
+      "missing_count": 0,
+      "text_hash": "fd279d5f40c6a0c179f4f75250697963cb5eb750cd7fc6c41f1f7c35529dc0ed",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief beleidsregels woningdelen, kamerverhuur en woningsplitsen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief beleidsregels woningdelen, kamerverhuur en woningsplitsen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f96174b1-4ec8-4ad1-9c1e-3c92a0e1009b"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:27+00:00"
     },
     "125b3115b123ff53dbef197ccb364e7dccc4c993c68c6ba186d7c27b119414e5": {
       "title": "Raadsbrief update tijdelijke noodopvang aan de Johannes Poststraat 71",
@@ -60183,7 +60923,20 @@
       "doc_date": "2026-02-11",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief update tijdelijke noodopvang aan de Johannes Poststraat 71|Brieven College"
+      "kw_sig": "4f53cda18c2b|515f7794e34599de4418ec753b6e11134d2d4b5907a42299a6775b3834a93cb4|Raadsbrief update tijdelijke noodopvang aan de Johannes Poststraat 71|Brieven College",
+      "missing_count": 0,
+      "text_hash": "515f7794e34599de4418ec753b6e11134d2d4b5907a42299a6775b3834a93cb4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "raadsbrief - update tijdelijke noodopvang aan de Johannes Poststraat 71"
+      ],
+      "bijlagen": [
+        {
+          "t": "raadsbrief - update tijdelijke noodopvang aan de Johannes Poststraat 71",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/25808d02-0eaa-467e-82ec-76d35490ed45"
+        }
+      ],
+      "content_checked": "2026-11-25T14:48:30+00:00"
     },
     "b8a4d28e731f202bbee40ca5a45c5a5c7f6b0346fe0bd5823131119fa907d528": {
       "title": "Raadsbrief Vertraging Nota kapitaalgoederen 2026 - 2029",
@@ -64998,7 +65751,20 @@
       "doc_date": "2026-03-10",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 10 maart 2026|Besluitenlijst B&W"
+      "kw_sig": "4f53cda18c2b|c356cbcaa24390716a0376b049e6d92bdedadd423ce3dc1002247b3d84fbe1bc|Besluitenlijst 10 maart 2026|Besluitenlijst B&W",
+      "missing_count": 0,
+      "text_hash": "c356cbcaa24390716a0376b049e6d92bdedadd423ce3dc1002247b3d84fbe1bc",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026 03 10 besluitenlijst openbaar"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026 03 10 besluitenlijst openbaar",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f0afeed1-86e6-4a9d-b82c-0136dfe83d23"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:28+00:00"
     },
     "60c1801692e252c812a826d732bbae7da888d4767627fed47df82c1c67ee6f0d": {
       "title": "Besluitenlijst 3 maart 2026",
@@ -65018,7 +65784,20 @@
       "doc_date": "2026-03-03",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 3 maart 2026|Besluitenlijst B&W"
+      "kw_sig": "4f53cda18c2b|6c9e07083d179eab927724242c08670f768af1867c4af36cc3f8c53b0d87c530|Besluitenlijst 3 maart 2026|Besluitenlijst B&W",
+      "missing_count": 0,
+      "text_hash": "6c9e07083d179eab927724242c08670f768af1867c4af36cc3f8c53b0d87c530",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026 03 03 besluitenlijst openbaar"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026 03 03 besluitenlijst openbaar",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e05292f3-4f95-443d-b8bd-cf0ef609019f"
+        }
+      ],
+      "content_checked": "2026-11-25T14:46:51+00:00"
     },
     "3893f22850d769324a82dfc85756255aba59eadac55669efde359ca54f6766cf": {
       "title": "Besluitenlijst 24 februari 2026",
@@ -65038,7 +65817,20 @@
       "doc_date": "2026-02-24",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 24 februari 2026|Besluitenlijst B&W"
+      "kw_sig": "4f53cda18c2b|49b41aaab134a6f56bca8c7f9f86f421593cefd0536f278f11320b73fa6361e4|Besluitenlijst 24 februari 2026|Besluitenlijst B&W",
+      "missing_count": 0,
+      "text_hash": "49b41aaab134a6f56bca8c7f9f86f421593cefd0536f278f11320b73fa6361e4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026 02 24 besluitenlijst openbaar"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026 02 24 besluitenlijst openbaar",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/55de6726-5302-4b55-a5e4-d8e81b0b8ef3"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:36+00:00"
     },
     "7f20879df951ae1fe23a4ae14cc8e662405469a271b1bbbc812f8e3ce6afe613": {
       "title": "Besluitenlijst 17 februari 2026",
@@ -65058,7 +65850,20 @@
       "doc_date": "2026-02-17",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 17 februari 2026|Besluitenlijst B&W"
+      "kw_sig": "4f53cda18c2b|b4f8a9048e6199f66177f0a841f2829d43ba4bcbb89f98a61e9f3379ac1644fe|Besluitenlijst 17 februari 2026|Besluitenlijst B&W",
+      "missing_count": 0,
+      "text_hash": "b4f8a9048e6199f66177f0a841f2829d43ba4bcbb89f98a61e9f3379ac1644fe",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026 02 17 besluitenlijst openbaar"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026 02 17 besluitenlijst openbaar",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4bb12a76-3e66-4445-b2ce-31c468c2dc57"
+        }
+      ],
+      "content_checked": "2026-11-25T14:47:58+00:00"
     },
     "1bfbebdd288c44d5fd4cfd6bab1c7bd10d27ed4b51fdc988ab638254ba696fdf": {
       "title": "Besluitenlijst 10 februari 2026",
@@ -84619,22 +85424,22 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "ok": true,
         "count": 144,
         "new": 0,
         "note": "Laatste 30 dagen: 144 van 144 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-25T14:31:05+00:00",
+        "checked": "2026-11-25T14:45:59+00:00",
         "ok": true,
         "count": 10,
-        "new": 1,
+        "new": 2,
         "error": null,
-        "note": "10 van 10 vergaderingen in venster bijgewerkt; 340 documenten bekend. Dekking: vergaderingen van 2026-09-26 t/m 2027-01-09 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
+        "note": "10 van 10 vergaderingen in venster bijgewerkt; 342 documenten bekend. Dekking: vergaderingen van 2026-09-26 t/m 2027-01-09 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-25T14:31:17+00:00",
+        "checked": "2026-11-25T14:46:13+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -84642,16 +85447,16 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3020, Toezeggingen 1467, Amendementen 563, Artikel 36 vragen 1048, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-25T14:31:18+00:00",
+        "checked": "2026-11-25T14:46:13+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-25T14:31:19+00:00",
-        "ok": false,
-        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
+        "checked": "2026-11-25T14:46:13+00:00",
+        "ok": true,
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
@@ -84664,25 +85469,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-25T14:31:19+00:00",
+        "checked": "2026-11-25T14:46:13+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-25T14:35:20+00:00",
+        "checked": "2026-11-25T14:48:30+00:00",
         "ok": true,
-        "count": 41,
+        "count": 50,
         "errors": 0,
-        "note": "41 documenten gecontroleerd (1 pdf), 972 gevolgd (alle gemeenten), 131 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (2 pdf), 974 gevolgd (alle gemeenten), 83 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-25T14:35:20+00:00",
+        "checked": "2026-11-25T14:48:30+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-25T14:35:20+00:00",
+        "checked": "2026-11-25T14:48:30+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -84699,7 +85504,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -84708,7 +85513,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -84717,7 +85522,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -84731,7 +85536,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -84747,7 +85552,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -84839,12 +85644,12 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
         "label": "dinsdag 1 december 2026",
-        "documents": 77,
+        "documents": 79,
         "agenda": [
           "1 Opening",
           "2 Publieksrondvraag",
@@ -84860,7 +85665,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -84880,7 +85685,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -84901,7 +85706,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -84925,7 +85730,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-25T14:30:44+00:00",
+        "checked": "2026-11-25T14:45:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
