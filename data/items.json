@@ -45741,7 +45741,72 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verzamelmap ingekomen stukken derden tbv coalitieakkoord v.a. 08 april|Verkiezingen 2026"
+      "kw_sig": "4f53cda18c2b|b642206e69966b51ca070957bc48ee0f8c460c941f870e970941f19181d348b4|Verzamelmap ingekomen stukken derden tbv coalitieakkoord v.a. 08 april|Verkiezingen 2026",
+      "missing_count": 0,
+      "text_hash": "b642206e69966b51ca070957bc48ee0f8c460c941f870e970941f19181d348b4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief nieuwe energie voor maatschappelijke uitdagingen: sociale ondernemingen als natuurlijke partners - Social Enterprise NL",
+        "Leaflet ‘Institutionele investeerders: essentieel voor leefbare steden’ - IVBN",
+        "Speerpunten - De Hoornse Ondernemers Federatie (HOF)",
+        "Brief stimuleer nieuwe ambtsdragers om lid te worden van hun vereniging - Nederlands Genootschap van Burgemeesters",
+        "Oproep om energiebesparing op te nemen in collegeakkoorden – Actienetwerk GasTerug",
+        "Het wc-tekort - hoe groot is het en hoe kunnen we het oplossen - MDL fonds",
+        "VN-verdrag Handicap – Samen aan de slag op lokaal niveau - Coalitie voor Inclusie en Vereniging Inclusie Nederland",
+        "Brief digitale autonomie - Voor Ons Nederland, Justice for Prosperity, Stichting Weerbare Democratie en Bits of Freedom",
+        "Oproep steun voor kinderen die thuis geweld meemaken - Augeo Foundation",
+        "Brief coffeeshopbeleid en schaarse vergunningen - Bond van Cannabis Detaillisten",
+        "Brief smartphonevrij opgroeien - Smartphonevrij Opgroeien Nederland",
+        "De werkwijze Parallel Plannen - Fakton Executives",
+        "Brief aan Nederlandse Gemeenten - UNICEF NL",
+        "Brief over de gemeentelijke aanpak van grote opgaven - FRK_Kwaliteitsadvisering",
+        "Bijlage bij brief FRK_Kwaliteitsadvisering",
+        "Manifest - Maak Ruimte voor Werk - Coalitie Ruimte voor Werk",
+        "Brief gemeenteraadsleden - Slachtofferhulp Nederland",
+        "Bijlage bij brief slachtofferhulp 19-Noord-Holland-Hoorn-Terugblik_2025_v1-online",
+        "Belang van woningzoekende - Minister van VRO",
+        "Advies voor onderhandelende partijen - Lab of Thought",
+        "Paper-gemeenteraadsverkiezingen-2026 - Platform Slappe Bodem",
+        "Inbreng tbv collegeprogramma 2026-2023 - MantelzorgNL",
+        "Brief voor Raadsleden - AO_fonds",
+        "Brief gemeenteraadsverkiezingen - NS",
+        "Felicitatie en Handreiking - De Bruggenbouwers"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief nieuwe energie voor maatschappelijke uitdagingen: sociale ondernemingen als natuurlijke partners - Social Enterprise NL",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/98c85f41-abe4-45a4-9c2d-2ceabb874f7e"
+        },
+        {
+          "t": "Leaflet ‘Institutionele investeerders: essentieel voor leefbare steden’ - IVBN",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8d6c77c7-5fa7-4d85-b112-fb60918cc7d7"
+        },
+        {
+          "t": "Speerpunten - De Hoornse Ondernemers Federatie (HOF)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/7305b123-e60b-4a90-a86d-3efeb1daa6be"
+        },
+        {
+          "t": "Brief stimuleer nieuwe ambtsdragers om lid te worden van hun vereniging - Nederlands Genootschap van Burgemeesters",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/196934a6-de62-45ca-bc2d-56a4b1d6a008"
+        },
+        {
+          "t": "Oproep om energiebesparing op te nemen in collegeakkoorden – Actienetwerk GasTerug",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4a8c2968-c7c9-4e4e-bf68-8a052d42547f"
+        },
+        {
+          "t": "Het wc-tekort - hoe groot is het en hoe kunnen we het oplossen - MDL fonds",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/344b612d-3785-4d54-93bb-b0e5985b12cd"
+        },
+        {
+          "t": "VN-verdrag Handicap – Samen aan de slag op lokaal niveau - Coalitie voor Inclusie en Vereniging Inclusie Nederland",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/af8e1524-2756-43ef-b7cf-04e9f72a7f69"
+        },
+        {
+          "t": "Brief digitale autonomie - Voor Ons Nederland, Justice for Prosperity, Stichting Weerbare Democratie en Bits of Freedom",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/61c600a8-dab7-4728-8c37-adcba75d5e1f"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:06+00:00"
     },
     "8cb8e4f4aa63803fb5976923a0e66c3be2eea69ea3eb13bb9b731a7663f173fc": {
       "title": "Tussenbericht verkenningsfase",
@@ -45942,7 +46007,154 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verzamelmap ingekomen stukken derden tbv verkiezingsprogramma's en coalitieakkoord|Verkiezingen 2026"
+      "kw_sig": "4f53cda18c2b|30808b08d754118391b21091fa6d10278cf5df43eac872c3be4f3f00a0d1c3b5|Verzamelmap ingekomen stukken derden tbv verkiezingsprogramma's en coalitieakkoord|Verkiezingen 2026",
+      "missing_count": 0,
+      "text_hash": "30808b08d754118391b21091fa6d10278cf5df43eac872c3be4f3f00a0d1c3b5",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief onorthodoxe vorm van (doe)democratie - Lokalegoededoelengids",
+        "Brief een kansrijke investering voor jongeren in kwetsbare posities: neem het Bouwdepot mee in de coalitieonderhandelingen - Stichting het Bouwdepot",
+        "Onderwerpen collegeprogramma 2026-2030 - Dorpenoverleg Blokker-Zaag",
+        "Reisgids gebiedsontwikkeling voor raadsleden - Nederlandse Vereniging voor Raadsleden",
+        "Informatie over grootschalige shortstay-huisvesting - Stichting Belangenbehartiging Arbeidsmigratie",
+        "Brief laat kennis werken voor een gezonde en veerkrachtige gemeente! - NKGS",
+        "Brief Sportvissen, van waarde in jouw gemeente - Sportvisunie",
+        "Brief voor financiële hulpverlening - NVVK vereniging",
+        "Position paper Social Return - Social Enterprise NL",
+        "Handvatten voor het coalitieakkoord voor een toekomstbestendig energiesysteem in de gemeente Hoorn - Liander",
+        "Brief luchtkwaliteit in het collegeakkoord - Longfonds",
+        "Oproep: Lokale energie geeft ontwikkelingen weer ruimte, ook bij een vol stroomnet - Energieregio Noord-Holland",
+        "Brief aan de slag met kinderrechten in uw gemeente - UNICEF Nederland",
+        "Brief ondersteuning voor raadsleden bij gemeentelijke opgaven – A&O fonds gemeente",
+        "Felicitatiebrief gemeenteraadsleden namens de sportsector - NOC*NSF",
+        "Brief kennismaking en uitnodiging HVC maart 2026 - HVC",
+        "Presentatie HVC, kennismaking en drie actuele opgaven maart 2026 - HVC",
+        "Hand-out HVC maart 2026 - HVC",
+        "Brief voor nieuwe raadsleden - Seniorencoalitie",
+        "Tipgids Seniorvriendelijke Gemeente - Seniorencoalitie",
+        "Brief nieuwe raadsleden Gemeenten - Noord-Holland - NRP",
+        "Brief nieuwe raadsleden - erfgoedbehoud stimuleren - Stichting ERM",
+        "Pamflet Valente gemeenteraadsverkiezingen 2026 - Leviaan",
+        "Geef de Wet integrale suïcidepreventie een plek in het coalitieakkoord - 113 Zelfmoordpreventie",
+        "Ondernemersmanifest Noord-Holland boven het Noordzeekanaal - VNO-NCW Noordwest-Holland, Economisch Forum Holland boven Amsterdam en ondernemers- en brancheverenigingen uit de regio",
+        "Oproep extra aandacht bereikbaarheid, toegankelijkheid en de bruikbaarheid van de parken in uw gemeente voor mensen met beperkingen - Kenniscentrum Groen en Handicap",
+        "Cultuur in het collegeakkoord 2026 - Kunsten92",
+        "Inbreng voor een duurzaam collegeakkoord of oppositieagenda - Natuur & Milieu",
+        "Steunouder als bouwsteen voor een sterke sociale basis in het coalitieakkoord - Stichting Steunouder Nederland",
+        "Publicatie kennis uit participatie - Populytics",
+        "Brief overwegingen bij uw aanstaande coalitieakkoord 2026-2030 - Talland College",
+        "Energietransitie in een notendop voor raadsleden - Nederlandse Vereniging Duurzame Energie (NVDE)",
+        "Brief - Regioteam Energietransitie",
+        "Oproep coalitieakkoord: investeer in sociaaljuridische hulp",
+        "Pamflet over de waarde van groen - Koninklijke Vereniging van Hoveniers en Groenvoorzieners",
+        "Brief UNICEF Nederland m.b.t. jongerenpeiling lokale jeugdparticipatie",
+        "Infographic UNICEF jongerenpeiling lokale jeugdparticipatie 2026",
+        "Brief over samen werken aan een gezonde fietscultuur voor onze jeugd - Stichting Op de Fiets",
+        "Oproep aan alle kandidaat-raadsleden in Nederland - Tour de Force",
+        "MBO Raad - Brief fractievoorzitters",
+        "mbo inspiratieagenda gemeenten",
+        "Beleidspuntenplan Gemeenten - ZZP Nederland",
+        "Oproep mensgericht digitaliseren - Gebruiker Centraal en de Alliantie Digitaal Samenleven",
+        "Brief Cliëntenbelang Noord-Holland",
+        "Jeugdgezondheid in jouw verkiezingsprogramma - Nederlands Centrum Jeugdgezondheid",
+        "Bundel; de gemeenteraad, fundament van ons openbaar bestuur - Raad voor het openbaar bestuur",
+        "Mail Regenboogakkoord 2026 (COC NHN) - zie bijlage 1",
+        "Bijlage 1 - Regenboogakkoord 2026 - COC Noord-Holland Noord",
+        "Trendstudie 2026 – Platform 31",
+        "Woontop-afspraken, PPM en regionale versnellingstafels - WoningBouwersNL",
+        "Pamflet Zo kan jouw gemeente autismevriendelijker worden! - Nederlandse Vereniging voor",
+        "Brief Zo kan jouw gemeente autismevriendelijker worden! - Nederlandse Vereniging voor",
+        "Mail Whitepaper informele gezinssteun - Stichting Samen Oplopen",
+        "Bijlage 1 Whitepaper - Zorg voor elkaar - Informele gezinssteun in lokaal preventiebeleid",
+        "Aanbod aan de (nieuwe) gemeenteraad - Governance & Integrity Nederland",
+        "Aanbod aan het (nieuwe) College van Burgemeester en wethouders - Governance & Integrity Nederland",
+        "Verkiezingsprogramma lokale partijen - Kiesradar.nl",
+        "Volkshuisvesting en de gemeenteraadsverkiezingen 2026 - Verenigde Huurorganisatie de Boog",
+        "Bijlage 1 Volkshuisvesting en de gemeenteraadsverkiezingen 2026",
+        "Bijlage 2 Volkshuisvesting en de gemeenteraadsverkiezingen 2026 - Handreiking gemeenteraadverkiezing 2026",
+        "Ideeën voor verduurzamen van buurten of wijken - Buurtwarmte Hoorn",
+        "Informatiebrief recreatie voor de verkiezingsprogramma's - Recreatieschap Westfriesland",
+        "Manifest gemeenteraadsverkiezingen 2026 - Vereniging Eigen Huis",
+        "Suggestie verkiezingsprogramma glasvezel mobiele-netwerken - NL Connect",
+        "Oproep Verkiezingen 2026 - Dorpswerk Noord-Holland en LVKK",
+        "Input sportsector gemeente als 1 grote sporthub - NOC*NSF",
+        "Oproep verkiezingsprogramma Wonen, Welzijn en Zorg - KBO",
+        "Zet in op een toekomst zonder kinderarmoede in uw gemeente - Kinderhulp",
+        "Verkiezingspamflet mantelzorg voor gemeenteraadsverkiezingen - MantelzorgNL",
+        "Speerpunten GR-verkiezingen 2026 - Landelijke Armoedecoalitie",
+        "Brief verkiezingsprogramma Hoorn - Alzheimer Nederland",
+        "Input verkiezingsprogrammacommissies - Social Enterprise",
+        "Input verkiezingsprogramma, oproep tot investeren in vitale zorgzame gemeenschappen voor ouderen - Aanjaagteam",
+        "Manifest verkiezingen - Het vergeten kind",
+        "Input verkiezingsprogramma - KBO Noord-Holland",
+        "Input verkiezingsprogramma 2026 Sportvissen, zoveel meer dan vangen - Sportvisserij Nederland",
+        "Handreiking gemeenteraadsverkiezingen 2026 Stadswerk",
+        "Input verkiezingsprogramma Nederland duurzaam bereikbaar - NS",
+        "Input gemeenteraadsverkiezingen Transport en Logistiek Nederland - TLN",
+        "Input gemeenteraadsverkiezingen 2026 - Investeren in sport en bewegen loont",
+        "Input gemeenteraadsverkiezingen 2026 II - Investeren in sport en bewegen loont",
+        "Handreiking Gemeenteraadsverkiezingen 2026 - Nederlandse Vereniging voor Pleeggezinnen",
+        "Voorstel tekst autisme partijprogramma - Het Vanuit Autisme Bekeken",
+        "Input voor verkiezingsprogramma's - Essent",
+        "Verkiezingspamflet - Nederlands Instituut Psychologen",
+        "Input over het persoonsgebonden budget – Per Saldo",
+        "Notitie bij Input over het persoonsgebonden budget – Per Saldo",
+        "Brief ProRail gemeenteraadsverkiezingen tbv programmacommissies Hoorn - Prorail",
+        "Position paper Tweede Kamer Verkiezingen 2025 - Prorail",
+        "VGN input verkiezingsprogramma GR2026 - Robert Coppes Stichting",
+        "Oog voor de blinde en slechtziende inwoners - Robert Coppes Stichting",
+        "Inbreng gemeenteraadsverkiezingen 2026 - Geothermie nederland",
+        "Suggesties voor lhbti+ emancipatie in uw verkiezingsprogramma - COC",
+        "Brief fractievoorzitters betreft verkiezingsprogramma - Ouderenraad Hoorn",
+        "Input verkiezingen inzake belang Laadinfrastructuur - NAL",
+        "Standpunten Gemeenteraadsverkiezingen - Stichting Bewonersbelangen Arbeidsmigratie",
+        "Raden in Verzet - Geen knaken zonder taken! – neem het op in uw verkiezingsprogramma",
+        "pamflet gemeenteraad verkiezingen - LTO West Friesland",
+        "Training Raad & Presentatie - Momentum Kabinet B.V.",
+        "Brief Straatpastoraat aan politieke partijen Hoorn",
+        "Input verkiezingen: Cultuur in akkoorden sociaal domein - LKCA",
+        "Erfgoed behouden kan slim en uitvoerbaar - Monumentenwacht Noord-Holland",
+        "Oproep - Versterk de lokale aanpak op eenzaamheid",
+        "Input coalitieakkoord ANWB & Wandelnet",
+        "Oproep voor verkeersveiligheid in uw gemeente",
+        "Brief SKBN aan gemeenteraadsleden 2026",
+        "Versterk de lokale aanpak op eenzaamheid - Het kernteam van de Nationale Coalitie tegen Eenzaamheid"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief onorthodoxe vorm van (doe)democratie - Lokalegoededoelengids",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/211c01c1-a8c2-41cf-bf6d-410b376f0c06"
+        },
+        {
+          "t": "Brief een kansrijke investering voor jongeren in kwetsbare posities: neem het Bouwdepot mee in de coalitieonderhandelingen - Stichting het Bouwdepot",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2267cd10-3a0a-416e-820e-40065e07cf0e"
+        },
+        {
+          "t": "Onderwerpen collegeprogramma 2026-2030 - Dorpenoverleg Blokker-Zaag",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/28f6685a-aadc-415d-bb33-bbe80da340d0"
+        },
+        {
+          "t": "Reisgids gebiedsontwikkeling voor raadsleden - Nederlandse Vereniging voor Raadsleden",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5ae2ad87-aa43-48f5-96a1-caaa51092230"
+        },
+        {
+          "t": "Informatie over grootschalige shortstay-huisvesting - Stichting Belangenbehartiging Arbeidsmigratie",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/543dc85a-3d94-4ba4-aa49-f295500558fe"
+        },
+        {
+          "t": "Brief laat kennis werken voor een gezonde en veerkrachtige gemeente! - NKGS",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/83450476-f357-4227-9471-26c4dc31c48b"
+        },
+        {
+          "t": "Brief Sportvissen, van waarde in jouw gemeente - Sportvisunie",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/77e0236f-b3c5-4845-b7e0-8dc81bf12112"
+        },
+        {
+          "t": "Brief voor financiële hulpverlening - NVVK vereniging",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/9d4198b1-d06f-4c2c-9304-0a784db4073c"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:23+00:00"
     },
     "ced55a35b915b24a4b54e938b44efed5e7bb30184e4f45eca8895568be78675a": {
       "title": "Fietsschouw: waar voelen inwoners zich onveilig?",
@@ -46510,7 +46722,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verordening_Rekenkamer_juni_2026|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|8267ac70c92fc108a18ed59de874ee666658a26e5b82cd450139419c14705501|Verordening_Rekenkamer_juni_2026|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "8267ac70c92fc108a18ed59de874ee666658a26e5b82cd450139419c14705501",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Verordening_gemeentelijke_rekenkamer_GemeenteHoorn_2026_wijzigingklankbordgroep"
+      ],
+      "bijlagen": [
+        {
+          "t": "Verordening_gemeentelijke_rekenkamer_GemeenteHoorn_2026_wijzigingklankbordgroep",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4b151a48-8e56-4c8f-86d8-99d1bd4dbefe"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:32+00:00"
     },
     "9da0f197d1b752c604cece6736ca1c3969312ef2a7e64951c42a28e33679b22d": {
       "title": "Verordening_Rechtspositie raads- en commissieleden 2026",
@@ -46528,7 +46753,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verordening_Rechtspositie raads- en commissieleden 2026|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|447dfe3ef49bcc7623148678e06a689236316df2cee9c443c8f98941a2e7877a|Verordening_Rechtspositie raads- en commissieleden 2026|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "447dfe3ef49bcc7623148678e06a689236316df2cee9c443c8f98941a2e7877a",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbesluit66604_Verordening_Rechtspositie_21april2026_ondertekend"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbesluit66604_Verordening_Rechtspositie_21april2026_ondertekend",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8394fcc5-d830-42cf-9ddd-8acc4d7c5ac5"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:35+00:00"
     },
     "e2833fa2aecfb20c1c519ad4b02df14bceed87d21d8b5aaa81e1c58326d111e6": {
       "title": "Verordening Vertrouwenscommissie 2020",
@@ -46546,7 +46784,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verordening Vertrouwenscommissie 2020|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|eba19dfe9d30802cf2074f75d39e97f33b820027d60c534039c9cc9c40afd06d|Verordening Vertrouwenscommissie 2020|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "eba19dfe9d30802cf2074f75d39e97f33b820027d60c534039c9cc9c40afd06d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend raadsbesluit Verordening en Leden vertrouwenscommissie 2020"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend raadsbesluit Verordening en Leden vertrouwenscommissie 2020",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d2b4d7a2-03b4-44dc-b0f7-f0d1a3533170"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:37+00:00"
     },
     "66bf7d3c713f3ecf2aa22f35ab805ef291a6b6eaeff210b5082dd8b84ddc40a5": {
       "title": "Verordening onderzoek doelmatigheid 213A",
@@ -46564,7 +46815,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verordening onderzoek doelmatigheid 213A|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|dab81ef35dc06fa8cc88e650389833dd35237b6ad1727a0cd632d73d30e125d4|Verordening onderzoek doelmatigheid 213A|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "dab81ef35dc06fa8cc88e650389833dd35237b6ad1727a0cd632d73d30e125d4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend Raadsbesluit verordening onderzoeken doelmatigheid (1)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend Raadsbesluit verordening onderzoeken doelmatigheid (1)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/fd7e149f-6e97-4b0e-95af-3a91260d6b82"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:39+00:00"
     },
     "17c9c2d8eeaab23853ea35ef92601e9149afbdb615191dfc18d25d826bdf3df7": {
       "title": "Verordening burgerinitiatief",
@@ -46582,7 +46846,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verordening burgerinitiatief|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|cf6852641a9e953526e24cd28ad30903519834a0f74fddf0c6c8bdcb4f4033c4|Verordening burgerinitiatief|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "cf6852641a9e953526e24cd28ad30903519834a0f74fddf0c6c8bdcb4f4033c4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Verordening burgerinitiatief Hoorn Overheid.nl"
+      ],
+      "bijlagen": [
+        {
+          "t": "Verordening burgerinitiatief Hoorn Overheid.nl",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4d7c29d7-9288-4cec-b020-996cbc0ffdf6"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:42+00:00"
     },
     "7746c66202b50e257a310992b6befafa85b093733386b7327c8b7154dcf4c755": {
       "title": "Verordening Auditcommissie Hoorn",
@@ -46600,7 +46877,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verordening Auditcommissie Hoorn|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|5b1c57bf345607d66ed9bee1161130b9321718dd2cc1794af415bf1cad582a00|Verordening Auditcommissie Hoorn|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "5b1c57bf345607d66ed9bee1161130b9321718dd2cc1794af415bf1cad582a00",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbesluit493610 (1240367)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbesluit493610 (1240367)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ff5cc5ed-a556-42b6-a19c-a9215c8c8942"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:44+00:00"
     },
     "1c59c3355ede8ad6e2e330345d1c7819f107a49169576ff34163fffefff415db": {
       "title": "Screening wethouders raadsbesluit",
@@ -46618,7 +46908,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Screening wethouders raadsbesluit|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|bf4a0cce79e1e1095f7e15cc9f1a43fc3d9a8b16c1a8ff3581ef7d9326366549|Screening wethouders raadsbesluit|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "bf4a0cce79e1e1095f7e15cc9f1a43fc3d9a8b16c1a8ff3581ef7d9326366549",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "GETEKEND Raadsbesluit screening wethouders (930266)"
+      ],
+      "bijlagen": [
+        {
+          "t": "GETEKEND Raadsbesluit screening wethouders (930266)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f54b3d9d-8404-4445-a6f7-553370d5e0f3"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:46+00:00"
     },
     "9a6dec6d0c789b3b7ef1bf616585d0dd090e9826fd7d1e6c61cb81d8568e2b75": {
       "title": "Reglement van orde voor de gemeenteraad 2023",
@@ -46636,7 +46939,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Reglement van orde voor de gemeenteraad 2023|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|3b69550bc0aab85e5da7e52db31c06fb41f3ab6b276cd22fe089b94d91d1171a|Reglement van orde voor de gemeenteraad 2023|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "3b69550bc0aab85e5da7e52db31c06fb41f3ab6b276cd22fe089b94d91d1171a",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend Raadsbesluit RvO Raad"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend Raadsbesluit RvO Raad",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d2fa201a-533b-4aaf-ad12-c0c11ffb60c4"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:49+00:00"
     },
     "6b459fe877bb7f341d0e1e81cac442af8a99b402b098c45b09b8be6e5c4f7562": {
       "title": "Reglement van orde Algemene Raadscommissie 2023",
@@ -46654,7 +46970,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Reglement van orde Algemene Raadscommissie 2023|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|6e318719e963c06638cb3098f56e7d10d0a08804c92eb94c2bb55780e22154f9|Reglement van orde Algemene Raadscommissie 2023|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "6e318719e963c06638cb3098f56e7d10d0a08804c92eb94c2bb55780e22154f9",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend Raadsbesluit RvO ARC"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend Raadsbesluit RvO ARC",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d89de483-c2a9-4fd2-9aef-0f50d7e3fdc2"
+        }
+      ],
+      "content_checked": "2026-11-25T15:17:53+00:00"
     },
     "d86dc7b63e43bf49a0cad400c69dcc37b16255dcf01ea487a1b40a92c4eef74a": {
       "title": "Regionaal besluit Informatievoorziening gemeenschappelijke regelingen",
@@ -46672,7 +47001,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Regionaal besluit Informatievoorziening gemeenschappelijke regelingen|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|d8948ec16f6e5cda227526f5c5d1f94f9e1961067d61dd400b70b1b31d7f4cf0|Regionaal besluit Informatievoorziening gemeenschappelijke regelingen|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "d8948ec16f6e5cda227526f5c5d1f94f9e1961067d61dd400b70b1b31d7f4cf0",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbesluit Informatievoorziening gemeenschappelijke regelingen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbesluit Informatievoorziening gemeenschappelijke regelingen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cbe38b10-b50d-4c31-91dd-24625135023f"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:00+00:00"
     },
     "b00fe0021f45c30b4439cec365b7ff121aab1ea842afc22f16deb31eea6dbe56": {
       "title": "Referendumverordening Hoorn",
@@ -46690,7 +47032,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Referendumverordening Hoorn|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|5bf1dea028817d9d94654e419424ee1809fdb8dc1140a28bdb653c0c2c06b82d|Referendumverordening Hoorn|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "5bf1dea028817d9d94654e419424ee1809fdb8dc1140a28bdb653c0c2c06b82d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "GEPUBLICEERDE VERSIE REFERENDUMVERORDENING 2017"
+      ],
+      "bijlagen": [
+        {
+          "t": "GEPUBLICEERDE VERSIE REFERENDUMVERORDENING 2017",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/45815f82-1d88-41be-8b52-308bdf956594"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:01+00:00"
     },
     "17ab31f0306c7fc1e8d3dcf4852859ac590342cf920986196b236ed2dbb3a1c7": {
       "title": "Rechtmatigheidsverantwoording grenzen",
@@ -46708,7 +47063,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Rechtmatigheidsverantwoording grenzen|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|f348f20067e4ad773d25d2d061adb9bdfac630722b5bbc7d11699020b4bafa27|Rechtmatigheidsverantwoording grenzen|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "f348f20067e4ad773d25d2d061adb9bdfac630722b5bbc7d11699020b4bafa27",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend raadsbesluit rechtmatigheidsverantwoording vaststellen verantwoordingsgrens, controleverordening en controlepro"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend raadsbesluit rechtmatigheidsverantwoording vaststellen verantwoordingsgrens, controleverordening en controlepro",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2043e8e9-85c6-4b1d-89bd-4f96199bfc37"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:03+00:00"
     },
     "0ddf33b032706d00ef48367cea092dc4591309f15648b499ceef11d9d21375cf": {
       "title": "Raadsbesluit Verordening Ambtelijke bijstand en fractieondersteuning 2022",
@@ -46726,7 +47094,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbesluit Verordening Ambtelijke bijstand en fractieondersteuning 2022|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|279c8f81da4dde6af4b13a51ab4e9f6816d7b20ee1ad4bcb3980fb34ca726786|Raadsbesluit Verordening Ambtelijke bijstand en fractieondersteuning 2022|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "279c8f81da4dde6af4b13a51ab4e9f6816d7b20ee1ad4bcb3980fb34ca726786",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend raadsbesluit Verordening Ambtelijke bijstand en fractieondersteuning 2022"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend raadsbesluit Verordening Ambtelijke bijstand en fractieondersteuning 2022",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/40f65e58-2c38-435b-868d-a2b6eea12f0c"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:07+00:00"
     },
     "931ad89ad1cc79e229faccd6e6c5ee44ca4595171baf65fce5480fc201bf2c5e": {
       "title": "Protocol_Procedure_overlijden_raads-en commissielid (concept)",
@@ -46744,7 +47125,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Protocol_Procedure_overlijden_raads-en commissielid (concept)|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|6c50c1a94ded4e36965ece5196b1801351fba9660986fbab12b9d6ebe20dce5b|Protocol_Procedure_overlijden_raads-en commissielid (concept)|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "6c50c1a94ded4e36965ece5196b1801351fba9660986fbab12b9d6ebe20dce5b",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Protocol_Procedure_overlijden__raads-en_commissielid_2026"
+      ],
+      "bijlagen": [
+        {
+          "t": "Protocol_Procedure_overlijden__raads-en_commissielid_2026",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/35a63160-3b25-4a4a-b499-b59a177aff9c"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:08+00:00"
     },
     "95379f135219e720e6b104cf65e5d20c5e31496e91df9c23c8ad96c0228b8416": {
       "title": "Interne regeling met Autorisatieniveau budgethouders versus raadsbevoegdheid",
@@ -46762,7 +47156,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Interne regeling met Autorisatieniveau budgethouders versus raadsbevoegdheid|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|52776289fd0b3adb282f3d5c6214bd0e449c54b4141b49594e40d5e78dff8e1c|Interne regeling met Autorisatieniveau budgethouders versus raadsbevoegdheid|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "52776289fd0b3adb282f3d5c6214bd0e449c54b4141b49594e40d5e78dff8e1c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend raadsbesluit Regeling budgethouderschap 1 juli 2025"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend raadsbesluit Regeling budgethouderschap 1 juli 2025",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ee4aeb54-60a8-4b27-a292-3328ad0a0671"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:10+00:00"
     },
     "b597fca4ee300a55c3c693fcd565032d9c404b0b2cfdbcdca7a58e417faafbc4": {
       "title": "Gedragscode gemeenteraad Hoorn 2023",
@@ -46780,7 +47187,25 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Gedragscode gemeenteraad Hoorn 2023|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|a63668d68529299ce35b4c37c7b29d26075e2d5b350ca54a6f2504c7d208d3c7|Gedragscode gemeenteraad Hoorn 2023|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "a63668d68529299ce35b4c37c7b29d26075e2d5b350ca54a6f2504c7d208d3c7",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbesluit Gedragscode gemeenteraad Hoorn 2023",
+        "Definitieve gedragscode raad Hoorn"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbesluit Gedragscode gemeenteraad Hoorn 2023",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e7a7c604-c5b0-4a5d-bbd5-b85ed675d516"
+        },
+        {
+          "t": "Definitieve gedragscode raad Hoorn",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/90773a3c-37fa-45ca-a340-ffeeea4bc7ba"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:15+00:00"
     },
     "af726370028bfb23b392e71cf2cd01d8a834f7a645336eb0a209911a3e5b4560": {
       "title": "Financiële verordening",
@@ -46798,7 +47223,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Financiële verordening|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|47424956f7d22c45291bf4cab1e3fab04a7ca15579759f4b0b5d96a2cbd86b1e|Financiële verordening|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "47424956f7d22c45291bf4cab1e3fab04a7ca15579759f4b0b5d96a2cbd86b1e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Getekend raadsbesluit vaststellen financiële verordening 2023"
+      ],
+      "bijlagen": [
+        {
+          "t": "Getekend raadsbesluit vaststellen financiële verordening 2023",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/08189139-58c1-45e5-9f83-f04d8e655de9"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:17+00:00"
     },
     "05ff6f1e1277632d429bcbafe8cc5a817f747b257bd8d05e60ec1badfe3f1cc8": {
       "title": "Controleverordening",
@@ -46816,7 +47254,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Controleverordening|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|23752a68282e1d66432c16a5e00e3e434803a69bc28ca3c8d6420c727a9928f3|Controleverordening|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "23752a68282e1d66432c16a5e00e3e434803a69bc28ca3c8d6420c727a9928f3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Bijlage 3 Controleverordening 2022 en verder"
+      ],
+      "bijlagen": [
+        {
+          "t": "Bijlage 3 Controleverordening 2022 en verder",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f21353e7-da56-4ff1-97c2-ce30f977d9cc"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:19+00:00"
     },
     "98871a936cc83d0782529add78c57f90604c360fe6cdef31c90e68c6def30ab5": {
       "title": "AVG (algemene verordening gegevensbescherming) Privacyverklaring Gemeenteraad Hoorn 2022",
@@ -46834,7 +47285,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||AVG (algemene verordening gegevensbescherming) Privacyverklaring Gemeenteraad Hoorn 2022|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|9cd7ec1a096aadfc6f6aa89123963107dd24727bc17e1610e175616b245e6caa|AVG (algemene verordening gegevensbescherming) Privacyverklaring Gemeenteraad Hoorn 2022|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "9cd7ec1a096aadfc6f6aa89123963107dd24727bc17e1610e175616b245e6caa",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Privacyverklaring Gemeenteraad Hoorn 2022"
+      ],
+      "bijlagen": [
+        {
+          "t": "Privacyverklaring Gemeenteraad Hoorn 2022",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d3a98710-cb73-4bd5-ad81-193d02b14209"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:21+00:00"
     },
     "24bfe6d7355e589fd42f9c5966e60673274651fd7b946c70eaada43f4ecce0f5": {
       "title": "Agressieprotocol raadsleden",
@@ -46852,7 +47316,20 @@
       "last_seen": "2026-11-25",
       "report_pass": "2026-11-25T10:35:58+00:00",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Agressieprotocol raadsleden|Interne regelingen Raad en Commissies"
+      "kw_sig": "4f53cda18c2b|54c7cf2144f2bfbea22507ee758bd397d84c80a804c1cda6753e7e8cee8d23e4|Agressieprotocol raadsleden|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "54c7cf2144f2bfbea22507ee758bd397d84c80a804c1cda6753e7e8cee8d23e4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Agressieprotocol 2019 gemeente Hoorn"
+      ],
+      "bijlagen": [
+        {
+          "t": "Agressieprotocol 2019 gemeente Hoorn",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5a144bf1-236a-44b8-a22d-c923d4e74159"
+        }
+      ],
+      "content_checked": "2026-11-25T15:18:24+00:00"
     },
     "5e951ad31a86e7c52224fba7561f2548e6d6f0ac7f38dfed55cbd047cd3d8227": {
       "title": "Warmteplan Streektuinen",
@@ -50231,7 +50708,25 @@
       "doc_date": "2026-01-12",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief aan informateur mevr. Letschert inzake bouw van een nieuwe woonwijk bij Hoorn|Overige acties raad"
+      "kw_sig": "4f53cda18c2b|8ad30ff13d1f829d8542efc9f4e784edef02f4c76d7561f5b441684906d59d0c|Brief aan informateur mevr. Letschert inzake bouw van een nieuwe woonwijk bij Hoorn|Overige acties raad",
+      "missing_count": 0,
+      "text_hash": "8ad30ff13d1f829d8542efc9f4e784edef02f4c76d7561f5b441684906d59d0c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "aan informateur Letschert nieuwe woonwijk bij Hoorn",
+        "Reactie VVD Koggenland - Leekerlanden Blijven Groen"
+      ],
+      "bijlagen": [
+        {
+          "t": "aan informateur Letschert nieuwe woonwijk bij Hoorn",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ef258ca6-3d43-4c00-918a-990fc3cf84eb"
+        },
+        {
+          "t": "Reactie VVD Koggenland - Leekerlanden Blijven Groen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4c1587ae-cc18-4fca-b7ff-401c7a1a4f23"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:18+00:00"
     },
     "b4770c492977e26258c4625f490d019659c64c06700f49d28d75e562ada57b0b": {
       "title": "Verruiming strooiroutes en gratis zout",
@@ -50251,7 +50746,20 @@
       "doc_date": "2026-01-07",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verruiming strooiroutes en gratis zout|Overige acties raad"
+      "kw_sig": "4f53cda18c2b|976a0b8e7ce9e32abc262e8e453d5b045151a2e21c26ebd2358c839fa387ba74|Verruiming strooiroutes en gratis zout|Overige acties raad",
+      "missing_count": 0,
+      "text_hash": "976a0b8e7ce9e32abc262e8e453d5b045151a2e21c26ebd2358c839fa387ba74",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "verruiming strooiroutes en gratis zout"
+      ],
+      "bijlagen": [
+        {
+          "t": "verruiming strooiroutes en gratis zout",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/de905ae1-3a33-4233-8c6e-5c79256aaf6d"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:19+00:00"
     },
     "4f338847ee5302bb145b24765609ea94e56a1b794b98133abc8b3d2c0e0f45b7": {
       "title": "Gun dit college een budgetcoach",
@@ -52846,7 +53354,25 @@
       "doc_date": "2026-01-16",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen verbouwing Westfries Museum|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|1aee3049e38bc02cd6b9f4084a41f7ea144d31efb8b12f758756d1421f336924|Artikel 36 vragen verbouwing Westfries Museum|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "1aee3049e38bc02cd6b9f4084a41f7ea144d31efb8b12f758756d1421f336924",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen Verbouwing Westfries Museum",
+        "Beantwoording artikel 36 vragen verbouwing Westfries Museum"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen Verbouwing Westfries Museum",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1e9a4f88-e364-4c8b-8678-236b80ee0858"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen verbouwing Westfries Museum",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e8596174-2e53-4e3a-916c-acabc579724d"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:06+00:00"
     },
     "e97b60753286fceb978a532d4cd9dc1bdcc3ea1327fa3a0df6a71a31caca9e7e": {
       "title": "Artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen",
@@ -52866,7 +53392,25 @@
       "doc_date": "2026-01-15",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|d53f596d3ff0c3bbd8cff5a680e92881a7ce7528f6a1dfa554c6ccd0765a768c|Artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "d53f596d3ff0c3bbd8cff5a680e92881a7ce7528f6a1dfa554c6ccd0765a768c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen",
+        "Beantwoording artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/6d3c1e8e-7fa7-40f3-b59f-99bb02b9e3ff"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen inzake bouw 30 appartementen of publiekstrekker De Huesmolen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/3fd96ae3-365b-4b61-b835-ee9d3de5a5a9"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:08+00:00"
     },
     "cfe89570b06572229e4708751d48b1a89e8355ea69d00aa9050de6508757f03c": {
       "title": "Artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
@@ -52886,7 +53430,45 @@
       "doc_date": "2026-01-06",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|01562648264c3ef91219072c656f32fa44249f90fafd39ece54a490d15bcda8d|Artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "01562648264c3ef91219072c656f32fa44249f90fafd39ece54a490d15bcda8d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
+        "Tussenbericht artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
+        "Beantwoording artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
+        "06-01-2026: Artikel 36-vervolgvragen illegale plaatsing kledingbakken",
+        "Afbeelding bij vragen d.d. 06-01-2026",
+        "Beantwoording artikel 36 vragen over illegale plaatsing kledingbakken (deel 3)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/701323dd-d439-4fd6-95fc-2822bd5ded80"
+        },
+        {
+          "t": "Tussenbericht artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/648aefee-5514-430d-af33-f9bcc561832a"
+        },
+        {
+          "t": "Beantwoording artikel 36 (vervolg) vragen over illegale plaatsing kledingbakken",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/24b231be-5a39-41b6-ad6a-7bd9ca53cc91"
+        },
+        {
+          "t": "06-01-2026: Artikel 36-vervolgvragen illegale plaatsing kledingbakken",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/3e26d3ce-37ac-45ca-8cec-d46c8613969f"
+        },
+        {
+          "t": "Afbeelding bij vragen d.d. 06-01-2026",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e4c78782-7297-41af-a1b4-14b9dd30fb18"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen over illegale plaatsing kledingbakken (deel 3)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2078cecc-d65d-4feb-875b-8fd84b91f763"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:28+00:00"
     },
     "3ad05c4265cb8cf19075520057324809b62241552c14417b61d5bfa9e2cde3a5": {
       "title": "Artikel 36 vragen dempen vijver Julianaplein / Venenlaankwartier",
@@ -52906,7 +53488,30 @@
       "doc_date": "2026-01-05",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen dempen vijver Julianaplein / Venenlaankwartier|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|d6821c997a9fdc22e2e55015f1712ec3214bbd6721fb9bc54e9164009154c5a6|Artikel 36 vragen dempen vijver Julianaplein / Venenlaankwartier|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "d6821c997a9fdc22e2e55015f1712ec3214bbd6721fb9bc54e9164009154c5a6",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "artikel 36-vragen dempen vijver Julianaplein / Venenlaankwartier",
+        "Beantwoording artikel 36 vragen dempen vijver Julianaplein Venenlaankwartier",
+        "Bijlage afweging depotlocatie"
+      ],
+      "bijlagen": [
+        {
+          "t": "artikel 36-vragen dempen vijver Julianaplein / Venenlaankwartier",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f39e51eb-43b5-4422-b826-80cf03aecb11"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen dempen vijver Julianaplein Venenlaankwartier",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2cd6ee26-e908-445a-b404-e595ef09cb54"
+        },
+        {
+          "t": "Bijlage afweging depotlocatie",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b4779e9c-9835-4f40-8ef1-d717ceebebdc"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:47+00:00"
     },
     "0788362e6de62b4156a7266775ddbd222b5c1af4d877b72fefe5f23ce907cb6a": {
       "title": "Artikel 36 vragen over de uitvoering van de motie dak- en thuislozen",
@@ -52926,7 +53531,25 @@
       "doc_date": "2026-01-05",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen over de uitvoering van de motie dak- en thuislozen|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|360c651a1c34afa09f59ca955cf68cc31fbdebf80c0ac37e4702d3047c64c0c7|Artikel 36 vragen over de uitvoering van de motie dak- en thuislozen|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "360c651a1c34afa09f59ca955cf68cc31fbdebf80c0ac37e4702d3047c64c0c7",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "art. 36 vragen uitvoering motie dak-en thuislozen",
+        "Beantwoording artikel 36 vragen over de uitvoering van de motie dak- en thuislozen"
+      ],
+      "bijlagen": [
+        {
+          "t": "art. 36 vragen uitvoering motie dak-en thuislozen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/51c526fb-9fb9-4be6-9e61-755b891048c2"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen over de uitvoering van de motie dak- en thuislozen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1a5142c1-e696-42ba-abf8-52bb9ee03af5"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:52+00:00"
     },
     "4217e91d48dfc6ddc5dfb90e816acc928c657950297ccee46871b6428e3d8d05": {
       "title": "Artikel 36 vragen inzake schade in openbare ruimte rond de jaarwisseling",
@@ -52946,7 +53569,25 @@
       "doc_date": "2026-01-05",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Artikel 36 vragen inzake schade in openbare ruimte rond de jaarwisseling|Artikel 36 vragen"
+      "kw_sig": "4f53cda18c2b|51c2bbec63d452499abef2bfe7de455030e29c79fff25642b01d66c8211f20e7|Artikel 36 vragen inzake schade in openbare ruimte rond de jaarwisseling|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "51c2bbec63d452499abef2bfe7de455030e29c79fff25642b01d66c8211f20e7",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36-vragen inzake schade in de openbare ruimte rond de jaarwisseling",
+        "Beantwoording artikel 36 vragen inzake schade in openbare ruimte rond de jaarwisseling"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36-vragen inzake schade in de openbare ruimte rond de jaarwisseling",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/20a23093-c178-4d5e-aaf4-2b9243e45cd5"
+        },
+        {
+          "t": "Beantwoording artikel 36 vragen inzake schade in openbare ruimte rond de jaarwisseling",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/24be310e-928c-4c0d-938e-c705ff7142ce"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:56+00:00"
     },
     "4e54c862a6e905b997532e8cd91df5793cde53fdc42d86becf18bc3b87e8feb5": {
       "title": "Artikel 36 (vervolg) vragen inzake Hoofd2B",
@@ -61983,7 +62624,20 @@
       "doc_date": "2026-01-15",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief Woningbouw 2025|Brieven College"
+      "kw_sig": "4f53cda18c2b|a18f58d67d697a61dbbbf9e4f2b423edee5c4ccb0a63a3d53dad6654fc6ca0b1|Raadsbrief Woningbouw 2025|Brieven College",
+      "missing_count": 0,
+      "text_hash": "a18f58d67d697a61dbbbf9e4f2b423edee5c4ccb0a63a3d53dad6654fc6ca0b1",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief Woningbouw 2025"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief Woningbouw 2025",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/0b31de46-9c76-494c-8003-9c50222623db"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:11+00:00"
     },
     "277579fa8dc24c34771289934554943ce68276d31b64deb9b399f14858c6f067": {
       "title": "Raadsbrief statusupdate vernieuwing Westfries museum fase II",
@@ -62003,7 +62657,25 @@
       "doc_date": "2026-01-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief statusupdate vernieuwing Westfries museum fase II|Brieven College"
+      "kw_sig": "4f53cda18c2b|ae1a8c06468274f8c1f084701556eb9767ddb1bd1a5b3075f08e1e3e7ca336f0|Raadsbrief statusupdate vernieuwing Westfries museum fase II|Brieven College",
+      "missing_count": 0,
+      "text_hash": "ae1a8c06468274f8c1f084701556eb9767ddb1bd1a5b3075f08e1e3e7ca336f0",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbrief statusupdate vernieuwing Westfries Museum fase II",
+        "202601 Visual Vernieuwing van het Westfries Museum"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbrief statusupdate vernieuwing Westfries Museum fase II",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/336e8c6b-cd7f-4be0-9f8d-2920860bd533"
+        },
+        {
+          "t": "202601 Visual Vernieuwing van het Westfries Museum",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/de02037c-7e88-4ebd-9901-b034420dcf1b"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:14+00:00"
     },
     "93f9f5f6b4426181984b266c53c554144831a2c8b754ffd08268cd04396c4cc6": {
       "title": "Raadsbrief tijdelijke omleiding buslijn 314 en nachtlijn N14 Grote Waal",
@@ -62023,7 +62695,20 @@
       "doc_date": "2026-01-07",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsbrief tijdelijke omleiding buslijn 314 en nachtlijn N14 Grote Waal|Brieven College"
+      "kw_sig": "4f53cda18c2b|5c2811c962317ac0ad8a57e0491b90c307e4b5dc7be8264eeb574870d93a815c|Raadsbrief tijdelijke omleiding buslijn 314 en nachtlijn N14 Grote Waal|Brieven College",
+      "missing_count": 0,
+      "text_hash": "5c2811c962317ac0ad8a57e0491b90c307e4b5dc7be8264eeb574870d93a815c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief raad tijdelijke omleiding buslijn 314 en nachtlijn N14"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief raad tijdelijke omleiding buslijn 314 en nachtlijn N14",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d4de6d49-8d69-4f4e-a914-f9a339d31b7e"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:21+00:00"
     },
     "86b97944ae8ea2e79dd4c03bd0319d9cfd3b61284f2728a1e1294b7974cfc223": {
       "title": "Raadsbrief stand van zaken asbestdossier Van Beijerenstraat en Julianaplein",
@@ -66689,7 +67374,20 @@
       "doc_date": "2026-01-13",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 13 januari 2026|Besluitenlijst B&W"
+      "kw_sig": "4f53cda18c2b|de1b813a89a41d1dd65647a614aae81bd02ce8eb554d12787cb851f5a2792d6b|Besluitenlijst 13 januari 2026|Besluitenlijst B&W",
+      "missing_count": 0,
+      "text_hash": "de1b813a89a41d1dd65647a614aae81bd02ce8eb554d12787cb851f5a2792d6b",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026 01 13 besluitenlijst openbaar"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026 01 13 besluitenlijst openbaar",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d1a7d1fb-9604-4172-abc1-e5bb78689891"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:16+00:00"
     },
     "33ecc94c29138f77fc8e88642b4013e2b6e9673c6356a7c35f6a893013812241": {
       "title": "Besluitenlijst 6 januari 2026",
@@ -66709,7 +67407,20 @@
       "doc_date": "2026-01-06",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 6 januari 2026|Besluitenlijst B&W"
+      "kw_sig": "4f53cda18c2b|3a26c502905d43b16e9656ecaae76d38812766c81e6e32d3906c5b2ced07b5c3|Besluitenlijst 6 januari 2026|Besluitenlijst B&W",
+      "missing_count": 0,
+      "text_hash": "3a26c502905d43b16e9656ecaae76d38812766c81e6e32d3906c5b2ced07b5c3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026 01 06 besluitenlijst openbaar"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026 01 06 besluitenlijst openbaar",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/16c8e8ca-4ab7-45af-a4e7-87bd97ece940"
+        }
+      ],
+      "content_checked": "2026-11-25T15:16:30+00:00"
     },
     "45d3f2701468c914b92c2c4046e1772fd8c3036b36d0d943516c06da409adbc1": {
       "title": "Algemene Raadscommissie donderdag 1 oktober 2026",
@@ -86170,14 +86881,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "ok": true,
         "count": 144,
         "new": 0,
         "note": "Laatste 30 dagen: 144 van 144 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-25T15:01:27+00:00",
+        "checked": "2026-11-25T15:15:48+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -86185,22 +86896,22 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 342 documenten bekend. Dekking: vergaderingen van 2026-09-26 t/m 2027-01-09 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-25T15:01:41+00:00",
+        "checked": "2026-11-25T15:16:02+00:00",
         "ok": true,
         "count": 491,
-        "new": 2,
+        "new": 0,
         "error": null,
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3022, Toezeggingen 1467, Amendementen 563, Artikel 36 vragen 1048, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-25T15:01:41+00:00",
+        "checked": "2026-11-25T15:16:02+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-25T15:01:41+00:00",
+        "checked": "2026-11-25T15:16:02+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
@@ -86215,25 +86926,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-25T15:01:46+00:00",
+        "checked": "2026-11-25T15:16:02+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-25T15:05:35+00:00",
+        "checked": "2026-11-25T15:18:24+00:00",
         "ok": true,
-        "count": 50,
+        "count": 35,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (0 pdf), 976 gevolgd (alle gemeenten), 35 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "35 documenten gecontroleerd (0 pdf), 976 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-25T15:05:35+00:00",
+        "checked": "2026-11-25T15:18:24+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-25T15:05:35+00:00",
+        "checked": "2026-11-25T15:18:24+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -86250,7 +86961,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -86259,7 +86970,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -86268,7 +86979,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -86282,7 +86993,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -86298,7 +87009,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -86390,7 +87101,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -86411,7 +87122,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -86431,7 +87142,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -86452,7 +87163,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -86476,7 +87187,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-25T15:00:55+00:00",
+        "checked": "2026-11-25T15:15:29+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
