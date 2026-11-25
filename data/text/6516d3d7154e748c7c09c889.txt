@@ -1,0 +1,80 @@
+BEGROTINGSWIJZIGING 2026 TOTAAL VERWERKT 0 0 0 0 0
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 0 0 0 0 0
+Begrotingswijziging is gemaakt door:Ramona totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Wendy categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2026 2027 2028 2029 2030
+0 400.000 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Opvang bijzondere doelgroepen 114300 4234 33000 U Externe inhuur personeel 0 146.000 0 0 0 Zaaknr 3092865 kwartiermaker & secretarieel medewerker
+Opvang bijzondere doelgroepen 114300 4234 33541 U Begeleidingskosten 0 15.000 0 0 0 Zaaknr 309286 uitwerking stedebouwontwikkeling
+Opvang bijzondere doelgroepen 114300 4234 33540 U Advieskosten 0 15.000 0 0 0 Zaaknr 309286 extern juridisch advies
+Opvang bijzondere doelgroepen 114300 4234 33501 U Organisatiekosten 0 24.000 0 0 0 Zaaknr 309286 participatiebijeenkomsten
+Opvang bijzondere doelgroepen 114300 4234 44101 I Inkomensoverdrachten - Rijk 0 200.000 0 0 0 Zaaknr 309286 regeling 'tijdelijke bekostiging opvang en huisvesting gemeenten'
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Zaaknummer + titel: 3092865 Locatieonderzoek huisvesting bijzondere doelgroepenAdviseur: Ramona ZandbergenToelichting op het besluit om de begroting te wijzigen: De gemeente Hoorn staat voor een omvangrijke opgave voor de opvang en huisvesting van bijzondere doelgroepen.
+Om de ruimtelijke uitwerking, aanvullende onderzoeken, participatie en voorbereiding van de opvanglocaties voort te zetten, is een budget nodig van € 200.000.
+Deze kosten vallen binnen de rijksregeling tijdelijke bekostiging opvang en huisvesting gemeenten en worden daardoor vergoed door het Rijk.
+Het risico dat de gemeente hierbij loopt, is dat als er geen opvanglocatie wordt gerealiseerd, de kosten voor het onderzoek ook niet worden vergoed.
+Op dat moment zal een nieuw voorstel worden voorgelegd voor dekking van de gemaakte kosten.
