@@ -3,6 +3,210 @@
     "hoorn"
   ],
   "items": {
+    "9125f111899b68fa34a65b938d9ef83a958c8ac43f270c824311429cbf34ed30": {
+      "title": "Kruisstraat 16 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-551372.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:30:38+00:00",
+      "updated": "2026-11-26T08:30:38+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.640756,
+        5.05862
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Kruisstraat 16 te Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Kruisstraat 16 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "e06670e6edbbfcefafba52d273487faf416275cb085176d8c80338e8b1a015d7": {
+      "title": "Vredehofstraat 7 INGEDIENDE AANVRAAG OMGEVINGSVERGUNNING",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-551613.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:30:38+00:00",
+      "updated": "2026-11-26T08:30:38+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.650298,
+        5.058865
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Vredehofstraat 7 te Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Vredehofstraat 7 INGEDIENDE AANVRAAG OMGEVINGSVERGUNNING|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "fe1230322137b6e6637aa5e68acfbd3ad979514a1a54f31c809e6756086f9676": {
+      "title": "Koepoortsweg 48 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-552112.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:30:38+00:00",
+      "updated": "2026-11-26T08:30:38+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.645995,
+        5.058256
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Koepoortsweg 48 te Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Koepoortsweg 48 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "c6c6c1b603e37aaa621e7e86660d8f4c9348cab4053e261ecbb2417340562eae": {
+      "title": "Oliemolen 130 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-552144.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:30:38+00:00",
+      "updated": "2026-11-26T08:30:38+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.639247,
+        5.022204
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Oliemolen 130 te Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Oliemolen 130 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "6ea6a8bc70d9476a1c2fd1989f01dcbe3cc28cf45f8090f7b6d6bdb3abf1cb3a": {
+      "title": "Karos 44 INGEDIENDE AANVRAAG OMGEVINGSVERGUNNING",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-551432.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:30:38+00:00",
+      "updated": "2026-11-26T08:30:38+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.654337,
+        5.056661
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Karos 44 te Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Karos 44 INGEDIENDE AANVRAAG OMGEVINGSVERGUNNING|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "054b4ee179547184ce22b57e27ee36328b7d6c0929ca8243e80c7519708a1e96": {
+      "title": "Poolster 181 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-551933.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:30:38+00:00",
+      "updated": "2026-11-26T08:30:38+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.637973,
+        5.037963
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Poolster 181 te Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Poolster 181 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
     "d99366eec75eaa4720528e2961a198b56330ddd552eb534b12ad148206e5f549": {
       "title": "Paaldijk 118 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
       "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-550836.html",
@@ -87467,14 +87671,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "ok": true,
-        "count": 149,
-        "new": 10,
-        "note": "Laatste 30 dagen: 149 van 149 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 155,
+        "new": 6,
+        "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T08:15:45+00:00",
+        "checked": "2026-11-26T08:30:57+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -87482,7 +87686,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 342 documenten bekend. Dekking: vergaderingen van 2026-09-27 t/m 2027-01-10 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-26T08:15:56+00:00",
+        "checked": "2026-11-26T08:31:09+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -87490,14 +87694,14 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3022, Toezeggingen 1467, Amendementen 563, Artikel 36 vragen 1048, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-26T08:15:57+00:00",
+        "checked": "2026-11-26T08:31:09+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-26T08:15:57+00:00",
+        "checked": "2026-11-26T08:31:09+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
@@ -87512,25 +87716,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T08:16:00+00:00",
+        "checked": "2026-11-26T08:31:09+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T08:16:19+00:00",
+        "checked": "2026-11-26T08:31:15+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 978 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T08:16:19+00:00",
+        "checked": "2026-11-26T08:31:15+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T08:16:19+00:00",
+        "checked": "2026-11-26T08:31:15+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -87547,7 +87751,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -87556,7 +87760,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -87565,7 +87769,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -87579,7 +87783,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -87595,7 +87799,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -87687,7 +87891,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -87708,7 +87912,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -87728,7 +87932,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -87749,7 +87953,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -87773,7 +87977,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-26T08:15:28+00:00",
+        "checked": "2026-11-26T08:30:38+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -87844,7 +88048,7 @@
       }
     },
     "meetings_listed": {
-      "hoorn": "2026-11-26T08:00:47+00:00"
+      "hoorn": "2026-11-26T08:30:40+00:00"
     },
     "reports": {
       "hoorn": {
