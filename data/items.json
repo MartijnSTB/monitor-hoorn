@@ -3,6 +3,100 @@
     "hoorn"
   ],
   "items": {
+    "82191e35b112b3fa0402f2088aacf6044833797e8db8dfac8962dc4b1ac1238c": {
+      "title": "Gratis castratie en chippen van katten voor inwoners met laag inkomen",
+      "url": "https://www.hoorn.nl/nieuws/Gratis-castratie-en-chippen-van-katten-voor-inwoners-met-laag-inkomen.html?utm_campaign=RSSfeed",
+      "source": "Nieuws",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:28+00:00",
+      "updated": "2026-11-26T20:16:49+00:00",
+      "last_change": "2026-11-26T20:16:49+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-26",
+      "published_at": "2026-11-12T12:25+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "<p>Inwoners van Hoorn met een laag inkomen kunnen hun kat gratis laten castreren of steriliseren. Daarbij is het ook mogelijk om de kat gratis te laten chippen, in combinatie met de castratie/sterilisatie.</p>",
+      "kw_sig": "4f53cda18c2b|619f2eed86d5b964d570c43efe0e8b56a551e9fa6dadb258a032213b2fd4bd1a|Gratis castratie en chippen van katten voor inwoners met laag inkomen|<p>Inwoners van Hoorn met een laag inkomen kunnen hun kat gratis laten castreren of steriliseren. Daarbij is het ook mogelijk om de kat gratis te laten chippen, in combinatie met de castratie/sterilisatie.</p>",
+      "missing_count": 0,
+      "text_hash": "619f2eed86d5b964d570c43efe0e8b56a551e9fa6dadb258a032213b2fd4bd1a",
+      "content_checked": "2026-11-26T20:16:49+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T14:01:49+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-26T20:16:49+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 7 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "b43dffa698a08353f758cc8671102ec99fc61992527545df6544f41c1a42d113": {
+      "title": "Gemeenteraad heeft begroting 2027 vastgesteld",
+      "url": "https://www.hoorn.nl/nieuws/Gemeenteraad-heeft-begroting-2027-vastgesteld.html?utm_campaign=RSSfeed",
+      "source": "Nieuws",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:28+00:00",
+      "updated": "2026-11-26T20:16:48+00:00",
+      "last_change": "2026-11-26T20:16:48+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-26",
+      "published_at": "2026-11-12T14:00+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "<p>De gemeenteraad heeft op 10 november de begroting voor het komende jaar vastgesteld. 23 raadsleden stemden vóór en 11 raadsleden tegen. Er werden 11 moties aangenomen en 1 amendement.</p>",
+      "kw_sig": "4f53cda18c2b|83f3d7abb94bdc2742a4d0a44ce89ff69c187e3adeef931326aabb348ac67d50|Gemeenteraad heeft begroting 2027 vastgesteld|<p>De gemeenteraad heeft op 10 november de begroting voor het komende jaar vastgesteld. 23 raadsleden stemden vóór en 11 raadsleden tegen. Er werden 11 moties aangenomen en 1 amendement.</p>",
+      "missing_count": 0,
+      "text_hash": "83f3d7abb94bdc2742a4d0a44ce89ff69c187e3adeef931326aabb348ac67d50",
+      "content_checked": "2026-11-26T20:16:48+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T14:01:49+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-26T20:16:48+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 7 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "3cbd4b7f309de80253e4552ac2db75c09810ddd509964ce7e887401615ab0f08": {
       "title": "Commissievergadering dinsdag 24 november",
       "url": "https://www.hoorn.nl/nieuws/Commissievergadering-dinsdag-24-november.html?utm_campaign=RSSfeed",
@@ -853,78 +947,6 @@
       "content_checked": "2026-11-26T14:16:23+00:00",
       "kw_sig": "4f53cda18c2b|2f865f843af9f67fb5515a824db9c9d7967167b557fa56253ac800a321fe7771|Artikel 36 vragen - Gemiste zienswijze bij Guldenhof|Artikel 36 vragen"
     },
-    "b43dffa698a08353f758cc8671102ec99fc61992527545df6544f41c1a42d113": {
-      "title": "Gemeenteraad heeft begroting 2027 vastgesteld",
-      "url": "https://www.hoorn.nl/nieuws/Gemeenteraad-heeft-begroting-2027-vastgesteld.html?utm_campaign=RSSfeed",
-      "source": "Nieuws",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:28+00:00",
-      "updated": "2026-11-26T14:01:49+00:00",
-      "last_change": "2026-11-26T14:01:49+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-12",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-12",
-      "last_seen": "2026-11-26",
-      "published_at": "2026-11-12T14:00+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "<p>De gemeenteraad heeft op 10 november de begroting voor het komende jaar vastgesteld. 23 raadsleden stemden vóór en 11 raadsleden tegen. Er werden 11 moties aangenomen en 1 amendement.</p>",
-      "kw_sig": "4f53cda18c2b|59e7249121bf2b52a33e0d70cf03e9e112df690684cefddf89f18ce97e46bb34|Gemeenteraad heeft begroting 2027 vastgesteld|<p>De gemeenteraad heeft op 10 november de begroting voor het komende jaar vastgesteld. 23 raadsleden stemden vóór en 11 raadsleden tegen. Er werden 11 moties aangenomen en 1 amendement.</p>",
-      "missing_count": 0,
-      "text_hash": "59e7249121bf2b52a33e0d70cf03e9e112df690684cefddf89f18ce97e46bb34",
-      "content_checked": "2026-11-26T14:01:49+00:00",
-      "changes": [
-        {
-          "at": "2026-11-26T14:01:49+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Gemeente Hoorn",
-            "×",
-            "Welkom bij de gemeente Hoorn."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "82191e35b112b3fa0402f2088aacf6044833797e8db8dfac8962dc4b1ac1238c": {
-      "title": "Gratis castratie en chippen van katten voor inwoners met laag inkomen",
-      "url": "https://www.hoorn.nl/nieuws/Gratis-castratie-en-chippen-van-katten-voor-inwoners-met-laag-inkomen.html?utm_campaign=RSSfeed",
-      "source": "Nieuws",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:28+00:00",
-      "updated": "2026-11-26T14:01:49+00:00",
-      "last_change": "2026-11-26T14:01:49+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-12",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-12",
-      "last_seen": "2026-11-26",
-      "published_at": "2026-11-12T12:25+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "<p>Inwoners van Hoorn met een laag inkomen kunnen hun kat gratis laten castreren of steriliseren. Daarbij is het ook mogelijk om de kat gratis te laten chippen, in combinatie met de castratie/sterilisatie.</p>",
-      "kw_sig": "4f53cda18c2b|6ebe93a7bbb318fef089e90bd8ee5d378e922d9b7c511986a2c80cbe7e48c3df|Gratis castratie en chippen van katten voor inwoners met laag inkomen|<p>Inwoners van Hoorn met een laag inkomen kunnen hun kat gratis laten castreren of steriliseren. Daarbij is het ook mogelijk om de kat gratis te laten chippen, in combinatie met de castratie/sterilisatie.</p>",
-      "missing_count": 0,
-      "text_hash": "6ebe93a7bbb318fef089e90bd8ee5d378e922d9b7c511986a2c80cbe7e48c3df",
-      "content_checked": "2026-11-26T14:01:49+00:00",
-      "changes": [
-        {
-          "at": "2026-11-26T14:01:49+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Gemeente Hoorn",
-            "×",
-            "Welkom bij de gemeente Hoorn."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
     "a429870170374aa759a4a0b1773f1a1fd89cfd7a031ec812175a62582e5a34b4": {
       "title": "Technische aanvullende vragen FvD",
       "url": "https://hoorn.bestuurlijkeinformatie.nl/Agenda/Document/645769fa-56bc-4288-8821-e7b0cddd1560?documentId=1d92e6f9-6d7b-4639-8b8b-a85e85ce9151&agendaItemId=3c34dbd1-0a6f-4db1-8415-66c34a2b2002",
@@ -952,7 +974,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)",
       "missing_count": 0,
       "text_hash": "6d4f4cd32a5a52a38536daa85db5e67b463272760390fd5f46491e7aa0ff631f",
-      "content_checked": "2026-11-26T14:01:20+00:00",
+      "content_checked": "2026-11-26T20:16:21+00:00",
       "kw_sig": "4f53cda18c2b|6d4f4cd32a5a52a38536daa85db5e67b463272760390fd5f46491e7aa0ff631f|Technische aanvullende vragen FvD|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)"
     },
     "265ffcc2db5d33cd89761334d2900141269862cc6059093ff45d21fe824ed1c8": {
@@ -21722,7 +21744,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)",
       "missing_count": 0,
       "text_hash": "1e66ee498fcb73fd4962227bfe7565959bd6d023d5b0a96474beb363f4c74ef2",
-      "content_checked": "2026-11-26T14:01:52+00:00",
+      "content_checked": "2026-11-26T20:16:51+00:00",
       "kw_sig": "4f53cda18c2b|1e66ee498fcb73fd4962227bfe7565959bd6d023d5b0a96474beb363f4c74ef2|Mail inwoner - Bezorgdheid over locatie Vonk|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)"
     },
     "d0bb41f747bfd80ded52f0c222ddfeb94bef12122888b4e736d00385424a6d07": {
@@ -50497,7 +50519,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/6b69b27b-6702-44c6-8a2d-32e438fee106"
         }
       ],
-      "content_checked": "2026-11-26T14:01:51+00:00"
+      "content_checked": "2026-11-26T20:16:51+00:00"
     },
     "37a9536f709ee1f7bd146de7ea20bd8bfb5c04d0ede4c43ca1b9f2a16f53b86c": {
       "title": "Overige vragen PRO en Partij voor de Dieren over ketikoti",
@@ -56339,7 +56361,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a0501d20-62f0-4774-833a-bbf64844509a"
         }
       ],
-      "content_checked": "2026-11-26T14:01:25+00:00"
+      "content_checked": "2026-11-26T20:16:28+00:00"
     },
     "4164fdf0e2787de2bbddfa03572856c6002532e56bc16e5e70a23472264f86f4": {
       "title": "Artikel 36 vragen toekomst voormalige Philipsfabriek Holenkwartier",
@@ -56372,7 +56394,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/9d3789a6-8c55-40e4-b8bd-c714ad94ba7c"
         }
       ],
-      "content_checked": "2026-11-26T14:01:27+00:00"
+      "content_checked": "2026-11-26T20:16:29+00:00"
     },
     "984aac9c94325794662b0b1d6b82d392b9bfb32b0f8c66513710d0820f012591": {
       "title": "Artikel 36 vragen afslag Kersenboogerd op provinciale weg",
@@ -56405,7 +56427,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/15768163-b999-4a72-b3c5-1192e342a4ff"
         }
       ],
-      "content_checked": "2026-11-26T14:01:37+00:00"
+      "content_checked": "2026-11-26T20:16:32+00:00"
     },
     "dd764cbe6bd0aa5b02c4e4cf6929d3820b42330b04cc1bfe92437c9e9a98eed3": {
       "title": "Artikel 36 vragen budget geveltuintjes 2026-2027",
@@ -65488,7 +65510,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/0a0ce33e-ad97-4716-96ce-2c7ccf530df7"
         }
       ],
-      "content_checked": "2026-11-26T14:01:39+00:00"
+      "content_checked": "2026-11-26T20:16:44+00:00"
     },
     "0b9f45cb52f16d973e157aada5512a475f8ca3cfedafc51cb8706dcec587311c": {
       "title": "Raadsbrief maatschappelijke opdracht Sportbedrijf Hoorn",
@@ -65526,7 +65548,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f4054655-3cc8-4c41-be4c-c8d67cf7c171"
         }
       ],
-      "content_checked": "2026-11-26T14:01:48+00:00"
+      "content_checked": "2026-11-26T20:16:47+00:00"
     },
     "9929b7d64a6510d5fcc0b3f501fe9668f8c50b0f870871d97085a8ae6f1b160b": {
       "title": "Raadsbrief dienstregeling 2027 en omleiding Poortwachter",
@@ -72066,7 +72088,7 @@
       "kw_sig": "4f53cda18c2b|0ae812704c5f219b972da03ddc51ce8a65eae7b5c79c3f5bbfd47d5369570b0b|Commissieadvies - Statutenwijziging Stichting SCIO voor Opvang en Onderwijs|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 6.2 Statutenwijziging Stichting SCIO voor Opvang en Onderwijs (portefeuillehouder Heijne)",
       "missing_count": 0,
       "text_hash": "0ae812704c5f219b972da03ddc51ce8a65eae7b5c79c3f5bbfd47d5369570b0b",
-      "content_checked": "2026-11-26T14:01:21+00:00"
+      "content_checked": "2026-11-26T20:16:22+00:00"
     },
     "544a4008800293a8f4317df1e5903f3d893b4f6c3d9b0b133083c645f99d76a5": {
       "title": "Bijlage 1 Statuten SCIO Groep",
@@ -72096,7 +72118,7 @@
       "kw_sig": "4f53cda18c2b|cdc2ea801be49a68d025a103145957588365acf00bd84fb0af5dab6b05f921dc|Bijlage 1 Statuten SCIO Groep|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 6.2 Statutenwijziging Stichting SCIO voor Opvang en Onderwijs (portefeuillehouder Heijne)",
       "missing_count": 0,
       "text_hash": "cdc2ea801be49a68d025a103145957588365acf00bd84fb0af5dab6b05f921dc",
-      "content_checked": "2026-11-26T14:01:23+00:00"
+      "content_checked": "2026-11-26T20:16:25+00:00"
     },
     "45e1a0d99ed3db58d535071ca3d35c3fd02c928b1416d9dbc1eba87f938432d0": {
       "title": "Bijlage 2 CONCEPT Akte van statutenwijziging Stichting Scio Groep opvang onderwijs",
@@ -72126,7 +72148,7 @@
       "kw_sig": "4f53cda18c2b|f618cd5092bc17687dcb5bc405b884f71f3780c35cab7e44a919b33dbe496fae|Bijlage 2 CONCEPT Akte van statutenwijziging Stichting Scio Groep opvang onderwijs|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 6.2 Statutenwijziging Stichting SCIO voor Opvang en Onderwijs (portefeuillehouder Heijne)",
       "missing_count": 0,
       "text_hash": "f618cd5092bc17687dcb5bc405b884f71f3780c35cab7e44a919b33dbe496fae",
-      "content_checked": "2026-11-26T14:01:23+00:00"
+      "content_checked": "2026-11-26T20:16:26+00:00"
     },
     "a344b7fc66685b256bc38e113c16c790dcadf62c07924b65586010dfd99828d1": {
       "title": "Algemene Raadscommissie dinsdag 24 november 2026",
@@ -89497,14 +89519,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "ok": true,
         "count": 155,
         "new": 0,
         "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T20:01:11+00:00",
+        "checked": "2026-11-26T20:16:03+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -89512,7 +89534,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 356 documenten bekend. Dekking: vergaderingen van 2026-09-27 t/m 2027-01-10 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-26T20:01:40+00:00",
+        "checked": "2026-11-26T20:16:18+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -89520,18 +89542,16 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3022, Toezeggingen 1466, Amendementen 563, Artikel 36 vragen 1049, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-26T20:01:41+00:00",
+        "checked": "2026-11-26T20:16:19+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-26T20:01:44+00:00",
-        "ok": true,
-        "count": 93,
-        "new": 0,
-        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Hoorn, Blokker, Zwaag. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
+        "checked": "2026-11-26T20:16:21+00:00",
+        "ok": false,
+        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
       }
     },
     "algemeen": {
@@ -89544,25 +89564,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T20:01:44+00:00",
+        "checked": "2026-11-26T20:16:21+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T20:02:54+00:00",
+        "checked": "2026-11-26T20:16:51+00:00",
         "ok": true,
-        "count": 50,
+        "count": 13,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (39 pdf), 1008 gevolgd (alle gemeenten), 8 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "13 documenten gecontroleerd (5 pdf), 1008 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T20:02:54+00:00",
+        "checked": "2026-11-26T20:16:51+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T20:02:54+00:00",
+        "checked": "2026-11-26T20:16:51+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -89579,7 +89599,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -89588,7 +89608,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -89597,7 +89617,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -89611,7 +89631,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -89627,7 +89647,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -89719,7 +89739,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -89740,7 +89760,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -89760,7 +89780,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -89781,7 +89801,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -89805,7 +89825,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-26T20:00:55+00:00",
+        "checked": "2026-11-26T20:15:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -90140,7 +90160,7 @@
       }
     },
     "media": {
-      "pause_until": "2026-11-26T19:01:43+00:00"
+      "pause_until": "2026-11-26T22:16:19+00:00"
     },
     "elders": {
       "woo": "2026-11-26T19:31:21+00:00"
