@@ -3,6 +3,55 @@
     "hoorn"
   ],
   "items": {
+    "265ffcc2db5d33cd89761334d2900141269862cc6059093ff45d21fe824ed1c8": {
+      "title": "Overige vragen Kermis 2027",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/17b8610c-ecd5-4531-9477-13d0bc909bd4",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:23+00:00",
+      "updated": "2026-11-26T05:46:52+00:00",
+      "last_change": "2026-11-26T05:46:52+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Overige vragen raad",
+      "kind": "overzichtsitem",
+      "rapport": "Overige vragen raad",
+      "last_seen": "2026-11-26",
+      "report_pass": "2026-11-26T00:01:20+00:00",
+      "doc_date": "2026-11-17",
+      "doc_date_label": "registratiedatum",
+      "report_seen": true,
+      "kw_sig": "4f53cda18c2b|9732ee0e90ac3596c6c7ade5e777c9f5d8b44f6b0decdbbf96483e87c2849564|Overige vragen Kermis 2027|Overige vragen raad",
+      "missing_count": 0,
+      "text_hash": "9732ee0e90ac3596c6c7ade5e777c9f5d8b44f6b0decdbbf96483e87c2849564",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Overige vragen Kermis 2027"
+      ],
+      "bijlagen": [
+        {
+          "t": "Overige vragen Kermis 2027",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/39a43a55-d5ce-4e3f-9131-c6b24cbc46c8"
+        }
+      ],
+      "content_checked": "2026-11-26T05:46:52+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T05:46:52+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "1 zin(nen) toegevoegd of aangepast, 35 verwijderd of vervangen",
+          "added": [
+            "[Bijlage niet te lezen: 403 Client Error: Forbidden for url: https://hoorn.bestuurli]"
+          ],
+          "removed": [
+            "Naar aanleiding van de beantwoording van 14 augustus 2026 over Bierdorf XXL heeft de",
+            "fractie van Hart van Hoorn de volgende vragen:",
+            "1."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "5312ff26c020b0c469665439d56d405d8310b1690e7dd9b48c82c2304923484e": {
       "title": "Intermaris: warmtenet standaard aanleggen bij nieuwbouw in Hoorn",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYTZqalNEeHJyU2M0Nl9vRVg3OE1ER1ZySHRuaEdRUWRENjBnd3ZHQUp1blRQSWlYWE0zWlp6YTYxaUlLUVVlN2szRHZfOHAxM1RnRWdodERVVHBLZGFucjVNYVhoM2pxblZYOUFVc1BXQW9kbjBSUTZkTWljeTNwT0k2b1IxTkp2REp0SmVUczV6ZmJJY0V5aUxtRHBUUzVkODVRcHBwNXRWWlUyM0ZLaGtBOFZiVWNDT3hCcktRNnRFRWhjelc2SVlWWldOOG1m?oc=5",
@@ -33493,7 +33542,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)",
       "missing_count": 0,
       "text_hash": "450f1f66a32bd37addcf99bce2e6371999ac692d37d2ea1d1368690141b98f4f",
-      "content_checked": "2026-11-25T23:31:11+00:00",
+      "content_checked": "2026-11-26T05:46:16+00:00",
       "kw_sig": "4f53cda18c2b|450f1f66a32bd37addcf99bce2e6371999ac692d37d2ea1d1368690141b98f4f|Derde aanvullende zienswijze - Voorwaarden vóór besluit en verzoek om bevestiging|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)"
     },
     "da9cc8daf22eb174857f264e3c91033b28bfda90794b97cecfe4aeddb2a59e3d": {
@@ -39186,7 +39235,7 @@
       "text_v": 2,
       "bijlagen_titels": [],
       "bijlagen": [],
-      "content_checked": "2026-11-25T23:31:12+00:00",
+      "content_checked": "2026-11-26T05:46:17+00:00",
       "report_pass": "2026-11-26T00:01:20+00:00"
     },
     "ecc31120705659eb354e59657925b846f2cddf146294e161001443e920f3abf4": {
@@ -46446,7 +46495,7 @@
       "kw_sig": "4f53cda18c2b|ea0fea03c3e624f30d8edefbbf39a1d5b06334c91b3b5077ed1e66285d95116e|Commissievergadering dinsdag 24 november|<p>Op dinsdag 24 november 2026 vergadert de raadscommissie in de raadzaal van het stadhuis. Het college vraagt om uitstel voor de herijking subsidies, om een reactie op de belastingverordeningen en op de Hoornse bijdrage aan een ontwikkelingsdocument over de regio Noord-Holland Noord.</p>",
       "missing_count": 0,
       "text_hash": "ea0fea03c3e624f30d8edefbbf39a1d5b06334c91b3b5077ed1e66285d95116e",
-      "content_checked": "2026-11-25T23:32:03+00:00"
+      "content_checked": "2026-11-26T05:46:44+00:00"
     },
     "b43dffa698a08353f758cc8671102ec99fc61992527545df6544f41c1a42d113": {
       "title": "Gemeenteraad heeft begroting 2027 vastgesteld",
@@ -47610,7 +47659,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2ee9e76d-6c42-4c60-acd7-7f215fa7860a"
         }
       ],
-      "content_checked": "2026-11-25T23:32:05+00:00"
+      "content_checked": "2026-11-26T05:46:47+00:00"
     },
     "53601900366020ffd54254a68166be29e095ca1f94c649b068e676f5979c33ed": {
       "title": "Bestuurlijke planning - versie 17 november 2025",
@@ -47643,7 +47692,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e15aa451-77e4-4509-a295-60065da07c01"
         }
       ],
-      "content_checked": "2026-11-25T23:32:09+00:00"
+      "content_checked": "2026-11-26T05:46:50+00:00"
     },
     "ef2d8fb7d8fd6379f95dd51de09f14084a964713bfd51bca815ce050da3e8cca": {
       "title": "Bomenbeleid en groenbeleid",
@@ -47894,7 +47943,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/984ba185-3377-4398-8d4d-301f7ac2aa4b"
         }
       ],
-      "content_checked": "2026-11-25T23:31:56+00:00"
+      "content_checked": "2026-11-26T05:46:43+00:00"
     },
     "40dbb395d02ad0afb79474b4c537699b9c258f2192a2c29dfc80c511ca07a1af": {
       "title": "Overige vragen Openbare toiletvoorzieningen en uitvoering aangenomen motie",
@@ -47927,7 +47976,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/465f2f17-2b75-4220-a60c-67893ca70899"
         }
       ],
-      "content_checked": "2026-11-25T23:32:02+00:00"
+      "content_checked": "2026-11-26T05:46:44+00:00"
     },
     "bf06e290a7081b2b5a9a3a96be53f7489f2049ce559eb6517f65e4bdc60ac42b": {
       "title": "Overige vragen Kruising van Aalstweg",
@@ -47960,40 +48009,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/33fa0755-93a3-4247-8f94-fd25f17a637b"
         }
       ],
-      "content_checked": "2026-11-25T23:32:13+00:00"
-    },
-    "265ffcc2db5d33cd89761334d2900141269862cc6059093ff45d21fe824ed1c8": {
-      "title": "Overige vragen Kermis 2027",
-      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/17b8610c-ecd5-4531-9477-13d0bc909bd4",
-      "source": "Raadsportaal",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:23+00:00",
-      "updated": "2026-11-25T10:36:23+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Overige vragen raad",
-      "kind": "overzichtsitem",
-      "rapport": "Overige vragen raad",
-      "last_seen": "2026-11-26",
-      "report_pass": "2026-11-26T00:01:20+00:00",
-      "doc_date": "2026-11-17",
-      "doc_date_label": "registratiedatum",
-      "report_seen": true,
-      "kw_sig": "4f53cda18c2b|f66ecb685dab649de5d8f599b16d0a037b5b3c1cff248706705bb429b68b9f7d|Overige vragen Kermis 2027|Overige vragen raad",
-      "missing_count": 0,
-      "text_hash": "f66ecb685dab649de5d8f599b16d0a037b5b3c1cff248706705bb429b68b9f7d",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Overige vragen Kermis 2027"
-      ],
-      "bijlagen": [
-        {
-          "t": "Overige vragen Kermis 2027",
-          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/39a43a55-d5ce-4e3f-9131-c6b24cbc46c8"
-        }
-      ],
-      "content_checked": "2026-11-25T23:32:14+00:00"
+      "content_checked": "2026-11-26T05:46:52+00:00"
     },
     "707a34f753f4879187a4310e7fbdccfdc735fb03a4096f45c6befc41462bab90": {
       "title": "Overige vragen betaalbaarheid en toegankelijkheid van muziekonderwijs",
@@ -58761,7 +58777,7 @@
       "text_v": 2,
       "bijlagen_titels": [],
       "bijlagen": [],
-      "content_checked": "2026-11-25T23:32:16+00:00"
+      "content_checked": "2026-11-26T05:46:59+00:00"
     },
     "68d18f7efac0f66e446d4e35e60687e309c0e60505663086ba3971f3e09dbdf9": {
       "title": "Verlichting fietspad stadsstrand",
@@ -58788,7 +58804,7 @@
       "text_v": 2,
       "bijlagen_titels": [],
       "bijlagen": [],
-      "content_checked": "2026-11-25T23:32:17+00:00"
+      "content_checked": "2026-11-26T05:47:01+00:00"
     },
     "aa32e167e7271af2a7552c08328a1f239f787d011ea7faa722cb52c66fdbe3c3": {
       "title": "Watertappunt in het Julianapark",
@@ -62989,7 +63005,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/586444b7-9431-4224-a9f9-02f5b5f0aede"
         }
       ],
-      "content_checked": "2026-11-25T23:32:07+00:00"
+      "content_checked": "2026-11-26T05:46:49+00:00"
     },
     "45b4dc30c7bb6ab0b60192f08ad45a70784ec504591730f8076a8f0d7761d1ec": {
       "title": "Raadsbrief Benoeming directeur-bestuurder Sportbedrijf Hoorn BV",
@@ -63022,7 +63038,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1d5a8728-edf5-405e-a106-f47284f244ba"
         }
       ],
-      "content_checked": "2026-11-25T23:32:19+00:00"
+      "content_checked": "2026-11-26T05:47:03+00:00"
     },
     "67459d8e5a22fe79e935209944d38eb654fe667a231a4c155519a295d467efd9": {
       "title": "Raadsbrief Meerjarenagenda 2026-2030 Arbeidsmarktregio Noord-Holland Noord",
@@ -63055,7 +63071,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f2200c14-6385-4caa-9dff-e0ae0937f93d"
         }
       ],
-      "content_checked": "2026-11-25T23:32:21+00:00"
+      "content_checked": "2026-11-26T05:47:05+00:00"
     },
     "99c3e9677c27970cfaa0ddf43aff241366801a979919c6a72de239736e2efb88": {
       "title": "Raadsbrief Haalbaarheidsonderzoek parkeergarage Noorderveemarkt",
@@ -63088,7 +63104,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a71dc094-a378-4eab-a21c-69b44d86f0bc"
         }
       ],
-      "content_checked": "2026-11-25T23:32:23+00:00"
+      "content_checked": "2026-11-26T05:47:06+00:00"
     },
     "1ee793e6de707a1a35af69ac364b979dfe512363f3d12c0223c907020562d4fd": {
       "title": "Raadsbrief toekomstperspectief sportpark Middelweg",
@@ -66414,7 +66430,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/9418ef5c-9f88-45f2-b2e9-2b5f3c9fd70d"
         }
       ],
-      "content_checked": "2026-11-25T23:32:26+00:00"
+      "content_checked": "2026-11-26T05:47:07+00:00"
     },
     "42031a1b4f641ee8fac34ae34ce74c2c1b6476272e09fc16d9e9467f7980deaf": {
       "title": "Besluitenlijst 10 november 2026",
@@ -68559,7 +68575,7 @@
       "kw_sig": "4f53cda18c2b|6cd2aa37f449bb7a957a7a550f85e41b8f99463ba48584744b3e3b8d25dfee53|Rondvraag|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 4 Rondvraag algemeen",
       "missing_count": 0,
       "text_hash": "6cd2aa37f449bb7a957a7a550f85e41b8f99463ba48584744b3e3b8d25dfee53",
-      "content_checked": "2026-11-25T23:32:26+00:00"
+      "content_checked": "2026-11-26T05:47:08+00:00"
     },
     "09c19ade107a6433d358fa90474c3bcd86c962bf171a30813f697e42be420fcd": {
       "title": "Raadsvoorstel Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.",
@@ -68589,7 +68605,7 @@
       "kw_sig": "4f53cda18c2b|71513028ac0de31738e55dab9715f911b6263fd21590a27419eca23fc2a9f974|Raadsvoorstel Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "71513028ac0de31738e55dab9715f911b6263fd21590a27419eca23fc2a9f974",
-      "content_checked": "2026-11-25T23:32:28+00:00"
+      "content_checked": "2026-11-26T05:47:09+00:00"
     },
     "aeb9dbbbf48575be01e3d50f4d76eade286d83ea0f22b536a1e9ad56464d5141": {
       "title": "Raadsbesluit Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.",
@@ -68619,7 +68635,7 @@
       "kw_sig": "4f53cda18c2b|d08c1eaf39cc4f6aab935ea4f2aaf7be2f5c7b4ce01021fb183fbb3e067c6555|Raadsbesluit Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "d08c1eaf39cc4f6aab935ea4f2aaf7be2f5c7b4ce01021fb183fbb3e067c6555",
-      "content_checked": "2026-11-25T23:32:28+00:00"
+      "content_checked": "2026-11-26T05:47:09+00:00"
     },
     "bdd0746490c895932d988fc29e7f4f58dc29cc56a0b1b11e58d91f92a3fdd3c1": {
       "title": "Commissieadvies - Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.",
@@ -68649,7 +68665,7 @@
       "kw_sig": "4f53cda18c2b|67c09e3a73f0b99d8aa5dd5e0cd011a574bd8b035e098a165090d492049e5dd6|Commissieadvies - Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "67c09e3a73f0b99d8aa5dd5e0cd011a574bd8b035e098a165090d492049e5dd6",
-      "content_checked": "2026-11-25T23:32:29+00:00"
+      "content_checked": "2026-11-26T05:47:10+00:00"
     },
     "caa40b6b8b5bd289db8a96ad29691a3041ecedf997e0c661972135a74982743e": {
       "title": "Beantwoording technische vragen FvD",
@@ -68679,7 +68695,7 @@
       "kw_sig": "4f53cda18c2b|54239a30b2045280041e71aca08d84cef78a7e94d583cd9cd2fa8b27946a8cb0|Beantwoording technische vragen FvD|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "54239a30b2045280041e71aca08d84cef78a7e94d583cd9cd2fa8b27946a8cb0",
-      "content_checked": "2026-11-25T23:32:30+00:00"
+      "content_checked": "2026-11-26T05:47:10+00:00"
     },
     "f3d016df22c222b1a954b75e869e909225e5390742a8f7d97d957c340189a8b1": {
       "title": "Beantwoording technische vragen FvD 2",
@@ -68709,7 +68725,7 @@
       "kw_sig": "4f53cda18c2b|dc7e92e7a4a037b07d684861d4e458d9c7b88859e908ac4912f6b2adf1de92bb|Beantwoording technische vragen FvD 2|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "dc7e92e7a4a037b07d684861d4e458d9c7b88859e908ac4912f6b2adf1de92bb",
-      "content_checked": "2026-11-25T23:32:30+00:00"
+      "content_checked": "2026-11-26T05:47:11+00:00"
     },
     "7a1aaa0502b9bc9bde6bb332d72964f4cacfaca364b4e3d1bcb0ffec0e1a98e8": {
       "title": "Beantwoording technische vragen SP",
@@ -70467,7 +70483,7 @@
       "kw_sig": "4f53cda18c2b|aa3a928ac9823d7aba4e52fc9731e1eb1e65b24cc677eb11398cb837eadbb24b|Bijlage Tariefberekening Leges Fysieke Leefomgeving en Omgevingsvergunning 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "aa3a928ac9823d7aba4e52fc9731e1eb1e65b24cc677eb11398cb837eadbb24b",
-      "content_checked": "2026-11-25T23:31:12+00:00"
+      "content_checked": "2026-11-26T05:46:18+00:00"
     },
     "d3897d6fa453ab3a3196aede792a96747726cb3717f80885b7e0010de4533a88": {
       "title": "Bijlage toelichting tarief OZB 2027",
@@ -70497,7 +70513,7 @@
       "kw_sig": "4f53cda18c2b|d436c998602f606c0505e39a174ee7cf484841d4eabb9005951ed5ed7c33a1d1|Bijlage toelichting tarief OZB 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "d436c998602f606c0505e39a174ee7cf484841d4eabb9005951ed5ed7c33a1d1",
-      "content_checked": "2026-11-25T23:31:13+00:00"
+      "content_checked": "2026-11-26T05:46:19+00:00"
     },
     "48ca64977e96d69ea0184560b98b7d9f88f1c1d80785efe86a89543ceea3b7b7": {
       "title": "Bijlage Tariefberekening Parkeerbelasting 2027",
@@ -70527,7 +70543,7 @@
       "kw_sig": "4f53cda18c2b|723cbf31909a736a0a70d0f1f489294b134b3d0a53f2bebfc16112120e46d3fc|Bijlage Tariefberekening Parkeerbelasting 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "723cbf31909a736a0a70d0f1f489294b134b3d0a53f2bebfc16112120e46d3fc",
-      "content_checked": "2026-11-25T23:31:14+00:00"
+      "content_checked": "2026-11-26T05:46:19+00:00"
     },
     "d6394262ea83c6d7fd77afcf72895e7dfed8ca6fc3cc0e315b27b95f57738830": {
       "title": "Bijlage Tariefberekening Precariobelasting 2027",
@@ -70557,7 +70573,7 @@
       "kw_sig": "4f53cda18c2b|cea4d8ca0efca74adea51e490c400585d4f8a32b6b319c88711bae339476e2cc|Bijlage Tariefberekening Precariobelasting 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "cea4d8ca0efca74adea51e490c400585d4f8a32b6b319c88711bae339476e2cc",
-      "content_checked": "2026-11-25T23:31:15+00:00"
+      "content_checked": "2026-11-26T05:46:20+00:00"
     },
     "7d4dac23d3455aa4b90e5155bc85de3ac8d57fcc498b1809cfe826e0279fd72b": {
       "title": "Bijlage Tariefberekening Reclamebelasting 2027",
@@ -70587,7 +70603,7 @@
       "kw_sig": "4f53cda18c2b|dd45eb8dcf479bb3cceaf2478a9c6e3766f5594978490c599494554603aaa954|Bijlage Tariefberekening Reclamebelasting 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "dd45eb8dcf479bb3cceaf2478a9c6e3766f5594978490c599494554603aaa954",
-      "content_checked": "2026-11-25T23:31:15+00:00"
+      "content_checked": "2026-11-26T05:46:21+00:00"
     },
     "52fc662acefce7726c0eed4aae48783bf339600f0e950964fafc4a75da0c7d05": {
       "title": "Bijlage Tariefberekening Rioolheffing 2027",
@@ -70617,7 +70633,7 @@
       "kw_sig": "4f53cda18c2b|c19a1615e5820ad233bfea4b6ec4b822b25894f5dd81cad8a312a4930b698d08|Bijlage Tariefberekening Rioolheffing 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "c19a1615e5820ad233bfea4b6ec4b822b25894f5dd81cad8a312a4930b698d08",
-      "content_checked": "2026-11-25T23:31:15+00:00"
+      "content_checked": "2026-11-26T05:46:21+00:00"
     },
     "ce9adcde8122e428dff48b11dc21edcf0aad3a2db8297422bbc81c305a00b2e5": {
       "title": "Bijlage Tariefberekening Toeristenbelasting 2027",
@@ -70647,7 +70663,7 @@
       "kw_sig": "4f53cda18c2b|7ef9e8350e673b2d27cee76e707ed250fa96123cec56b1ecddc134aa7a39be0c|Bijlage Tariefberekening Toeristenbelasting 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "7ef9e8350e673b2d27cee76e707ed250fa96123cec56b1ecddc134aa7a39be0c",
-      "content_checked": "2026-11-25T23:31:17+00:00"
+      "content_checked": "2026-11-26T05:46:22+00:00"
     },
     "6097d1d0975c8a836314d30821bc3492606df0560314191d413e03d4d289d2f1": {
       "title": "Precariobelasting-1-2027",
@@ -70677,7 +70693,7 @@
       "kw_sig": "4f53cda18c2b|7d8ab33ce9a1efa53aa5711af8ce9cc53ba8f9b6e7b73afcc0ad136160e5d55e|Precariobelasting-1-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "7d8ab33ce9a1efa53aa5711af8ce9cc53ba8f9b6e7b73afcc0ad136160e5d55e",
-      "content_checked": "2026-11-25T23:31:19+00:00"
+      "content_checked": "2026-11-26T05:46:24+00:00"
     },
     "e0546e28e0fea3022bdb8100a3df90fa88fa806ee7d0ffa367b5c504065c7607": {
       "title": "Precariobelasting-2-2027",
@@ -70707,7 +70723,7 @@
       "kw_sig": "4f53cda18c2b|d2d4cd805fbced1b7a0de2523d38992ec40102207ba408e48b1b35cedc04c5a1|Precariobelasting-2-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "d2d4cd805fbced1b7a0de2523d38992ec40102207ba408e48b1b35cedc04c5a1",
-      "content_checked": "2026-11-25T23:31:20+00:00"
+      "content_checked": "2026-11-26T05:46:24+00:00"
     },
     "17809aec5ae12726fbe2d4de8f56f3b0f2beba140e2f191eb300f4a845fea880": {
       "title": "Precariobelasting-3-2027",
@@ -70737,7 +70753,7 @@
       "kw_sig": "4f53cda18c2b|9c406f9bd8425b0b02b3a69e952b19d4476f7de7a652fcc3666a1e97014d3f20|Precariobelasting-3-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "9c406f9bd8425b0b02b3a69e952b19d4476f7de7a652fcc3666a1e97014d3f20",
-      "content_checked": "2026-11-25T23:31:21+00:00"
+      "content_checked": "2026-11-26T05:46:25+00:00"
     },
     "a99d0847706b19b8de4f3a60b61bb20de66d95996b0f24e3238876679bb7dbf7": {
       "title": "Precariobelasting-4-2027",
@@ -70767,7 +70783,7 @@
       "kw_sig": "4f53cda18c2b|0b44af967b49fef411f35cc369eeb591c5e7c3bc4fac53e3f9da95af5e235d42|Precariobelasting-4-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "0b44af967b49fef411f35cc369eeb591c5e7c3bc4fac53e3f9da95af5e235d42",
-      "content_checked": "2026-11-25T23:31:27+00:00"
+      "content_checked": "2026-11-26T05:46:26+00:00"
     },
     "d65523412a8dd81162a2dc18ce2fef65ee97593844a8399e9f104028b95c6619": {
       "title": "Reclamebelasting-1-2027",
@@ -70797,7 +70813,7 @@
       "kw_sig": "4f53cda18c2b|a725976728083c27ef2230b1f4331590cd2766f7dae5e70d5c5652d249e8885d|Reclamebelasting-1-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "a725976728083c27ef2230b1f4331590cd2766f7dae5e70d5c5652d249e8885d",
-      "content_checked": "2026-11-25T23:31:29+00:00"
+      "content_checked": "2026-11-26T05:46:28+00:00"
     },
     "e4999e30a53c7a2b7d60a24b641212b34e7dac564d3227567900654ca94a6715": {
       "title": "Reclamebelasting-2-2027",
@@ -70827,7 +70843,7 @@
       "kw_sig": "4f53cda18c2b|d9fa14b907fa766da6906b097ad0f65fb013f3a5f729ac8ceb6239f67c4c109b|Reclamebelasting-2-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "d9fa14b907fa766da6906b097ad0f65fb013f3a5f729ac8ceb6239f67c4c109b",
-      "content_checked": "2026-11-25T23:31:29+00:00"
+      "content_checked": "2026-11-26T05:46:29+00:00"
     },
     "00766811ef5b9f9c9dbd78cc7e800ffcadc5a3c3870a738c184e8995434107af": {
       "title": "Reclamebelasting-3-2027",
@@ -70857,7 +70873,7 @@
       "kw_sig": "4f53cda18c2b|72f7fcffb7f019f288be57c3f68c99a64912f517f564695c290f75935905de7f|Reclamebelasting-3-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "72f7fcffb7f019f288be57c3f68c99a64912f517f564695c290f75935905de7f",
-      "content_checked": "2026-11-25T23:31:31+00:00"
+      "content_checked": "2026-11-26T05:46:30+00:00"
     },
     "56f7e05a413dc362eaec59c61d80980e4a4945e7d17b1494bb38933b00986d3f": {
       "title": "Reclamebelasting-4-2027",
@@ -70887,7 +70903,7 @@
       "kw_sig": "4f53cda18c2b|0530558c44fd2e5745bec7abf7f495ee09f8262beb129a49247ae7a8673b03dc|Reclamebelasting-4-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "0530558c44fd2e5745bec7abf7f495ee09f8262beb129a49247ae7a8673b03dc",
-      "content_checked": "2026-11-25T23:31:33+00:00"
+      "content_checked": "2026-11-26T05:46:31+00:00"
     },
     "dd1a8f63694ed7bab1505a3f457d808520512c3729b76ca40a90f96d21a57c20": {
       "title": "Reclamebelasting-5-2027",
@@ -70917,7 +70933,7 @@
       "kw_sig": "4f53cda18c2b|336f91b770a9d9a1369c231dfcaf7bb69c8bcee651160a99df3f94b653949ac6|Reclamebelasting-5-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "336f91b770a9d9a1369c231dfcaf7bb69c8bcee651160a99df3f94b653949ac6",
-      "content_checked": "2026-11-25T23:31:34+00:00"
+      "content_checked": "2026-11-26T05:46:32+00:00"
     },
     "94e31c48043e01ff612c32e39b0c731dd43d89ede4bd37b98a8bfceb7dc5c650": {
       "title": "Reclamebelasting-6-2027",
@@ -70947,7 +70963,7 @@
       "kw_sig": "4f53cda18c2b|3c7e79f24ff345f4dc2abdc76a6c4242b7dba12a217a0ebc6444b0554a515d9a|Reclamebelasting-6-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "3c7e79f24ff345f4dc2abdc76a6c4242b7dba12a217a0ebc6444b0554a515d9a",
-      "content_checked": "2026-11-25T23:31:35+00:00"
+      "content_checked": "2026-11-26T05:46:32+00:00"
     },
     "8d24636dcbf4f36e0cb99909fc3b24823d8ff0c452083a456de97293f59b28b1": {
       "title": "Reclamebelasting-7-2027",
@@ -70977,7 +70993,7 @@
       "kw_sig": "4f53cda18c2b|89a7880ae0e36c7489a2865b6867424e4ba650d2065ea40be57ee02c102c0985|Reclamebelasting-7-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "89a7880ae0e36c7489a2865b6867424e4ba650d2065ea40be57ee02c102c0985",
-      "content_checked": "2026-11-25T23:31:36+00:00"
+      "content_checked": "2026-11-26T05:46:33+00:00"
     },
     "fcc836d9fdfb0eadf23833ceca5712ad683500c8f606ea370c04ed2c46e0c94f": {
       "title": "Reclamebelasting-8-2027",
@@ -71007,7 +71023,7 @@
       "kw_sig": "4f53cda18c2b|77cd9fc79b73c191a1f9b6987b47f4ba21f019fbe0ef507b5c071ab974307f0d|Reclamebelasting-8-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "77cd9fc79b73c191a1f9b6987b47f4ba21f019fbe0ef507b5c071ab974307f0d",
-      "content_checked": "2026-11-25T23:31:38+00:00"
+      "content_checked": "2026-11-26T05:46:35+00:00"
     },
     "974b38390ff1f38b7d2c4c7719bce28b9eb93406e84359a30dbaee50c14e9aeb": {
       "title": "Reclamebelasting-9-2027",
@@ -71037,7 +71053,7 @@
       "kw_sig": "4f53cda18c2b|2fe8e40eb3c37716ce1ec9f28b6be60a59327f202125c223eaa417e1d247afcb|Reclamebelasting-9-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "2fe8e40eb3c37716ce1ec9f28b6be60a59327f202125c223eaa417e1d247afcb",
-      "content_checked": "2026-11-25T23:31:39+00:00"
+      "content_checked": "2026-11-26T05:46:35+00:00"
     },
     "17d58d6cde06d31adcf5abeea04964ed39f84bf97889c5dd3485ba9e495806c6": {
       "title": "Reclamebelasting-10-2027",
@@ -71067,7 +71083,7 @@
       "kw_sig": "4f53cda18c2b|0d83fb4d9fcd3217f2b99f663eb2714abf6d7f17b4582e5ce6757699462c8e26|Reclamebelasting-10-2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "0d83fb4d9fcd3217f2b99f663eb2714abf6d7f17b4582e5ce6757699462c8e26",
-      "content_checked": "2026-11-25T23:31:39+00:00"
+      "content_checked": "2026-11-26T05:46:36+00:00"
     },
     "36956deb1bb27b422093be4abaf45833da440fb5e3b3129342fbe25f733d4a4c": {
       "title": "Technische vragen HC RAAD",
@@ -71097,7 +71113,7 @@
       "kw_sig": "4f53cda18c2b|51a1c93abc8015bd4288e72996e928fda5d2839b7f7df0cf9bb6f3d61ab9d026|Technische vragen HC RAAD|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "51a1c93abc8015bd4288e72996e928fda5d2839b7f7df0cf9bb6f3d61ab9d026",
-      "content_checked": "2026-11-25T23:31:39+00:00"
+      "content_checked": "2026-11-26T05:46:36+00:00"
     },
     "bb07cd68f9761753a9de06c25a7bcf6bb9e8d5ae28508eeddc3d838d2941df12": {
       "title": "Raadsvoorstel Ontwikkelperspectief NHN",
@@ -71127,7 +71143,7 @@
       "kw_sig": "4f53cda18c2b|fcf53ed80e742e4a5fa4964ba09842b6528b8af9d2d4019d641609cb74d8fa79|Raadsvoorstel Ontwikkelperspectief NHN|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "fcf53ed80e742e4a5fa4964ba09842b6528b8af9d2d4019d641609cb74d8fa79",
-      "content_checked": "2026-11-25T23:31:41+00:00"
+      "content_checked": "2026-11-26T05:46:37+00:00"
     },
     "2dbc9d55db2020586619bc95e899b73d4103f0f27afee08157f4c46ed34379bc": {
       "title": "Raadsbesluit Ontwikkelperspectief NHN",
@@ -71157,7 +71173,7 @@
       "kw_sig": "4f53cda18c2b|4022286b84f2268c297ed7fa8c674a10213b6b409f641d504618207f08bc45a4|Raadsbesluit Ontwikkelperspectief NHN|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "4022286b84f2268c297ed7fa8c674a10213b6b409f641d504618207f08bc45a4",
-      "content_checked": "2026-11-25T23:31:41+00:00"
+      "content_checked": "2026-11-26T05:46:38+00:00"
     },
     "2a988ff33e9e03b86947791c8c09938095df240600646a70dcfaafc49fbe4c2e": {
       "title": "Bijlage 2 Collegebrief Ontwikkelperspectief NHN",
@@ -71187,7 +71203,7 @@
       "kw_sig": "4f53cda18c2b|57c577853f08e9acae0de7a3c4a155e6b7086b455c9fe29d20eb10a00c95c883|Bijlage 2 Collegebrief Ontwikkelperspectief NHN|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "57c577853f08e9acae0de7a3c4a155e6b7086b455c9fe29d20eb10a00c95c883",
-      "content_checked": "2026-11-25T23:31:42+00:00"
+      "content_checked": "2026-11-26T05:46:38+00:00"
     },
     "c0b418b0fb1813b0f1ff39a02dcaf9a15528ac99c01b362da54848bb2065e3b6": {
       "title": "Bijlage 3 Ontwikkelperspectief NHN",
@@ -71217,7 +71233,7 @@
       "kw_sig": "4f53cda18c2b||Bijlage 3 Ontwikkelperspectief NHN|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Bijlage 3 Ontwikkelperspectief NHN.pdf\"; filename*=UTF-8''Bijlage%203%20Ontwikkelperspectief%20NHN.pdf|d67dbe37ecea0b2fe6a90c264708cb07001795064074584714f48da364f7451e",
-      "content_checked": "2026-11-25T23:31:44+00:00"
+      "content_checked": "2026-11-26T05:46:40+00:00"
     },
     "816c107656e619d349c2b1f41f6ee2a66cfc8ba7f67e59b7302f0cb081353cdb": {
       "title": "Beantwoording technische vragen SP",
@@ -71247,7 +71263,7 @@
       "kw_sig": "4f53cda18c2b|40a1158f367953f8548d97969e39e89772721e8a0064c7dbf272bcb96ce1bdcc|Beantwoording technische vragen SP|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "40a1158f367953f8548d97969e39e89772721e8a0064c7dbf272bcb96ce1bdcc",
-      "content_checked": "2026-11-25T23:31:45+00:00"
+      "content_checked": "2026-11-26T05:46:41+00:00"
     },
     "70e9fea7628da0859adab24bd47a56cba9f15ff0157b8d4e4ff9cff21362e5e7": {
       "title": "Beantwoording technische vragen D66",
@@ -71277,7 +71293,7 @@
       "kw_sig": "4f53cda18c2b|0aa9e967648fcc694fc4b43e20c12d0d291ee457e79b8af16fa2d9b68687d461|Beantwoording technische vragen D66|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "0aa9e967648fcc694fc4b43e20c12d0d291ee457e79b8af16fa2d9b68687d461",
-      "content_checked": "2026-11-25T23:31:45+00:00"
+      "content_checked": "2026-11-26T05:46:41+00:00"
     },
     "eb1ee64ab0fa7c0a2f57659c88a376a13a117520bd2bb8c87346439f17530316": {
       "title": "Besluitenlijst 22 september 2026",
@@ -87131,14 +87147,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "ok": true,
         "count": 139,
         "new": 0,
         "note": "Laatste 30 dagen: 139 van 139 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T05:31:03+00:00",
+        "checked": "2026-11-26T05:45:50+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -87146,7 +87162,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 342 documenten bekend. Dekking: vergaderingen van 2026-09-27 t/m 2027-01-10 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-26T05:31:13+00:00",
+        "checked": "2026-11-26T05:46:15+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -87154,14 +87170,14 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3022, Toezeggingen 1467, Amendementen 563, Artikel 36 vragen 1048, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-26T05:31:14+00:00",
+        "checked": "2026-11-26T05:46:16+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-26T05:31:14+00:00",
+        "checked": "2026-11-26T05:46:16+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
@@ -87176,25 +87192,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T05:31:14+00:00",
+        "checked": "2026-11-26T05:46:16+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T05:32:13+00:00",
+        "checked": "2026-11-26T05:47:11+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (46 pdf), 978 gevolgd (alle gemeenten), 5 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (34 pdf), 978 gevolgd (alle gemeenten), 1 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T05:32:13+00:00",
+        "checked": "2026-11-26T05:47:11+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T05:32:13+00:00",
+        "checked": "2026-11-26T05:47:11+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -87211,7 +87227,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -87220,7 +87236,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -87229,7 +87245,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -87243,7 +87259,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -87259,7 +87275,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -87351,7 +87367,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -87372,7 +87388,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -87392,7 +87408,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -87413,7 +87429,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -87437,7 +87453,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-26T05:30:43+00:00",
+        "checked": "2026-11-26T05:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
