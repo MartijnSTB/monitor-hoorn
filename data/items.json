@@ -3,6 +3,326 @@
     "hoorn"
   ],
   "items": {
+    "d99366eec75eaa4720528e2961a198b56330ddd552eb534b12ad148206e5f549": {
+      "title": "Paaldijk 118 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-550836.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Paaldijk 118, 1689 WE Zwaag",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.67528,
+        5.088598
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Zwaag",
+      "kw_sig": "4f53cda18c2b||Paaldijk 118 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "a666170196e0a2884b226e7a93d7688edc1a675ebeb1e0df2a9eb98bd847b76a": {
+      "title": "EVENEMENTAANVRAAG Live in Hoorn",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547043.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "evenementenvergunning",
+      "locatie": "Pelmolenpad, Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||EVENEMENTAANVRAAG Live in Hoorn|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "655208c667e0670b2a215708d73d3c80e620bd25f84faa668a19319917244d9d": {
+      "title": "EVENEMENTAANVRAAG Feest voor de Koning",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547056.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "evenementenvergunning",
+      "locatie": "Spoorstraat, Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||EVENEMENTAANVRAAG Feest voor de Koning|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "142e80a0a3c0c6b5062bdb544b1d3e168428c1a224267d70e19d9b47d97780c3": {
+      "title": "EVENEMENTAANVRAAG Hoorn zingt Hollands Paasweekend",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547037.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "evenementenvergunning",
+      "locatie": "Pelmolenpad, Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||EVENEMENTAANVRAAG Hoorn zingt Hollands Paasweekend|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "7e329306fee571b5e2263536c2c09d1a47cb0d3b78833444c46d2d5041817ca6": {
+      "title": "EVENEMENTAANVRAAG Rock’ n Roll Hoorn",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547050.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "evenementenvergunning",
+      "locatie": "Roode Steen, Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||EVENEMENTAANVRAAG Rock’ n Roll Hoorn|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "3ef566aed7b95a26141cff6f646971839b40ee89ee892dc771c6bc52d9bc35a1": {
+      "title": "EVENEMENTAANVRAAG Nieuwjaarsduik Reuring",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547031.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.636454,
+        5.040552
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "evenementenvergunning",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||EVENEMENTAANVRAAG Nieuwjaarsduik Reuring|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "594216b3853cc0017ced8bb5dd7d0e8383954fb04801c31bc545559d03ad398a": {
+      "title": "Onderhoudswerkzaamheden aan het spoor bij Station Hoorn",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547012.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.644857,
+        5.054551
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "andere melding",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Onderhoudswerkzaamheden aan het spoor bij Station Hoorn|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "32f04012ab04132d935f9e9632565cef8f089251c12dcf9dec60c36cdc1ae6d9": {
+      "title": "Akkerwinde 25 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-550718.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.666767,
+        5.046205
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Akkerwinde 25 te Zwaag",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Akkerwinde 25 VERLEENDE OMGEVINGSVERGUNNING reguliere procedure|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "551fad9fce4f0f0f17a4f35241e1002c34405f995dd0c713997a29de2a38ce05": {
+      "title": "EXPLOITATIEVERGUNNING Backstage",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547020.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "geo": [
+        52.643505,
+        5.058984
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "exploitatievergunning",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||EXPLOITATIEVERGUNNING Backstage|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
+    "e7d1e312f59cef584ade93549ff0c7dd6609f3be2f4c60d94e244423f2e6e47a": {
+      "title": "EVENEMENTAANVRAAG Paasfeest Live in Hoorn",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547046.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T08:15:28+00:00",
+      "updated": "2026-11-26T08:15:28+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-26",
+      "koop_dates": {
+        "available": "2026-11-26",
+        "issued": null,
+        "date": "2026-11-26"
+      },
+      "doc_date": "2026-11-26",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "koop_type": "evenementenvergunning",
+      "locatie": "Pelmolenpad, Hoorn",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26",
+      "published_at_tried": true,
+      "published_at": "2026-11-26T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||EVENEMENTAANVRAAG Paasfeest Live in Hoorn|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-26"
+    },
     "265ffcc2db5d33cd89761334d2900141269862cc6059093ff45d21fe824ed1c8": {
       "title": "Overige vragen Kermis 2027",
       "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/17b8610c-ecd5-4531-9477-13d0bc909bd4",
@@ -87147,14 +87467,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "ok": true,
-        "count": 139,
-        "new": 0,
-        "note": "Laatste 30 dagen: 139 van 139 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 149,
+        "new": 10,
+        "note": "Laatste 30 dagen: 149 van 149 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T08:01:24+00:00",
+        "checked": "2026-11-26T08:15:45+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -87162,7 +87482,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 342 documenten bekend. Dekking: vergaderingen van 2026-09-27 t/m 2027-01-10 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:15:56+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -87170,21 +87490,21 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3022, Toezeggingen 1467, Amendementen 563, Artikel 36 vragen 1048, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:15:57+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:15:57+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-26T07:15:57+00:00",
+        "checked": "2026-11-26T08:16:00+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -87192,25 +87512,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:16:00+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:16:19+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 978 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:16:19+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T08:01:36+00:00",
+        "checked": "2026-11-26T08:16:19+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -87227,7 +87547,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -87236,7 +87556,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -87245,7 +87565,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -87259,7 +87579,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -87275,7 +87595,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -87367,7 +87687,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -87388,7 +87708,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -87408,7 +87728,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -87429,7 +87749,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -87453,7 +87773,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-26T08:00:46+00:00",
+        "checked": "2026-11-26T08:15:28+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -87791,7 +88111,7 @@
       "pause_until": "2026-11-26T09:01:49+00:00"
     },
     "elders": {
-      "woo": "2026-11-26T07:15:54+00:00"
+      "woo": "2026-11-26T08:15:57+00:00"
     },
     "termijn_v1": true,
     "keywords": {
