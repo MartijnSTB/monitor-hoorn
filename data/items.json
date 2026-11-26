@@ -3,6 +3,236 @@
     "hoorn"
   ],
   "items": {
+    "b3393cfa3abb66ad94e5b3f808bf6dc9cb3b6c956372e9603a808f0da9d19368": {
+      "title": "Artikel 36 vragen inzake techniek tijdens raadsvergaderingen",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/a5592160-73e9-4bba-a08e-1b37021f323d",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:11+00:00",
+      "updated": "2026-11-26T13:03:00+00:00",
+      "last_change": "2026-11-26T13:03:00+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Artikel 36 vragen",
+      "kind": "overzichtsitem",
+      "rapport": "Artikel 36 vragen",
+      "last_seen": "2026-11-26",
+      "report_pass": "2026-11-26T00:01:20+00:00",
+      "doc_date": "2026-10-01",
+      "doc_date_label": "registratiedatum",
+      "report_seen": true,
+      "kw_sig": "4f53cda18c2b|04a2c23dfde937330ccf6485a3abc62a213d210c144540ac04f8fb0a8c14f578|Artikel 36 vragen inzake techniek tijdens raadsvergaderingen|Artikel 36 vragen",
+      "missing_count": 0,
+      "text_hash": "04a2c23dfde937330ccf6485a3abc62a213d210c144540ac04f8fb0a8c14f578",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen inzake techniek tijdens raadsvergaderingen",
+        "Tussenbericht Artikel 36 vragen inzake techniek tijdens raadsvergaderingen fracties Hart van Hoorn en Hoorn Lokaal",
+        "Beantwoording artikel 36-vragen techniek tijdens raadsvergaderingen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen inzake techniek tijdens raadsvergaderingen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/30e317da-3853-4252-9b4e-6605a4a2de34"
+        },
+        {
+          "t": "Tussenbericht Artikel 36 vragen inzake techniek tijdens raadsvergaderingen fracties Hart van Hoorn en Hoorn Lokaal",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/84f2d514-f13e-4264-b77c-dc68f89e0110"
+        },
+        {
+          "t": "Beantwoording artikel 36-vragen techniek tijdens raadsvergaderingen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/df2a223a-0a56-43ba-8bfa-5125c380fc1a"
+        }
+      ],
+      "content_checked": "2026-11-26T13:03:00+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T13:03:00+00:00",
+          "type": "Bijlage toegevoegd",
+          "summary": "nieuwe bijlage: Beantwoording artikel 36-vragen techniek tijdens raadsvergaderingen; 90 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "Fractie Hart van Hoorn en Hoorn Lokaal",
+            "Onderwerp: Beantwoording artikel 36-vragen van fractie Hart van Hoorn",
+            "en Hoorn Lokaal over Vragen inzake techniek tijdens raadsvergaderingen"
+          ],
+          "removed": []
+        }
+      ],
+      "change_type": "Bijlage toegevoegd"
+    },
+    "9f313094510b06102c8dabcb09f2678237140f06c507fdd6d9e7b2a03eeeb8ae": {
+      "title": "Overige vragen mondzorg kinderen en komst De Poetsbus",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/5f0d1a85-8c10-4353-9f9c-c245427af060",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:23+00:00",
+      "updated": "2026-11-26T13:02:36+00:00",
+      "last_change": "2026-11-26T13:02:36+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Overige vragen raad",
+      "kind": "overzichtsitem",
+      "rapport": "Overige vragen raad",
+      "last_seen": "2026-11-26",
+      "report_pass": "2026-11-26T00:01:20+00:00",
+      "doc_date": "2026-10-05",
+      "doc_date_label": "registratiedatum",
+      "report_seen": true,
+      "kw_sig": "4f53cda18c2b|4000767f8c2be31a7ed902bc287a177af02002d054b740dba482cedd592b5768|Overige vragen mondzorg kinderen en komst De Poetsbus|Overige vragen raad",
+      "missing_count": 0,
+      "text_hash": "4000767f8c2be31a7ed902bc287a177af02002d054b740dba482cedd592b5768",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Overige vragen, mondzorg kinderen en komst De Poetsbus (DEF)",
+        "beantwoording overige vragen inzake mondzorg kinderen en komst De Poetsbus"
+      ],
+      "bijlagen": [
+        {
+          "t": "Overige vragen, mondzorg kinderen en komst De Poetsbus (DEF)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/50ca8cce-451d-4774-96eb-275f2f5aefaf"
+        },
+        {
+          "t": "beantwoording overige vragen inzake mondzorg kinderen en komst De Poetsbus",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/23d88759-e6dd-4674-9e0a-856424826296"
+        }
+      ],
+      "content_checked": "2026-11-26T13:02:36+00:00",
+      "changes": [
+        {
+          "at": "2026-11-26T13:02:36+00:00",
+          "type": "Bijlage toegevoegd",
+          "summary": "nieuwe bijlage: beantwoording overige vragen inzake mondzorg kinderen en komst De Poetsbus; 192 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "Onderwerp: Beantwoording overige vragen van fractie hart van Hoorn over",
+            "mondzorg, kinderen en komst De Poetsbus",
+            "U heeft vragen gesteld over mondzorg, kinderen en komst De Poetsbus. ln deze brief leest u de"
+          ],
+          "removed": []
+        }
+      ],
+      "change_type": "Bijlage toegevoegd"
+    },
+    "bfc934a320dd425c5275c1882242e33f9ac11384072e9a46414ac46cc13dd84d": {
+      "title": "Artikel 36 vragen afvalcontainers en aanbiedplaatsen",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/1a892c15-f6c1-457a-b141-ccf590519a85",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T13:01:51+00:00",
+      "updated": "2026-11-26T13:01:51+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Artikel 36 vragen",
+      "kind": "overzichtsitem",
+      "rapport": "Artikel 36 vragen",
+      "last_seen": "2026-11-26",
+      "doc_date": "2026-10-27",
+      "doc_date_label": "registratiedatum",
+      "report_seen": true,
+      "missing_count": 0,
+      "text_hash": "ab1300b217ce499b5ea94640245c292bfaed1d7feda3628c8364cfb16b1f1c38",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen afvalcontainers en aanbiedplaatsen",
+        "Tussenbericht artikel 36 vragen afvalcontainers en aanbiedplaatsen",
+        "Beantwoording Artikel 36 vragen afvalcontainers en aanbiedplaatsen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen afvalcontainers en aanbiedplaatsen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1320218b-c299-4fc5-b8f1-d8e51ff1c887"
+        },
+        {
+          "t": "Tussenbericht artikel 36 vragen afvalcontainers en aanbiedplaatsen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/63220908-4318-44a7-bc99-1efb36ad54ff"
+        },
+        {
+          "t": "Beantwoording Artikel 36 vragen afvalcontainers en aanbiedplaatsen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/0605319e-d004-439a-ba59-e63576d7dd46"
+        }
+      ],
+      "content_checked": "2026-11-26T13:02:06+00:00",
+      "kw_sig": "4f53cda18c2b|ab1300b217ce499b5ea94640245c292bfaed1d7feda3628c8364cfb16b1f1c38|Artikel 36 vragen afvalcontainers en aanbiedplaatsen|Artikel 36 vragen"
+    },
+    "d08cb646f0f43c353c3f81a129dcbcfd278a90fd67acfb87120df4fdfc5c534a": {
+      "title": "Artikel 36 vragen natuurbegraafplaats Zuiderveld IIII",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/1f522e78-d5aa-46e9-b02a-331c12c4f9bc",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T13:01:51+00:00",
+      "updated": "2026-11-26T13:01:51+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Artikel 36 vragen",
+      "kind": "overzichtsitem",
+      "rapport": "Artikel 36 vragen",
+      "last_seen": "2026-11-26",
+      "doc_date": "2026-10-22",
+      "doc_date_label": "registratiedatum",
+      "report_seen": true,
+      "missing_count": 0,
+      "text_hash": "51e772c65929078ad0b097c7a67611034eb10065e9573188f078c6ea8a1dbc17",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "art. 36 vragen aanleg natuurbegraafplaats (zonder inleiding)",
+        "Tussenbericht artikel 36 vragen natuurbegraafplaats Zuiderveld IIII",
+        "Beantwoording Artikel 36 vragen natuurbegraafplaats Zuiderveld IIII"
+      ],
+      "bijlagen": [
+        {
+          "t": "art. 36 vragen aanleg natuurbegraafplaats (zonder inleiding)",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1f204d71-4e2a-4817-b8e2-e1086b607445"
+        },
+        {
+          "t": "Tussenbericht artikel 36 vragen natuurbegraafplaats Zuiderveld IIII",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5e1e6005-fef3-4f1c-a628-0003fc1c1ad9"
+        },
+        {
+          "t": "Beantwoording Artikel 36 vragen natuurbegraafplaats Zuiderveld IIII",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4445aae2-1580-474a-9692-9bc6dc6c8ec7"
+        }
+      ],
+      "content_checked": "2026-11-26T13:02:10+00:00",
+      "kw_sig": "4f53cda18c2b|51e772c65929078ad0b097c7a67611034eb10065e9573188f078c6ea8a1dbc17|Artikel 36 vragen natuurbegraafplaats Zuiderveld IIII|Artikel 36 vragen"
+    },
+    "ec52dc85219000f9e8ab51ce5590cfa375659edcbf42bc0990c81f74f6adeb55": {
+      "title": "Artikel 36 vragen Groef Kersenboogerd",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/bae7f20d-0871-4ff4-a84d-ca8fb3711821",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-26T13:01:51+00:00",
+      "updated": "2026-11-26T13:01:51+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "Artikel 36 vragen",
+      "kind": "overzichtsitem",
+      "rapport": "Artikel 36 vragen",
+      "last_seen": "2026-11-26",
+      "doc_date": "2026-10-14",
+      "doc_date_label": "registratiedatum",
+      "report_seen": true,
+      "missing_count": 0,
+      "text_hash": "20f7fc65ff8c27b6e51c589ab03fa7675f0d29235bcc3e5be1ef38b64299a9e1",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Artikel 36 vragen Groef Kersenboogerd",
+        "Beantwoording Artikel 36 vragen Groef Kersenboogerd"
+      ],
+      "bijlagen": [
+        {
+          "t": "Artikel 36 vragen Groef Kersenboogerd",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cee521c2-6dfd-4f0f-9850-f249a545f356"
+        },
+        {
+          "t": "Beantwoording Artikel 36 vragen Groef Kersenboogerd",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/c2ee766b-189a-49cb-bd00-9490cd931d0d"
+        }
+      ],
+      "content_checked": "2026-11-26T13:02:13+00:00",
+      "kw_sig": "4f53cda18c2b|20f7fc65ff8c27b6e51c589ab03fa7675f0d29235bcc3e5be1ef38b64299a9e1|Artikel 36 vragen Groef Kersenboogerd|Artikel 36 vragen"
+    },
     "18778b7f3c30aa1a4807f912e2f7239a48714f2db9c5f4d114e92da1c69a4a5e": {
       "title": "Overige vragen veiligheid fietsverbinding Hoorn-Wognum",
       "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/568a445a-06a1-4cc0-b48d-90b6be09b6cb",
@@ -48083,7 +48313,7 @@
       "kw_sig": "4f53cda18c2b|8e1b5850dfbd3a6efb634bad60b1e777866c695cca1e6587bcb57acf1f38bd37|Toekomstige bewoners vieren start bouw Pakhuis Dampten|<p>De bouw van Pakhuis Dampten is gestart. Op vrijdag 2 oktober kwamen toekomstige bewoners, ontwikkelende aannemer Thunnissen, de makelaar en wethouder Niek Heijne samen op de bouwplaats om dit feestelijke moment te vieren. Voor veel kopers was het de eerste kennismaking met hun toekomstige buren. Inmiddels is 90 procent van de koopappartementen verkocht.</p>",
       "missing_count": 0,
       "text_hash": "8e1b5850dfbd3a6efb634bad60b1e777866c695cca1e6587bcb57acf1f38bd37",
-      "content_checked": "2026-11-25T12:46:50+00:00"
+      "content_checked": "2026-11-26T13:02:41+00:00"
     },
     "5b1aa3360794344089136d7679fb08a71aa7db5d90258b1947e12c9a2c91f1d4": {
       "title": "Vergadering 6 oktober over wonen, basisscholen en opknappen kindcentrum",
@@ -48105,7 +48335,7 @@
       "kw_sig": "4f53cda18c2b|b1f356a2d23cb864c470a410ab4fef29bbb4502174be99a2e2464f1a2406b33f|Vergadering 6 oktober over wonen, basisscholen en opknappen kindcentrum|<p>Op 6 oktober is er vanaf 19.30 uur een commissievergadering. De commissie wordt gevraagd een mening te geven over het woningenbeleid. Ook spreekt de commissie over panden voor basisscholen en geld voor het opknappen van Kindcentrum Wingerd in Zwaag.</p>",
       "missing_count": 0,
       "text_hash": "b1f356a2d23cb864c470a410ab4fef29bbb4502174be99a2e2464f1a2406b33f",
-      "content_checked": "2026-11-25T12:47:04+00:00"
+      "content_checked": "2026-11-26T13:02:46+00:00"
     },
     "0fe058d6fcbc10723c101d1a37b801f7cedb99715b50a9d6d2fac003ff012f5e": {
       "title": "Restanten van oliemolen gevonden aan het Pelmolenpad",
@@ -48982,7 +49212,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/17b8c78d-9f1d-4d61-a7b3-eb1b3739ac13"
         }
       ],
-      "content_checked": "2026-11-25T12:47:08+00:00"
+      "content_checked": "2026-11-26T13:02:50+00:00"
     },
     "b3f1c5a9c9c40d15712248630c64d7751f60a07a6bf3f3199875409d6b87763a": {
       "title": "Rapport Hoorn participatie Gemeente Hoorn",
@@ -49427,39 +49657,6 @@
         }
       ],
       "content_checked": "2026-11-26T12:48:10+00:00"
-    },
-    "9f313094510b06102c8dabcb09f2678237140f06c507fdd6d9e7b2a03eeeb8ae": {
-      "title": "Overige vragen mondzorg kinderen en komst De Poetsbus",
-      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/5f0d1a85-8c10-4353-9f9c-c245427af060",
-      "source": "Raadsportaal",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:23+00:00",
-      "updated": "2026-11-25T10:36:23+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Overige vragen raad",
-      "kind": "overzichtsitem",
-      "rapport": "Overige vragen raad",
-      "last_seen": "2026-11-26",
-      "report_pass": "2026-11-26T00:01:20+00:00",
-      "doc_date": "2026-10-05",
-      "doc_date_label": "registratiedatum",
-      "report_seen": true,
-      "kw_sig": "4f53cda18c2b|153e6d5c70d32d49c1ae94d81f618e046b57c014e12b5ec85db489eaf17aff4e|Overige vragen mondzorg kinderen en komst De Poetsbus|Overige vragen raad",
-      "missing_count": 0,
-      "text_hash": "153e6d5c70d32d49c1ae94d81f618e046b57c014e12b5ec85db489eaf17aff4e",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Overige vragen, mondzorg kinderen en komst De Poetsbus (DEF)"
-      ],
-      "bijlagen": [
-        {
-          "t": "Overige vragen, mondzorg kinderen en komst De Poetsbus (DEF)",
-          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/50ca8cce-451d-4774-96eb-275f2f5aefaf"
-        }
-      ],
-      "content_checked": "2026-11-25T12:46:43+00:00"
     },
     "e5917f05465672700cbe59c24cc2e5e5172e966655278a40635301ac52b148ac": {
       "title": "Overige vragen naleving wet- en regelgeving Lokaal Ondernemersfonds",
@@ -56036,7 +56233,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/bd9c0391-ef60-496f-8e96-89fa53d81723"
         }
       ],
-      "content_checked": "2026-11-25T12:46:58+00:00"
+      "content_checked": "2026-11-26T13:02:44+00:00"
     },
     "960b65a7b0307a7e7ac415d4c7108865b3f86f992439a37af2895ba748810e24": {
       "title": "Artikel 36 vragen ondergrondse afvalcontainers binnenstad Hoorn",
@@ -56079,7 +56276,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1b4e189f-e5cc-470a-8daa-172c4cf46c33"
         }
       ],
-      "content_checked": "2026-11-25T12:47:12+00:00"
+      "content_checked": "2026-11-26T13:02:52+00:00"
     },
     "e1e9959e9a04c62af60821b58fa88066b668ae42cb54767e8c53a39c9ecdb0d9": {
       "title": "Artikel 36 vragen explosie vuurwerk Julianapark",
@@ -56122,45 +56319,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/7c69411d-d131-4500-993f-2765633d6cf2"
         }
       ],
-      "content_checked": "2026-11-25T12:47:16+00:00"
-    },
-    "b3393cfa3abb66ad94e5b3f808bf6dc9cb3b6c956372e9603a808f0da9d19368": {
-      "title": "Artikel 36 vragen inzake techniek tijdens raadsvergaderingen",
-      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/a5592160-73e9-4bba-a08e-1b37021f323d",
-      "source": "Raadsportaal",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:11+00:00",
-      "updated": "2026-11-25T10:36:11+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Artikel 36 vragen",
-      "kind": "overzichtsitem",
-      "rapport": "Artikel 36 vragen",
-      "last_seen": "2026-11-26",
-      "report_pass": "2026-11-26T00:01:20+00:00",
-      "doc_date": "2026-10-01",
-      "doc_date_label": "registratiedatum",
-      "report_seen": true,
-      "kw_sig": "4f53cda18c2b|3546158da0e3c40de91452462b29ff54843f57c0ce802809fb05991152cac5b4|Artikel 36 vragen inzake techniek tijdens raadsvergaderingen|Artikel 36 vragen",
-      "missing_count": 0,
-      "text_hash": "3546158da0e3c40de91452462b29ff54843f57c0ce802809fb05991152cac5b4",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Artikel 36 vragen inzake techniek tijdens raadsvergaderingen",
-        "Tussenbericht Artikel 36 vragen inzake techniek tijdens raadsvergaderingen fracties Hart van Hoorn en Hoorn Lokaal"
-      ],
-      "bijlagen": [
-        {
-          "t": "Artikel 36 vragen inzake techniek tijdens raadsvergaderingen",
-          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/30e317da-3853-4252-9b4e-6605a4a2de34"
-        },
-        {
-          "t": "Tussenbericht Artikel 36 vragen inzake techniek tijdens raadsvergaderingen fracties Hart van Hoorn en Hoorn Lokaal",
-          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/84f2d514-f13e-4264-b77c-dc68f89e0110"
-        }
-      ],
-      "content_checked": "2026-11-25T12:47:18+00:00"
+      "content_checked": "2026-11-26T13:02:56+00:00"
     },
     "0337d207b42923e61328eb0e1ec8c0d620652cdbf5a91122836baf9e3afb3a01": {
       "title": "Artikel 36 vragen inzake parkeergelegenheid gebouwdeel C",
@@ -60477,7 +60636,7 @@
       "text_v": 2,
       "bijlagen_titels": [],
       "bijlagen": [],
-      "content_checked": "2026-11-25T12:47:19+00:00"
+      "content_checked": "2026-11-26T13:03:01+00:00"
     },
     "43c12c661a9d5f77b03f71b283ea7ea762d2e407f4bd7323e818ebcf05bcdf06": {
       "title": "Gemeentelijke vastgoed binnen het BIZ-gebied",
@@ -60504,7 +60663,7 @@
       "text_v": 2,
       "bijlagen_titels": [],
       "bijlagen": [],
-      "content_checked": "2026-11-25T12:47:20+00:00"
+      "content_checked": "2026-11-26T13:03:02+00:00"
     },
     "e131c21a395e5fd337f08a7d23d687573cfd79988debc078bfe26d8d6c84e28c": {
       "title": "B&B beleid",
@@ -60539,7 +60698,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ec086faa-aba1-4d99-9a48-ac254d6b228c"
         }
       ],
-      "content_checked": "2026-11-25T12:47:25+00:00"
+      "content_checked": "2026-11-26T13:03:04+00:00"
     },
     "cea303a658b08a2788b2e3e37dba04df51a7026b919baae6f1a7651340534428": {
       "title": "Kadernota 2027 of kadernota 2028",
@@ -60574,7 +60733,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b571a92b-398c-4f1e-abf1-ee83aa033bd5"
         }
       ],
-      "content_checked": "2026-11-25T12:47:28+00:00"
+      "content_checked": "2026-11-26T13:03:05+00:00"
     },
     "51c715c75948d879adfc95e6b8514bdc717595a3daa049f2105c3aa9ed627a75": {
       "title": "Bij extra middelen een voorstel naar de raad",
@@ -60609,7 +60768,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/9dd149e4-745b-4eaf-9210-6ea1b7595371"
         }
       ],
-      "content_checked": "2026-11-25T12:47:30+00:00"
+      "content_checked": "2026-11-26T13:03:08+00:00"
     },
     "96e86b611844f923d1f25688381d1f01b81f1761589d83242b0a75db0e7496bd": {
       "title": "Vragen raadsleden (Hoorn Lokaal) over speeltuin bij de Wever",
@@ -65118,7 +65277,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8e402d5e-255c-433f-8fe4-ec7d22eac96e"
         }
       ],
-      "content_checked": "2026-11-25T12:46:46+00:00"
+      "content_checked": "2026-11-26T13:02:37+00:00"
     },
     "0c5d68002b458d2b0973ad7911790b470bed9bfbe6c9a57e209645a868aac3d2": {
       "title": "Raadsbrief motie slimmer en goedkoper bomen aanplanten",
@@ -65151,7 +65310,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/432660ba-83ec-4f02-8d37-1ca16b50d3bf"
         }
       ],
-      "content_checked": "2026-11-25T12:46:49+00:00"
+      "content_checked": "2026-11-26T13:02:40+00:00"
     },
     "3a92a9098688d2627386f81801992bc2b9e61ee4eeb81317ec845a5a5a580010": {
       "title": "Kwartaalupdate energietransitie Q3",
@@ -65184,7 +65343,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/b1cbf43c-9f44-45ad-9e60-8805a04f5c8b"
         }
       ],
-      "content_checked": "2026-11-25T12:47:03+00:00"
+      "content_checked": "2026-11-26T13:02:46+00:00"
     },
     "fe15a05324f8d786a9f7c76496f7cc76309afba38cf13c358e1c92aafaa411d5": {
       "title": "Raadsbrief schriftelijke beantwoording raadsvragen speeltuin de Wever",
@@ -68946,7 +69105,7 @@
       "kw_sig": "4f53cda18c2b|26e76b9e6b84fba430282e176658f1bb3e983ba4e31991f0226480cd11f50563|Raadsvoorstel beleidsnota Toeristisch beleid Hoorn|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "26e76b9e6b84fba430282e176658f1bb3e983ba4e31991f0226480cd11f50563",
-      "content_checked": "2026-11-25T12:47:31+00:00"
+      "content_checked": "2026-11-26T13:03:09+00:00"
     },
     "3f521799325676dbe818708ad2cafe0628ff7fa031de8e7de0b3c833ca3060a2": {
       "title": "Raadsbesluit beleidsnota Toeristisch beleid Hoorn",
@@ -68976,7 +69135,7 @@
       "kw_sig": "4f53cda18c2b|1bcd1a8685e2bd956b45e814af92053a2ef961f428b8f1e797c864db09bdef80|Raadsbesluit beleidsnota Toeristisch beleid Hoorn|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "1bcd1a8685e2bd956b45e814af92053a2ef961f428b8f1e797c864db09bdef80",
-      "content_checked": "2026-11-25T12:47:32+00:00"
+      "content_checked": "2026-11-26T13:03:10+00:00"
     },
     "ab6b61dc34660c295df706f93b3dad759d9d1566a6cabd5b1bd3b0d32a7cbdc5": {
       "title": "Commissieadvies - Beleidsnota Toeristisch beleid Hoorn",
@@ -69006,7 +69165,7 @@
       "kw_sig": "4f53cda18c2b|00cc2111e2f4fdd13737ff54ba252e207bf3a621c2974cbf0d5962556261115b|Commissieadvies - Beleidsnota Toeristisch beleid Hoorn|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "00cc2111e2f4fdd13737ff54ba252e207bf3a621c2974cbf0d5962556261115b",
-      "content_checked": "2026-11-25T12:47:32+00:00"
+      "content_checked": "2026-11-26T13:03:10+00:00"
     },
     "030aec858dd0d93cc6a1afdf867dd5961b0425920d858e836e070f83a8497787": {
       "title": "Commissieadvies - Instellen Bedrijveninvesteringszone (BIZ) Vastgoed Binnenstad Hoorn 2027-2031",
@@ -69036,7 +69195,7 @@
       "kw_sig": "4f53cda18c2b|89269d6234cd546025c6edd0de3e3d5d2838f40601ba0ff3a510f8e6bbd4abf1|Commissieadvies - Instellen Bedrijveninvesteringszone (BIZ) Vastgoed Binnenstad Hoorn 2027-2031|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 6.1 Instellen Bedrijveninvesteringszone (BIZ) Vastgoed Binnenstad Hoorn 2027-2031(Portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "89269d6234cd546025c6edd0de3e3d5d2838f40601ba0ff3a510f8e6bbd4abf1",
-      "content_checked": "2026-11-25T12:47:33+00:00"
+      "content_checked": "2026-11-26T13:03:11+00:00"
     },
     "774f4b7d6b685624e1e67ad788400822ba9d5c0b91ac78ef19107a6e1df8d030": {
       "title": "Raadsbesluit actualisatie VFL Hoorn 2026",
@@ -69066,7 +69225,7 @@
       "kw_sig": "4f53cda18c2b|603c10df54687ec391c6df8fa613ca7399a03d8127efa1bec1d8d6963631b53f|Raadsbesluit actualisatie VFL Hoorn 2026|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 6.2 Jaarlijkse actualisatie Verordening Fysieke Leefomgeving gemeente Hoorn (VFL Hoorn) 2026 (Portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "603c10df54687ec391c6df8fa613ca7399a03d8127efa1bec1d8d6963631b53f",
-      "content_checked": "2026-11-25T12:47:34+00:00"
+      "content_checked": "2026-11-26T13:03:12+00:00"
     },
     "356f7857310e544637db6bb73463ad41d66bfe031293baf3820fc9f0ef0d9dd2": {
       "title": "Commissieadvies - Jaarlijkse actualisatie Verordening Fysieke Leefomgeving gemeente Hoorn (VFL Hoorn) 2026",
@@ -69096,7 +69255,7 @@
       "kw_sig": "4f53cda18c2b|64e8f6509d64e100b5e8d877dc56d8227b1bf95c815543fc0c72e4643c5030dc|Commissieadvies - Jaarlijkse actualisatie Verordening Fysieke Leefomgeving gemeente Hoorn (VFL Hoorn) 2026|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 6.2 Jaarlijkse actualisatie Verordening Fysieke Leefomgeving gemeente Hoorn (VFL Hoorn) 2026 (Portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "64e8f6509d64e100b5e8d877dc56d8227b1bf95c815543fc0c72e4643c5030dc",
-      "content_checked": "2026-11-25T12:47:35+00:00"
+      "content_checked": "2026-11-26T13:03:12+00:00"
     },
     "716b7e9101e16e83823cbc3dd9e36de048c99a7c97829e1bd9f9a993f7b167e6": {
       "title": "Raadsbesluit onttrekkingsbesluit fietspad Nieuwe Steen 6",
@@ -69126,7 +69285,7 @@
       "kw_sig": "4f53cda18c2b|39a30370039c763d59cc361061742ec5de0754c47762a3f3596995b7b375cb4d|Raadsbesluit onttrekkingsbesluit fietspad Nieuwe Steen 6|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 6.3 Onttrekkingsbesluit fietspad Nieuwe Steen 6 (Portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "39a30370039c763d59cc361061742ec5de0754c47762a3f3596995b7b375cb4d",
-      "content_checked": "2026-11-25T12:47:35+00:00"
+      "content_checked": "2026-11-26T13:03:13+00:00"
     },
     "a6594f874cc81afa114a877edf3baf7060b164a05848f992cc6c39bf09bbc60f": {
       "title": "Commissieadvies - Onttrekkingsbesluit fietspad Nieuwe Steen 6",
@@ -69156,7 +69315,7 @@
       "kw_sig": "4f53cda18c2b|8d48be2ab3443af16fb873d4b8976523fa2aea5e55b392da75d22c92a768abe1|Commissieadvies - Onttrekkingsbesluit fietspad Nieuwe Steen 6|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 6.3 Onttrekkingsbesluit fietspad Nieuwe Steen 6 (Portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "8d48be2ab3443af16fb873d4b8976523fa2aea5e55b392da75d22c92a768abe1",
-      "content_checked": "2026-11-25T12:47:42+00:00"
+      "content_checked": "2026-11-26T13:03:13+00:00"
     },
     "a9a950046dc3fce352bf5f9e173a23ace08589dee076c40a748433a479a578b6": {
       "title": "Algemene Raadscommissie dinsdag 6 oktober 2026",
@@ -72812,7 +72971,7 @@
       "kw_sig": "4f53cda18c2b|d868713bb07266c67968abe3eb1397931f2b4ff7505d9255f540b40683772eaf|Bijlage 1 - Beleidsnota Toeristisch beleid Hoorn|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "d868713bb07266c67968abe3eb1397931f2b4ff7505d9255f540b40683772eaf",
-      "content_checked": "2026-11-25T12:47:44+00:00"
+      "content_checked": "2026-11-26T13:03:15+00:00"
     },
     "791b0ae8f440dba31a70fe9a2042a996e122f39e36bff50c776365354a6a28b1": {
       "title": "Technische vragen Hart van Hoorn",
@@ -72847,7 +73006,7 @@
       "kw_sig": "4f53cda18c2b|112df39ac8f883268c9a5f3082abc44fa1c7e5d2fdcba976ac01da72691b15f5|Technische vragen Hart van Hoorn|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "112df39ac8f883268c9a5f3082abc44fa1c7e5d2fdcba976ac01da72691b15f5",
-      "content_checked": "2026-11-25T12:47:46+00:00"
+      "content_checked": "2026-11-26T13:03:16+00:00"
     },
     "306f218999e01582384e876e26f6153f02ae59291b864f6b9652d29001b80220": {
       "title": "Technische vragen EenHoorn",
@@ -72882,7 +73041,7 @@
       "kw_sig": "4f53cda18c2b|f6ed709204fcc296e15f8b45eeda12071fabaea6cb6becf48590d82feca12f30|Technische vragen EenHoorn|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "f6ed709204fcc296e15f8b45eeda12071fabaea6cb6becf48590d82feca12f30",
-      "content_checked": "2026-11-25T12:47:46+00:00"
+      "content_checked": "2026-11-26T13:03:17+00:00"
     },
     "6ddef135f4f9c1bf10567a7d074113afbdf642c357af680ffb1832b3bd9bd8a1": {
       "title": "Technische vragen SP",
@@ -72917,7 +73076,7 @@
       "kw_sig": "4f53cda18c2b|0b5206d48f9f2d58204fa288a28f95bfce89118fd36bcf34abf2957bccb54a20|Technische vragen SP|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "0b5206d48f9f2d58204fa288a28f95bfce89118fd36bcf34abf2957bccb54a20",
-      "content_checked": "2026-11-25T12:47:46+00:00"
+      "content_checked": "2026-11-26T13:03:18+00:00"
     },
     "54661d53ab5f818b484822d2ec61d6aa3ab8cd12f37e123e9731a00c2f47f623": {
       "title": "Technische vragen Partij voor de Dieren",
@@ -72952,7 +73111,7 @@
       "kw_sig": "4f53cda18c2b|b08fbb163daca933e22b5ab6c88aca495905e89f8adf2e704c97b0b14d75b63b|Technische vragen Partij voor de Dieren|Algemene Raadscommissie donderdag 1 oktober 2026 · agendapunt 5.1 Beleidsnota Toeristisch beleid Hoorn (Portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "b08fbb163daca933e22b5ab6c88aca495905e89f8adf2e704c97b0b14d75b63b",
-      "content_checked": "2026-11-25T12:47:47+00:00"
+      "content_checked": "2026-11-26T13:03:18+00:00"
     },
     "360125dba5ff15f4ab9f3dc6d6a404fc94b21798ae13bf197a41bf721dbf76e3": {
       "title": "Beantwoording technische vragen Partij voor de Dieren",
@@ -74697,7 +74856,7 @@
       "kw_sig": "4f53cda18c2b|247c3b6a68a343a2d1db61ab030baf2bdc5512706362ef6d9906b81835a16a23|Bijlage 3 Zienswijzennota|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.2 Onteigeningsbeschikking voor de Ontwikkeling Stationsgebied (portefeuillehouder Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "247c3b6a68a343a2d1db61ab030baf2bdc5512706362ef6d9906b81835a16a23",
-      "content_checked": "2026-11-25T12:32:43+00:00"
+      "content_checked": "2026-11-26T13:02:13+00:00"
     },
     "f0c5aab5eda5dc374707009c401a463e74f22191146abbb45f60d269b5cac8a3": {
       "title": "Bijlage 4 Grondtekening onteigeningsbeschikking Ontwikkeling Stationsgebied",
@@ -74732,7 +74891,7 @@
       "kw_sig": "4f53cda18c2b|f7409ba4f93b80b37216b3230d4cff1788b78c5f59db483ddc203602a3b2eeab|Bijlage 4 Grondtekening onteigeningsbeschikking Ontwikkeling Stationsgebied|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.2 Onteigeningsbeschikking voor de Ontwikkeling Stationsgebied (portefeuillehouder Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "f7409ba4f93b80b37216b3230d4cff1788b78c5f59db483ddc203602a3b2eeab",
-      "content_checked": "2026-11-25T12:32:43+00:00"
+      "content_checked": "2026-11-26T13:02:15+00:00"
     },
     "aa7b496f3b8a5f4dfc0fe76715cfd5ac562f80f6bfa3dafb1614d15f81d30cda": {
       "title": "Bijlage 5 Projectietekening onteigeningsbeschikking Ontwikkeling Stationsgebied",
@@ -74767,7 +74926,7 @@
       "kw_sig": "4f53cda18c2b|1bbec92c6edd207d555cfbfd502c9604e0cc006204812ae97a174bcc8cd831e4|Bijlage 5 Projectietekening onteigeningsbeschikking Ontwikkeling Stationsgebied|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.2 Onteigeningsbeschikking voor de Ontwikkeling Stationsgebied (portefeuillehouder Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "1bbec92c6edd207d555cfbfd502c9604e0cc006204812ae97a174bcc8cd831e4",
-      "content_checked": "2026-11-25T12:32:45+00:00"
+      "content_checked": "2026-11-26T13:02:17+00:00"
     },
     "7400c5a6e612e62347b1f31ef33f85538fe06a65707738fbd17c13604934cf87": {
       "title": "Bijlage 6 Zakelijke beschrijving",
@@ -74802,7 +74961,7 @@
       "kw_sig": "4f53cda18c2b|21f3b7984458fbfc8e2b6e504e7dc6b71c31543a9f5867a6013036014c43b685|Bijlage 6 Zakelijke beschrijving|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.2 Onteigeningsbeschikking voor de Ontwikkeling Stationsgebied (portefeuillehouder Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "21f3b7984458fbfc8e2b6e504e7dc6b71c31543a9f5867a6013036014c43b685",
-      "content_checked": "2026-11-25T12:32:46+00:00"
+      "content_checked": "2026-11-26T13:02:18+00:00"
     },
     "f34d038d7ede9d023064d45cebd32e05fefaef5e19bfd094ccd5f5a3f7e70d6e": {
       "title": "Beantwoording technische vragen CDA",
@@ -74837,7 +74996,7 @@
       "kw_sig": "4f53cda18c2b|b034d0a35921586a87b0fb221306bad2f712153f674f5907e7a13f1d58ddf4f8|Beantwoording technische vragen CDA|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.2 Onteigeningsbeschikking voor de Ontwikkeling Stationsgebied (portefeuillehouder Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "b034d0a35921586a87b0fb221306bad2f712153f674f5907e7a13f1d58ddf4f8",
-      "content_checked": "2026-11-25T12:32:46+00:00"
+      "content_checked": "2026-11-26T13:02:19+00:00"
     },
     "0b2c87b3824a55bbaa66748f356894f8cb262c99e4ed39b28f566a4d0581195f": {
       "title": "Raadsvoorstel Algemeen Belang Besluit Wet Markt en Overheid",
@@ -74872,7 +75031,7 @@
       "kw_sig": "4f53cda18c2b|738d3b4e5f983625e24d66acd1e67bab1a8725be9779e0a57b5adeab304e17e6|Raadsvoorstel Algemeen Belang Besluit Wet Markt en Overheid|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "738d3b4e5f983625e24d66acd1e67bab1a8725be9779e0a57b5adeab304e17e6",
-      "content_checked": "2026-11-25T12:32:47+00:00"
+      "content_checked": "2026-11-26T13:02:20+00:00"
     },
     "03b48035faa1b6cb6cac2b0c829f65688ad09cd769de41004547e165af5bd3ed": {
       "title": "Raadsbesluit Algemeen Belang Besluit Wet Markt en Overheid",
@@ -74967,7 +75126,7 @@
       "kw_sig": "4f53cda18c2b|a19f48868c07d75eff79a89d1cf06612d7653bb7314bdc621ec5b8076db08e21|Algemeen belang besluit Wonen|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "a19f48868c07d75eff79a89d1cf06612d7653bb7314bdc621ec5b8076db08e21",
-      "content_checked": "2026-11-25T12:32:47+00:00"
+      "content_checked": "2026-11-26T13:02:21+00:00"
     },
     "2e78d3a8b71f964a965a7d3d79976ca1c46c826f4ee24e1412f1345b24b76620": {
       "title": "Algemeen belang besluit Stedenbouw, Grondzaken en Vastgoed",
@@ -75002,7 +75161,7 @@
       "kw_sig": "4f53cda18c2b|22916f2328c1b76bc2a2f8d0b7b627825583c73589e04a475a40d25122442bd3|Algemeen belang besluit Stedenbouw, Grondzaken en Vastgoed|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "22916f2328c1b76bc2a2f8d0b7b627825583c73589e04a475a40d25122442bd3",
-      "content_checked": "2026-11-25T12:32:48+00:00"
+      "content_checked": "2026-11-26T13:02:22+00:00"
     },
     "c6853188c864b83ed8f9519888dd0a56cafae598b0a5b02dfb7487be9cbd8489": {
       "title": "Algemeen belang besluit SPORT",
@@ -75037,7 +75196,7 @@
       "kw_sig": "4f53cda18c2b|17993345c5bfbf1ccf4714e5d1e66508a3ecca4b548ac6548e047fb095120504|Algemeen belang besluit SPORT|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "17993345c5bfbf1ccf4714e5d1e66508a3ecca4b548ac6548e047fb095120504",
-      "content_checked": "2026-11-25T12:32:48+00:00"
+      "content_checked": "2026-11-26T13:02:23+00:00"
     },
     "f192702c40b44682dbc92d538a44047fcb4aee0d4329e94eb420637580d998b4": {
       "title": "Algemeen belang besluit SOCIAAL DOMEIN",
@@ -75072,7 +75231,7 @@
       "kw_sig": "4f53cda18c2b|59c8c2dc10fe3d0c1f58d6a4015a9de3e874c3ed80b010ea2fb7cdaae0cfc96b|Algemeen belang besluit SOCIAAL DOMEIN|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "59c8c2dc10fe3d0c1f58d6a4015a9de3e874c3ed80b010ea2fb7cdaae0cfc96b",
-      "content_checked": "2026-11-25T12:46:26+00:00"
+      "content_checked": "2026-11-26T13:02:23+00:00"
     },
     "77cb4ade8489bba518e55048b477064c1ce6cdea757be5e75ec310a698311252": {
       "title": "Algemeen belang besluit Mobiliteit",
@@ -75107,7 +75266,7 @@
       "kw_sig": "4f53cda18c2b|aef8dd2e1875717c76ce3c37a58359dd0a22f8f0748bb88c806ad39e15a10c3a|Algemeen belang besluit Mobiliteit|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "aef8dd2e1875717c76ce3c37a58359dd0a22f8f0748bb88c806ad39e15a10c3a",
-      "content_checked": "2026-11-25T12:46:28+00:00"
+      "content_checked": "2026-11-26T13:02:24+00:00"
     },
     "4ad01a07e7226f8581c1ffab6fc1aac82ecaf27c37865e86669d11a2b75ad2f9": {
       "title": "Algemeen belang besluit Markt",
@@ -75142,7 +75301,7 @@
       "kw_sig": "4f53cda18c2b|90c71d35e7c24cadeaeade908bbb2caa383c30a65bb404e6b307c47096afa4dd|Algemeen belang besluit Markt|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "90c71d35e7c24cadeaeade908bbb2caa383c30a65bb404e6b307c47096afa4dd",
-      "content_checked": "2026-11-25T12:46:28+00:00"
+      "content_checked": "2026-11-26T13:02:25+00:00"
     },
     "0971c92b5a22c8771a15357dfa5ad5a1acf02d07e378b56858992656294582d8": {
       "title": "Algemeen belang besluit Kunst en cultuur",
@@ -75177,7 +75336,7 @@
       "kw_sig": "4f53cda18c2b|d6be41d986a598be30954c422ed43738364b847a72d7661ee56bd32de06108cb|Algemeen belang besluit Kunst en cultuur|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "d6be41d986a598be30954c422ed43738364b847a72d7661ee56bd32de06108cb",
-      "content_checked": "2026-11-25T12:46:30+00:00"
+      "content_checked": "2026-11-26T13:02:25+00:00"
     },
     "20cf4b7b16fef81901d57f54158677ee065ae8d11ee9b0bae9c5daa3cf9c9025": {
       "title": "Algemeen belang besluit Duurzaamheid",
@@ -75212,7 +75371,7 @@
       "kw_sig": "4f53cda18c2b|90f25cdb9440002e8c45fb3bd7898af83418b5256648afaae450ba48d2d91356|Algemeen belang besluit Duurzaamheid|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.3 Algemeen Belang Besluit Wet Markt en Overheid (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "90f25cdb9440002e8c45fb3bd7898af83418b5256648afaae450ba48d2d91356",
-      "content_checked": "2026-11-25T12:46:31+00:00"
+      "content_checked": "2026-11-26T13:02:26+00:00"
     },
     "b542ce06fcb7c5ce8a3e93af25a4e1ca8f5ee69c0a567e0abe94ca5f666ebbbc": {
       "title": "Technische vragen Kunst en Cultuur Hoorn Lokaal",
@@ -75307,7 +75466,7 @@
       "kw_sig": "4f53cda18c2b|e0a28ec569cee1d948b0cd6f7b3fb1a0da6a6ecb3c1b7369b6755856c7d275d3|Raadsvoorstel Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.4 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio’s (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "e0a28ec569cee1d948b0cd6f7b3fb1a0da6a6ecb3c1b7369b6755856c7d275d3",
-      "content_checked": "2026-11-25T12:46:38+00:00"
+      "content_checked": "2026-11-26T13:02:27+00:00"
     },
     "bff2f52b947b8f126d9220af69f54e0987570b92069aa4f8fde6d2b2b817df01": {
       "title": "Raadsbesluit Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's",
@@ -75402,7 +75561,7 @@
       "kw_sig": "4f53cda18c2b|738b6e459655ba3592bba26bf01e0abeb7198059d9eb460946779d3f311b49cd|Bijlage 1 - Ontwerpbesluit oprichting stichting KCR2|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.4 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio’s (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "738b6e459655ba3592bba26bf01e0abeb7198059d9eb460946779d3f311b49cd",
-      "content_checked": "2026-11-25T12:46:39+00:00"
+      "content_checked": "2026-11-26T13:02:27+00:00"
     },
     "73916d9c7756097e43fd9e7fbb5b13205d08de29c4ce63433df9a2618d563abc": {
       "title": "Bijlage 2 - Brief aan gemeenteraden KCR2",
@@ -75437,7 +75596,7 @@
       "kw_sig": "4f53cda18c2b|bf5d5fe27d4204184764f7b850740f39fabf644a2838cf0b8d70c902dcde9071|Bijlage 2 - Brief aan gemeenteraden KCR2|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.4 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio’s (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "bf5d5fe27d4204184764f7b850740f39fabf644a2838cf0b8d70c902dcde9071",
-      "content_checked": "2026-11-25T12:46:41+00:00"
+      "content_checked": "2026-11-26T13:02:28+00:00"
     },
     "4fae1ee93e942c15391f9b672205800b2b6d8c37fbd5eee25bd3d66c1b863499": {
       "title": "Bijlage 3 - Begrippenlijst en QA KCR2",
@@ -75472,7 +75631,7 @@
       "kw_sig": "4f53cda18c2b|ef92144498ec316c124c2e2de0c6febbc004235523dcf5b1095f6f4560134dfc|Bijlage 3 - Begrippenlijst en QA KCR2|Algemene Raadscommissie dinsdag 6 oktober 2026 · agendapunt 6.4 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio’s (burgemeester Nieuwenburg) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "ef92144498ec316c124c2e2de0c6febbc004235523dcf5b1095f6f4560134dfc",
-      "content_checked": "2026-11-25T12:46:41+00:00"
+      "content_checked": "2026-11-26T13:02:32+00:00"
     },
     "8c869428631245d0115dc5b2c23336f79be932a7bca76bbe1d16bcf0cc1ce83e": {
       "title": "Technische vragen Hoorn Lokaal",
@@ -88361,14 +88520,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "ok": true,
         "count": 155,
         "new": 0,
         "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-26T12:46:08+00:00",
+        "checked": "2026-11-26T13:01:43+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -88376,22 +88535,22 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 347 documenten bekend. Dekking: vergaderingen van 2026-09-27 t/m 2027-01-10 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-26T12:46:50+00:00",
+        "checked": "2026-11-26T13:01:59+00:00",
         "ok": true,
         "count": 491,
-        "new": 6,
+        "new": 3,
         "error": null,
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3022, Toezeggingen 1467, Amendementen 563, Artikel 36 vragen 1048, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-26T12:46:51+00:00",
+        "checked": "2026-11-26T13:02:00+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-26T12:46:54+00:00",
+        "checked": "2026-11-26T13:02:02+00:00",
         "ok": true,
         "count": 75,
         "new": 0,
@@ -88408,25 +88567,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-26T12:46:54+00:00",
+        "checked": "2026-11-26T13:02:02+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-26T12:48:49+00:00",
+        "checked": "2026-11-26T13:03:18+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (31 pdf), 991 gevolgd (alle gemeenten), 154 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (31 pdf), 994 gevolgd (alle gemeenten), 159 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-26T12:48:49+00:00",
+        "checked": "2026-11-26T13:03:18+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-26T12:48:49+00:00",
+        "checked": "2026-11-26T13:03:19+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -88443,7 +88602,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -88452,7 +88611,7 @@
         "agenda": []
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -88461,7 +88620,7 @@
         "agenda": []
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -88475,7 +88634,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -88491,7 +88650,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -88583,7 +88742,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -88604,7 +88763,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -88624,7 +88783,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -88645,7 +88804,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -88669,7 +88828,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-26T12:45:28+00:00",
+        "checked": "2026-11-26T13:01:00+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -88740,7 +88899,7 @@
       }
     },
     "meetings_listed": {
-      "hoorn": "2026-11-26T12:30:51+00:00"
+      "hoorn": "2026-11-26T13:01:02+00:00"
     },
     "reports": {
       "hoorn": {
