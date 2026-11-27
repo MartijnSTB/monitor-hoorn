@@ -3,6 +3,46 @@
     "hoorn"
   ],
   "items": {
+    "9f2219d5f001e62653784915e4bfb021347246f2e95a9d4d4bf88622e030bbbe": {
+      "title": "Verlichting fietspad stadsstrand",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/87a55fda-c97c-4580-98ed-ca1dc45cf528",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-27T15:16:05+00:00",
+      "updated": "2026-11-27T21:31:10+00:00",
+      "last_change": "2026-11-27T21:31:10+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Toezeggingen",
+      "kind": "overzichtsitem",
+      "rapport": "Toezeggingen",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-17",
+      "doc_date_label": "datum",
+      "portefeuillehouder": "Diana Dekker",
+      "report_seen": true,
+      "missing_count": 0,
+      "text_hash": "e3240f63442c8bb9a4d883445f6b5f6b4e0cc3ada632170fd7ce0a757e66542a",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-11-27T21:31:10+00:00",
+      "kw_sig": "4f53cda18c2b|e3240f63442c8bb9a4d883445f6b5f6b4e0cc3ada632170fd7ce0a757e66542a|Verlichting fietspad stadsstrand|Toezeggingen",
+      "changes": [
+        {
+          "at": "2026-11-27T21:31:10+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 1773 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Bijlage(s)",
+            "Bijlage raadsbrief 27 nov quickscan ecologie stadsstrand (3074292)",
+            "[Bijlage: Bijlage raadsbrief 27 nov quickscan ecologie stadsstrand (3074292)]"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "8595ed212145e9f3d4f8eb14a02d5f1d12d5da306f9c0335cbf7bdc9af8fab43": {
       "title": "Ingetrokken aanvraag omgevingsvergunning voor vernieuwen voorgevel aan Sint Jozefstraat 8 in Hoorn",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUxNLTZJSjRfbTBDME1EUkF6X0M4endHZl8xZVgyWFp0eVQtZEdfYk5odGtKSjEyZFpDQjd1YzNOYzFnZER5SmlQcm9wVE52dEl1dm43dHF3clFwckwzbWIzektPcTJUVGMwM2xXcERjeUh4cldULWFCUzBZcnh6V1ZaMUc2SmRhNEtfeWN6VFZRLWpxQThieWhGWWVnSUhnalIwQ0swYlBtNDI3TmdSVnhkYmRsZnFiclRSbTdMaFFCMHljWTk2YVZBTE1IWkZ0REhvaFBLc2RSLXdBY1puWQ?oc=5",
@@ -976,39 +1016,6 @@
       "published_at": "2026-11-26T00:00+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Bekendmaking beleidsregel Wet veilige jaarwisseling gemeente Stede Broec|"
-    },
-    "9f2219d5f001e62653784915e4bfb021347246f2e95a9d4d4bf88622e030bbbe": {
-      "title": "Verlichting fietspad stadsstrand",
-      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/87a55fda-c97c-4580-98ed-ca1dc45cf528",
-      "source": "Raadsportaal",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-27T15:16:05+00:00",
-      "updated": "2026-11-27T15:16:05+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Toezeggingen",
-      "kind": "overzichtsitem",
-      "rapport": "Toezeggingen",
-      "last_seen": "2026-11-27",
-      "doc_date": "2026-11-17",
-      "doc_date_label": "datum",
-      "portefeuillehouder": "Diana Dekker",
-      "report_seen": true,
-      "missing_count": 0,
-      "text_hash": "0aeb9a2182922218a00861abaa68de5988d5e68c787c8ac171ee34e61f613827",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Bijlage raadsbrief 27 nov quickscan ecologie stadsstrand (3074292)"
-      ],
-      "bijlagen": [
-        {
-          "t": "Bijlage raadsbrief 27 nov quickscan ecologie stadsstrand (3074292)",
-          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cb1505be-177d-45a0-88d2-2ed92a1cfc7a"
-        }
-      ],
-      "content_checked": "2026-11-27T15:16:23+00:00",
-      "kw_sig": "4f53cda18c2b|0aeb9a2182922218a00861abaa68de5988d5e68c787c8ac171ee34e61f613827|Verlichting fietspad stadsstrand|Toezeggingen"
     },
     "4bbb9a0a0b5c105fad1dd6438a3552b1512fe34ae5d4626c23eb3685d96f89e9": {
       "title": "Brief inwoner - Bezwaar AZC Blauweberg",
@@ -4244,7 +4251,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "2a863cfa84d45d4a26a3e8d25c401befa615fb6c528a365dff14b457717ff26e",
-      "content_checked": "2026-11-27T15:16:25+00:00",
+      "content_checked": "2026-11-27T21:31:10+00:00",
       "kw_sig": "4f53cda18c2b|2a863cfa84d45d4a26a3e8d25c401befa615fb6c528a365dff14b457717ff26e|Technische vragen SH|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "a429870170374aa759a4a0b1773f1a1fd89cfd7a031ec812175a62582e5a34b4": {
@@ -92965,14 +92972,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "ok": true,
         "count": 167,
         "new": 0,
         "note": "Laatste 30 dagen: 167 van 167 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T21:15:46+00:00",
+        "checked": "2026-11-27T21:30:57+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -92980,7 +92987,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 385 documenten bekend. Dekking: vergaderingen van 2026-09-28 t/m 2027-01-11 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-27T21:15:55+00:00",
+        "checked": "2026-11-27T21:31:08+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -92988,18 +92995,16 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3024, Toezeggingen 1466, Amendementen 563, Artikel 36 vragen 1050, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-27T21:15:55+00:00",
+        "checked": "2026-11-27T21:31:09+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-27T21:15:58+00:00",
-        "ok": true,
-        "count": 89,
-        "new": 1,
-        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Hoorn, Blokker, Zwaag. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
+        "checked": "2026-11-27T21:31:09+00:00",
+        "ok": false,
+        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
       }
     },
     "algemeen": {
@@ -93012,25 +93017,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T21:15:58+00:00",
+        "checked": "2026-11-27T21:31:09+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T21:16:20+00:00",
+        "checked": "2026-11-27T21:31:10+00:00",
         "ok": true,
-        "count": 15,
+        "count": 2,
         "errors": 0,
-        "note": "15 documenten gecontroleerd (10 pdf), 1031 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "2 documenten gecontroleerd (1 pdf), 1031 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T21:16:20+00:00",
+        "checked": "2026-11-27T21:31:10+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T21:16:20+00:00",
+        "checked": "2026-11-27T21:31:11+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -93047,7 +93052,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -93081,7 +93086,7 @@
         ]
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -93098,7 +93103,7 @@
         ]
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -93112,7 +93117,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -93128,7 +93133,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -93220,7 +93225,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -93241,7 +93246,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -93261,7 +93266,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -93282,7 +93287,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -93306,7 +93311,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-27T21:15:28+00:00",
+        "checked": "2026-11-27T21:30:37+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -93377,7 +93382,7 @@
       }
     },
     "meetings_listed": {
-      "hoorn": "2026-11-27T21:00:49+00:00"
+      "hoorn": "2026-11-27T21:30:39+00:00"
     },
     "reports": {
       "hoorn": {
@@ -93641,7 +93646,7 @@
       }
     },
     "media": {
-      "pause_until": "2026-11-27T20:31:23+00:00"
+      "pause_until": "2026-11-27T23:31:09+00:00"
     },
     "elders": {
       "woo": "2026-11-27T21:01:33+00:00"
