@@ -3,6 +3,106 @@
     "hoorn"
   ],
   "items": {
+    "d86dc7b63e43bf49a0cad400c69dcc37b16255dcf01ea487a1b40a92c4eef74a": {
+      "title": "Regionaal besluit Informatievoorziening gemeenschappelijke regelingen",
+      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/3f9e2a52-c01e-4139-a91c-4e4dadbeec3a",
+      "source": "Raadsportaal",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:27+00:00",
+      "updated": "2026-11-27T23:33:23+00:00",
+      "last_change": "2026-11-27T23:33:23+00:00",
+      "hash": "",
+      "revisions": 3,
+      "excerpt": "Interne regelingen Raad en Commissies",
+      "kind": "overzichtsitem",
+      "rapport": "Interne regelingen Raad en Commissies",
+      "last_seen": "2026-11-27",
+      "report_pass": "2026-11-27T00:01:11+00:00",
+      "report_seen": true,
+      "kw_sig": "4f53cda18c2b|d8948ec16f6e5cda227526f5c5d1f94f9e1961067d61dd400b70b1b31d7f4cf0|Regionaal besluit Informatievoorziening gemeenschappelijke regelingen|Interne regelingen Raad en Commissies",
+      "missing_count": 0,
+      "text_hash": "d8948ec16f6e5cda227526f5c5d1f94f9e1961067d61dd400b70b1b31d7f4cf0",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsbesluit Informatievoorziening gemeenschappelijke regelingen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsbesluit Informatievoorziening gemeenschappelijke regelingen",
+          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cbe38b10-b50d-4c31-91dd-24625135023f"
+        }
+      ],
+      "content_checked": "2026-11-27T23:33:23+00:00",
+      "changes": [
+        {
+          "at": "2026-11-27T17:16:40+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "1 zin(nen) toegevoegd of aangepast, 57 verwijderd of vervangen",
+          "added": [
+            "[Bijlage niet te lezen: 403 Client Error: Forbidden for url: https://hoorn.bestuurli]"
+          ],
+          "removed": [
+            "GEMEENTE",
+            "HOORN",
+            "Raadsbesluit"
+          ]
+        },
+        {
+          "at": "2026-11-27T23:33:23+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "57 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "GEMEENTE",
+            "HOORN",
+            "Raadsbesluit"
+          ],
+          "removed": [
+            "[Bijlage niet te lezen: 403 Client Error: Forbidden for url: https://hoorn.bestuurli]"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "5426187d94d7c81c19cc96931147a22f286669cb4371b04f5bb2b323c2dbd556": {
+      "title": "Melding ontvangen voor Draafsingel 61 te Hoorn: grond of baggerspecie toepassen, bodem saneren",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkVtNlVfZ2gwenpTYWxka3BsbmYzR2dkbld1THhnZDdEMUNjSl84VkFsWFJWbU1TVk1WbWJONUZyTGVMTUJXZ2VTU3VFNlFsZ1lXb01HQWhKT1Zwa2VVcmwzbnktb0tyV2NYM2ZSaUNIbExFLW1scTVtdFdSUXBEWHJGQ20xZnBfbW95bS1YTFdrRDlXN2JjTm5FMm8wVWY0Y3FrWXlSdkZkNENmUGdaRmhwR1BFY19OR01Tc0JNbC1wUFQzRGh4SGFpSXl5YzdZSGMybjBzYWo?oc=5",
+      "source": "In de media",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-27T23:31:41+00:00",
+      "updated": "2026-11-27T23:31:41+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T00:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Melding ontvangen voor Draafsingel 61 te Hoorn: grond of baggerspecie toepassen, bodem saneren|"
+    },
+    "9b7c95d8bd9970429074c34f113a9c7553b9b26119fadb8b00944517bec6f8d5": {
+      "title": "Verleende omgevingsvergunning voor wijzigen voorgevel bedrijfspand aan Gildenweg 10 A en B in Hoorn",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTEh2bW5WcEFBVEhwZzJhTGFpajlGVExmNEk3eXZJMUhmU0llUC1SQm1FWXpIOE1CekhaXzV1enNrbW5YMFp5TjJiYTRWM2F2TVFpaDk4a2Q2aS1hSWFCME1FUm1sdWFZbzZGZjZYRXpRV0gxeHB4TUtMWmI4am1fUHN3bU1IeGI2Tnh6bzJyZzQ2SUJ3UlZ1S3hqZ0E5d1QxQ1I0TnhObEZYR2k5RVVreGh6WHVKdlpORHNMRS1aY3VseXFsbkdad1MteDdOQXljQXd2YThsVzc4UTF4TFpza0dB?oc=5",
+      "source": "In de media",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-27T23:31:41+00:00",
+      "updated": "2026-11-27T23:31:41+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-25",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-25T09:00+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Verleende omgevingsvergunning voor wijzigen voorgevel bedrijfspand aan Gildenweg 10 A en B in Hoorn|"
+    },
     "9695b897590d08306ab80b548019f48aace5d207668e49958e582b9aa0055c56": {
       "title": "Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033",
       "url": "https://open.overheid.nl/documenten/oep-ob-060d992194bf14d1da626c96c0dce8c41b19ed26",
@@ -628,7 +728,7 @@
       "last_seen": "2026-11-27",
       "doc_date": "2026-11-27",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-27T17:09+01:00",
+      "published_at": "2026-11-27T19:20+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Fietsschouw: waar voelen inwoners zich onveilig?|"
     },
@@ -653,7 +753,7 @@
       "kw_sig": "4f53cda18c2b||Film en theatervoorstelling in kader van Orange the World campagne|"
     },
     "27eea9712f00af0caa59c926988c53edec9efa3acd393668876a73ed8dcdbd6b": {
-      "title": "Politie vindt grote hoeveelheid illegaal vuurwerk en airsoftwapen in woning Blokker",
+      "title": "Politie vindt grote hoeveelheid illegaal zwaar vuurwerk en airsoftwapen in woning Blokker",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzFQdHR6Wmg4RHk5LXV3QmFIcHN1NFlKVGJKSlhXTWZWR1ZMVkFZUjFzVTktUmkxc0FYVDU1LXJQVGQwS1Q0ZTB6WndUNnlTSG5Zei1jbWp3UWhnNEEwTmJLT2dBUGt5U0ZKNlBQQXQzQi1PMmlfS1lISDRncE5RVWVZeTExRjdkOTFISXBZQXo1M2ZqYXVrVEM4R1RvVHdQUlhVcERldU9JWjQ1QnhlSjJ0NmZwN2JEN3BnMTZDSHFIUUl2Smp5QnlOYnQ?oc=5",
       "source": "In de media",
       "gemeente": "hoorn",
@@ -670,7 +770,7 @@
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-27T17:23+01:00",
       "published_at_source": "Google Nieuws",
-      "kw_sig": "4f53cda18c2b||Politie vindt grote hoeveelheid illegaal vuurwerk en airsoftwapen in woning Blokker|"
+      "kw_sig": "4f53cda18c2b||Politie vindt grote hoeveelheid illegaal zwaar vuurwerk en airsoftwapen in woning Blokker|"
     },
     "791e90e16302581703dfbb7239af04304ff1d1bc7672a134ccacb2687c0a7d27": {
       "title": "Artikel 36 vragen Bigbelly's, inworpverkleiners en zwerfafval",
@@ -773,53 +873,6 @@
       "doc_date_label": "openbaar gemaakt",
       "last_seen": "2026-11-27",
       "kw_sig": "4f53cda18c2b||Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033|ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
-    },
-    "d86dc7b63e43bf49a0cad400c69dcc37b16255dcf01ea487a1b40a92c4eef74a": {
-      "title": "Regionaal besluit Informatievoorziening gemeenschappelijke regelingen",
-      "url": "https://hoorn.bestuurlijkeinformatie.nl/Reports/Item/3f9e2a52-c01e-4139-a91c-4e4dadbeec3a",
-      "source": "Raadsportaal",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:27+00:00",
-      "updated": "2026-11-27T17:16:40+00:00",
-      "last_change": "2026-11-27T17:16:40+00:00",
-      "hash": "",
-      "revisions": 2,
-      "excerpt": "Interne regelingen Raad en Commissies",
-      "kind": "overzichtsitem",
-      "rapport": "Interne regelingen Raad en Commissies",
-      "last_seen": "2026-11-27",
-      "report_pass": "2026-11-27T00:01:11+00:00",
-      "report_seen": true,
-      "kw_sig": "4f53cda18c2b|666d21d7e4dea6b092096cec1780c097e74244e1940817dc5aff624a1b9cdd5e|Regionaal besluit Informatievoorziening gemeenschappelijke regelingen|Interne regelingen Raad en Commissies",
-      "missing_count": 0,
-      "text_hash": "666d21d7e4dea6b092096cec1780c097e74244e1940817dc5aff624a1b9cdd5e",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Raadsbesluit Informatievoorziening gemeenschappelijke regelingen"
-      ],
-      "bijlagen": [
-        {
-          "t": "Raadsbesluit Informatievoorziening gemeenschappelijke regelingen",
-          "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/cbe38b10-b50d-4c31-91dd-24625135023f"
-        }
-      ],
-      "content_checked": "2026-11-27T17:16:40+00:00",
-      "changes": [
-        {
-          "at": "2026-11-27T17:16:40+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "1 zin(nen) toegevoegd of aangepast, 57 verwijderd of vervangen",
-          "added": [
-            "[Bijlage niet te lezen: 403 Client Error: Forbidden for url: https://hoorn.bestuurli]"
-          ],
-          "removed": [
-            "GEMEENTE",
-            "HOORN",
-            "Raadsbesluit"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "7fefdfba2abad674afb7486405f276735cca41ef06eb3d2bf6539ce11f45b1ad": {
       "title": "Raadsbrief Warmteplan streektuinen",
@@ -929,7 +982,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "kop",
       "last_seen": "2026-11-27",
       "doc_date": "2026-11-27",
@@ -52396,7 +52449,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/9d4198b1-d06f-4c2c-9304-0a784db4073c"
         }
       ],
-      "content_checked": "2026-11-27T17:16:18+00:00"
+      "content_checked": "2026-11-27T23:32:49+00:00"
     },
     "f89a38679c16adf6618b2017d37c623b515b5899d043322590b58ae36162cb22": {
       "title": "Gemeenteraad neemt besluit over toeristisch beleid",
@@ -52669,7 +52722,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4b151a48-8e56-4c8f-86d8-99d1bd4dbefe"
         }
       ],
-      "content_checked": "2026-11-27T17:16:20+00:00"
+      "content_checked": "2026-11-27T23:32:51+00:00"
     },
     "9da0f197d1b752c604cece6736ca1c3969312ef2a7e64951c42a28e33679b22d": {
       "title": "Verordening_Rechtspositie raads- en commissieleden 2026",
@@ -52700,7 +52753,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8394fcc5-d830-42cf-9ddd-8acc4d7c5ac5"
         }
       ],
-      "content_checked": "2026-11-27T17:16:22+00:00"
+      "content_checked": "2026-11-27T23:32:54+00:00"
     },
     "e2833fa2aecfb20c1c519ad4b02df14bceed87d21d8b5aaa81e1c58326d111e6": {
       "title": "Verordening Vertrouwenscommissie 2020",
@@ -52731,7 +52784,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d2b4d7a2-03b4-44dc-b0f7-f0d1a3533170"
         }
       ],
-      "content_checked": "2026-11-27T17:16:24+00:00"
+      "content_checked": "2026-11-27T23:32:56+00:00"
     },
     "66bf7d3c713f3ecf2aa22f35ab805ef291a6b6eaeff210b5082dd8b84ddc40a5": {
       "title": "Verordening onderzoek doelmatigheid 213A",
@@ -52762,7 +52815,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/fd7e149f-6e97-4b0e-95af-3a91260d6b82"
         }
       ],
-      "content_checked": "2026-11-27T17:16:26+00:00"
+      "content_checked": "2026-11-27T23:32:58+00:00"
     },
     "17c9c2d8eeaab23853ea35ef92601e9149afbdb615191dfc18d25d826bdf3df7": {
       "title": "Verordening burgerinitiatief",
@@ -52793,7 +52846,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/4d7c29d7-9288-4cec-b020-996cbc0ffdf6"
         }
       ],
-      "content_checked": "2026-11-27T17:16:28+00:00"
+      "content_checked": "2026-11-27T23:32:59+00:00"
     },
     "7746c66202b50e257a310992b6befafa85b093733386b7327c8b7154dcf4c755": {
       "title": "Verordening Auditcommissie Hoorn",
@@ -52824,7 +52877,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ff5cc5ed-a556-42b6-a19c-a9215c8c8942"
         }
       ],
-      "content_checked": "2026-11-27T17:16:31+00:00"
+      "content_checked": "2026-11-27T23:33:02+00:00"
     },
     "1c59c3355ede8ad6e2e330345d1c7819f107a49169576ff34163fffefff415db": {
       "title": "Screening wethouders raadsbesluit",
@@ -52855,7 +52908,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f54b3d9d-8404-4445-a6f7-553370d5e0f3"
         }
       ],
-      "content_checked": "2026-11-27T17:16:32+00:00"
+      "content_checked": "2026-11-27T23:33:04+00:00"
     },
     "9a6dec6d0c789b3b7ef1bf616585d0dd090e9826fd7d1e6c61cb81d8568e2b75": {
       "title": "Reglement van orde voor de gemeenteraad 2023",
@@ -52886,7 +52939,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d2fa201a-533b-4aaf-ad12-c0c11ffb60c4"
         }
       ],
-      "content_checked": "2026-11-27T17:16:36+00:00"
+      "content_checked": "2026-11-27T23:33:06+00:00"
     },
     "6b459fe877bb7f341d0e1e81cac442af8a99b402b098c45b09b8be6e5c4f7562": {
       "title": "Reglement van orde Algemene Raadscommissie 2023",
@@ -52917,7 +52970,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d89de483-c2a9-4fd2-9aef-0f50d7e3fdc2"
         }
       ],
-      "content_checked": "2026-11-27T17:16:39+00:00"
+      "content_checked": "2026-11-27T23:33:09+00:00"
     },
     "b00fe0021f45c30b4439cec365b7ff121aab1ea842afc22f16deb31eea6dbe56": {
       "title": "Referendumverordening Hoorn",
@@ -52948,7 +53001,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/45815f82-1d88-41be-8b52-308bdf956594"
         }
       ],
-      "content_checked": "2026-11-27T17:16:41+00:00"
+      "content_checked": "2026-11-27T23:33:25+00:00"
     },
     "17ab31f0306c7fc1e8d3dcf4852859ac590342cf920986196b236ed2dbb3a1c7": {
       "title": "Rechtmatigheidsverantwoording grenzen",
@@ -52979,7 +53032,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2043e8e9-85c6-4b1d-89bd-4f96199bfc37"
         }
       ],
-      "content_checked": "2026-11-27T17:16:42+00:00"
+      "content_checked": "2026-11-27T23:33:27+00:00"
     },
     "0ddf33b032706d00ef48367cea092dc4591309f15648b499ceef11d9d21375cf": {
       "title": "Raadsbesluit Verordening Ambtelijke bijstand en fractieondersteuning 2022",
@@ -53010,7 +53063,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/40f65e58-2c38-435b-868d-a2b6eea12f0c"
         }
       ],
-      "content_checked": "2026-11-27T17:17:00+00:00"
+      "content_checked": "2026-11-27T23:33:29+00:00"
     },
     "931ad89ad1cc79e229faccd6e6c5ee44ca4595171baf65fce5480fc201bf2c5e": {
       "title": "Protocol_Procedure_overlijden_raads-en commissielid (concept)",
@@ -53041,7 +53094,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/35a63160-3b25-4a4a-b499-b59a177aff9c"
         }
       ],
-      "content_checked": "2026-11-27T17:17:01+00:00"
+      "content_checked": "2026-11-27T23:33:30+00:00"
     },
     "95379f135219e720e6b104cf65e5d20c5e31496e91df9c23c8ad96c0228b8416": {
       "title": "Interne regeling met Autorisatieniveau budgethouders versus raadsbevoegdheid",
@@ -53072,7 +53125,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/ee4aeb54-60a8-4b27-a292-3328ad0a0671"
         }
       ],
-      "content_checked": "2026-11-27T17:17:04+00:00"
+      "content_checked": "2026-11-27T23:33:32+00:00"
     },
     "b597fca4ee300a55c3c693fcd565032d9c404b0b2cfdbcdca7a58e417faafbc4": {
       "title": "Gedragscode gemeenteraad Hoorn 2023",
@@ -53108,7 +53161,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/90773a3c-37fa-45ca-a340-ffeeea4bc7ba"
         }
       ],
-      "content_checked": "2026-11-27T17:17:07+00:00"
+      "content_checked": "2026-11-27T23:33:36+00:00"
     },
     "af726370028bfb23b392e71cf2cd01d8a834f7a645336eb0a209911a3e5b4560": {
       "title": "Financiële verordening",
@@ -53139,7 +53192,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/08189139-58c1-45e5-9f83-f04d8e655de9"
         }
       ],
-      "content_checked": "2026-11-27T17:17:10+00:00"
+      "content_checked": "2026-11-27T23:33:39+00:00"
     },
     "05ff6f1e1277632d429bcbafe8cc5a817f747b257bd8d05e60ec1badfe3f1cc8": {
       "title": "Controleverordening",
@@ -53170,7 +53223,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f21353e7-da56-4ff1-97c2-ce30f977d9cc"
         }
       ],
-      "content_checked": "2026-11-27T17:17:12+00:00"
+      "content_checked": "2026-11-27T23:33:40+00:00"
     },
     "98871a936cc83d0782529add78c57f90604c360fe6cdef31c90e68c6def30ab5": {
       "title": "AVG (algemene verordening gegevensbescherming) Privacyverklaring Gemeenteraad Hoorn 2022",
@@ -53201,7 +53254,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/d3a98710-cb73-4bd5-ad81-193d02b14209"
         }
       ],
-      "content_checked": "2026-11-27T17:17:13+00:00"
+      "content_checked": "2026-11-27T23:33:41+00:00"
     },
     "24bfe6d7355e589fd42f9c5966e60673274651fd7b946c70eaada43f4ecce0f5": {
       "title": "Agressieprotocol raadsleden",
@@ -53232,7 +53285,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/5a144bf1-236a-44b8-a22d-c923d4e74159"
         }
       ],
-      "content_checked": "2026-11-27T17:17:14+00:00"
+      "content_checked": "2026-11-27T23:33:43+00:00"
     },
     "5e951ad31a86e7c52224fba7561f2548e6d6f0ac7f38dfed55cbd047cd3d8227": {
       "title": "Warmteplan Streektuinen",
@@ -93021,14 +93074,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "ok": true,
         "count": 167,
         "new": 0,
         "note": "Laatste 30 dagen: 167 van 167 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T23:15:45+00:00",
+        "checked": "2026-11-27T23:31:26+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -93036,7 +93089,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 385 documenten bekend. Dekking: vergaderingen van 2026-09-28 t/m 2027-01-11 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-27T23:16:11+00:00",
+        "checked": "2026-11-27T23:31:40+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -93044,16 +93097,16 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3024, Toezeggingen 1466, Amendementen 563, Artikel 36 vragen 1050, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-27T23:16:12+00:00",
+        "checked": "2026-11-27T23:31:40+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-27T23:16:12+00:00",
-        "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "checked": "2026-11-27T23:31:42+00:00",
+        "ok": false,
+        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
       }
     },
     "algemeen": {
@@ -93066,25 +93119,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-27T23:16:15+00:00",
+        "checked": "2026-11-27T23:31:42+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-27T23:16:34+00:00",
+        "checked": "2026-11-27T23:33:43+00:00",
         "ok": true,
-        "count": 2,
+        "count": 21,
         "errors": 0,
-        "note": "2 documenten gecontroleerd (0 pdf), 1031 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "21 documenten gecontroleerd (0 pdf), 1031 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T23:16:34+00:00",
+        "checked": "2026-11-27T23:33:43+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T23:16:34+00:00",
+        "checked": "2026-11-27T23:33:43+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -93101,7 +93154,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -93135,7 +93188,7 @@
         ]
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -93152,7 +93205,7 @@
         ]
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -93166,7 +93219,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -93182,7 +93235,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -93274,7 +93327,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -93295,7 +93348,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -93315,7 +93368,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -93336,7 +93389,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -93360,7 +93413,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-27T23:15:28+00:00",
+        "checked": "2026-11-27T23:30:39+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -93431,7 +93484,7 @@
       }
     },
     "meetings_listed": {
-      "hoorn": "2026-11-27T23:00:50+00:00"
+      "hoorn": "2026-11-27T23:30:47+00:00"
     },
     "reports": {
       "hoorn": {
@@ -93695,7 +93748,7 @@
       }
     },
     "media": {
-      "pause_until": "2026-11-27T23:31:09+00:00"
+      "pause_until": "2026-11-28T01:31:40+00:00"
     },
     "elders": {
       "woo": "2026-11-27T23:16:12+00:00"
