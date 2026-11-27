@@ -1,0 +1,303 @@
+BEGROTINGSWIJZIGING 2026 TOTAAL VERWERKT 0 0 0 0 0
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 0 0 0 0 0
+Begrotingswijziging is gemaakt door:Adviseurs totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Adviseurs categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2026 2027 2028 2029 2030
+-11.262.704 0 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8100 33300 U Aankoop gronden -162.466 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8401 33301 U Kosten bouw- woonrijp maken -445.369 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8402 33301 U Kosten bouw- woonrijp maken -4.277.133 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8403 33301 U Kosten bouw- woonrijp maken -754.613 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8404 33301 U Kosten bouw- woonrijp maken -9.878 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8406 33301 U Kosten bouw- woonrijp maken -272.669 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8411 33301 U Kosten bouw- woonrijp maken -315.495 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8501 33531 U Leges en vergunningen -38.951 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8300 33543 U Projecten 198.167 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8300 33545 U Voorbereidingskosten -254.247 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8501 34322 U Planschadevergoeding -311.193 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8500 33543 U Projecten -293.882 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8601 33301 I Opbrengst grondverkopen -3.465.676 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8604 34320 I Bijdrage van derden (excl. overheid) in invest. -799 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8603 44212 I Inkomensoverdrachten - overige overheden -903.571 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8602 33404 I Bijdrage in kosten aansluiting op riool -12.250 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Netto investeringen Grondbedrijf 40508001 100 36797 I Bijdrage van 4.05.08.001 wgs onderhanden werk 2.555.433 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -2.555.433 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8999 36797 I Bijdrage van 4.05.08.001 wgs onderhanden werk -1.249.056 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Exploitatie gronden, niet bedrijventerreinen'GREX'105080 8999 36797 U Bijdrage aan 1.05.08.0 wgs onderhanden werk 1.306.377 0 0 0 0 Bijstellen B2026 cf tussentijdse rapportage
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Zaaknummer + titel: Adviseur: Toelichting op het besluit om de begroting te wijzigen: Het Meerjarenperspectief Grondexploitaties (MPG) 2026 geeft inzicht in definanciële positie van de grondexploitaties per 1 januari 2026.
+Conform het grondbeleid wordt tweemaal per jaar gerapporteerd over definanciële ontwikkelingen: in het voorjaar via het MPG en in het najaar via deze tussentijdse rapportage.
+Deze rapportage heeft eeninformatief karakter en beschrijft de ontwikkelingen in de periode van 1 januari tot 1 juli 2026.
+In deze periode hebben zich geen grotewijzigingen in het resultaat voorgedaan.
+De financiële gevolgen van het achterblijven van kosten en het vooruitlopen van opbrengstenworden betrokken bij de integrale herziening van het MPG 2027, waarbij ook de totale planning opnieuw wordt beoordeeld.
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0

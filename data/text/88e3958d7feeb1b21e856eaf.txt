@@ -1,0 +1,37 @@
+BEGROTINGSWIJZIGING 2027 TOTAAL VERWERKT 0 0 0 0 0
+TOTAAL VERWERKT UITGAVEN EXPLOITATIE-1.129.539 -1.554.196 -2.226.312 -2.956.590 -3.599.046
+TOTAAL VERWERKT INKOMSTEN EXPLOITATIE1.129.539 -1.554.196 -2.226.312 -2.956.590 -3.599.046
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 0 0 0 0 0
+Begrotingswijziging is gemaakt door:Patrick totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Adviseurs categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.5 in evenwicht 0 0 0 0 0
+naam BWN AWN 0 0 0 0 0
+nr.
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2027 2028 2029 2030 2031
+2.259.078 3.108.392 4.452.624 5.913.180 7.198.092
+nr. adviseur FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Uitkeringen gemeentefonds 117020 101 44101 I Inkomensoverdrachten - Rijk 1.129.539 1.401.863 2.226.312 2.956.590 3.599.046SC26: Bruto resultaat
+Resultaat na bestemming 199992 100 30099 U Voordelig saldo 10.502 0 80.577 90.321 101.310SC26: Netto resultaat
+Resultaat na bestemming 199992 100 30009 I Nadelig saldo 0 152.333 0 0 0 SC26: Netto resultaat
+Uitvoering Wet op de lijkbezorging 104051 100 33592 U Diensten derden 0 4.772 4.898 5.088 5.243SC26: Wet op de Lijkbezorging
+Primair onderwijs-onderwijshuisvesting113011 100 33570 U Uitvoeringskosten 3.797 3.764 3.713 0 0 SC26: Wetsvoorstel Onderwijshuisvesting
+Volkshuisvesting-algemeen 108010 100 33570 U Uitvoeringskosten 167.282 169.697 172.531 177.257 181.178SC26: Wet Versterking regie volkshuisvesting: uitvoeringskosten
+Volkshuisvesting-algemeen 108010 100 33420 U Dienstverlening I-NUP 14.216 14.378 14.473 14.703 14.925SC26: Wet Versterking regie volkshuisvesting: integrale dienstverlening
+Kwetsbare inwoners-Maatschappelijke opvang122046 100 30000 U Stelpost exploitatielasten 13.406 13.406 13.406 13.406 13.406SC26: Maatschappelijke opvang en OGGz (DU)
+Kwetsbare inwoners-Beschermd wonen ingekocht ZiN122044 100 30000 U Stelpost exploitatielasten 612.913 1.273.299 1.861.971 2.581.221 3.208.269SC26: Beschermd Wonen (IU)
+Participatie-Reïntegratie 126010 100 44204 U Inkomensoverdrachten - gemeensch. regelingen -1.956 -2.083 -2.220 -2.369 -2.497SC26: Participatie (IU)
+Participatie-Reïntegratie 126010 4601 44204 U Inkomensoverdrachten - gemeensch. regelingen -2.911 -2.911 -2.911 -2.911 -2.662SC26: Impulsbudget sociale infrastructuur (DU)
+Openbare bibliotheek 112020 3809 44281 U Inkomensoverdrachten-gemeenten 232.416 0 0 0 0 SC26: Openbare bibliotheken
+Rondkomen - inkomensondersteuning125080 4315 44220 U Vergoedingen 79.874 79.874 79.874 79.874 79.874SC26: IBO Problematische schulden
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Zaaknummer + titel: Adviseur: Toelichting op het besluit om de begroting te wijzigen:

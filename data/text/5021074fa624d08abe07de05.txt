@@ -1,0 +1,76 @@
+BEGROTINGSWIJZIGING 2027 TOTAAL VERWERKT 0 0 0 0 0
+TOTAAL VERWERKT UITGAVEN EXPLOITATIE-185.490 -185.490 -185.490 -185.490 -185.490
+TOTAAL VERWERKT INKOMSTEN EXPLOITATIE185.490 -185.490 -185.490 -185.490 -185.490
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 0 0 0 0 0
+Begrotingswijziging is gemaakt door:Chris totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Patrick categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2027 2028 2029 2030 2031
+370.980 370.980 370.980 370.980 370.980
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Baten betaald parkeren 109085 4032 33407 I Opbrengst parkeergelden 134.180 134.180 134.180 134.180 134.180Trendmatige verhoging B2027 3,1%
+Baten betaald parkeren 109085 4033 33407 I Opbrengst parkeergelden 17.910 17.910 17.910 17.910 17.910Trendmatige verhoging B2027 3,1%
+Baten betaald parkeren 109085 4147 33407 I Opbrengst parkeergelden 5.800 5.800 5.800 5.800 5.800Trendmatige verhoging B2027 3,1%
+Baten betaald parkeren 109085 4154 33407 I Opbrengst parkeergelden 24.490 24.490 24.490 24.490 24.490Trendmatige verhoging B2027 3,1%
+Baten betaald parkeren 109085 4159 33407 I Opbrengst parkeergelden 3.110 3.110 3.110 3.110 3.110Trendmatige verhoging B2027 3,1%
+Reserve Parkeren 49551004 100 36099 I Stortingen reserves 185.490 185.490 185.490 185.490 185.4902 - 10908X Trendmatige verhoging B2027 3,1%
+Mutaties reserves 199991 12230 36015 U Storting reserve parkeren 185.490 185.490 185.490 185.490 185.4902 - 10908X Trendmatige verhoging B2027 3,1%
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen -185.490 -185.490 -185.490 -185.490 -185.4902 - 10908X Trendmatige verhoging B2027 3,1%
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0

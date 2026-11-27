@@ -1,0 +1,82 @@
+BEGROTINGSWIJZIGING 2026 TOTAAL VERWERKT 0 0 0 0 0
+Vul ook de toelichting in waarom en wat je wilt wijzigen, zie oranje blok =>totaal kredieten (uitgaven min inkomsten): moet 0 zijn 0 0 0 0 0
+totaal exploitatie 0 0 0 0 0
+Begrotingswijziging is gemaakt door:Ramona totaal aanmeldingen 0 0 0 0 0
+Begrotingswijziging is gecontroleerd door:Niels categorie 7.1 in evenwicht 0 0 0 0 0
+categorie 7.2 in evenwicht 0 0 0 0 0
+categorie 7.3 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+categorie 7.4 in evenwicht 0 0 0 0 0
+BWN AWN 0 0 0 0 0
+0 0 0 0 0
+uitgaven bij nummer (cel A18) 0 0 0 0 0
+inkomsten bij nummer (cel A18) 0 0 0 0 0
+Invullen: verhoging uitgaven = +bedrag
+Invullen: verhoging inkomsten = +bedrag 2026 2027 2028 2029 2030
+0 1.567.560 2.160.000 0 0
+FCL omschrijving FCL taak ECL I/U ECL omschrijving wijziging lopend
+jaar
+wijziging jaar 2 wijziging jaar 3 wijziging jaar 4 wijziging jaar 5 toelichting van de wijziging
+Opvang asielzoekers en vluchtelingen114100 4268 33418 U Exploitatielasten 0 540.000 540.000 0 0 huisvestingslasten
+Opvang asielzoekers en vluchtelingen114100 4268 44101 I Inkomensoverdrachten - Rijk 0 296.220 0 0 0 Regeling Tijdelijk onderdak van statushouders
+Mutaties reserves 199991 12630 36083 I Beschikking reserve incidentele bestemmingen 0 243.780 540.000 0 0 6 114100 doorstroomlocatie Verlengde Lageweg
+Reserve diverse incidentele bestemmingen49550003 100 36099 U Beschikkingen reserves 0 243.780 540.000 0 0 6 114100 doorstroomlocatie Verlengde Lageweg
+Financiering investeringen 49999999 100 33359 I Sluitpost inkomsten van investeringen 0 243.780 540.000 0 0 Doorstroomlocatie Verlengde Lageweg
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Vul een geldige FCL in Vul geldige combinatie ECL/IU in 0 0 0 0 0
+Zaaknummer + titel: 3097162 Doorstroomlocatie Verlengde LagewegAdviseur: R.
+ZandbergenToelichting op het besluit om de begroting te wijzigen: De doorstroomlocatie voor statushouders aan de Maelsonstraat is beëindigd.
+Het college heeft besloten om de doorstroomlocatie voor statushouders te verplaatsen naar de Verlengde Lageweg 19.
+De huurovereenkomst voor deze locatie wordt dan met 2 jaar verlengd (t/m 31 december 2028).De verwachte kosten per jaar zijn € 540.000 (is gebaseerd op de huidige kosten).
+Dekking hiervoor is inkomsten vanuit de rijksregeling voor huisvesting van statushouders (€ 296.220) en het surplus dat in 2026 is ontstaan bij de doorstroomlocatie van de Maelsonstraat (€ 783.780).
+Bij de Najaarsbijstelling 2026 is besloten om dit surplus in de reserve van € 800.000 te storten ter dekking van toekomstige kosten.
+Van het surplus blijft ongeveer € 16.000 in de reserve zitten.
