@@ -3,6 +3,45 @@
     "hoorn"
   ],
   "items": {
+    "dc1839c32776ab007d10466d0b1ac9e4f11f5f5440d7753893e61bb61097f112": {
+      "title": "Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033",
+      "url": "https://open.overheid.nl/documenten/oep-ob-060d992194bf14d1da626c96c0dce8c41b19ed26",
+      "source": "Woo-publicaties",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-28T09:16:21+00:00",
+      "updated": "2026-11-28T09:16:21+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "baseline": null,
+      "instantie": "ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "plaats": "Hoorn",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "openbaar gemaakt",
+      "last_seen": "2026-11-28",
+      "kw_sig": "4f53cda18c2b||Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033|ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
+    },
+    "680b91ddb2167776c813ea1d126a0bf7bd87127ebb927d240391957c7520c5f2": {
+      "title": "Fietser met spoed naar ziekenhuis na ongeluk met auto aan Westerblokker in Blokker",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFpzT3NtdDN4MVlQU0FjYXpqaGpXMmFKanV1Vl9IQ2ZiT2cya3JQSEdWcVV2d3hyNHBnbWIxdVktalFHTWVXZ3hEeld4S1V1NnlOWXk5QXJKY0RkNlZObUJtZ0gybzZiWVFPdVNoYkJKY1p4TlVWUDlwX1kxSE1keGRfNnRvc3JMZVpGdTJvRFJ5TDNXSmt0NmNDUjVxRXlaelB6VEhyUjhYUmNQM2g3ZkNNYWh1Z0s0TUNJazh2UGtSZFdY?oc=5",
+      "source": "In de media",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-28T09:16:17+00:00",
+      "updated": "2026-11-28T09:16:17+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-28",
+      "doc_date": "2026-11-28",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-28T10:13+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Fietser met spoed naar ziekenhuis na ongeluk met auto aan Westerblokker in Blokker|"
+    },
     "fb43e82473516ab483b6c554d6f7e269fda98209438cb2bf84388c510047dc80": {
       "title": "Samen lichtpuntjes delen en Kerst vieren in Den Hoorn",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemN1dnRVZTZMak1JSHYtZnRYLW9kNVB0WkhTMU5ZYTB3WVA2c1JnZ1VtMFY2aUJ0ckR6LUxMclhGazJ1VTZ0enZCb3QzaHpWN1FJMTVQOWphc05YcS1GRHNqMmQyN2szSFZfcXlxWnEzcDhYT01JMHllZHZSZ1JmcUpXM1NIdEFzUWJOVHY3eDRrZ010SDZvV0tISUloM2JhcXB4RDl3?oc=5",
@@ -436,7 +475,7 @@
       "kw_sig": "4f53cda18c2b|ea0fea03c3e624f30d8edefbbf39a1d5b06334c91b3b5077ed1e66285d95116e|Commissievergadering dinsdag 24 november|<p>Op dinsdag 24 november 2026 vergadert de raadscommissie in de raadzaal van het stadhuis. Het college vraagt om uitstel voor de herijking subsidies, om een reactie op de belastingverordeningen en op de Hoornse bijdrage aan een ontwikkelingsdocument over de regio Noord-Holland Noord.</p>",
       "missing_count": 0,
       "text_hash": "ea0fea03c3e624f30d8edefbbf39a1d5b06334c91b3b5077ed1e66285d95116e",
-      "content_checked": "2026-11-28T03:01:51+00:00",
+      "content_checked": "2026-11-28T09:16:31+00:00",
       "changes": [
         {
           "at": "2026-11-26T13:32:43+00:00",
@@ -1301,7 +1340,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)",
       "missing_count": 0,
       "text_hash": "1e1b5f4f903584d3f767ccd0b8e4abaf309158a2fbab3c6b15efa51025cc200b",
-      "content_checked": "2026-11-28T03:01:51+00:00",
+      "content_checked": "2026-11-28T09:16:31+00:00",
       "kw_sig": "4f53cda18c2b|1e1b5f4f903584d3f767ccd0b8e4abaf309158a2fbab3c6b15efa51025cc200b|Brief inwoner - Zorgen en bezwaren over de opvang van diverse groepen op de Blauwe Berg|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne)"
     },
     "1f2273243e76cf3bf9a2cdb0e234ce89d48f85fff37ac7a896c7e7a327fbeb13": {
@@ -1335,7 +1374,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/984ba185-3377-4398-8d4d-301f7ac2aa4b"
         }
       ],
-      "content_checked": "2026-11-28T03:01:39+00:00",
+      "content_checked": "2026-11-28T09:16:28+00:00",
       "changes": [
         {
           "at": "2026-11-27T08:16:49+00:00",
@@ -2857,7 +2896,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "fe7e2cb073618f69ca3ab125f2a4e735fce529e8bb93739e63d79b0891dc3ba4",
-      "content_checked": "2026-11-28T03:01:58+00:00",
+      "content_checked": "2026-11-28T09:16:32+00:00",
       "kw_sig": "4f53cda18c2b|fe7e2cb073618f69ca3ab125f2a4e735fce529e8bb93739e63d79b0891dc3ba4|Brief inwoner - Bezwaar rugbyveld (206 plekken) en Vonk-gebouw de Blauwe Berg als voorgenomen locaties voor asielzoekers plekken|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "0bc845dec84e3443010ece0ab0b5b6b2ce05223e8c3b884fc79a52e6e5b40978": {
@@ -4389,7 +4428,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/39a43a55-d5ce-4e3f-9131-c6b24cbc46c8"
         }
       ],
-      "content_checked": "2026-11-28T03:02:18+00:00",
+      "content_checked": "2026-11-28T09:16:44+00:00",
       "changes": [
         {
           "at": "2026-11-26T05:46:52+00:00",
@@ -4512,7 +4551,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "089fecadcf51ede94f9aad4514e1899e7915ad641e01a09a7b50533ee1c8f76f",
-      "content_checked": "2026-11-28T03:01:58+00:00",
+      "content_checked": "2026-11-28T09:16:33+00:00",
       "kw_sig": "4f53cda18c2b|089fecadcf51ede94f9aad4514e1899e7915ad641e01a09a7b50533ee1c8f76f|Brief inwoner - zorgen vestiging AZC rugbyveld Blauwe Berg|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "28669c728ddde88281d3d2bfb04777d8a0c866be7993f87d35a50352834f6228": {
@@ -53285,7 +53324,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/2ee9e76d-6c42-4c60-acd7-7f215fa7860a"
         }
       ],
-      "content_checked": "2026-11-28T03:02:11+00:00"
+      "content_checked": "2026-11-28T09:16:38+00:00"
     },
     "53601900366020ffd54254a68166be29e095ca1f94c649b068e676f5979c33ed": {
       "title": "Bestuurlijke planning - versie 17 november 2025",
@@ -53318,7 +53357,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/e15aa451-77e4-4509-a295-60065da07c01"
         }
       ],
-      "content_checked": "2026-11-28T03:02:16+00:00"
+      "content_checked": "2026-11-28T09:16:43+00:00"
     },
     "ef2d8fb7d8fd6379f95dd51de09f14084a964713bfd51bca815ce050da3e8cca": {
       "title": "Bomenbeleid en groenbeleid",
@@ -53569,7 +53608,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/465f2f17-2b75-4220-a60c-67893ca70899"
         }
       ],
-      "content_checked": "2026-11-28T03:01:41+00:00"
+      "content_checked": "2026-11-28T09:16:30+00:00"
     },
     "bf06e290a7081b2b5a9a3a96be53f7489f2049ce559eb6517f65e4bdc60ac42b": {
       "title": "Overige vragen Kruising van Aalstweg",
@@ -53602,7 +53641,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/33fa0755-93a3-4247-8f94-fd25f17a637b"
         }
       ],
-      "content_checked": "2026-11-28T03:02:20+00:00"
+      "content_checked": "2026-11-28T09:16:51+00:00"
     },
     "707a34f753f4879187a4310e7fbdccfdc735fb03a4096f45c6befc41462bab90": {
       "title": "Overige vragen betaalbaarheid en toegankelijkheid van muziekonderwijs",
@@ -63982,7 +64021,7 @@
       "text_v": 2,
       "bijlagen_titels": [],
       "bijlagen": [],
-      "content_checked": "2026-11-28T03:02:29+00:00"
+      "content_checked": "2026-11-28T09:16:52+00:00"
     },
     "aa32e167e7271af2a7552c08328a1f239f787d011ea7faa722cb52c66fdbe3c3": {
       "title": "Watertappunt in het Julianapark",
@@ -68129,7 +68168,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/586444b7-9431-4224-a9f9-02f5b5f0aede"
         }
       ],
-      "content_checked": "2026-11-28T03:02:14+00:00"
+      "content_checked": "2026-11-28T09:16:40+00:00"
     },
     "45b4dc30c7bb6ab0b60192f08ad45a70784ec504591730f8076a8f0d7761d1ec": {
       "title": "Raadsbrief Benoeming directeur-bestuurder Sportbedrijf Hoorn BV",
@@ -68162,7 +68201,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/1d5a8728-edf5-405e-a106-f47284f244ba"
         }
       ],
-      "content_checked": "2026-11-28T03:15:59+00:00"
+      "content_checked": "2026-11-28T09:17:02+00:00"
     },
     "67459d8e5a22fe79e935209944d38eb654fe667a231a4c155519a295d467efd9": {
       "title": "Raadsbrief Meerjarenagenda 2026-2030 Arbeidsmarktregio Noord-Holland Noord",
@@ -68195,7 +68234,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f2200c14-6385-4caa-9dff-e0ae0937f93d"
         }
       ],
-      "content_checked": "2026-11-28T03:16:01+00:00"
+      "content_checked": "2026-11-28T09:17:03+00:00"
     },
     "99c3e9677c27970cfaa0ddf43aff241366801a979919c6a72de239736e2efb88": {
       "title": "Raadsbrief Haalbaarheidsonderzoek parkeergarage Noorderveemarkt",
@@ -68228,7 +68267,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a71dc094-a378-4eab-a21c-69b44d86f0bc"
         }
       ],
-      "content_checked": "2026-11-28T03:16:02+00:00"
+      "content_checked": "2026-11-28T09:17:05+00:00"
     },
     "1ee793e6de707a1a35af69ac364b979dfe512363f3d12c0223c907020562d4fd": {
       "title": "Raadsbrief toekomstperspectief sportpark Middelweg",
@@ -71554,7 +71593,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/9418ef5c-9f88-45f2-b2e9-2b5f3c9fd70d"
         }
       ],
-      "content_checked": "2026-11-28T03:16:09+00:00"
+      "content_checked": "2026-11-28T09:17:07+00:00"
     },
     "42031a1b4f641ee8fac34ae34ce74c2c1b6476272e09fc16d9e9467f7980deaf": {
       "title": "Besluitenlijst 10 november 2026",
@@ -73699,7 +73738,7 @@
       "kw_sig": "4f53cda18c2b|6cd2aa37f449bb7a957a7a550f85e41b8f99463ba48584744b3e3b8d25dfee53|Rondvraag|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 4 Rondvraag algemeen",
       "missing_count": 0,
       "text_hash": "6cd2aa37f449bb7a957a7a550f85e41b8f99463ba48584744b3e3b8d25dfee53",
-      "content_checked": "2026-11-28T03:16:10+00:00"
+      "content_checked": "2026-11-28T09:17:07+00:00"
     },
     "09c19ade107a6433d358fa90474c3bcd86c962bf171a30813f697e42be420fcd": {
       "title": "Raadsvoorstel Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.",
@@ -73734,7 +73773,7 @@
       "kw_sig": "4f53cda18c2b|71513028ac0de31738e55dab9715f911b6263fd21590a27419eca23fc2a9f974|Raadsvoorstel Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "71513028ac0de31738e55dab9715f911b6263fd21590a27419eca23fc2a9f974",
-      "content_checked": "2026-11-28T03:16:11+00:00"
+      "content_checked": "2026-11-28T09:17:10+00:00"
     },
     "aeb9dbbbf48575be01e3d50f4d76eade286d83ea0f22b536a1e9ad56464d5141": {
       "title": "Raadsbesluit Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.",
@@ -73769,7 +73808,7 @@
       "kw_sig": "4f53cda18c2b|d08c1eaf39cc4f6aab935ea4f2aaf7be2f5c7b4ce01021fb183fbb3e067c6555|Raadsbesluit Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "d08c1eaf39cc4f6aab935ea4f2aaf7be2f5c7b4ce01021fb183fbb3e067c6555",
-      "content_checked": "2026-11-28T03:16:11+00:00"
+      "content_checked": "2026-11-28T09:17:11+00:00"
     },
     "bdd0746490c895932d988fc29e7f4f58dc29cc56a0b1b11e58d91f92a3fdd3c1": {
       "title": "Commissieadvies - Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.",
@@ -73804,7 +73843,7 @@
       "kw_sig": "4f53cda18c2b|67c09e3a73f0b99d8aa5dd5e0cd011a574bd8b035e098a165090d492049e5dd6|Commissieadvies - Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "67c09e3a73f0b99d8aa5dd5e0cd011a574bd8b035e098a165090d492049e5dd6",
-      "content_checked": "2026-11-28T03:16:11+00:00"
+      "content_checked": "2026-11-28T09:17:11+00:00"
     },
     "caa40b6b8b5bd289db8a96ad29691a3041ecedf997e0c661972135a74982743e": {
       "title": "Beantwoording technische vragen FvD",
@@ -73839,7 +73878,7 @@
       "kw_sig": "4f53cda18c2b|54239a30b2045280041e71aca08d84cef78a7e94d583cd9cd2fa8b27946a8cb0|Beantwoording technische vragen FvD|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "54239a30b2045280041e71aca08d84cef78a7e94d583cd9cd2fa8b27946a8cb0",
-      "content_checked": "2026-11-28T03:16:15+00:00"
+      "content_checked": "2026-11-28T09:17:22+00:00"
     },
     "f3d016df22c222b1a954b75e869e909225e5390742a8f7d97d957c340189a8b1": {
       "title": "Beantwoording technische vragen FvD 2",
@@ -73874,7 +73913,7 @@
       "kw_sig": "4f53cda18c2b|dc7e92e7a4a037b07d684861d4e458d9c7b88859e908ac4912f6b2adf1de92bb|Beantwoording technische vragen FvD 2|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "dc7e92e7a4a037b07d684861d4e458d9c7b88859e908ac4912f6b2adf1de92bb",
-      "content_checked": "2026-11-28T03:16:15+00:00"
+      "content_checked": "2026-11-28T09:17:22+00:00"
     },
     "7a1aaa0502b9bc9bde6bb332d72964f4cacfaca364b4e3d1bcb0ffec0e1a98e8": {
       "title": "Beantwoording technische vragen SP",
@@ -73909,7 +73948,7 @@
       "kw_sig": "4f53cda18c2b|3ead02567b479ad39bced65bfff6cd8abeb975b1dc4235e8fa7ab505666ffdd1|Beantwoording technische vragen SP|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "3ead02567b479ad39bced65bfff6cd8abeb975b1dc4235e8fa7ab505666ffdd1",
-      "content_checked": "2026-11-28T03:16:15+00:00"
+      "content_checked": "2026-11-28T09:17:23+00:00"
     },
     "eae4a33aa5030bf696bb707922a15b3acdea17f6617542cd0ed0d4aee0597147": {
       "title": "Beantwoording technische vragen CDA Hoorn",
@@ -73944,7 +73983,7 @@
       "kw_sig": "4f53cda18c2b|67d981bf8535e2bd1c7e95093f5c44689c8454c0ed23337ce48a9cb551afb100|Beantwoording technische vragen CDA Hoorn|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "67d981bf8535e2bd1c7e95093f5c44689c8454c0ed23337ce48a9cb551afb100",
-      "content_checked": "2026-11-28T03:16:15+00:00"
+      "content_checked": "2026-11-28T09:17:23+00:00"
     },
     "9cbbd3296251e06428cf39f20b655916b0a1f2598170768dbcc432f4849a40c6": {
       "title": "Oplegger wensen en bedenkingen",
@@ -73979,7 +74018,7 @@
       "kw_sig": "4f53cda18c2b|c5afb6d9c1b6281b02d3bfe5addb8aa0a9d39f3e30b8f5c82ad0fe6d30f9837a|Oplegger wensen en bedenkingen|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "c5afb6d9c1b6281b02d3bfe5addb8aa0a9d39f3e30b8f5c82ad0fe6d30f9837a",
-      "content_checked": "2026-11-28T03:16:16+00:00"
+      "content_checked": "2026-11-28T09:17:24+00:00"
     },
     "33dcf9643252b4b55a16d4235f02c725776668bce6734f01f977ae52e561582b": {
       "title": "Bijlage 1 Maatschappelijke opdracht Sportbedrijf Hoorn B.V.",
@@ -74014,7 +74053,7 @@
       "kw_sig": "4f53cda18c2b|2a8cfa3d92013053777f152cf6a88a3aed4c2fd879a698561edef94054992194|Bijlage 1 Maatschappelijke opdracht Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "2a8cfa3d92013053777f152cf6a88a3aed4c2fd879a698561edef94054992194",
-      "content_checked": "2026-11-28T03:16:16+00:00"
+      "content_checked": "2026-11-28T09:17:25+00:00"
     },
     "5ae3ec486e34a089856095099265b361f2d6096810868b48be679249b4302a84": {
       "title": "Bijlage 2 Governance Code Sportbedrijf Hoorn B.V.",
@@ -74049,7 +74088,7 @@
       "kw_sig": "4f53cda18c2b|7418c4152886351a4b67b634b948284b164192dfc3001634b980378085c8b01d|Bijlage 2 Governance Code Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "7418c4152886351a4b67b634b948284b164192dfc3001634b980378085c8b01d",
-      "content_checked": "2026-11-28T03:16:17+00:00"
+      "content_checked": "2026-11-28T09:17:26+00:00"
     },
     "82f6ea6d35d7ab48a83cce8d6dc49a27c0fe4757140fd4865a386db1177a6be5": {
       "title": "Bijlage 3 Toelichting aanpassingen MO en GC",
@@ -74084,7 +74123,7 @@
       "kw_sig": "4f53cda18c2b|c1ae594e11994f7000f2efc8805ebdfb9f821734576f8c7488739f200a887dd0|Bijlage 3 Toelichting aanpassingen MO en GC|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "c1ae594e11994f7000f2efc8805ebdfb9f821734576f8c7488739f200a887dd0",
-      "content_checked": "2026-11-28T03:16:17+00:00"
+      "content_checked": "2026-11-28T09:17:27+00:00"
     },
     "13d74af099b0a5c45e190d372aae3164196989dfb2da135c8068979fad8406c4": {
       "title": "Bijlage 4 Statuten Sportbedrijf Hoorn B.V.",
@@ -74119,7 +74158,7 @@
       "kw_sig": "4f53cda18c2b|3cbe2743e62b3f0610136178df74c4469af675818f5ce875b70df1612d27afa0|Bijlage 4 Statuten Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "3cbe2743e62b3f0610136178df74c4469af675818f5ce875b70df1612d27afa0",
-      "content_checked": "2026-11-28T03:16:18+00:00"
+      "content_checked": "2026-11-28T09:17:28+00:00"
     },
     "44fe09de34df12bbfd1f0d4d68fdb7e0fef1f8dcc8d984c56aa17fccc3cfdbda": {
       "title": "Bijlage 5 Dienstverleningsovereenkomst Sportbedrijf Hoorn B.V.",
@@ -74154,7 +74193,7 @@
       "kw_sig": "4f53cda18c2b|0f634b72bc5fe70d5922f2455901062942aa676c6e6ab72fb5299ab4d1be4e08|Bijlage 5 Dienstverleningsovereenkomst Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "0f634b72bc5fe70d5922f2455901062942aa676c6e6ab72fb5299ab4d1be4e08",
-      "content_checked": "2026-11-28T03:16:19+00:00"
+      "content_checked": "2026-11-28T09:17:30+00:00"
     },
     "d7cb5c4781e1cdb359bbcc702eaec92d96eaa2afdcc05b3f288ff12b8b19b84a": {
       "title": "Bijlage 6 Huurovereenkomst Sportbedrijf Hoorn",
@@ -74189,7 +74228,7 @@
       "kw_sig": "4f53cda18c2b|7c6b216a19dbf3826ca350085c164a44a5ca442eb93fd4db3af04a4d8969d246|Bijlage 6 Huurovereenkomst Sportbedrijf Hoorn|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "7c6b216a19dbf3826ca350085c164a44a5ca442eb93fd4db3af04a4d8969d246",
-      "content_checked": "2026-11-28T03:16:19+00:00"
+      "content_checked": "2026-11-28T09:17:35+00:00"
     },
     "bc8c800d5b14b4ca5b427fe304151be0f27a6dc0995af1301d9b60bbeeb3c4a0": {
       "title": "Bijlage 7 Financiele einduitwerking Sportbedrijf Hoorn B.V.",
@@ -74224,7 +74263,7 @@
       "kw_sig": "4f53cda18c2b|a914bcfe2ca0e3f6e9de910add806b947cae2b9d5db626b7248840a86200c089|Bijlage 7 Financiele einduitwerking Sportbedrijf Hoorn B.V.|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "a914bcfe2ca0e3f6e9de910add806b947cae2b9d5db626b7248840a86200c089",
-      "content_checked": "2026-11-28T03:16:20+00:00"
+      "content_checked": "2026-11-28T09:17:35+00:00"
     },
     "46648919c4f2ce0474102258ac85e6ce3cf9400a5c2b24c35377dd194eb57134": {
       "title": "Bijlage 8 Begrotingswijziging",
@@ -74259,7 +74298,7 @@
       "kw_sig": "4f53cda18c2b|7556a14249d7a771d859af5b976f866dafe258aa3a17ebda436a6e9aec0b51ca|Bijlage 8 Begrotingswijziging|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.1 Wensen en bedenkingen oprichting en deelneming Sportbedrijf Hoorn B.V. (portefeuillehouder Assendelft) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "7556a14249d7a771d859af5b976f866dafe258aa3a17ebda436a6e9aec0b51ca",
-      "content_checked": "2026-11-28T03:16:20+00:00"
+      "content_checked": "2026-11-28T09:17:36+00:00"
     },
     "200424296c24c142c7f827f91035be4c9d633df3b52bec3d64eeab023b1c0ebc": {
       "title": "Raadsvoorstel stadsstrand",
@@ -74294,7 +74333,7 @@
       "kw_sig": "4f53cda18c2b|6369e392797cb82e68c5ba213f198497ec611a66468f414c3b5fb83f7f5b607b|Raadsvoorstel stadsstrand|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.2 Verlichting stadsstrand (portefeuillehouder Dekker) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "6369e392797cb82e68c5ba213f198497ec611a66468f414c3b5fb83f7f5b607b",
-      "content_checked": "2026-11-28T03:16:21+00:00"
+      "content_checked": "2026-11-28T09:17:39+00:00"
     },
     "1991735598057c3e12b1dba943ff0f6abcda8fa3e1a6cd6ee855462fc6de83b6": {
       "title": "Raadsbesluit stadsstrand",
@@ -74329,7 +74368,7 @@
       "kw_sig": "4f53cda18c2b|ed7549824a25cf4a0ae91981b8363e917262a611b6cc38f67269e45718368d9f|Raadsbesluit stadsstrand|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.2 Verlichting stadsstrand (portefeuillehouder Dekker) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "ed7549824a25cf4a0ae91981b8363e917262a611b6cc38f67269e45718368d9f",
-      "content_checked": "2026-11-28T03:16:22+00:00"
+      "content_checked": "2026-11-28T09:17:40+00:00"
     },
     "28a2caf3ce5482f90993c80e361fb5feea254dcdaa8fa03d54837033070533a4": {
       "title": "Commissieadvies - Verlichting stadsstrand",
@@ -74364,7 +74403,7 @@
       "kw_sig": "4f53cda18c2b|c5c2042e5614ad85b3e586d162a36558b50fdcfa440370935f4cc532565e4848|Commissieadvies - Verlichting stadsstrand|Algemene Raadscommissie dinsdag 17 november 2026 · agendapunt 5.2 Verlichting stadsstrand (portefeuillehouder Dekker) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "c5c2042e5614ad85b3e586d162a36558b50fdcfa440370935f4cc532565e4848",
-      "content_checked": "2026-11-28T03:16:22+00:00"
+      "content_checked": "2026-11-28T09:17:41+00:00"
     },
     "888eaecdc8db00974c1e155d450250ef535b01446837b2bb40dc434f0afdfaaa": {
       "title": "Bijlage 1. Onderzoek veilige toegankelijkheid fietsers, voetgangers stadsstrand in de avonduren",
@@ -76786,7 +76825,7 @@
       "kw_sig": "4f53cda18c2b||Bijlage 3 Ontwikkelperspectief NHN|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Bijlage 3 Ontwikkelperspectief NHN.pdf\"; filename*=UTF-8''Bijlage%203%20Ontwikkelperspectief%20NHN.pdf|d67dbe37ecea0b2fe6a90c264708cb07001795064074584714f48da364f7451e",
-      "content_checked": "2026-11-28T03:01:34+00:00"
+      "content_checked": "2026-11-28T09:16:25+00:00"
     },
     "816c107656e619d349c2b1f41f6ee2a66cfc8ba7f67e59b7302f0cb081353cdb": {
       "title": "Beantwoording technische vragen SP",
@@ -76821,7 +76860,7 @@
       "kw_sig": "4f53cda18c2b|40a1158f367953f8548d97969e39e89772721e8a0064c7dbf272bcb96ce1bdcc|Beantwoording technische vragen SP|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "40a1158f367953f8548d97969e39e89772721e8a0064c7dbf272bcb96ce1bdcc",
-      "content_checked": "2026-11-28T03:01:35+00:00"
+      "content_checked": "2026-11-28T09:16:26+00:00"
     },
     "70e9fea7628da0859adab24bd47a56cba9f15ff0157b8d4e4ff9cff21362e5e7": {
       "title": "Beantwoording technische vragen D66",
@@ -76856,7 +76895,7 @@
       "kw_sig": "4f53cda18c2b|0aa9e967648fcc694fc4b43e20c12d0d291ee457e79b8af16fa2d9b68687d461|Beantwoording technische vragen D66|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "0aa9e967648fcc694fc4b43e20c12d0d291ee457e79b8af16fa2d9b68687d461",
-      "content_checked": "2026-11-28T03:01:36+00:00"
+      "content_checked": "2026-11-28T09:16:26+00:00"
     },
     "eb1ee64ab0fa7c0a2f57659c88a376a13a117520bd2bb8c87346439f17530316": {
       "title": "Besluitenlijst 22 september 2026",
@@ -93041,14 +93080,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "ok": true,
         "count": 167,
         "new": 0,
         "note": "Laatste 30 dagen: 167 van 167 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T09:01:07+00:00",
+        "checked": "2026-11-28T09:15:42+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -93056,7 +93095,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 385 documenten bekend. Dekking: vergaderingen van 2026-09-29 t/m 2027-01-12 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-28T09:01:29+00:00",
+        "checked": "2026-11-28T09:16:16+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -93064,23 +93103,23 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3024, Toezeggingen 1466, Amendementen 563, Artikel 36 vragen 1050, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-28T09:01:30+00:00",
+        "checked": "2026-11-28T09:16:17+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-28T09:01:33+00:00",
+        "checked": "2026-11-28T09:16:19+00:00",
         "ok": true,
-        "count": 70,
-        "new": 0,
+        "count": 73,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Hoorn, Blokker, Zwaag. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-28T08:01:59+00:00",
+        "checked": "2026-11-28T09:16:22+00:00",
         "ok": true,
         "count": 1,
         "new": 1,
@@ -93088,25 +93127,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-28T09:01:33+00:00",
+        "checked": "2026-11-28T09:16:22+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-28T09:01:52+00:00",
+        "checked": "2026-11-28T09:17:41+00:00",
         "ok": true,
-        "count": 12,
+        "count": 39,
         "errors": 0,
-        "note": "12 documenten gecontroleerd (11 pdf), 1027 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "39 documenten gecontroleerd (25 pdf), 1027 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-28T09:01:52+00:00",
+        "checked": "2026-11-28T09:17:41+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-28T09:01:52+00:00",
+        "checked": "2026-11-28T09:17:41+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -93123,7 +93162,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -93157,7 +93196,7 @@
         ]
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -93174,7 +93213,7 @@
         ]
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -93188,7 +93227,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -93204,7 +93243,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -93296,7 +93335,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -93317,7 +93356,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -93337,7 +93376,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -93358,7 +93397,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -93382,7 +93421,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-28T09:00:49+00:00",
+        "checked": "2026-11-28T09:15:26+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -93720,7 +93759,7 @@
       "pause_until": "2026-11-28T07:01:42+00:00"
     },
     "elders": {
-      "woo": "2026-11-28T08:01:55+00:00"
+      "woo": "2026-11-28T09:16:19+00:00"
     },
     "termijn_v1": true,
     "keywords": {
