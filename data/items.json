@@ -3,6 +3,25 @@
     "hoorn"
   ],
   "items": {
+    "d589cbe528f8732314c32f7a4da4c68dcd8cb1ca96dc2c1e8b912fd6ca245359": {
+      "title": "Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033",
+      "url": "https://open.overheid.nl/documenten/oep-ob-060d992194bf14d1da626c96c0dce8c41b19ed26",
+      "source": "Woo-publicaties",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-28T03:46:20+00:00",
+      "updated": "2026-11-28T03:46:20+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "baseline": null,
+      "instantie": "ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "plaats": "Hoorn",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "openbaar gemaakt",
+      "last_seen": "2026-11-28",
+      "kw_sig": "4f53cda18c2b||Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033|ministerie van Binnenlandse Zaken en Koninkrijksrelaties"
+    },
     "bb78553511cda080dac7135a00a21ab8bd39e62bc33c7a258f9992894b01aec3": {
       "title": "Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033",
       "url": "https://open.overheid.nl/documenten/oep-ob-060d992194bf14d1da626c96c0dce8c41b19ed26",
@@ -179,7 +198,7 @@
       "excerpt": "<p>Dinsdag 1 december vergadert de Algemene Raadscommissie. Op de agenda staan de volgende onderwerpen: de invulling van de spreidingswet, woonruimte voor andere woningzoekenden en de afvalbelasting.</p>",
       "missing_count": 0,
       "text_hash": "7d8a455f4fa5c5ba3c084eadd232b031885796e7adf7c7aebc6b6c5b3564be5c",
-      "content_checked": "2026-11-27T21:46:16+00:00",
+      "content_checked": "2026-11-28T03:46:27+00:00",
       "kw_sig": "4f53cda18c2b|7d8a455f4fa5c5ba3c084eadd232b031885796e7adf7c7aebc6b6c5b3564be5c|Commissie spreekt over mogelijke opvanglocaties en afvalbelasting|<p>Dinsdag 1 december vergadert de Algemene Raadscommissie. Op de agenda staan de volgende onderwerpen: de invulling van de spreidingswet, woonruimte voor andere woningzoekenden en de afvalbelasting.</p>",
       "changes": [
         {
@@ -3998,7 +4017,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.1 Herijking subsidies (portefeuillehouder Boutkan)",
       "missing_count": 0,
       "text_hash": "12ec0e49494c1ef3b911a23c17dcd8c4d9584a58b287b817654a2b5209b62e1a",
-      "content_checked": "2026-11-27T21:46:16+00:00",
+      "content_checked": "2026-11-28T03:46:28+00:00",
       "kw_sig": "4f53cda18c2b|12ec0e49494c1ef3b911a23c17dcd8c4d9584a58b287b817654a2b5209b62e1a|Commissieadvies - Herijking subsidies|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.1 Herijking subsidies (portefeuillehouder Boutkan)"
     },
     "f6e96401d16228073f6dfe4fa26b2e43b07562af3228657870bd334fb6e408cf": {
@@ -4028,7 +4047,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)",
       "missing_count": 0,
       "text_hash": "f03dc23af1fa33d477c17b435bbd77cbb51236051414b292b455a513efc813ca",
-      "content_checked": "2026-11-27T21:46:17+00:00",
+      "content_checked": "2026-11-28T03:46:29+00:00",
       "kw_sig": "4f53cda18c2b|f03dc23af1fa33d477c17b435bbd77cbb51236051414b292b455a513efc813ca|Commissieadvies - Belastingverordeningen 2027|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.2 Belastingverordeningen 2027 (portefeuillehouder Assendelft)"
     },
     "270a1a00a46466c3cd1471333a1835384eb05019649efd94fa5b954c426f2949": {
@@ -4058,7 +4077,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)",
       "missing_count": 0,
       "text_hash": "6f00982986fb228740d0deea7b840460a993c57ae4406225ae3bab09d9603175",
-      "content_checked": "2026-11-27T21:46:18+00:00",
+      "content_checked": "2026-11-28T03:46:30+00:00",
       "kw_sig": "4f53cda18c2b|6f00982986fb228740d0deea7b840460a993c57ae4406225ae3bab09d9603175|Commissieadvies - Ontwikkelperspectief Noord-Holland Noord|Algemene Raadscommissie dinsdag 24 november 2026 · agendapunt 5.3 Ontwikkelperspectief NHN (portefeuillehouder Yousufi)"
     },
     "b9616d10f4acc043f09763a55ef2de40ae426e39870e433be86a43c4d0b57921": {
@@ -4093,7 +4112,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "233b47656d3432be10adb37b1969562bce5366f3be87d3027d45c9cc1ca85b74",
-      "content_checked": "2026-11-27T21:46:14+00:00",
+      "content_checked": "2026-11-28T03:46:25+00:00",
       "kw_sig": "4f53cda18c2b|233b47656d3432be10adb37b1969562bce5366f3be87d3027d45c9cc1ca85b74|Brief inwoner - Uiting van zorgen over de komst van een AZC met AMV plekken op de Blauwe Berg|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "c115a7ac25d0b0dc99923a584852940b139297879f9b541c106a3efd07b87dea": {
@@ -4128,7 +4147,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "8af1880a5ed36abda0cc6a3c4eaae00fb26b01718cd18642641e41733d6bb422",
-      "content_checked": "2026-11-27T21:46:09+00:00",
+      "content_checked": "2026-11-28T03:46:24+00:00",
       "kw_sig": "4f53cda18c2b|8af1880a5ed36abda0cc6a3c4eaae00fb26b01718cd18642641e41733d6bb422|Bezwaar brief voor vergadering 1 december 2026 locatieonderzoek AZC MiddelwegVenneweg|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "94cf5c8f4ce6aa074a38f9ca7a7a7e01fa293997027ff768cfc4ce9601ab4da0": {
@@ -4163,7 +4182,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "2a863cfa84d45d4a26a3e8d25c401befa615fb6c528a365dff14b457717ff26e",
-      "content_checked": "2026-11-27T21:31:10+00:00",
+      "content_checked": "2026-11-28T03:46:23+00:00",
       "kw_sig": "4f53cda18c2b|2a863cfa84d45d4a26a3e8d25c401befa615fb6c528a365dff14b457717ff26e|Technische vragen SH|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "a429870170374aa759a4a0b1773f1a1fd89cfd7a031ec812175a62582e5a34b4": {
@@ -6295,7 +6314,7 @@
       "excerpt": "Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)",
       "missing_count": 0,
       "text_hash": "6299b4ecc94453a2998ae605f9cdf75d0ca45914928c1e9c536166adabacd4d2",
-      "content_checked": "2026-11-27T21:46:15+00:00",
+      "content_checked": "2026-11-28T03:46:26+00:00",
       "kw_sig": "4f53cda18c2b|6299b4ecc94453a2998ae605f9cdf75d0ca45914928c1e9c536166adabacd4d2|Mail inwoner - Zorgen komst AZC Blauwe Berg|Algemene Raadscommissie dinsdag 1 december 2026 · agendapunt 5.1 Locatieonderzoek huisvesting bijzondere doelgroepen (portefeuillehoude Heijne) · ook in 1 andere vergadering(en)"
     },
     "f8a9823c5574f7feb54c7231c08f927eb61f0645241e79e5252398c3bd809b57": {
@@ -92884,14 +92903,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "ok": true,
         "count": 167,
         "new": 0,
         "note": "Laatste 30 dagen: 167 van 167 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T03:30:53+00:00",
+        "checked": "2026-11-28T03:45:44+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -92899,7 +92918,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 385 documenten bekend. Dekking: vergaderingen van 2026-09-29 t/m 2027-01-12 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-28T03:31:08+00:00",
+        "checked": "2026-11-28T03:46:18+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -92907,47 +92926,47 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3024, Toezeggingen 1466, Amendementen 563, Artikel 36 vragen 1050, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-28T03:31:09+00:00",
+        "checked": "2026-11-28T03:46:19+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-28T03:31:09+00:00",
+        "checked": "2026-11-28T03:46:19+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Woo-publicaties": {
-        "checked": "2026-11-28T02:32:04+00:00",
+        "checked": "2026-11-28T03:46:22+00:00",
         "ok": true,
-        "count": 0,
-        "new": 0,
+        "count": 1,
+        "new": 1,
         "error": null,
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-28T03:31:09+00:00",
+        "checked": "2026-11-28T03:46:22+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-28T03:31:30+00:00",
+        "checked": "2026-11-28T03:46:30+00:00",
         "ok": true,
-        "count": 15,
+        "count": 8,
         "errors": 0,
-        "note": "15 documenten gecontroleerd (10 pdf), 1027 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "8 documenten gecontroleerd (7 pdf), 1027 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-28T03:31:30+00:00",
+        "checked": "2026-11-28T03:46:30+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-28T03:31:30+00:00",
+        "checked": "2026-11-28T03:46:30+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -92964,7 +92983,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -92998,7 +93017,7 @@
         ]
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -93015,7 +93034,7 @@
         ]
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -93029,7 +93048,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -93045,7 +93064,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -93137,7 +93156,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -93158,7 +93177,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -93178,7 +93197,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -93199,7 +93218,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -93223,7 +93242,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-28T03:30:37+00:00",
+        "checked": "2026-11-28T03:45:27+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -93561,7 +93580,7 @@
       "pause_until": "2026-11-28T04:17:03+00:00"
     },
     "elders": {
-      "woo": "2026-11-28T02:32:02+00:00"
+      "woo": "2026-11-28T03:46:19+00:00"
     },
     "termijn_v1": true,
     "keywords": {
