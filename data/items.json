@@ -3,6 +3,194 @@
     "hoorn"
   ],
   "items": {
+    "651f4f8ca7305976003895b6f72399d4779216d9b2396db7018ae52d53b5f52b": {
+      "title": "Ondernemersontbijt op Dag van de Ondernemer",
+      "url": "https://www.hoorn.nl/nieuws/Ondernemersontbijt-op-Dag-van-de-Ondernemer.html?utm_campaign=RSSfeed",
+      "source": "Nieuws",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:28+00:00",
+      "updated": "2026-11-28T12:32:16+00:00",
+      "last_change": "2026-11-28T12:32:16+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-05",
+      "last_seen": "2026-11-28",
+      "published_at": "2026-11-05T15:34+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "<p>Vrijdag 20 november organiseren we een ondernemersontbijt vanwege de Dag van de Ondernemer. Ondernemers zijn van 7.30 tot 9.30 uur welkom bij Abovomaxlead aan de Dr. C.J.K. van Aalstweg 8F in Hoorn.</p>",
+      "kw_sig": "4f53cda18c2b|1a71836b5dacb04231d8e4c2be5f3a33d50755f8312771a065b6654615585ac6|Ondernemersontbijt op Dag van de Ondernemer|<p>Vrijdag 20 november organiseren we een ondernemersontbijt vanwege de Dag van de Ondernemer. Ondernemers zijn van 7.30 tot 9.30 uur welkom bij Abovomaxlead aan de Dr. C.J.K. van Aalstweg 8F in Hoorn.</p>",
+      "missing_count": 0,
+      "text_hash": "1a71836b5dacb04231d8e4c2be5f3a33d50755f8312771a065b6654615585ac6",
+      "content_checked": "2026-11-28T12:32:16+00:00",
+      "changes": [
+        {
+          "at": "2026-11-27T12:16:45+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-28T12:32:16+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 7 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "82bb80529b96dcdf31a7d84120ceebdf0ace5c51a2b096b3233877bfb0871537": {
+      "title": "Inwoners uitgenodigd voor raadscafé in De Witte Valk",
+      "url": "https://www.hoorn.nl/nieuws/Inwoners-uitgenodigd-voor-raadscafe-in-De-Witte-Valk.html?utm_campaign=RSSfeed",
+      "source": "Nieuws",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:28+00:00",
+      "updated": "2026-11-28T12:32:15+00:00",
+      "last_change": "2026-11-28T12:32:15+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-05",
+      "last_seen": "2026-11-28",
+      "published_at": "2026-11-05T15:45+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "<p>Op donderdagavond 19 november nodigt de gemeenteraad inwoners uit om met hen in gesprek te gaan in De Witte Valk in Zwaag. Het wordt een laagdrempelige en gezellige avond.</p>",
+      "kw_sig": "4f53cda18c2b|2ea69de7f6364aaf3f63142833369f25aec2664c2c115c13f0ae1fd1ea9ab710|Inwoners uitgenodigd voor raadscafé in De Witte Valk|<p>Op donderdagavond 19 november nodigt de gemeenteraad inwoners uit om met hen in gesprek te gaan in De Witte Valk in Zwaag. Het wordt een laagdrempelige en gezellige avond.</p>",
+      "missing_count": 0,
+      "text_hash": "2ea69de7f6364aaf3f63142833369f25aec2664c2c115c13f0ae1fd1ea9ab710",
+      "content_checked": "2026-11-28T12:32:15+00:00",
+      "changes": [
+        {
+          "at": "2026-11-27T12:16:44+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-28T12:32:15+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 7 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "a73cfc542439e68473501e127ded21ce4c7b6bb9f2b098725a3e84ff12b93d8e": {
+      "title": "College stelt twee locaties voor tijdelijke opvang en huisvesting voor",
+      "url": "https://www.hoorn.nl/nieuws/College-stelt-twee-locaties-voor-tijdelijke-opvang-en-huisvesting-voor.html?utm_campaign=RSSfeed",
+      "source": "Nieuws",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:28+00:00",
+      "updated": "2026-11-28T12:32:14+00:00",
+      "last_change": "2026-11-28T12:32:14+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-06",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-06",
+      "last_seen": "2026-11-28",
+      "published_at": "2026-11-06T10:24+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "<p>De gemeente Hoorn heeft onderzoek gedaan naar geschikte plekken voor de opvang van asielzoekers en tijdelijke huisvesting van andere woningzoekenden. Het college van burgemeester en wethouders stelt de gemeenteraad voor om twee locaties in Hoorn verder uit te werken voor tijdelijke opvang van asielzoekers en huisvesting van andere woningzoekenden.</p>",
+      "kw_sig": "4f53cda18c2b|17ca4f5fe1785aa20c1ab563f0acda1952d45705d9fc2c2bf3a76f07d963de6b|College stelt twee locaties voor tijdelijke opvang en huisvesting voor|<p>De gemeente Hoorn heeft onderzoek gedaan naar geschikte plekken voor de opvang van asielzoekers en tijdelijke huisvesting van andere woningzoekenden. Het college van burgemeester en wethouders stelt de gemeenteraad voor om twee locaties in Hoorn verder uit te werken voor tijdelijke opvang van asielzoekers en huisvesting van andere woningzoekenden.</p>",
+      "missing_count": 0,
+      "text_hash": "17ca4f5fe1785aa20c1ab563f0acda1952d45705d9fc2c2bf3a76f07d963de6b",
+      "content_checked": "2026-11-28T12:32:14+00:00",
+      "changes": [
+        {
+          "at": "2026-11-27T12:16:43+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-28T12:32:14+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 7 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "9316f7205375c1da059face1e32732ac6f68252ec411146e75ac16699da02de4": {
+      "title": "Bouw eerste koopappartementen Pelmolenpad feestelijk gevierd",
+      "url": "https://www.hoorn.nl/nieuws/Bouw-eerste-koopappartementen-Pelmolenpad-feestelijk-gevierd.html?utm_campaign=RSSfeed",
+      "source": "Nieuws",
+      "gemeente": "hoorn",
+      "first_seen": "2026-11-25T10:36:28+00:00",
+      "updated": "2026-11-28T12:31:50+00:00",
+      "last_change": "2026-11-28T12:31:50+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-28",
+      "published_at": "2026-11-09T09:16+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "<p>De bouw van de eerste 78 koopappartementen in de nieuwe woonwijk Pelmolenpad is deze zomer gestart. De toekomstige bewoners kwamen op vrijdag 6 november naar de bouwplaats om dit samen te vieren.</p>",
+      "kw_sig": "4f53cda18c2b|1ccec97d44528893d1d5b16ded85ad5fb4dbc22c1a9859e90687f9c71ae24d9e|Bouw eerste koopappartementen Pelmolenpad feestelijk gevierd|<p>De bouw van de eerste 78 koopappartementen in de nieuwe woonwijk Pelmolenpad is deze zomer gestart. De toekomstige bewoners kwamen op vrijdag 6 november naar de bouwplaats om dit samen te vieren.</p>",
+      "missing_count": 0,
+      "text_hash": "1ccec97d44528893d1d5b16ded85ad5fb4dbc22c1a9859e90687f9c71ae24d9e",
+      "content_checked": "2026-11-28T12:31:50+00:00",
+      "changes": [
+        {
+          "at": "2026-11-27T12:16:39+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-28T12:31:50+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "0 zin(nen) toegevoegd of aangepast, 7 verwijderd of vervangen",
+          "added": [],
+          "removed": [
+            "Gemeente Hoorn",
+            "×",
+            "Welkom bij de gemeente Hoorn."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "2df8c08d5042339a6ad6f98d5315b71ac8bf6ecc78ad21e5255462ebeee61833": {
       "title": "Streekderby Quick'20-DETO en verre reizen naar Urk en Hoorn: dit brengt het voetbalweekend in de derde en…",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcDFpdC0tY0dUSV94ZnRVekFxVkJDa1JhZ3E0cGJoZ2RPN0UyOTNEVUFYWTZlMnY1ZW5fTTRORzdzcHh6YkNzTTg2WGxyc25wV1ZiU1I1ODVlLU9ZRUpHdmF6aUJyQzNMTzhSc09Nd2R5NHItaW5JdGlWRV9ROFVNMmFvUmtXaEdBSzdYX1BzUmJsQ2ZvNW9hSGhndzhSTmEtRzFDai02ZEFOelltY0RHMjFrTTFNY2hubUdaLTFESDhhaDFvTlNVY0dfaXBjWUUtT2s3Y1BFbWtCeDFEYXYzTVZmNjFfQTFzd0ZhOQ?oc=5",
@@ -2336,150 +2524,6 @@
       "text_hash": "236b87660a5b0ac23a0017dc816e700547ecfb971f38b5a8be19855dc388516f",
       "content_checked": "2026-11-28T07:31:38+00:00",
       "kw_sig": "4f53cda18c2b|236b87660a5b0ac23a0017dc816e700547ecfb971f38b5a8be19855dc388516f|Bijlage 6 - BW Uitvoering pilot kattencastratie voor minima|Gemeenteraad donderdag 10 december 2026 · agendapunt 9.8 Verzameloverzicht raadsvergadering 10 december 2026"
-    },
-    "651f4f8ca7305976003895b6f72399d4779216d9b2396db7018ae52d53b5f52b": {
-      "title": "Ondernemersontbijt op Dag van de Ondernemer",
-      "url": "https://www.hoorn.nl/nieuws/Ondernemersontbijt-op-Dag-van-de-Ondernemer.html?utm_campaign=RSSfeed",
-      "source": "Nieuws",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:28+00:00",
-      "updated": "2026-11-27T12:16:45+00:00",
-      "last_change": "2026-11-27T12:16:45+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-05",
-      "last_seen": "2026-11-28",
-      "published_at": "2026-11-05T15:34+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "<p>Vrijdag 20 november organiseren we een ondernemersontbijt vanwege de Dag van de Ondernemer. Ondernemers zijn van 7.30 tot 9.30 uur welkom bij Abovomaxlead aan de Dr. C.J.K. van Aalstweg 8F in Hoorn.</p>",
-      "kw_sig": "4f53cda18c2b|12cd2bbe5e4a1d3ced40747cd8b66942a9df9ccf40234fe6974b003c0316b3b4|Ondernemersontbijt op Dag van de Ondernemer|<p>Vrijdag 20 november organiseren we een ondernemersontbijt vanwege de Dag van de Ondernemer. Ondernemers zijn van 7.30 tot 9.30 uur welkom bij Abovomaxlead aan de Dr. C.J.K. van Aalstweg 8F in Hoorn.</p>",
-      "missing_count": 0,
-      "text_hash": "12cd2bbe5e4a1d3ced40747cd8b66942a9df9ccf40234fe6974b003c0316b3b4",
-      "content_checked": "2026-11-27T12:16:45+00:00",
-      "changes": [
-        {
-          "at": "2026-11-27T12:16:45+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Gemeente Hoorn",
-            "×",
-            "Welkom bij de gemeente Hoorn."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "82bb80529b96dcdf31a7d84120ceebdf0ace5c51a2b096b3233877bfb0871537": {
-      "title": "Inwoners uitgenodigd voor raadscafé in De Witte Valk",
-      "url": "https://www.hoorn.nl/nieuws/Inwoners-uitgenodigd-voor-raadscafe-in-De-Witte-Valk.html?utm_campaign=RSSfeed",
-      "source": "Nieuws",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:28+00:00",
-      "updated": "2026-11-27T12:16:44+00:00",
-      "last_change": "2026-11-27T12:16:44+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-05",
-      "last_seen": "2026-11-28",
-      "published_at": "2026-11-05T15:45+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "<p>Op donderdagavond 19 november nodigt de gemeenteraad inwoners uit om met hen in gesprek te gaan in De Witte Valk in Zwaag. Het wordt een laagdrempelige en gezellige avond.</p>",
-      "kw_sig": "4f53cda18c2b|229f1bd407230df5e940c94da5f4171b4e546699d89398396990c468c91a5770|Inwoners uitgenodigd voor raadscafé in De Witte Valk|<p>Op donderdagavond 19 november nodigt de gemeenteraad inwoners uit om met hen in gesprek te gaan in De Witte Valk in Zwaag. Het wordt een laagdrempelige en gezellige avond.</p>",
-      "missing_count": 0,
-      "text_hash": "229f1bd407230df5e940c94da5f4171b4e546699d89398396990c468c91a5770",
-      "content_checked": "2026-11-27T12:16:44+00:00",
-      "changes": [
-        {
-          "at": "2026-11-27T12:16:44+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Gemeente Hoorn",
-            "×",
-            "Welkom bij de gemeente Hoorn."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "a73cfc542439e68473501e127ded21ce4c7b6bb9f2b098725a3e84ff12b93d8e": {
-      "title": "College stelt twee locaties voor tijdelijke opvang en huisvesting voor",
-      "url": "https://www.hoorn.nl/nieuws/College-stelt-twee-locaties-voor-tijdelijke-opvang-en-huisvesting-voor.html?utm_campaign=RSSfeed",
-      "source": "Nieuws",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:28+00:00",
-      "updated": "2026-11-27T12:16:43+00:00",
-      "last_change": "2026-11-27T12:16:43+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-06",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-06",
-      "last_seen": "2026-11-28",
-      "published_at": "2026-11-06T10:24+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "<p>De gemeente Hoorn heeft onderzoek gedaan naar geschikte plekken voor de opvang van asielzoekers en tijdelijke huisvesting van andere woningzoekenden. Het college van burgemeester en wethouders stelt de gemeenteraad voor om twee locaties in Hoorn verder uit te werken voor tijdelijke opvang van asielzoekers en huisvesting van andere woningzoekenden.</p>",
-      "kw_sig": "4f53cda18c2b|671bcbfbee0a289013f154b66d7e22d385d8b810d6fa6b41fca102f106ae09c2|College stelt twee locaties voor tijdelijke opvang en huisvesting voor|<p>De gemeente Hoorn heeft onderzoek gedaan naar geschikte plekken voor de opvang van asielzoekers en tijdelijke huisvesting van andere woningzoekenden. Het college van burgemeester en wethouders stelt de gemeenteraad voor om twee locaties in Hoorn verder uit te werken voor tijdelijke opvang van asielzoekers en huisvesting van andere woningzoekenden.</p>",
-      "missing_count": 0,
-      "text_hash": "671bcbfbee0a289013f154b66d7e22d385d8b810d6fa6b41fca102f106ae09c2",
-      "content_checked": "2026-11-27T12:16:43+00:00",
-      "changes": [
-        {
-          "at": "2026-11-27T12:16:43+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Gemeente Hoorn",
-            "×",
-            "Welkom bij de gemeente Hoorn."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "9316f7205375c1da059face1e32732ac6f68252ec411146e75ac16699da02de4": {
-      "title": "Bouw eerste koopappartementen Pelmolenpad feestelijk gevierd",
-      "url": "https://www.hoorn.nl/nieuws/Bouw-eerste-koopappartementen-Pelmolenpad-feestelijk-gevierd.html?utm_campaign=RSSfeed",
-      "source": "Nieuws",
-      "gemeente": "hoorn",
-      "first_seen": "2026-11-25T10:36:28+00:00",
-      "updated": "2026-11-27T12:16:39+00:00",
-      "last_change": "2026-11-27T12:16:39+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-09",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-09",
-      "last_seen": "2026-11-28",
-      "published_at": "2026-11-09T09:16+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "<p>De bouw van de eerste 78 koopappartementen in de nieuwe woonwijk Pelmolenpad is deze zomer gestart. De toekomstige bewoners kwamen op vrijdag 6 november naar de bouwplaats om dit samen te vieren.</p>",
-      "kw_sig": "4f53cda18c2b|6f64b75df3b8a9a6cb483db33eedb7a99bb2e75515cd74acd911c752e7de0140|Bouw eerste koopappartementen Pelmolenpad feestelijk gevierd|<p>De bouw van de eerste 78 koopappartementen in de nieuwe woonwijk Pelmolenpad is deze zomer gestart. De toekomstige bewoners kwamen op vrijdag 6 november naar de bouwplaats om dit samen te vieren.</p>",
-      "missing_count": 0,
-      "text_hash": "6f64b75df3b8a9a6cb483db33eedb7a99bb2e75515cd74acd911c752e7de0140",
-      "content_checked": "2026-11-27T12:16:39+00:00",
-      "changes": [
-        {
-          "at": "2026-11-27T12:16:39+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Gemeente Hoorn",
-            "×",
-            "Welkom bij de gemeente Hoorn."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "0e57554089d3f18a0fb6102046b1ccbc8361168609e716f4b62de6bafe23b509": {
       "title": "Besluit van de Staatssecretaris van Justitie en Veiligheid van 17 november 2026 nr. BOACAT2026/077, tot wijziging van het Besluit buitengewoon opsporingsambtenaar gemeente Hoorn 2023 van 5 juli 2023, kenmerk BOACAT2023/033",
@@ -55607,7 +55651,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/45d94578-0bdf-42cc-a07c-2af28d1609b1"
         }
       ],
-      "content_checked": "2026-11-27T12:16:41+00:00"
+      "content_checked": "2026-11-28T12:31:51+00:00"
     },
     "32ecdc32362b7cc3d547e9659f7e7f665e8ad7c8b3dcc68426be30170f363a25": {
       "title": "Promotie Stedelijk Museum Alkmaar op PAN Amsterdam",
@@ -59664,7 +59708,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/a2091302-419f-459d-ad49-fa9602af8d65"
         }
       ],
-      "content_checked": "2026-11-27T12:16:42+00:00"
+      "content_checked": "2026-11-28T12:32:13+00:00"
     },
     "60695fdd6a0165e788c5c83cecac8b2fb595f59aaefde31ee7aef216465ba010": {
       "title": "Artikel 36 vragen inzake bouw bovengrondse parkeergarage Poort van Hoorn",
@@ -68529,7 +68573,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/8a81a47b-8fe9-42ec-80e3-a86d13872f9e"
         }
       ],
-      "content_checked": "2026-11-27T12:16:49+00:00"
+      "content_checked": "2026-11-28T12:32:18+00:00"
     },
     "395289b2749f17baed8eb4e74434b4701a8374f460d00bfcd2a6f9e58d45ea11": {
       "title": "Raadsbrief beantwoording toezeggingen 1458 - Wilde motie SP - Van leegstand Philipsgebouw naar artistieke vrijplaats",
@@ -68567,7 +68611,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/52b3ccde-9812-47b3-9694-90f4b82429d4"
         }
       ],
-      "content_checked": "2026-11-27T12:16:51+00:00"
+      "content_checked": "2026-11-28T12:32:25+00:00"
     },
     "8e84dacb0f72dafb94e11849ae64b674d67c8efcb335db9ac50d386db145e2f8": {
       "title": "Raadsbrief gebruik ondergrondse containers en GFE-cocons binnenstad en volgende fase Basis op Orde",
@@ -71779,7 +71823,7 @@
           "u": "https://hoorn.bestuurlijkeinformatie.nl/Document/View/f481c3f6-1580-4f3d-9fdd-9f682b878cb0"
         }
       ],
-      "content_checked": "2026-11-27T12:16:53+00:00"
+      "content_checked": "2026-11-28T12:32:29+00:00"
     },
     "37eccef902dabe842ab8ce724a4fa657e53f0f0a0aacab65d811f64bcffa809a": {
       "title": "Besluitenlijst 27 oktober 2026",
@@ -80134,7 +80178,7 @@
       "kw_sig": "4f53cda18c2b|6ac0935f1d704a43b5661f1ebc48ae2914fb1b538a4f8619b1b94855668c2d0a|Memo behandeling PB 2027|Gemeenteraad dinsdag 3 november 2026 · vergaderdocumenten",
       "missing_count": 0,
       "text_hash": "6ac0935f1d704a43b5661f1ebc48ae2914fb1b538a4f8619b1b94855668c2d0a",
-      "content_checked": "2026-11-27T12:16:53+00:00"
+      "content_checked": "2026-11-28T12:32:29+00:00"
     },
     "0d53b12c87e92213876ed7a0f2c5763f314c42ca8111dd126e13a74d66bb5ae6": {
       "title": "Bijdrage VVD",
@@ -80164,7 +80208,7 @@
       "kw_sig": "4f53cda18c2b|c31e141bf65c73dbf3af03f1e89f2c1a87b3fb1307698aeb400f0c9af64bae23|Bijdrage VVD|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "c31e141bf65c73dbf3af03f1e89f2c1a87b3fb1307698aeb400f0c9af64bae23",
-      "content_checked": "2026-11-27T12:16:54+00:00"
+      "content_checked": "2026-11-28T12:32:30+00:00"
     },
     "ef0b25b352eb7e9db355027536f158cede87d7928b51512f2f7ca21439f7f8f9": {
       "title": "Bijdrage EénHoorn",
@@ -80194,7 +80238,7 @@
       "kw_sig": "4f53cda18c2b|df12a7125304d47b6847e5f3ad937d9f519d1bbe9cb3a28177bf1e7a1a35a2ae|Bijdrage EénHoorn|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "df12a7125304d47b6847e5f3ad937d9f519d1bbe9cb3a28177bf1e7a1a35a2ae",
-      "content_checked": "2026-11-27T12:16:54+00:00"
+      "content_checked": "2026-11-28T12:32:31+00:00"
     },
     "6be2e1187d4745517f5650f2243f799c65b54f69cf50ae104eb43cc9fbd1017c": {
       "title": "Bijdrage Hoorn Centraal",
@@ -80224,7 +80268,7 @@
       "kw_sig": "4f53cda18c2b|1204863e68f177b361e6e1943a4160ed5869d8efefc37727d8e124920a955d93|Bijdrage Hoorn Centraal|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "1204863e68f177b361e6e1943a4160ed5869d8efefc37727d8e124920a955d93",
-      "content_checked": "2026-11-27T12:16:55+00:00"
+      "content_checked": "2026-11-28T12:32:31+00:00"
     },
     "ced89ff99a21ffa8860f7cd40e0cdff431a040c1194b48e619fd182c1946e2ef": {
       "title": "Bijdrage PRO",
@@ -80254,7 +80298,7 @@
       "kw_sig": "4f53cda18c2b|b8d856ab76a6568c4c6e360adcac006d5a920607dfde584acd5403790d9e54ef|Bijdrage PRO|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "b8d856ab76a6568c4c6e360adcac006d5a920607dfde584acd5403790d9e54ef",
-      "content_checked": "2026-11-27T12:16:55+00:00"
+      "content_checked": "2026-11-28T12:32:32+00:00"
     },
     "51339f10aafe9916bb9a287942d91228c901b91888dfdec8677d9f2f4379b71b": {
       "title": "Bijdrage Hart van Hoorn",
@@ -80284,7 +80328,7 @@
       "kw_sig": "4f53cda18c2b|d79f6b205a1a99a8907915fa7d745db5d53ebde4be537c2a9e9fe89cce1fa986|Bijdrage Hart van Hoorn|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "d79f6b205a1a99a8907915fa7d745db5d53ebde4be537c2a9e9fe89cce1fa986",
-      "content_checked": "2026-11-27T12:16:56+00:00"
+      "content_checked": "2026-11-28T12:32:32+00:00"
     },
     "4668e357056b0a1a2f5e6aeb40e4256037d80a544e7a48e4b4bb9a1acf44b59e": {
       "title": "Bijdrage Hoorn Lokaal",
@@ -80314,7 +80358,7 @@
       "kw_sig": "4f53cda18c2b|e9355ccbe47b1e8cf36eb529fcb9de8c55ef3608458a6e96f41cd61e7e65165e|Bijdrage Hoorn Lokaal|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "e9355ccbe47b1e8cf36eb529fcb9de8c55ef3608458a6e96f41cd61e7e65165e",
-      "content_checked": "2026-11-27T12:16:56+00:00"
+      "content_checked": "2026-11-28T12:32:34+00:00"
     },
     "df00b6caee49441dbd6ee66a74aa3e6cf753ed9ea69c2e46f3e65335675bd853": {
       "title": "Bijdrage Forum voor Democratie",
@@ -80344,7 +80388,7 @@
       "kw_sig": "4f53cda18c2b|e68e62eb05649bc9b3504b09def751d3db0abd03d03042111cd8172d2e079535|Bijdrage Forum voor Democratie|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "e68e62eb05649bc9b3504b09def751d3db0abd03d03042111cd8172d2e079535",
-      "content_checked": "2026-11-27T12:16:57+00:00"
+      "content_checked": "2026-11-28T12:32:35+00:00"
     },
     "12cbd289cd9092b96e6ebd62127ad2aa65e021dc7bba73ac493f49e2132206d0": {
       "title": "Bijdrage HOOP!",
@@ -80374,7 +80418,7 @@
       "kw_sig": "4f53cda18c2b|d832b71b611700213c49e3131f773570388367d0062f36532ac3b78fafc5fdf2|Bijdrage HOOP!|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "d832b71b611700213c49e3131f773570388367d0062f36532ac3b78fafc5fdf2",
-      "content_checked": "2026-11-27T12:16:58+00:00"
+      "content_checked": "2026-11-28T12:32:35+00:00"
     },
     "5d53e4a85dd5e78d7a4570376b570be41167e44eabe32c0f6c92c6e2e2985967": {
       "title": "Bijdrage CDA Hoorn",
@@ -80404,7 +80448,7 @@
       "kw_sig": "4f53cda18c2b|296b56777324717cd263e337388e59b05f51967ec297a4dd0ea54ed330042a86|Bijdrage CDA Hoorn|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "296b56777324717cd263e337388e59b05f51967ec297a4dd0ea54ed330042a86",
-      "content_checked": "2026-11-27T12:16:58+00:00"
+      "content_checked": "2026-11-28T12:32:36+00:00"
     },
     "a6fc5694b5a87625153c081791e13710ecb41bace624c8c1bf9fc9b289b5af64": {
       "title": "Bijdrage Partij voor de Dieren",
@@ -80434,7 +80478,7 @@
       "kw_sig": "4f53cda18c2b|38003723d5ae59c391026aab631536d088aada003591c6728d825e3648f53e9c|Bijdrage Partij voor de Dieren|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "38003723d5ae59c391026aab631536d088aada003591c6728d825e3648f53e9c",
-      "content_checked": "2026-11-27T12:16:58+00:00"
+      "content_checked": "2026-11-28T12:32:37+00:00"
     },
     "3b2ec7c30ec9f86f40d14c40e04383a3ccd9ec3002f0788fe66e558ee7f024f7": {
       "title": "Bijdrage D66",
@@ -80464,7 +80508,7 @@
       "kw_sig": "4f53cda18c2b|b5748640e09b0b63eb482a8bf30d895ff9c584fab3ac16e353ea8cc70b48c602|Bijdrage D66|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "b5748640e09b0b63eb482a8bf30d895ff9c584fab3ac16e353ea8cc70b48c602",
-      "content_checked": "2026-11-27T12:16:59+00:00"
+      "content_checked": "2026-11-28T12:32:37+00:00"
     },
     "8c08a63714eb0c7b6d61eb5e05ea62d7e02dbecc5e73d9a8ca80282535d8f9d4": {
       "title": "Bijdrage SP Hoorn",
@@ -80494,7 +80538,7 @@
       "kw_sig": "4f53cda18c2b|cbf9df352589fb0da07548d790951f790668610ab1f2ce78bdea7455a8263885|Bijdrage SP Hoorn|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "cbf9df352589fb0da07548d790951f790668610ab1f2ce78bdea7455a8263885",
-      "content_checked": "2026-11-27T12:17:00+00:00"
+      "content_checked": "2026-11-28T12:32:38+00:00"
     },
     "894f808c63f6aab269749a729bcbc004f5bd68f6e4680e1b439a564afd45de8b": {
       "title": "Bijdrage Sociaal Hoorn/Team Tonnaer",
@@ -80524,7 +80568,7 @@
       "kw_sig": "4f53cda18c2b|01bd265dafb51b2aa5e4b61043700d3dfd8158a75380926681aff7b0b9741c00|Bijdrage Sociaal Hoorn/Team Tonnaer|Gemeenteraad dinsdag 3 november 2026 · agendapunt 0.1 Bijdrage fractievoorzitters",
       "missing_count": 0,
       "text_hash": "01bd265dafb51b2aa5e4b61043700d3dfd8158a75380926681aff7b0b9741c00",
-      "content_checked": "2026-11-27T12:17:00+00:00"
+      "content_checked": "2026-11-28T12:32:39+00:00"
     },
     "7fa00f56015eaa9e34e4394e36b1796d88d6613caa757d2419bc14ff0c30c84e": {
       "title": "Raadsvoorstel programmabegroting",
@@ -80554,7 +80598,7 @@
       "kw_sig": "4f53cda18c2b|9eaa69286f22daef0f672810f0348e7980ee23dbd8046d2cfec79ad7cdc050ea|Raadsvoorstel programmabegroting|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "9eaa69286f22daef0f672810f0348e7980ee23dbd8046d2cfec79ad7cdc050ea",
-      "content_checked": "2026-11-27T12:17:01+00:00"
+      "content_checked": "2026-11-28T12:32:41+00:00"
     },
     "39bafa9a69a385646d3105471d2145f8786f5a6ddd7c1b729ec7e26495c008a0": {
       "title": "Raadsbesluit Begroting 2027",
@@ -80584,7 +80628,7 @@
       "kw_sig": "4f53cda18c2b|19fd502528600b22712af5e5d172ff96ebd346c002696917e7a0dd7aa9c18112|Raadsbesluit Begroting 2027|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "19fd502528600b22712af5e5d172ff96ebd346c002696917e7a0dd7aa9c18112",
-      "content_checked": "2026-11-27T12:17:02+00:00"
+      "content_checked": "2026-11-28T12:32:42+00:00"
     },
     "c0153b72f95cb633b68660aff9c310237b8370b06846866e697a13a1c2ad6c16": {
       "title": "Werkversie Begroting 2027 ( aangepaste versie)",
@@ -80614,7 +80658,7 @@
       "kw_sig": "4f53cda18c2b||Werkversie Begroting 2027 ( aangepaste versie)|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Begroting 2027 werkversie.pdf\"; filename*=UTF-8''Begroting%202027%20werkversie.pdf|04038152d7ce484b905d020b3836bc917b32c419124bd8ec4fddc92566ae7b35",
-      "content_checked": "2026-11-27T12:17:04+00:00"
+      "content_checked": "2026-11-28T12:32:44+00:00"
     },
     "a0e230c57acb61a569f26593a6185959ab8e0dbc3af5d0ba419948f12d9dae32": {
       "title": "Ontwikkelingen en beleidsaccenten Begroting 2027",
@@ -80644,7 +80688,7 @@
       "kw_sig": "4f53cda18c2b|2a6770db54ba8ec0aaa5202a224b2f550682eba2ec7fe7c87ac1edd09378b244|Ontwikkelingen en beleidsaccenten Begroting 2027|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "2a6770db54ba8ec0aaa5202a224b2f550682eba2ec7fe7c87ac1edd09378b244",
-      "content_checked": "2026-11-27T12:17:05+00:00"
+      "content_checked": "2026-11-28T12:32:45+00:00"
     },
     "f34ee0f443f7263792e59b7b324be4b6570e6c1358532789800e95aa86494796": {
       "title": "Technische vragen FvD",
@@ -80674,7 +80718,7 @@
       "kw_sig": "4f53cda18c2b|f574c03bf01d28bf9cdf8668d420f455dadb5c3d64d11a68e12d6202363edf1d|Technische vragen FvD|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "f574c03bf01d28bf9cdf8668d420f455dadb5c3d64d11a68e12d6202363edf1d",
-      "content_checked": "2026-11-27T12:17:06+00:00"
+      "content_checked": "2026-11-28T12:32:45+00:00"
     },
     "93ce792d0e082b77f0c5f435850c6f541151a64df60eb7e05ae7361772848766": {
       "title": "Technische vragen HvH",
@@ -80704,7 +80748,7 @@
       "kw_sig": "4f53cda18c2b|3619abff750203283755fc463260d05a1e7470c1c9db204b9b55d34495eadec3|Technische vragen HvH|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "3619abff750203283755fc463260d05a1e7470c1c9db204b9b55d34495eadec3",
-      "content_checked": "2026-11-27T12:17:07+00:00"
+      "content_checked": "2026-11-28T12:32:46+00:00"
     },
     "1c722b913fb28df166bbbb36cbce6753e7e0ee629e34fa635b522450cbd56088": {
       "title": "Technische vragen EénHoorn",
@@ -80734,7 +80778,7 @@
       "kw_sig": "4f53cda18c2b|168f528e6bffc783257f66605d17b2849f71c82aca0d4d03abaf2b8766b415f7|Technische vragen EénHoorn|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "168f528e6bffc783257f66605d17b2849f71c82aca0d4d03abaf2b8766b415f7",
-      "content_checked": "2026-11-27T12:17:07+00:00"
+      "content_checked": "2026-11-28T12:32:46+00:00"
     },
     "a0cea9d7987cf8669c8bbe7e729760e0a1963353f7fc0f8df0b9153b61f2f3fd": {
       "title": "Technische vragen D66",
@@ -80764,7 +80808,7 @@
       "kw_sig": "4f53cda18c2b|1288c64f28ace3ab522303b6f155620b0e2a014fe5bddf97b9124e0855805436|Technische vragen D66|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "1288c64f28ace3ab522303b6f155620b0e2a014fe5bddf97b9124e0855805436",
-      "content_checked": "2026-11-27T12:31:16+00:00"
+      "content_checked": "2026-11-28T12:32:48+00:00"
     },
     "f9b8ab826848d51c1a9ab3a0934f3a86db18efb8356931f673f42a665c64c181": {
       "title": "Technische vragen Hoorn Centraal",
@@ -80794,7 +80838,7 @@
       "kw_sig": "4f53cda18c2b|1599e98431d8a90631b8f7834fe5d6731a8f7ebca08378055e3b1a0e75750ca3|Technische vragen Hoorn Centraal|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "1599e98431d8a90631b8f7834fe5d6731a8f7ebca08378055e3b1a0e75750ca3",
-      "content_checked": "2026-11-27T12:31:16+00:00"
+      "content_checked": "2026-11-28T12:32:48+00:00"
     },
     "92032c039dc93fc3c48440ebd92834d99cec6d0e16e048277c5e031e40085b61": {
       "title": "Technische vragen Hoorn Lokaal",
@@ -80824,7 +80868,7 @@
       "kw_sig": "4f53cda18c2b|ce442f86633c2bed68f4cdd590306801a675f9a90b8aab6725647fab6455cf4c|Technische vragen Hoorn Lokaal|Gemeenteraad dinsdag 3 november 2026 · agendapunt 3.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "ce442f86633c2bed68f4cdd590306801a675f9a90b8aab6725647fab6455cf4c",
-      "content_checked": "2026-11-27T12:31:17+00:00"
+      "content_checked": "2026-11-28T12:32:48+00:00"
     },
     "7386062d8d06b1a585c732fedafea68e22c19769092548cbf537c548e9304e00": {
       "title": "Technische vragen PRO",
@@ -81231,7 +81275,7 @@
       "kw_sig": "4f53cda18c2b||Werkversie Begroting 2027 ( aangepaste versie)|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Werkversie Begroting 2027 ( aangepaste versie).pdf\"; filename*=UTF-8''Werkversie%20Begroting%202027%20%28%20aangepaste%20versie%29.pdf|04038152d7ce484b905d020b3836bc917b32c419124bd8ec4fddc92566ae7b35",
-      "content_checked": "2026-11-27T12:16:16+00:00"
+      "content_checked": "2026-11-28T12:31:22+00:00"
     },
     "56c9fbce5550792fa0e0c83ea543a7cffb9c74aa6900eee87214edc219206204": {
       "title": "Ontwikkelingen en beleidsaccenten Begroting 2027",
@@ -81261,7 +81305,7 @@
       "kw_sig": "4f53cda18c2b|2a6770db54ba8ec0aaa5202a224b2f550682eba2ec7fe7c87ac1edd09378b244|Ontwikkelingen en beleidsaccenten Begroting 2027|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "2a6770db54ba8ec0aaa5202a224b2f550682eba2ec7fe7c87ac1edd09378b244",
-      "content_checked": "2026-11-27T12:16:17+00:00"
+      "content_checked": "2026-11-28T12:31:24+00:00"
     },
     "bb7361cc083fcfb2b2774b60180849c0750070b30b61a6078084d8d44fa3fd0b": {
       "title": "Technische vragen HvH",
@@ -81291,7 +81335,7 @@
       "kw_sig": "4f53cda18c2b|5984dd3eb0ac0a52bd2ec4712d78ee8aefafa229badb43a5200241a62454d1b2|Technische vragen HvH|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "5984dd3eb0ac0a52bd2ec4712d78ee8aefafa229badb43a5200241a62454d1b2",
-      "content_checked": "2026-11-27T12:16:18+00:00"
+      "content_checked": "2026-11-28T12:31:25+00:00"
     },
     "4c066789c91e07a1528629f53a06fff3efae996b866729a648e974ee5330b50b": {
       "title": "Technische vragen FvD",
@@ -81321,7 +81365,7 @@
       "kw_sig": "4f53cda18c2b|b64539577a72bf7c1897430ed6c537bdf6861a8e41c3f7591e03c7c382e783cb|Technische vragen FvD|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "b64539577a72bf7c1897430ed6c537bdf6861a8e41c3f7591e03c7c382e783cb",
-      "content_checked": "2026-11-27T12:16:20+00:00"
+      "content_checked": "2026-11-28T12:31:26+00:00"
     },
     "b53e5448114d6815e0540e5864294c11c9ccc7f83ffe6cdbb102ec5628d47b43": {
       "title": "Technische vragen EénHoorn",
@@ -81351,7 +81395,7 @@
       "kw_sig": "4f53cda18c2b|168f528e6bffc783257f66605d17b2849f71c82aca0d4d03abaf2b8766b415f7|Technische vragen EénHoorn|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "168f528e6bffc783257f66605d17b2849f71c82aca0d4d03abaf2b8766b415f7",
-      "content_checked": "2026-11-27T12:16:21+00:00"
+      "content_checked": "2026-11-28T12:31:27+00:00"
     },
     "896162759b704aefbe9c322ca929393756532551eee4597d7c66db96c137d92a": {
       "title": "Technische vragen D66",
@@ -81381,7 +81425,7 @@
       "kw_sig": "4f53cda18c2b|1288c64f28ace3ab522303b6f155620b0e2a014fe5bddf97b9124e0855805436|Technische vragen D66|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "1288c64f28ace3ab522303b6f155620b0e2a014fe5bddf97b9124e0855805436",
-      "content_checked": "2026-11-27T12:16:21+00:00"
+      "content_checked": "2026-11-28T12:31:28+00:00"
     },
     "14793726b3124fa152c535a109a63eb4a861ab51976e43de418b880bbf7a9d5f": {
       "title": "Technische vragen Hoorn Lokaal",
@@ -81411,7 +81455,7 @@
       "kw_sig": "4f53cda18c2b|ce442f86633c2bed68f4cdd590306801a675f9a90b8aab6725647fab6455cf4c|Technische vragen Hoorn Lokaal|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "ce442f86633c2bed68f4cdd590306801a675f9a90b8aab6725647fab6455cf4c",
-      "content_checked": "2026-11-27T12:16:22+00:00"
+      "content_checked": "2026-11-28T12:31:28+00:00"
     },
     "f66bbe48d14b28567609990b7ccd45bceef87a43f6c3a8d735214fbf2a1c4ba7": {
       "title": "Technische vragen Hoorn Centraal",
@@ -81441,7 +81485,7 @@
       "kw_sig": "4f53cda18c2b|2d03acceafaf71d234fcad4079db621f0aa81793b4b5089dc43978f6a85c7a5c|Technische vragen Hoorn Centraal|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "2d03acceafaf71d234fcad4079db621f0aa81793b4b5089dc43978f6a85c7a5c",
-      "content_checked": "2026-11-27T12:16:23+00:00"
+      "content_checked": "2026-11-28T12:31:29+00:00"
     },
     "0a8694cb192664f821a9e2f5fddc705b20a808180d1b5eae50d5c20cef18161f": {
       "title": "Technische vragen PRO",
@@ -81471,7 +81515,7 @@
       "kw_sig": "4f53cda18c2b|2a7d0c001eccd02a70a96f4b661ffe0aca88e51c97d2c3ed2d90812435351104|Technische vragen PRO|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "2a7d0c001eccd02a70a96f4b661ffe0aca88e51c97d2c3ed2d90812435351104",
-      "content_checked": "2026-11-27T12:16:23+00:00"
+      "content_checked": "2026-11-28T12:31:30+00:00"
     },
     "955f74b7c16fd780929ac8698d84a6c4eccb8642457b2ff007c693d37755fe6f": {
       "title": "Technische vragen Sociaal Hoorn/Team Tonnaer",
@@ -81501,7 +81545,7 @@
       "kw_sig": "4f53cda18c2b|fb4d991d187f7bfc59b62198221b38d6b4e0f5f9b37d47b2a928c46116a5eeed|Technische vragen Sociaal Hoorn/Team Tonnaer|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "fb4d991d187f7bfc59b62198221b38d6b4e0f5f9b37d47b2a928c46116a5eeed",
-      "content_checked": "2026-11-27T12:16:24+00:00"
+      "content_checked": "2026-11-28T12:31:31+00:00"
     },
     "8abfc2418e29ceedb3bb761bdcbb6cb1efb28e712815f739b39a65a0058b929e": {
       "title": "Technische vragen CDA Hoorn",
@@ -81531,7 +81575,7 @@
       "kw_sig": "4f53cda18c2b|1b0e277ca1543f5dcc4b49984e21fea1f84daad2e8b1b25baef386ae6be2b28d|Technische vragen CDA Hoorn|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "1b0e277ca1543f5dcc4b49984e21fea1f84daad2e8b1b25baef386ae6be2b28d",
-      "content_checked": "2026-11-27T12:16:25+00:00"
+      "content_checked": "2026-11-28T12:31:32+00:00"
     },
     "33188b3539839be9449e01ddd768990630554f2a91613da5b7114fc3c26a1a92": {
       "title": "Technische vragen Partij voor de Dieren",
@@ -81561,7 +81605,7 @@
       "kw_sig": "4f53cda18c2b|91b6120c100d1cfbd1f46c7463424a289a3d8f0cda1de9f2fd4e736cf8180072|Technische vragen Partij voor de Dieren|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "91b6120c100d1cfbd1f46c7463424a289a3d8f0cda1de9f2fd4e736cf8180072",
-      "content_checked": "2026-11-27T12:16:26+00:00"
+      "content_checked": "2026-11-28T12:31:33+00:00"
     },
     "42a5c82592c36511a69ae12abe40b6ca306937be527422a96d8cbe235e1939d8": {
       "title": "1e beantwoording technische vragen PB",
@@ -81591,7 +81635,7 @@
       "kw_sig": "4f53cda18c2b|29621369d68ebc9e4a6ae2429527ae0978c76724c31f6541b4dcb3b0694e41a7|1e beantwoording technische vragen PB|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "29621369d68ebc9e4a6ae2429527ae0978c76724c31f6541b4dcb3b0694e41a7",
-      "content_checked": "2026-11-27T12:16:27+00:00"
+      "content_checked": "2026-11-28T12:31:35+00:00"
     },
     "55857e32e9ce4af63712f7504ae7e4a8474f42d3ff6d247a82d1ae374e70d844": {
       "title": "2e beantwoording technische vragen PB",
@@ -81621,7 +81665,7 @@
       "kw_sig": "4f53cda18c2b|ca66097043962fc5e55fb85916b45464f309f61712b7e5834b3fde4fead0bce9|2e beantwoording technische vragen PB|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "ca66097043962fc5e55fb85916b45464f309f61712b7e5834b3fde4fead0bce9",
-      "content_checked": "2026-11-27T12:16:31+00:00"
+      "content_checked": "2026-11-28T12:31:39+00:00"
     },
     "e6c574c86327963fec923ae459674d930cc44c7eb511e5313f8270a60b30a9f6": {
       "title": "3e beantwoording technische vragen PB",
@@ -81651,7 +81695,7 @@
       "kw_sig": "4f53cda18c2b|830be2a46550f378505d854ec93b6d039fd685053f38cbee46599895abf34a7b|3e beantwoording technische vragen PB|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "830be2a46550f378505d854ec93b6d039fd685053f38cbee46599895abf34a7b",
-      "content_checked": "2026-11-27T12:16:33+00:00"
+      "content_checked": "2026-11-28T12:31:43+00:00"
     },
     "0ee4854dc0a84108b62b9398354da05337a5d6d6f15a01502b5f6f135eba731c": {
       "title": "Beantwoording laatste technische vragen Begroting 2027",
@@ -81681,7 +81725,7 @@
       "kw_sig": "4f53cda18c2b|cef449dea353c2ba07ac9b1e5776db103f3f3e414c4d90970795093558c71a8c|Beantwoording laatste technische vragen Begroting 2027|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "text_hash": "cef449dea353c2ba07ac9b1e5776db103f3f3e414c4d90970795093558c71a8c",
-      "content_checked": "2026-11-27T12:16:35+00:00"
+      "content_checked": "2026-11-28T12:31:45+00:00"
     },
     "f5e16f123e4896b487ee5e5e4162bad2a1bfc5af2b2911765707deeed70df686": {
       "title": "Reactie van het college op moties en amendementen",
@@ -81711,7 +81755,7 @@
       "kw_sig": "4f53cda18c2b||Reactie van het college op moties en amendementen|Gemeenteraad dinsdag 10 november 2026 · agendapunt 2.1 Programmabegroting 2027 vaststellen",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Raadsbrief college moties en amendementen.pdf\"; filename*=UTF-8''Raadsbrief%20college%20moties%20en%20amendementen.pdf|c4d03d6d50324854c6672dcfaf8e3ccdc4b0ef7072eebfab27bf9a0a1789817a",
-      "content_checked": "2026-11-27T12:16:39+00:00"
+      "content_checked": "2026-11-28T12:31:49+00:00"
     },
     "7f045c66c2e6d06e160f0821fc43b06af9776158253ee0409e5b60af648b43e1": {
       "title": "Algemene Raadscommissie dinsdag 1 december 2026",
@@ -93200,14 +93244,14 @@
   "status": {
     "hoorn": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "ok": true,
         "count": 167,
         "new": 0,
         "note": "Laatste 30 dagen: 167 van 167 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-28T12:15:54+00:00",
+        "checked": "2026-11-28T12:31:01+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -93215,7 +93259,7 @@
         "note": "10 van 10 vergaderingen in venster bijgewerkt; 385 documenten bekend. Dekking: vergaderingen van 2026-09-29 t/m 2027-01-12 (Gemeenteraad, Algemene Raadscommissie). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-28T12:16:07+00:00",
+        "checked": "2026-11-28T12:31:18+00:00",
         "ok": true,
         "count": 491,
         "new": 0,
@@ -93223,14 +93267,14 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Besluitenlijst B&W 619, Brieven College 3024, Toezeggingen 1466, Amendementen 563, Artikel 36 vragen 1050, Moties 805, Overige acties raad 223, Overige vragen raad 428, Belangrijke documenten 57, Interne regelingen Raad en Commissies 20, Verkiezingen 2026 21). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-28T12:16:07+00:00",
+        "checked": "2026-11-28T12:31:19+00:00",
         "ok": true,
         "count": 25,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 25 nieuwste berichten. Oudere berichten niet."
       },
       "In de media": {
-        "checked": "2026-11-28T12:16:07+00:00",
+        "checked": "2026-11-28T12:31:19+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
@@ -93245,25 +93289,25 @@
         "note": "open.overheid.nl (Woo-publicaties, laatste 45 dagen): alles wat de drie gemeenten openbaar maken, plus documenten van andere overheden met een van de plaatsen in titel of omschrijving. Eén keer per uur."
       },
       "Termijn raadsvragen": {
-        "checked": "2026-11-28T12:16:07+00:00",
+        "checked": "2026-11-28T12:31:19+00:00",
         "ok": true,
         "count": 0,
         "note": "0 raadsvragen staan langer open dan de termijn uit het reglement van orde (Medemblik en Opmeer: 30 dagen). Een uitstelbericht aan de vragensteller is in het portaal niet te zien."
       },
       "Documentcontrole": {
-        "checked": "2026-11-28T12:18:00+00:00",
+        "checked": "2026-11-28T12:32:48+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (3 pdf), 1027 gevolgd (alle gemeenten), 1 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (38 pdf), 1027 gevolgd (alle gemeenten), 2 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-28T12:18:00+00:00",
+        "checked": "2026-11-28T12:32:49+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-28T12:18:00+00:00",
+        "checked": "2026-11-28T12:32:49+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -93280,7 +93324,7 @@
     },
     "meetings": {
       "8838137f-a333-4e3d-b2ca-e846418439ea": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-10",
@@ -93314,7 +93358,7 @@
         ]
       },
       "a0bcc86f-2052-430e-a202-05864f315788": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-12-08",
@@ -93331,7 +93375,7 @@
         ]
       },
       "86612cd4-d721-45cf-94fd-802676a5140e": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -93345,7 +93389,7 @@
         ]
       },
       "137056ad-d577-4e3e-b217-e13d1661d1cc": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-11-03",
@@ -93361,7 +93405,7 @@
         ]
       },
       "2e674e07-8100-4b2e-89de-13928875c84c": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Gemeenteraad",
         "date": "2026-10-20",
@@ -93453,7 +93497,7 @@
         "label": "dinsdag 10 februari 2026"
       },
       "645769fa-56bc-4288-8821-e7b0cddd1560": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-12-01",
@@ -93474,7 +93518,7 @@
         ]
       },
       "4230f3bf-89f2-4f83-a5e6-74397b590baa": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-24",
@@ -93494,7 +93538,7 @@
         ]
       },
       "bc294305-3458-43e7-a923-0ce82d1ac2f3": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-11-17",
@@ -93515,7 +93559,7 @@
         ]
       },
       "894a0935-bc4d-4f60-8128-2cd4ec49e44c": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-06",
@@ -93539,7 +93583,7 @@
         ]
       },
       "f3c5b127-a3f4-44bd-b540-d6a26d934a46": {
-        "checked": "2026-11-28T12:15:31+00:00",
+        "checked": "2026-11-28T12:30:40+00:00",
         "gemeente": "hoorn",
         "type": "Algemene Raadscommissie",
         "date": "2026-10-01",
@@ -93610,7 +93654,7 @@
       }
     },
     "meetings_listed": {
-      "hoorn": "2026-11-28T12:00:56+00:00"
+      "hoorn": "2026-11-28T12:30:43+00:00"
     },
     "reports": {
       "hoorn": {
